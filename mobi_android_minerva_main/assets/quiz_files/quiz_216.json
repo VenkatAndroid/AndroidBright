@@ -1,0 +1,223 @@
+{
+  "quizId": 216,
+  "name": "Problem Set C (GMAT MATH)",
+  "description": "",
+  "questions": [
+    {
+      "text": " A function \u0026#x002A; is defined for all even positive integers \u003cem\u003en\u003c/em\u003e as the number of even factors of \u003cem\u003en\u003c/em\u003e other than \u003cem\u003en\u003c/em\u003e itself. What is the value of \u0026#x002A;(48) ?",
+      "orderNum": 1,
+      "questionOrderNum": 1,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2974,
+      "count": 5,
+      "solution": " 48 \u0026#x003D; 2 \u0026#x00B7; 2 \u0026#x00B7; 2 \u0026#x00B7; 2 \u0026#x00B7; 3. The even factors of 48 are\u003cimg src\u003d\"9781889057705_25-png\" alt\u003d\"\"/\u003eNot counting the last factor (48 itself), the total number of factors is 7. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 16569,
+          "orderNum": 1,
+          "text": " 3",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16570,
+          "orderNum": 2,
+          "text": " 5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16571,
+          "orderNum": 3,
+          "text": " 6",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16572,
+          "orderNum": 4,
+          "text": " 7",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16573,
+          "orderNum": 5,
+          "text": " 8",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " If \u003cem\u003eA\u003c/em\u003e \u0026#x002A; \u003cem\u003eB\u003c/em\u003e is the greatest common factor of \u003cem\u003eA\u003c/em\u003e and \u003cem\u003eB\u003c/em\u003e, \u003cem\u003eA\u003c/em\u003e \u0026#x0024; \u003cem\u003eB\u003c/em\u003e is defined as the least common multiple of \u003cem\u003eA\u003c/em\u003e and \u003cem\u003eB,\u003c/em\u003e and \u003cem\u003eA\u003c/em\u003e \u0026#x2229; \u003cem\u003eB\u003c/em\u003e is defined as equal to (\u003cem\u003eA\u0026#x002A;B\u003c/em\u003e) \u0026#x0024; (\u003cem\u003eA\u003c/em\u003e\u0026#x0024;\u003cem\u003eB\u003c/em\u003e), then what is the value of 12\u0026#x2229;15?",
+      "orderNum": 2,
+      "questionOrderNum": 2,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2975,
+      "count": 5,
+      "solution": " According to the definitions given, 12 \u0026#x2229; 15 equals (12\u0026#x002A;15) \u0026#x0024; (12 \u0026#x0024; 15) \u0026#x003D; (GCF of 12 and 15) \u0026#x0024; (LCM of 12 and 15) \u0026#x003D; 3 \u0026#x0024; 60 \u0026#x003D; LCM of 3 and 60 \u0026#x003D; 60. The answer is (E).",
+      "answers": [
+        {
+          "answerId": 16574,
+          "orderNum": 1,
+          "text": " 42",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16575,
+          "orderNum": 2,
+          "text": " 45",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16576,
+          "orderNum": 3,
+          "text": " 48",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16577,
+          "orderNum": 4,
+          "text": " 52",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16578,
+          "orderNum": 5,
+          "text": " 60",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " For any positive integer \u003cem\u003en,\u003c/em\u003e \u003cem\u003e\u0026#x03C0;\u003c/em\u003e(\u003cem\u003en\u003c/em\u003e) represents the number of factors of \u003cem\u003en,\u003c/em\u003e inclusive of 1 and itself. If \u003cem\u003ea\u003c/em\u003e and \u003cem\u003eb\u003c/em\u003e are unequal prime numbers, then \u003cem\u003e\u0026#x03C0;\u003c/em\u003e(\u003cem\u003ea\u003c/em\u003e) \u0026#x002B; \u003cem\u003e\u0026#x03C0;\u003c/em\u003e(\u003cem\u003eb\u003c/em\u003e) \u0026#x2212; \u003cem\u003e\u0026#x03C0;\u003c/em\u003e(\u003cem\u003ea\u003c/em\u003e \u0026#x00D7; \u003cem\u003eb\u003c/em\u003e) \u003d",
+      "orderNum": 3,
+      "questionOrderNum": 3,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2976,
+      "count": 5,
+      "solution": " The only factors of a prime number are 1 and itself. Hence, \u0026#x03C0;(any prime number) \u0026#x003D; 2. So, \u003cem\u003e\u0026#x03C0;\u003c/em\u003e(a) \u0026#x003D; 2 and \u0026#x03C0;(\u003cem\u003eb\u003c/em\u003e) \u0026#x003D; 2, and therefore \u0026#x03C0;(\u003cem\u003ea\u003c/em\u003e) \u0026#x002B; \u0026#x03C0;(\u003cem\u003eb\u003c/em\u003e) \u0026#x003D; 2 \u0026#x002B; 2 \u0026#x003D; 4.Now, the factors of \u003cem\u003eab\u003c/em\u003e are 1, \u003cem\u003ea, b,\u003c/em\u003e and \u003cem\u003eab\u003c/em\u003e itself. Hence, the total number of factors of \u003cem\u003ea\u003c/em\u003e \u0026#x00D7; \u003cem\u003eb\u003c/em\u003e is 4. In other words, \u0026#x03C0;(\u003cem\u003ea\u003c/em\u003e \u0026#x00D7; \u003cem\u003eb\u003c/em\u003e) \u0026#x003D; 4.Hence, \u0026#x03C0;(\u003cem\u003ea\u003c/em\u003e) \u0026#x002B; \u0026#x03C0;(\u003cem\u003eb\u003c/em\u003e) \u0026#x2212; \u0026#x03C0;(\u003cem\u003ea\u003c/em\u003e \u0026#x00D7; \u003cem\u003eb\u003c/em\u003e) \u003d4 \u0026#x2212; 4 \u0026#x003D; 0. The answer is (C).",
+      "answers": [
+        {
+          "answerId": 16579,
+          "orderNum": 1,
+          "text": " \u0026#x2212;4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16580,
+          "orderNum": 2,
+          "text": " \u0026#x2212;2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16581,
+          "orderNum": 3,
+          "text": " 0",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16582,
+          "orderNum": 4,
+          "text": "2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16583,
+          "orderNum": 5,
+          "text": " 4",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " The function \u0026#x0394;(\u003cem\u003em\u003c/em\u003e) is defined for all positive integers \u003cem\u003em\u003c/em\u003e as the product of \u003cem\u003em\u003c/em\u003e \u0026#x002B; 4, \u003cem\u003em\u003c/em\u003e \u0026#x002B; 5, and \u003cem\u003em\u003c/em\u003e \u0026#x002B; 6. If \u003cem\u003en\u003c/em\u003e is a positive integer, then \u0026#x0394; A(n) must be divisible by which one of the following numbers?",
+      "orderNum": 4,
+      "questionOrderNum": 4,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2977,
+      "count": 5,
+      "solution": " By the given definition, \u0026#x0394;(\u003cem\u003en\u003c/em\u003e) \u0026#x003D; (\u003cem\u003en\u003c/em\u003e \u0026#x002B; 4)(\u003cem\u003en\u003c/em\u003e \u0026#x002B; 5)(\u003cem\u003en\u003c/em\u003e \u0026#x002B; 6), a product of three consecutive integers. There is exactly one multiple of 3 in every three consecutive positive integers. Also, at least one of the three numbers must be an even number. Hence, \u0026#x0394;(\u003cem\u003en\u003c/em\u003e) must be a multiple of both 2 and 3. Hence, \u0026#x0394;(\u003cem\u003en\u003c/em\u003e) must be a multiple of 6 (\u003d 2 \u0026#x00D7; 3), because 2 and 3 are primes. The answer is (C).",
+      "answers": [
+        {
+          "answerId": 16584,
+          "orderNum": 1,
+          "text": " 4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 29288,
+          "orderNum": 2,
+          "text": "5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 29289,
+          "orderNum": 3,
+          "text": "6",
+          "result": "Correct"
+        },
+        {
+          "answerId": 29290,
+          "orderNum": 4,
+          "text": "7",
+          "result": "INCORRECT"
+        },
+        {
+          "answerId": 16585,
+          "orderNum": 5,
+          "text": " 11",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " Define \u003cem\u003ex\u003c/em\u003e\u0026#x002A; by the equation \u003cem\u003ex\u003c/em\u003e\u0026#x002A; \u0026#x003D; \u003cem\u003e\u0026#x03C0;\u003c/em\u003e/\u003cem\u003ex\u003c/em\u003e Then ((-\u003cem\u003e\u0026#x03C0;\u003c/em\u003e)\u0026#x002A;)\u0026#x002A; \u003d",
+      "orderNum": 5,
+      "questionOrderNum": 5,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2978,
+      "count": 5,
+      "solution": "Working from the inner parentheses out, we get\u003c/p\u003e\u003cimg src\u003d\"9781889057705_25-2.png\" alt\u003d\"\"/\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eThe answer is (C).\u003c/p\u003e\n\u003cp class\u003d\"extract\"\u003eMethod II:\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eWe can rewrite this problem using ordinary function notation. Replacing the odd symbol \u003cem\u003ex\u003c/em\u003e* with \u003cem\u003ef\u003c/em\u003e(\u003cem\u003ex\u003c/em\u003e) gives \u003cem\u003ef\u003c/em\u003e(\u003cem\u003ex\u003c/em\u003e) \u0026#x003D; \u003cem\u003e\u0026#x03C0;\u003c/em\u003e/\u003cem\u003ex\u003c/em\u003e Now, the expression ((\u0026#x2212;\u0026#x03C0;)*)* becomes the ordinary composite function\u003c/p\u003e\u003cimg src\u003d\"9781889057705_25-3.png\" alt\u003d\"\"/\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eThe answer is (C).",
+      "answers": [
+        {
+          "answerId": 16586,
+          "orderNum": 1,
+          "text": " \u0026#x2212;1/\u0026#x03C0;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16587,
+          "orderNum": 2,
+          "text": " \u0026#x2212;1/2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16588,
+          "orderNum": 3,
+          "text": " \u0026#x2212;\u0026#x03C0;",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16589,
+          "orderNum": 4,
+          "text": " 1/\u0026#x03C0;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16590,
+          "orderNum": 5,
+          "text": " \u0026#x03C0;",
+          "result": "Wrong"
+        }
+      ]
+    }
+  ],
+  "applications": []
+}

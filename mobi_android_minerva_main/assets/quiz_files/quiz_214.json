@@ -1,0 +1,309 @@
+{
+  "quizId": 214,
+  "name": "Problem Set A (GMAT MATH)",
+  "description": " Solve the following problems by using substitution.",
+  "questions": [
+    {
+      "text": " By how much is the greatest of five consecutive even integers greater than the smallest among them?",
+      "orderNum": 1,
+      "questionOrderNum": 1,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2962,
+      "count": 5,
+      "solution": " Choose any 5 consecutive even integers \u0026#x2014;say\u0026#x2014;2, 4, 6, 8, 10. The largest in this group is 10, and the smallest is 2. Their difference is 10 \u0026#x2212; 2 \u0026#x003D; 8. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 16508,
+          "orderNum": 1,
+          "text": " 1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16509,
+          "orderNum": 2,
+          "text": " 2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16510,
+          "orderNum": 3,
+          "text": " 4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16511,
+          "orderNum": 4,
+          "text": " 8",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16512,
+          "orderNum": 5,
+          "text": " 10\u003cbr/\u003e\u003cbr/\u003e",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " Which one of the following could be an integer?",
+      "orderNum": 2,
+      "questionOrderNum": 2,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2963,
+      "count": 5,
+      "solution": " Choose any three consecutive integers, say, 1, 2, and 3. Forming their average yields \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_16-1.png\" alt\u003d\"\"/\u003e.Since 2 is an integer, the answer is (B)\u003cp class\u003d\"extract\"\u003eMethod II (without substitution):Choice (A): Let \u003cem\u003ea\u003c/em\u003e and \u003cem\u003ea\u003c/em\u003e \u0026#x002B; 1 be the consecutive integers. The average of the two is \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_16-png\" alt\u003d\"\"/\u003e, certainly not an integer since \u003cem\u003ea\u003c/em\u003e is an integer. Reject.\u003cbr\u003eChoice (B): Let \u003cem\u003ea\u003c/em\u003e, \u003cem\u003ea\u003c/em\u003e \u0026#x002B; 1, and \u003cem\u003ea\u003c/em\u003e \u0026#x002B; 2 be the three consecutive integers. The average of the three numbers is \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_16-3.png\" alt\u003d\"\"/\u003e, certainly an integer since a is an integer. Correct.Choice (C): Let \u003cem\u003ea\u003c/em\u003e, \u003cem\u003ea\u003c/em\u003e+ 1, \u003cem\u003ea\u003c/em\u003e \u0026#x002B; 2, and \u003cem\u003ea\u003c/em\u003e \u0026#x002B; 3 be the four consecutive integers. The average of the four numbers is\u003cimg class\u003d\"mid\" src\u003d\"9781889057705_16-4.png\" alt\u003d\"\"/\u003e, certainly not an integer since a is an integer. Reject.Choice (D): Let \u003cem\u003ea\u003c/em\u003e, \u003cem\u003ea\u003c/em\u003e \u0026#x002B; 1, \u003cem\u003ea\u003c/em\u003e \u0026#x002B; 2, \u003cem\u003ea\u003c/em\u003e \u0026#x002B; 3, \u003cem\u003ea\u003c/em\u003e \u0026#x002B; 4, and \u003cem\u003ea\u003c/em\u003e \u0026#x002B; 5 be the six consecutive integers. The average of the six numbers is \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_16-5.png\" alt\u003d\"\"/\u003e, certainly not an integer since \u003cem\u003ea\u003c/em\u003e is an integer. Reject.Choice (E): The average of 6 and 9 is \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_16-6.png\" alt\u003d\"\"/\u003e, not an integer. Reject.The answer is (B).",
+      "answers": [
+        {
+          "answerId": 16513,
+          "orderNum": 1,
+          "text": " Average of two consecutive integers.",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16514,
+          "orderNum": 2,
+          "text": " Average of three consecutive integers.",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16515,
+          "orderNum": 3,
+          "text": " Average of four consecutive integers.",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16516,
+          "orderNum": 4,
+          "text": " Average of six consecutive integers.",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16517,
+          "orderNum": 5,
+          "text": " Average of 6 and 9.",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " (The average of five consecutive integers starting from \u003cem\u003em) -\u003c/em\u003e (the average of six consecutive integers starting from \u003cem\u003em) \u003d\u003c/em\u003e",
+      "orderNum": 3,
+      "questionOrderNum": 3,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2964,
+      "count": 5,
+      "solution": " Choose any five consecutive integers, say, \u0026#x2212;2, \u0026#x2212;1, 0, 1 and 2. (We chose these particular numbers to make the calculation as easy as possible. But any five consecutive integers will do. For example, 1, 2, 3, 4, and 5.) Forming the average yields (\u0026#x2212;1 \u0026#x002B; (\u0026#x2212;2) \u0026#x002B; 0 \u0026#x002B; 1 \u0026#x002B; 2)/5 \u0026#x003D; 0/5 \u0026#x003D; 0. Now, add 3 to the set to form 6 consecutive integers: \u0026#x2212;2, \u0026#x2212;1, 0, 1,2, and  Forming the average yields\u003cimg class\u003d\"mid\" src\u003d\"9781889057705_16-7.png\" alt\u003d\"\"/\u003e(The average of five consecutive integers starting from \u003cem\u003em\u003c/em\u003e) - (The average of six consecutive integers starting from \u003cem\u003em\u003c/em\u003e) \u0026#x003D; (0) - (1/2) \u0026#x003D; \u0026#x2212;1/2.The answer is (B)Method II (without substitution):The five consecutive integers starting from \u003cem\u003em\u003c/em\u003e are \u003cem\u003em, m\u003c/em\u003e \u0026#x002B; 1, \u003cem\u003em\u003c/em\u003e \u0026#x002B; 2, \u003cem\u003em\u003c/em\u003e \u0026#x002B; 3, and \u003cem\u003em\u003c/em\u003e \u0026#x002B; 4. The average of the five numbers equals\u003cp class\u003d\"center\"\u003e\u003cimg class\u003d\"mid\" src\u003d\"9781889057705_17-1.png\" alt\u003d\"\"/\u003eThe average of six consecutive integers starting from \u003cem\u003em\u003c/em\u003e are \u003cem\u003em\u003c/em\u003e, \u003cem\u003em\u003c/em\u003e \u0026#x002B; 1, \u003cem\u003em\u003c/em\u003e \u0026#x002B; 2, \u003cem\u003em\u003c/em\u003e \u0026#x002B; 3, \u003cem\u003em\u003c/em\u003e \u0026#x002B; 4, and \u003cem\u003em\u003c/em\u003e \u0026#x002B; 5. The average of the six numbers equals\u003cp class\u003d\"center\"\u003e\u003cimg class\u003d\"mid\" src\u003d\"9781889057705_17-2.png\" alt\u003d\"\"/\u003e(The average of five consecutive integers starting from \u003cem\u003em\u003c/em\u003e) - (The average of six consecutive integers starting from \u003cem\u003em\u003c/em\u003e) \u0026#x003D; (\u003cem\u003em\u003c/em\u003e+2)- [(\u003cem\u003em\u003c/em\u003e \u0026#x002B; 2) \u0026#x002B; 1/2] \u0026#x003D; \u0026#x2212;1/2.The answer is (B).",
+      "answers": [
+        {
+          "answerId": 16518,
+          "orderNum": 1,
+          "text": " \u0026#x2212;1/4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16519,
+          "orderNum": 2,
+          "text": " \u0026#x2212;1/2",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16520,
+          "orderNum": 3,
+          "text": " 0",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16521,
+          "orderNum": 4,
+          "text": " 1/2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16522,
+          "orderNum": 5,
+          "text": " 1/4",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " The remainder when the positive integer \u003cem\u003em\u003c/em\u003e is divided by \u003cem\u003en\u003c/em\u003e is \u003cem\u003er.\u003c/em\u003e What is the remainder when 2\u003cem\u003em\u003c/em\u003e is divided by 2\u003cem\u003en\u003c/em\u003e?",
+      "orderNum": 4,
+      "questionOrderNum": 4,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2965,
+      "count": 5,
+      "solution": " As a particular case, suppose \u003cem\u003em\u003c/em\u003e \u0026#x003D; 7 and \u003cem\u003en\u003c/em\u003e \u0026#x003D;  Then \u003cem\u003em\u003c/em\u003e/\u003cem\u003en\u003c/em\u003e \u0026#x003D; 7/4 \u0026#x003D; 1 \u0026#x002B; 3/ Here, the remainder \u003cem\u003er\u003c/em\u003e equals 3.Now, 2\u003cem\u003em\u003c/em\u003e \u0026#x003D; 2 \u0026#x00B7; 7 \u0026#x003D; 14 and 2\u003cem\u003en\u003c/em\u003e \u0026#x003D; 2 \u0026#x00B7; 4 \u0026#x003D; 8. Hence, 2\u003cem\u003em\u003c/em\u003e/2\u003cem\u003en\u003c/em\u003e \u0026#x003D; 14/8 \u0026#x003D; 1 \u0026#x002B; 6/8. Here, the remainder is 6. Now, let\u0026#x2019;s choose the answer-choice that equals 6.\u003cbr\u003eChoice (A): \u003cem\u003er \u003d\u003c/em\u003e 3 \u0026#x2260; 6. Reject.\u003cbr\u003eChoice (B): 2\u003cem\u003er\u003c/em\u003e \u0026#x003D; 2 \u0026#x00B7; 3 \u0026#x003D; 6. Possible answer.\u003cbr\u003eChoice (C): 2\u003cem\u003en\u003c/em\u003e \u0026#x003D; 2 \u0026#x00B7; 4 \u0026#x003D; 8 \u0026#x2260; 6. Reject.\u003cbr\u003eChoice (D): \u003cem\u003em\u003c/em\u003e\u0026#x2212;\u003cem\u003enr\u003c/em\u003e \u0026#x003D; 7\u0026#x2212;4 \u0026#x00B7; 3\u003d\u0026#x2212;5\u0026#x2260;6. Reject.\u003cbr\u003eChoice (E): 2(\u003cem\u003em\u003c/em\u003e \u0026#x2212; \u003cem\u003enr\u003c/em\u003e) \u0026#x003D; 2(7 \u0026#x2212; 4 \u0026#x00B7; 3) \u0026#x003D; 2(\u0026#x2212;5) \u0026#x003D; \u0026#x2212;10 \u0026#x2260; 6. Reject.Hence, the answer is (B)\u003cbr\u003eMethod II (without substitution):Since the remainder when \u003cem\u003em\u003c/em\u003e is divided by \u003cem\u003en\u003c/em\u003e is \u003cem\u003er\u003c/em\u003e, we can represent \u003cem\u003em\u003c/em\u003e as \u003cem\u003em\u003c/em\u003e \u0026#x003D; \u003cem\u003ekn\u003c/em\u003e \u0026#x002B; \u003cem\u003er\u003c/em\u003e, where \u003cem\u003ek\u003c/em\u003e is some integer. Now, 2\u003cem\u003em\u003c/em\u003e equals 2\u003cem\u003ekn\u003c/em\u003e \u0026#x002B; 1\u003cem\u003er\u003c/em\u003e. Hence, dividing 2\u003cem\u003em\u003c/em\u003e by 2\u003cem\u003en\u003c/em\u003e yields 2\u003cem\u003em\u003c/em\u003e/2\u003cem\u003en\u003c/em\u003e \u0026#x003D; (2\u003cem\u003ekn\u003c/em\u003e \u0026#x002B; 2\u003cem\u003er\u003c/em\u003e)/2\u003cem\u003en\u003c/em\u003e\u003d k \u0026#x002B; 2\u003cem\u003er\u003c/em\u003e/2\u003cem\u003en\u003c/em\u003e. Since we are dividing by \u003cem\u003e2n\u003c/em\u003e (not by \u003cem\u003en\u003c/em\u003e), the remainder when divided by 2\u003cem\u003en\u003c/em\u003e is 2\u003cem\u003er\u003c/em\u003e. The answer is (B).",
+      "answers": [
+        {
+          "answerId": 16523,
+          "orderNum": 1,
+          "text": " \u003cem\u003er\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16524,
+          "orderNum": 2,
+          "text": " 2\u003cem\u003er\u003c/em\u003e",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16525,
+          "orderNum": 3,
+          "text": " 2\u003cem\u003en\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16526,
+          "orderNum": 4,
+          "text": " \u003cem\u003em \u0026#x2212; nr\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16527,
+          "orderNum": 5,
+          "text": " 2(\u003cem\u003em \u0026#x2212; nr\u003c/em\u003e)",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " If 1 \u0026#x003C; \u003cem\u003ep\u003c/em\u003e \u0026#x003C; 3, then which of the following could be true?\u003cbr\u003e(I) \u003cem\u003ep\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003C; 2\u003cem\u003ep\u003c/em\u003e\u003cbr\u003e(II) \u003cem\u003ep\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; 2\u003cem\u003ep\u003c/em\u003e\u003cbr\u003e(III) \u003cem\u003ep\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003E; 2\u003cem\u003ep\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e",
+      "orderNum": 5,
+      "questionOrderNum": 5,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2966,
+      "count": 5,
+      "solution": " If \u003cem\u003ep\u003c/em\u003e \u0026#x003D; 3/2, then \u003cem\u003ep\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; (3/2)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; 9/4 \u0026#x003D; 2.25 and 2\u003cem\u003ep\u003c/em\u003e \u0026#x003D; 2 \u0026#x00B7; 3/2 \u0026#x003D; 3. Hence, \u003cem\u003ep\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003C; 2\u003cem\u003ep\u003c/em\u003e, I is true, and clearly II (\u003cem\u003ep\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; 2\u003cem\u003ep\u003c/em\u003e) and III (\u003cem\u003ep\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003E; 2\u003cem\u003ep\u003c/em\u003e) are both false. This is true for all 1 \u0026#x003C; \u003cem\u003ep\u003c/em\u003e \u0026#x003E; 2.If \u003cem\u003ep\u003c/em\u003e \u0026#x003D; 2, then \u003cem\u003ep\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; 2\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; 4 and 2\u003cem\u003ep\u003c/em\u003e \u0026#x003D; 2 \u0026#x00B7; 2 \u0026#x003D; 4. Hence, \u003cem\u003ep\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; 2\u003cem\u003ep\u003c/em\u003e, II is true, and clearly I (\u003cem\u003ep\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003C; 2\u003cem\u003ep\u003c/em\u003e) and III (\u003cem\u003ep\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003E; 2\u003cem\u003ep\u003c/em\u003e) are both false.If \u003cem\u003ep\u003c/em\u003e \u0026#x003D; 5/2, then \u003cem\u003ep\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; (5/2)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; 25/4 \u0026#x003D; 6.25 and 2\u003cem\u003ep\u003c/em\u003e \u0026#x003D; 2 \u0026#x00B7; 5/2 \u0026#x003D;  Hence,\u003cem\u003ep\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003E; 2\u003cem\u003ep\u003c/em\u003e, III is true, and clearly I (\u003cem\u003ep\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003C; 2\u003cem\u003ep\u003c/em\u003e)and II(\u003cem\u003ep\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; 2\u003cem\u003ep\u003c/em\u003e) are both false. This is true for any 2 \u0026#x003C; \u003cem\u003ep\u003c/em\u003e \u0026#x003C; 3.Hence, exactly one of the three choices I, II, and III is true simultaneously (for a given value of \u003cem\u003ep\u003c/em\u003e). The answer is (E).",
+      "answers": [
+        {
+          "answerId": 16528,
+          "orderNum": 1,
+          "text": " I only",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16529,
+          "orderNum": 2,
+          "text": " II only",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16530,
+          "orderNum": 3,
+          "text": " III only",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16531,
+          "orderNum": 4,
+          "text": " I and II only",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16532,
+          "orderNum": 5,
+          "text": " I, II, and III",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " If 42.42 \u0026#x003D; \u003cem\u003ek\u003c/em\u003e(14 \u0026#x002B; \u003cem\u003em\u003c/em\u003e/50), where \u003cem\u003ek\u003c/em\u003e and \u003cem\u003em\u003c/em\u003e are positive integers and \u003cem\u003em\u003c/em\u003e \u0026#x003E; 50, then what is the value of \u003cem\u003ek\u003c/em\u003e \u0026#x002B; \u003cem\u003em\u003c/em\u003e ?",
+      "orderNum": 6,
+      "questionOrderNum": 6,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2967,
+      "count": 5,
+      "solution": " We are given that \u003cem\u003ek\u003c/em\u003e is a positive integer and \u003cem\u003em\u003c/em\u003e is a positive integer less than 50. We are also given that 42.42 \u0026#x003D; \u003cem\u003ek\u003c/em\u003e(14 \u0026#x002B; \u003cem\u003em\u003c/em\u003e/50)Suppose \u003cem\u003ek\u003c/em\u003e \u0026#x003D; 1. Then \u003cem\u003ek\u003c/em\u003e(14 \u0026#x002B; \u003cem\u003em\u003c/em\u003e/50) \u0026#x003D; 14 \u0026#x002B; \u003cem\u003em\u003c/em\u003e/50 \u0026#x003D; 42.42. Solving for \u003cem\u003em\u003c/em\u003e yields \u003cem\u003em\u003c/em\u003e \u0026#x003D; 50(42.42 \u0026#x2212; 14) \u0026#x003D; 50 \u0026#x00D7; 28.42, which is not less than 50. Hence, \u003cem\u003ek\u003c/em\u003e \u0026#x2260; 1.Now, suppose \u003cem\u003ek\u003c/em\u003e \u0026#x003D; 2. Then \u003cem\u003ek\u003c/em\u003e(14 \u0026#x002B; \u003cem\u003em\u003c/em\u003e/50) \u0026#x003D; 2(14 \u0026#x002B; \u003cem\u003em\u003c/em\u003e/50) \u0026#x003D; 42.42, or (14 \u0026#x002B; \u003cem\u003em\u003c/em\u003e/50) \u0026#x003D; 21.21. Solving for \u003cem\u003em\u003c/em\u003e yields \u003cem\u003em\u003c/em\u003e \u0026#x003D; 50(21.21 \u0026#x2212; 14) \u0026#x003D; 50 \u0026#x00D7; 7.21, which is not less than 50. Hence, \u003cem\u003ek\u003c/em\u003e \u0026#x2260; 2.Now, suppose \u003cem\u003ek\u003c/em\u003e \u0026#x003D; 3. Then \u003cem\u003ek\u003c/em\u003e(14 \u0026#x002B; \u003cem\u003em\u003c/em\u003e/50) \u0026#x003D; 3(14 \u0026#x002B; \u003cem\u003em\u003c/em\u003e/50) \u0026#x003D; 42.42, or (14 \u0026#x002B; \u003cem\u003em\u003c/em\u003e/50) \u0026#x003D; 14.14. Solving for \u003cem\u003em\u003c/em\u003e yields \u003cem\u003em\u003c/em\u003e \u0026#x003D; 50(14.14 \u0026#x2212; 14) \u0026#x003D; 50 \u0026#x00D7; 0.14 \u0026#x003D; 7, which is less than 50. Hence, \u003cem\u003ek\u003c/em\u003e \u0026#x003D; 3 and \u003cem\u003em\u003c/em\u003e \u003d1 and \u003cem\u003ek\u003c/em\u003e \u0026#x002B; \u003cem\u003em\u003c/em\u003e \u0026#x003D; 3 \u0026#x002B; 7 \u0026#x003D; 10.The answer is (E).",
+      "answers": [
+        {
+          "answerId": 16533,
+          "orderNum": 1,
+          "text": " 6",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16534,
+          "orderNum": 2,
+          "text": " 7",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16535,
+          "orderNum": 3,
+          "text": " 8",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16536,
+          "orderNum": 4,
+          "text": " 9",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16537,
+          "orderNum": 5,
+          "text": " 10",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " If \u003cem\u003ep\u003c/em\u003e and \u003cem\u003eq\u003c/em\u003e are both positive integers such that \u003cem\u003ep\u003c/em\u003e/9 \u0026#x002B; \u003cem\u003eq\u003c/em\u003e/10 is also an integer, then which one of the following numbers could \u003cem\u003ep\u003c/em\u003e equal?",
+      "orderNum": 7,
+      "questionOrderNum": 7,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2968,
+      "count": 5,
+      "solution": "If \u003cem\u003ep\u003c/em\u003e is not divisible by 9 and \u003cem\u003eq\u003c/em\u003e is not divisible by 10, then \u003cem\u003ep\u003c/em\u003e/9 results in a non-terminating decimal and \u003cem\u003eq\u003c/em\u003e/10 results in a terminating decimal and the sum of the two would not result in an integer. [Because (a terminating decimal) \u0026#x002B; (a non-terminating decimal) is always a non-terminating decimal, and a non-terminating decimal is not an integer.]\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eSince we are given that the expression is an integer, \u003cem\u003ep\u003c/em\u003e must be divisible by 9.\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eFor example, if \u003cem\u003ep\u003c/em\u003e \u0026#x003D; 1 and \u003cem\u003eq\u003c/em\u003e \u0026#x003D; 10, the expression equals 1/9 \u0026#x002B; 10/10 \u0026#x003D; 1.11\u0026#x2026;, not an integer.\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eIf \u003cem\u003ep\u003c/em\u003e \u0026#x003D; 9 and \u003cem\u003eq\u003c/em\u003e \u0026#x003D; 5, the expression equals 9/9 \u0026#x002B; 5/10 \u0026#x003D; 1.5, not an integer.\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eIf \u003cem\u003ep\u003c/em\u003e \u0026#x003D; 9 and \u003cem\u003eq\u003c/em\u003e \u0026#x003D; 10, the expression equals 9/9 \u0026#x002B; 10/10 \u0026#x003D; 2, an integer.\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eIn short,\u003cem\u003ep\u003c/em\u003e must be a positive integer divisible by 9. The answer is (C).",
+      "answers": [
+        {
+          "answerId": 16538,
+          "orderNum": 1,
+          "text": " 3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16539,
+          "orderNum": 2,
+          "text": " 4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16540,
+          "orderNum": 3,
+          "text": " 9",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16541,
+          "orderNum": 4,
+          "text": " 11",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16542,
+          "orderNum": 5,
+          "text": " 19",
+          "result": "Wrong"
+        }
+      ]
+    }
+  ],
+  "applications": []
+}

@@ -1,0 +1,782 @@
+{
+  "quizId": 230,
+  "name": "Problem Set Q (GMAT MATH)",
+  "description": "",
+  "questions": [
+    {
+      "text": " Which one of the following must \u003cem\u003ep-q\u003c/em\u003e equal if 60\u0026#x0025; of \u003cem\u003em\u003c/em\u003e equals \u003cem\u003ep\u003c/em\u003e and 3/5 of \u003cem\u003em\u003c/em\u003e equals \u003cem\u003eq\u003c/em\u003e?",
+      "orderNum": 1,
+      "questionOrderNum": 1,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3205,
+      "count": 5,
+      "solution": " 60\u0026#x0025; of \u003cem\u003em\u003c/em\u003e \u0026#x003D; (60/100)\u003cem\u003em\u003c/em\u003e \u0026#x003D; 3\u003cem\u003em\u003c/em\u003e/5 \u0026#x003D; \u003cem\u003ep.\u003c/em\u003e3/5 of \u003cem\u003em\u003c/em\u003e \u0026#x003D; 3\u003cem\u003em\u003c/em\u003e/5 \u0026#x003D; \u003cem\u003eq.\u003c/em\u003eSo, \u003cem\u003ep\u003c/em\u003e \u0026#x003D; \u003cem\u003eq,\u003c/em\u003e and therefore \u003cem\u003ep \u0026#x2212; q\u003c/em\u003e \u0026#x003D; 0.The answer is (A).",
+      "answers": [
+        {
+          "answerId": 17707,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;0",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17708,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u003cem\u003em\u003c/em\u003e/11",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17709,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;2\u003cem\u003em\u003c/em\u003e/11",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17710,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;3\u003cem\u003em\u003c/em\u003e/55",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17711,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;6\u003cem\u003em\u003c/em\u003e/55",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " In January, the value of a stock increased by 25\u0026#x0025;; and in February, it decreased by 20\u0026#x0025;. In March, it increased by 50\u0026#x0025;; and in April, it decreased by 40\u0026#x0025;. If Jack invested \u0026#x0024;80 in the stock on January 1 and sold it at the end of April, what was the percentage change in the price of the stock?",
+      "orderNum": 2,
+      "questionOrderNum": 2,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3206,
+      "count": 5,
+      "solution": " At the end of January, the value of the stock is \u0026#x0024;80 \u0026#x002B; 25\u0026#x0025;(\u0026#x0024;80) \u0026#x003D; \u0026#x0024;80 \u0026#x002B; \u0026#x0024;20 \u0026#x003D; \u0026#x0024;100.At the end of February, the value of the stock is \u0026#x0024;100 \u0026#x2212; 20\u0026#x0025;(\u0026#x0024;100) \u0026#x003D; \u0026#x0024;100 \u0026#x2212; \u0026#x0024;20 \u0026#x003D; \u0026#x0024;80.At the end of March, the value of the stock is \u0026#x0024;80 \u0026#x002B; 50\u0026#x0025;(\u0026#x0024;80) \u0026#x003D; \u0026#x0024;80 \u0026#x002B; \u0026#x0024;40 \u0026#x003D; \u0026#x0024;120.At the end of April, the value of the stock is \u0026#x0024;120 \u0026#x2212; 40\u0026#x0025;(\u0026#x0024;120) \u0026#x003D; \u0026#x0024;120 \u0026#x2212; \u0026#x0024;48 \u0026#x003D; \u0026#x0024;7Now, the percentage change in price is\u003cimg src\u003d\"9781889057705_265-1.png\" alt\u003d\"\"/\u003eThe answer is (C).",
+      "answers": [
+        {
+          "answerId": 17712,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;0\u0026#x0025;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17713,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;5\u0026#x0025;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17714,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;10\u0026#x0025;",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17715,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;40\u0026#x0025;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17716,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;50\u0026#x0025;",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " If \u003cem\u003eb\u003c/em\u003e equals 10\u0026#x0025; of \u003cem\u003ea\u003c/em\u003e and \u003cem\u003ec\u003c/em\u003e equals 20\u0026#x0025; of \u003cem\u003eb,\u003c/em\u003e then which one of the following equals 30\u0026#x0025; of \u003cem\u003ec\u003c/em\u003e ?",
+      "orderNum": 3,
+      "questionOrderNum": 3,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3207,
+      "count": 5,
+      "solution": " \u003cem\u003eb\u003c/em\u003e \u0026#x003D; 10\u0026#x0025;of\u003cem\u003ea\u003c/em\u003e \u0026#x003D; (10/100) \u003cem\u003ea\u003c/em\u003e \u0026#x003D; 0.1\u003cem\u003ea\u003c/em\u003e.\u003cem\u003ec\u003c/em\u003e \u0026#x003D; 20\u0026#x0025;of \u003cem\u003eb\u003c/em\u003e \u0026#x003D; (20/100)\u003cem\u003eb\u003c/em\u003e \u0026#x003D; 0.2\u003cem\u003eb\u003c/em\u003e \u0026#x003D; (0.2)(0.1\u003cem\u003ea\u003c/em\u003e)Now, 30\u0026#x0025;of\u003cem\u003ec\u003c/em\u003e \u0026#x003D; (30/100)\u003cem\u003ec\u003c/em\u003e \u0026#x003D; 0.3\u003cem\u003ec\u003c/em\u003e \u0026#x003D; (0.3)(0.2)(0.1\u003cem\u003ea\u003c/em\u003e) \u0026#x003D; 0.006\u003cem\u003ea\u003c/em\u003e \u0026#x003D; 0.6\u0026#x0025;\u003cem\u003ea\u003c/em\u003e.The answer is (D).",
+      "answers": [
+        {
+          "answerId": 17717,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;0.0006\u0026#x0025; of \u003cem\u003ea\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17718,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;0.006\u0026#x0025; of \u003cem\u003ea\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17719,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;0.06\u0026#x0025; of \u003cem\u003ea\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17720,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;0.6\u0026#x0025; of \u003cem\u003ea\u003c/em\u003e",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17721,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;6\u0026#x0025; of \u003cem\u003ea\u003c/em\u003e",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " If 500\u0026#x0025; of \u003cem\u003ea\u003c/em\u003e equals 5006, then \u003cem\u003ea \u0026#x003D;\u003c/em\u003e",
+      "orderNum": 4,
+      "questionOrderNum": 4,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3208,
+      "count": 5,
+      "solution": " We are given that 500\u0026#x0025; of \u003cem\u003ea\u003c/em\u003e equals 500\u003cem\u003eb\u003c/em\u003e. Since 500\u0026#x0025; of \u003cem\u003ea\u003c/em\u003e is \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_265-2.png\" alt\u003d\"\"/\u003e, we have 5\u003cem\u003ea\u003c/em\u003e \u0026#x003D; 500\u003cem\u003eb\u003c/em\u003e. Dividing the equation by 5 yields \u003cem\u003ea\u003c/em\u003e \u0026#x003D; 100\u003cem\u003eb\u003c/em\u003e. The answer is (E).",
+      "answers": [
+        {
+          "answerId": 17722,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u003cem\u003eb\u003c/em\u003e/100",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17723,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u003cem\u003eb\u003c/em\u003e/10",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17724,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u003cem\u003eb\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17725,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;10\u003cem\u003eb\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17726,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;100\u003cem\u003eb\u003c/em\u003e",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " If \u003cem\u003ea\u003c/em\u003e/2 is 25\u0026#x0025; of 30 and \u003cem\u003ea\u003c/em\u003e is c\u0026#x0025; of 50, then which one of the following is the value of \u003cem\u003ec\u003c/em\u003e ?",
+      "orderNum": 5,
+      "questionOrderNum": 5,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3209,
+      "count": 5,
+      "solution": " We are given that\u0026#x00A0;\u0026#x00A0;\u0026#x00A0; \u003cem\u003ea\u003c/em\u003e/2 is 25\u0026#x0025; of 30. Now, 25\u0026#x0025; of 30 is \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_265-3.png\" alt\u003d\"\"/\u003e. Hence \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_265-4.png\" alt\u003d\"\"/\u003e Multiplying this equation by 2 yields \u003cem\u003ea\u003c/em\u003e \u0026#x003D; 1 We are also given that \u003cem\u003ea\u003c/em\u003e is \u003cem\u003ec\u003c/em\u003e\u0026#x0025; of 50. Now, \u003cem\u003ec\u003c/em\u003e\u0026#x0025; of 50 is \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_265-png\" alt\u003d\"\"/\u003e Hence, we have \u003cem\u003ea\u003c/em\u003e \u0026#x003D; \u003cem\u003ec\u003c/em\u003e/2. Solving for \u003cem\u003ec\u003c/em\u003e yields \u003cem\u003ec\u003c/em\u003e \u0026#x003D; 2\u003cem\u003ea\u003c/em\u003e \u0026#x003D; 2 \u0026#x00B7; 15 \u0026#x003D; 30. The answer is (E).",
+      "answers": [
+        {
+          "answerId": 17727,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17728,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;10",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17729,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;15",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17730,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;20",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17731,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;30",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " 8 is 4\u0026#x0025; of \u003cem\u003ea,\u003c/em\u003e and 4 is 8\u0026#x0025; of \u003cem\u003eb. c\u003c/em\u003e equals \u003cem\u003eb/a.\u003c/em\u003e What is the value of \u003cem\u003ec\u003c/em\u003e ?",
+      "orderNum": 6,
+      "questionOrderNum": 6,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3210,
+      "count": 5,
+      "solution": " 4\u0026#x0025; of \u003cem\u003ea\u003c/em\u003e is 4\u003cem\u003ea\u003c/em\u003e/100. Since this equals 8, we have 4\u003cem\u003ea\u003c/em\u003e/100 \u0026#x003D; 8. Solving for a yields \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_265-png\" alt\u003d\"\"/\u003e.Also, 8\u0026#x0025; of \u003cem\u003eb\u003c/em\u003e equals 8\u003cem\u003eb\u003c/em\u003e/100, and this equals 4. Hence, we have \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_265-7.png\" alt\u003d\"\"/\u003e Solving for \u003cem\u003eb\u003c/em\u003e yields \u003cem\u003eb\u003c/em\u003e \u0026#x003D; 50. Now, \u003cem\u003ec\u003c/em\u003e \u0026#x003D; \u003cem\u003eb/a\u003c/em\u003e \u0026#x003D; 50/200 \u0026#x003D; 1/4. The answer is (B).",
+      "answers": [
+        {
+          "answerId": 17732,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1/32",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17733,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1/4",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17734,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17735,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17736,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;32",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " The annual exports of the company NeuStar increased by 25\u0026#x0025; last year. This year, it increased by 20\u0026#x0025;. If the increase in the exports was 1 million dollars last year, then what is the increase (in million dollars) this year?",
+      "orderNum": 7,
+      "questionOrderNum": 7,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3211,
+      "count": 5,
+      "solution": " Let \u003cem\u003ex\u003c/em\u003e be the annual exports of the company before last year. It is given that the exports increased by 25\u0026#x0025; last year. The increase equals \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_265-8.png\" alt\u003d\"\"/\u003e. We are given that the increase equaled 1 million dollars. Hence, \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_265-9.png\" alt\u003d\"\"/\u003e million dollars. Now, the net exports equals \u003cem\u003ex \u0026#x002B; x\u003c/em\u003e/4 \u0026#x003D; 5\u003cem\u003ex\u003c/em\u003e/4. This year, the exports increased by 20\u0026#x0025;. Hence,\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_265-10.png\" alt\u003d\"\"/\u003e. Since we know \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_265-9.png\" alt\u003d\"\"/\u003e, the increase in exports this year equals 1 million dollars. The answer is (C).",
+      "answers": [
+        {
+          "answerId": 17737,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;0.75",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17738,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;0.8",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17739,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1 ",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17740,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1.2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17741,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1.25",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " Carlos \u0026#x0026; Co. generated revenue of \u0026#x0024;1,250 in 2006. This was 12.5\u0026#x0025; of its gross revenue. In 2007, the gross revenue grew by \u0026#x0024;2,500. What is the percentage increase in the revenue in 2007?",
+      "orderNum": 8,
+      "questionOrderNum": 8,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3212,
+      "count": 5,
+      "solution": " We are given that Carlos \u0026#x0026; Co. generated revenue of \u0026#x0024;1,250 in 2006 and that this was 12.5\u0026#x0025; of the gross revenue. Hence, if 1250 is 12.5\u0026#x0025; of the revenue, then 100\u0026#x0025; (gross revenue) is (100/12.5)(1250) \u0026#x003D; 10,000. Hence, the total revenue by end of 2007 is \u0026#x0024;10,000. In 2006, revenue grew by \u0026#x0024;2500. This is a growth of (2500/10000) \u0026#x00D7; 100 \u0026#x003D; 25\u0026#x0025;. The answer is (C).",
+      "answers": [
+        {
+          "answerId": 17742,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;12.5\u0026#x0025;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17743,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;20\u0026#x0025;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17744,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;25\u0026#x0025;",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17745,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;50\u0026#x0025;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17746,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;66.3\u0026#x0025;",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " In an acoustics class, 120 students are male and 100 students are female. 25\u0026#x0025; of the male students and 20\u0026#x0025; of the female students are engineering students. 20\u0026#x0025; of the male engineering students and 25\u0026#x0025; of the female engineering students passed the final exam. What percentage of engineering students passed the exam?",
+      "orderNum": 9,
+      "questionOrderNum": 9,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3213,
+      "count": 5,
+      "solution": " There are 100 female students in the class, and 20\u0026#x0025; of them are Engineering students. Now, 20\u0026#x0025; of 100 equals 20/100 \u0026#x00D7; 100 \u0026#x003D; 20. Hence, the number of female engineering students in the class is 20.\u003cp class\u003d\"extract\"\u003eNow, 25\u0026#x0025; of the female engineering students passed the final exam: 25\u0026#x0025; of 20 \u0026#x003D; 25/100 \u0026#x00D7; 20 \u0026#x003D; 5. Hence, the number of female engineering students who passed is 5.\u003cp class\u003d\"extract\"\u003eThere are 120 male students in the class. And 25\u0026#x0025; of them are engineering students. Now, 25\u0026#x0025; of 120 equals 25/100 \u0026#x00D7; 120 \u0026#x003D; 1/4 \u0026#x00D7; 120 \u0026#x003D; 30. Hence, the number of male engineering students is 30.\u003cp class\u003d\"extract\"\u003eNow, 20\u0026#x0025; of the male engineering students passed the final exam: 20\u0026#x0025; of 30 \u0026#x003D; 20/100 \u0026#x00D7; 30 \u0026#x003D; 6. Hence, the number of male engineering students who passed is 6.Hence, the total number of Engineering students who passed is\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_266-1a.png\" alt\u003d\"\"/\u003eThe total number of Engineering students in the class is\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_266-2a.png\" alt\u003d\"\"/\u003eHence, the percentage of engineering students who passed is\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_266-1.png\" alt\u003d\"\"/\u003eThe answer is (D).",
+      "answers": [
+        {
+          "answerId": 17747,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;5\u0026#x0025;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17748,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;10\u0026#x0025;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17749,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;16\u0026#x0025;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17750,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;22\u0026#x0025;",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17751,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;25\u0026#x0025;",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " If \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_262-1.png\" alt\u003d\"\"/\u003e and \u003cem\u003ex\u003c/em\u003e \u0026#x2260; 0, then what percentage (to the nearest integer) of \u003cem\u003ex\u003c/em\u003e \u0026#x002B; \u003cem\u003e3y\u003c/em\u003e is \u003cem\u003ex \u0026#x2212; 3y\u003c/em\u003e ?",
+      "orderNum": 10,
+      "questionOrderNum": 10,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3214,
+      "count": 5,
+      "solution": " Dividing both the numerator and the denominator of the given equation \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_266-2.png\" alt\u003d\"\"/\u003e by \u003cem\u003ey\u003c/em\u003e yields \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_266-3.png\" alt\u003d\"\"/\u003e Cross-multiplying this equation yields \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_266-4.png\" alt\u003d\"\"/\u003e. Solving for \u003cem\u003ex/y\u003c/em\u003e yields \u003cem\u003ex/y\u003c/em\u003e \u0026#x003D; 7.\u003cp class\u003d\"extract\"\u003eNow, the percentage of \u003cem\u003ex\u003c/em\u003e \u0026#x002B; \u003cem\u003e3y\u003c/em\u003e the expression \u003cem\u003ex\u003c/em\u003e \u0026#x2212; 3\u003cem\u003ey\u003c/em\u003e makes is \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_266-5.png\" alt\u003d\"\"/\u003e. Dividing both the numerator and the denominator of the expression by \u003cem\u003ey\u003c/em\u003e yields\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_266-6.png\" alt\u003d\"\"/\u003eThe answer is (E).",
+      "answers": [
+        {
+          "answerId": 17752,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;20\u0026#x0025;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17753,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;25\u0026#x0025;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17754,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;30\u0026#x0025;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17755,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;35\u0026#x0025;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17756,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;40\u0026#x0025;",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " Evans sold apples at 125\u0026#x0025; of what it cost him. What is the percentage of profit made by selling 100 apples?",
+      "orderNum": 11,
+      "questionOrderNum": 11,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3215,
+      "count": 5,
+      "solution": " Let the cost of each apple to Evans be \u003cem\u003ex\u003c/em\u003e. Then the cost of 100 apples is 100 \u003cem\u003ex\u003c/em\u003e. Since he sold the apples at 125\u0026#x0025; of the cost [each apple sold at 125\u0026#x0025; of \u003cem\u003ex\u003c/em\u003e, which equals (125/100)\u003cem\u003ex\u003c/em\u003e \u0026#x003D; 5\u003cem\u003ex\u003c/em\u003e/4], the profit he made isSelling price \u0026#x2212; Cost \u0026#x003D;5\u003cem\u003ex\u003c/em\u003e/4-\u003cem\u003ex\u003c/em\u003e \u0026#x003D;\u003cem\u003ex\u003c/em\u003e/4\u003cp class\u003d\"extract\"\u003eThe profit on 100 apples is 100(\u003cem\u003ex\u003c/em\u003e/4) \u0026#x003D; 25 \u003cem\u003ex\u003c/em\u003e. Hence, percentage of profit equals (Profit/Cost) 100 \u0026#x003D; (25\u003cem\u003ex\u003c/em\u003e/100\u003cem\u003ex\u003c/em\u003e)100 \u0026#x003D; 25\u0026#x0025;. The answer is (C).",
+      "answers": [
+        {
+          "answerId": 17757,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;0\u0026#x0025; ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17758,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;20\u0026#x0025; ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17759,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;25\u0026#x0025; ",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17760,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;33.3\u0026#x0025; ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17761,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;50\u0026#x0025; ",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " Williams has \u003cem\u003ex\u003c/em\u003e eggs. He sells 12 of them at a profit of 10 percent and the rest of the eggs at a loss of 10 percent. He made neither a profit nor a loss overall. Which one of the following equals x?",
+      "orderNum": 12,
+      "questionOrderNum": 12,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3216,
+      "count": 5,
+      "solution": " Let \u003cem\u003ea\u003c/em\u003e dollars be the cost of each egg to Williams. Hence, the net cost of the \u003cem\u003ex\u003c/em\u003e eggs is \u003cem\u003eax\u003c/em\u003e dollars.\u003cp class\u003d\"extract\"\u003eNow, the selling price of the eggs when selling at a 10\u0026#x0025; profit is \u003cem\u003ea\u003c/em\u003e(1 \u0026#x002B; 10/100) \u0026#x003D; 11 \u003cem\u003ea\u003c/em\u003e/10. Selling 12 eggs now returns 12(1 1\u003cem\u003ea\u003c/em\u003e/10) dollars.\u003cp class\u003d\"extract\"\u003eThe selling price of the eggs when selling at a 10\u0026#x0025; loss is \u003cem\u003ea\u003c/em\u003e(1 \u0026#x2212; 10/100) \u0026#x003D; 9 \u003cem\u003ea\u003c/em\u003e/10. Selling the remaining \u0026#x00D7; \u0026#x2212; 12 eggs now returns (x\u0026#x2212; 12)(9\u003cem\u003ea\u003c/em\u003e/10) dollars.\u003cp class\u003d\"extract\"\u003eThe net return equals 12(11\u003cem\u003ea\u003c/em\u003e/10) \u0026#x002B; (\u003cem\u003ex\u003c/em\u003e \u0026#x2212; 12)(9\u003cem\u003ea\u003c/em\u003e/10) \u0026#x003D; \u003cem\u003ea\u003c/em\u003e(0.9\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 2.4)\u003cp class\u003d\"extract\"\u003eSince overall he made neither a profit nor a loss, the net returns equals the net cost. So, we have a(0.9\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 2.4) \u0026#x003D; \u003cem\u003eax\u003c/em\u003e. Dividing both sides by a yields 0.9\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 2.4 \u0026#x003D; \u003cem\u003ex\u003c/em\u003e. Multiplying each side by 10 yields 9\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 24 \u0026#x003D; 10\u003cem\u003ex\u003c/em\u003e. Subtracting 9\u003cem\u003ex\u003c/em\u003e from both sides yields \u003cem\u003ex\u003c/em\u003e \u0026#x003D; 24. Hence, the answer is (E).",
+      "answers": [
+        {
+          "answerId": 17762,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;10",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17763,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;12",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17764,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;13",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17765,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;14",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17766,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;24",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " The value of a share of stock was \u0026#x0024;30 on Sunday. The profile of the value in the following week was as follows: The value appreciated by \u0026#x0024;1.2 on Monday. It appreciated by \u0026#x0024;3.1 on Tuesday. It depreciated by \u0026#x0024;4 on Wednesday. It appreciated by \u0026#x0024;2 on Thursday and it depreciated by \u0026#x0024;0.2 on Friday. On Friday, the stock market closed for the weekend. By what percentage did the value of the share increase in the five days?",
+      "orderNum": 13,
+      "questionOrderNum": 13,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3217,
+      "count": 5,
+      "solution": " The initial price of the share is \u0026#x0024;30.After the \u0026#x0024;1.2 appreciation on Monday, its price was 30 \u0026#x002B; 1.2 \u0026#x003D; \u0026#x0024;31.2.After the \u0026#x0024;3.1 appreciation on Tuesday, its price was 31.2 \u0026#x002B; 3.1 \u0026#x003D; \u0026#x0024;34.3.After the \u0026#x0024;4 depreciation on Wednesday, its price was 34.3 \u0026#x2212; 4 \u0026#x003D; \u0026#x0024;30.3.After the \u0026#x0024;2 appreciation on Thursday, its price was 30.3 \u0026#x002B; 2 \u0026#x003D; \u0026#x0024;32.3.After the \u0026#x0024;0.2 depreciation on Friday, its price was 32.3 \u0026#x2212; 0.2 \u0026#x003D; \u0026#x0024;32.1.The percentage increase in the price from the initial price is(32.1 \u0026#x2212; 30)/30 \u0026#x00D7; 100 \u0026#x003D;\u003cbr/\u003e2.1/30 \u0026#x00D7; 100 \u0026#x003D;\u003cbr/\u003e2.1/3 \u0026#x00D7; 10 \u0026#x003D;\u003cbr/\u003e21/3 \u0026#x003D; 7The answer is (D).",
+      "answers": [
+        {
+          "answerId": 17767,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;3.2\u0026#x0025;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17768,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;4\u0026#x0025;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17769,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;5.6\u0026#x0025;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17770,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;7\u0026#x0025;",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17771,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;10\u0026#x0025;",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " The percentage of integers from 1 through 100 whose squares end with the digit 1 is\u0026#x00A0;\u0026#x00A0;\u0026#x00A0; \u003cem\u003ex\u003c/em\u003e\u0026#x0025;, and the percentage of integers from 1 through 200 whose squares end with the digit 1 is \u003cem\u003ey\u003c/em\u003e\u0026#x0025;. Which one of the following is true?",
+      "orderNum": 14,
+      "questionOrderNum": 14,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3218,
+      "count": 5,
+      "solution": " The square of an integer ends with the digit 1 only if the integer itself either ends with the digit 1 or with the digit 9. For example, 11\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; 121 and 19 \u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; 361. Now, there are ten integers ending with 1 from 1 through 100. The numbers are 1, 11,21, \u0026#x2026;, 91. Also, there are ten integers ending with 9 from 1 through 100. They are 9, 19, 29, \u0026#x2026;, 99. Hence, the total number of integers from 1 through 100 whose squares end with the digit 1 is 20. The number 20 is 20/100 \u0026#x00D7; 100 \u0026#x003D; 20\u0026#x0025; of 100. Hence, \u003cem\u003ex\u003c/em\u003e \u0026#x003D; 20.\u003cp class\u003d\"extract\"\u003eSimilarly, there are twenty integers (1, 11, 21\u0026#x2026; 191) ending with 1, and twenty integers (9, 19, 29, \u0026#x2026;, 199) ending with 9. Hence, there are 20 \u0026#x002B; 20 \u0026#x003D; 40 integers ending with 1 or 9. Now, 40 is 40/200 \u0026#x00D7; 100 \u0026#x003D; 20\u0026#x0025; of the total 200 integers from 1 through 200. So, \u003cem\u003ey\u003c/em\u003e also equals 20. Since \u003cem\u003ex \u0026#x003D; y,\u003c/em\u003e the answer is (A).",
+      "answers": [
+        {
+          "answerId": 17772,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u003cem\u003ex \u0026#x003D; y\u003c/em\u003e",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17773,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u003cem\u003ex\u003c/em\u003e \u0026#x003D; 2y",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17774,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u003cem\u003ex\u003c/em\u003e \u0026#x003D; 4\u003cem\u003ey\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17775,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u003cem\u003ey\u003c/em\u003e \u0026#x003D; 2\u003cem\u003ex\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17776,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u003cem\u003ey\u003c/em\u003e \u0026#x003D; 4\u003cem\u003ex\u003c/em\u003e",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " The cost of painting a wall increases by a fixed percentage each year. In 1970, the cost was \u0026#x0024;2,000; and in 1979, it was \u0026#x0024;3,600. What was the cost of painting in 1988?",
+      "orderNum": 15,
+      "questionOrderNum": 15,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3219,
+      "count": 5,
+      "solution": " Since the cost of painting increases by a fixed percentage each year and it increased \u0026#x0024;3,600/\u0026#x0024;2,000 \u0026#x003D; 1.8 times in the 9-year period from 1970 to 1979, it must increase by the same number of times in the period 1979 to 1988. Hence, the amount becomes 1.8 \u0026#x00D7; \u0026#x0024;3,600 \u0026#x003D; \u0026#x0024;6480 by 1988. The answer is (E).",
+      "answers": [
+        {
+          "answerId": 17777,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x0024;1,111",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17778,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x0024;2,111",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17779,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x0024;3,600",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17780,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x0024;6240",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17781,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x0024;6480",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "16 The \u003cem\u003elist price\u003c/em\u003e of a commodity is the price after a 20\u0026#x0025; discount on the retail price. The \u003cem\u003efestival discount price\u003c/em\u003e on the commodity is the price after a 30\u0026#x0025; discount on the list price. Customers purchase commodities from stores at a festival discount price. What is the effective discount offered by the stores on the commodity on its retail price?",
+      "orderNum": 16,
+      "questionOrderNum": 16,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3220,
+      "count": 5,
+      "solution": " Let \u003cem\u003er\u003c/em\u003e be the retail price. The list price is the price after a 20\u0026#x0025; discount on the retail price. Hence, it equals \u003cem\u003er\u003c/em\u003e(1 \u0026#x2212; 20/100) \u0026#x003D; \u003cem\u003er\u003c/em\u003e(1 \u0026#x2212; 0.2) \u0026#x003D; 0.8\u003cem\u003er\u003c/em\u003e.\u003cp class\u003d\"extract\"\u003eThe festival discount price is the price after a 30\u0026#x0025; discount on the list price. Hence, the festival discount price equals (list price)(1 \u0026#x2212; 30/100) \u0026#x003D; (0.8\u003cem\u003er\u003c/em\u003e)(1 \u0026#x2212; 30/100) \u0026#x003D; (0.8\u003cem\u003er\u003c/em\u003e)(1 \u0026#x2212; 0.3) \u0026#x003D; (0.8\u003cem\u003er\u003c/em\u003e)(0.7) \u0026#x003D; 0.56\u003cem\u003er\u003c/em\u003e.\u003cp class\u003d\"extract\"\u003eHence, the total discount offered is (Original Price \u0026#x2212; Price after discount)/Original Price\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0; \u0026#x00D7; 100 \u0026#x003D; (\u003cem\u003er\u003c/em\u003e \u0026#x2212; 0.56\u003cem\u003er\u003c/em\u003e)/\u003cem\u003er\u003c/em\u003e \u0026#x00D7; 100 \u0026#x003D; 0.44 \u0026#x00D7; 100 \u0026#x003D; 44\u0026#x0025;.\u003cp class\u003d\"extract\"\u003eThe answer is (C).",
+      "answers": [
+        {
+          "answerId": 17782,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;20\u0026#x0025;  ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17783,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;30\u0026#x0025;  ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17784,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;44\u0026#x0025;  ",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17785,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;50\u0026#x0025;  ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17786,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;56\u0026#x0025;  ",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " Each year, funds A and B grow by a particular percentage based on the following policy of the investment company:\u003cbr\u003e1) The allowed percentages of growths on the two funds are 20\u0026#x0025; and 30\u0026#x0025;.\u003cbr\u003e2) The growth percentages of the two funds are not the same in any year.\u003cbr\u003e3) No fund will have the same percentage growth in any two consecutive years.\u003cbr\u003eBob invested equal amounts into funds \u003cem\u003eA\u003c/em\u003e and \u003cem\u003eB.\u003c/em\u003e In the first year, fund B grew by 30\u0026#x0025;. After 3 years, how many times greater is the value of fund \u003cem\u003eB\u003c/em\u003e than the value of the fund .4?",
+      "orderNum": 17,
+      "questionOrderNum": 17,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3221,
+      "count": 5,
+      "solution": " Let the investment in each fund be \u003cem\u003ex\u003c/em\u003e\u003cp class\u003d\"extract\"\u003eIn the first year, fund B was given a growth of 30\u0026#x0025;. Hence, the increased value of the fund equals (1 \u0026#x002B; 30/100)\u003cem\u003ex\u003c/em\u003e \u0026#x003D; 1.3\u003cem\u003ex\u003c/em\u003e.\u003cp class\u003d\"extract\"\u003eAccording to clauses (1) and (2), fund A must have grown by 20\u0026#x0025; (the other allowed growth percentage clause (1)). Hence, the increased value of the fund equals (1 \u0026#x002B; 20/100)\u003cem\u003ex\u003c/em\u003e \u0026#x003D; 1.2\u003cem\u003ex\u003c/em\u003e\u003cp class\u003d\"extract\"\u003eIn the second year, according to clauses (1) and (3), the growth percentages of the two funds will swap between the only allowed values 30\u0026#x0025; and 20\u0026#x0025; (clause (1)). Hence, fund A grows by 30\u0026#x0025; and fund B grows by 20\u0026#x0025;. Hence, the increased value of fund A equals (1 \u0026#x002B; 30/100)(1.2\u003cem\u003ex\u003c/em\u003e) \u0026#x003D; (1.3)(1.2)\u003cem\u003ex\u003c/em\u003e, and the increased value of the fund B equals (1 \u0026#x002B; 20/100)(1.3\u003cem\u003ex\u003c/em\u003e) \u0026#x003D; (1.2)(1.3)\u003cem\u003ex\u003c/em\u003e.Again in the third year, according to clauses (1) and (3), the growth percents will again swap between the only two allowed values 20\u0026#x0025; and 30\u0026#x0025; (clause (1)). Hence, fund A grows by 20\u0026#x0025; and fund B grows by 30\u0026#x0025;. So, the increased values of the fund A should equal (1 \u0026#x002B; 20/100)(1.3\u003cem\u003ex\u003c/em\u003e)(1.2\u003cem\u003ex\u003c/em\u003e) \u0026#x003D; (1.2)(1.3)(1.2)\u003cem\u003ex\u003c/em\u003e and the increased value of the fund B should equal (1 \u0026#x002B; 30/100)(1.2\u003cem\u003ex\u003c/em\u003e)(1.3\u003cem\u003ex\u003c/em\u003e) \u0026#x003D; (1.3)(1.2)(1.3)\u003cem\u003ex\u003c/em\u003e. Hence, the value of the fund B is \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_268-1.png\" alt\u003d\"\"/\u003e. The answer is (C).",
+      "answers": [
+        {
+          "answerId": 17787,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;12/13",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17788,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17789,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;13/12",
+          "result": "Correct"
+        },
+        {
+          "answerId": 29305,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1.2",
+          "result": "INCORRECT"
+        },
+        {
+          "answerId": 17790,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1.3",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " Selling 12 candies at a price of \u0026#x0024;10 yields a loss of \u003cem\u003ea\u003c/em\u003e\u0026#x0025;. Selling 12 candies at a price of \u0026#x0024;12 yields a profit of \u003cem\u003ea\u003c/em\u003e\u0026#x0025;. What is the value of \u003cem\u003ea\u003c/em\u003e?",
+      "orderNum": 18,
+      "questionOrderNum": 18,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3222,
+      "count": 5,
+      "solution": " Let c be the cost of each candy. Then the cost of 12 candies is 12\u003cem\u003ec\u003c/em\u003e. We are given that selling 12 candies at \u0026#x0024; 10 yields a loss of \u003cem\u003ea\u003c/em\u003e\u0026#x0025;. The formula for the loss percentage is \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_268-2.png\" alt\u003d\"\"/\u003e. Hence, \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_268-3.png\" alt\u003d\"\"/\u003e Let this be equation (1)\u003cp class\u003d\"extract\"\u003eWe are also given that selling 12 candies at \u0026#x0024; 12 yields a profit of\u0026#x00A0;\u0026#x00A0;\u0026#x00A0; \u003cem\u003ea\u003c/em\u003e\u0026#x0025;. The formula for profit percent is \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_268-4.png\" alt\u003d\"\"/\u003e Hence, we have \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_268-5.png\" alt\u003d\"\"/\u003e Let this be equation (2).",
+      "answers": [
+        {
+          "answerId": 17791,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;11/1100",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17792,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;11/100",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17793,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;100/11",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17794,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;10",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17795,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;11",
+          "result": "Wrong"
+        }
+      ]
+    }
+  ],
+  "applications": []
+}

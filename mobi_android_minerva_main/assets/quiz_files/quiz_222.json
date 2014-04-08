@@ -1,0 +1,309 @@
+{
+  "quizId": 222,
+  "name": "Problem Set I (GMAT MATH)",
+  "description": "",
+  "questions": [
+    {
+      "text": " If \u003cem\u003ea\u003c/em\u003e \u003d \u003cem\u003ex\u003c/em\u003e \u0026#x002B; 2\u003cem\u003ey,\u003c/em\u003e and \u003cem\u003eb\u003c/em\u003e \u003d \u003cem\u003ey\u003c/em\u003e \u0026#x002B; 2\u003cem\u003ex,\u003c/em\u003e and 3\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 7\u003cem\u003ey\u003c/em\u003e \u0026#x003E; 7\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 3\u003cem\u003ey\u003c/em\u003e, then which one of the following is true?\u003cbr\u003e(I) \u003cem\u003ea \u0026#x003E; b\u003c/em\u003e\u003cbr\u003e(II) \u003cem\u003ea \u003d b\u003c/em\u003e\u003cbr\u003e(III) \u003cem\u003ea \u0026#x003C; b\u003c/em\u003e\u003cbr/\u003e",
+      "orderNum": 1,
+      "questionOrderNum": 1,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3116,
+      "count": 5,
+      "solution": " We are given the inequality 3\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 7\u003cem\u003ey\u003c/em\u003e \u0026#x003E; 7\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 3\u003cem\u003ey\u003c/em\u003e. Subtracting 3\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 3\u003cem\u003ey\u003c/em\u003e from both sides of the inequality yields 4y \u0026#x003E; 4\u003cem\u003ex\u003c/em\u003e, and dividing both sides of this inequality by 4 yields \u003cem\u003ey\u003c/em\u003e \u0026#x003E; \u003cem\u003ex.\u003c/em\u003eSuppose Statement (I) \u003cem\u003ea \u0026#x003E; b\u003c/em\u003e is true. Now, \u003cem\u003ea\u003c/em\u003e\u0026#x003E; \u003cem\u003eb\u003c/em\u003e if \u003cem\u003ex\u003c/em\u003e\u0026#x002B;2\u003cem\u003ey\u003c/em\u003e \u0026#x003E;\u003cem\u003ey\u003c/em\u003e \u0026#x002B; 2\u003cem\u003ex\u003c/em\u003e since we are given that \u003cem\u003ea\u003c/em\u003e \u003d \u003cem\u003ex\u003c/em\u003e \u0026#x002B; 2\u003cem\u003ey\u003c/em\u003e and \u003cem\u003eb\u003c/em\u003e \u003d \u003cem\u003ey\u003c/em\u003e \u0026#x002B; 2\u003cem\u003ex.\u003c/em\u003e Subtracting \u003cem\u003ex\u003c/em\u003e \u0026#x002B; \u003cem\u003ey\u003c/em\u003e from both sides yields \u003cem\u003ey\u003c/em\u003e \u0026#x003E; \u003cem\u003ex,\u003c/em\u003e which we know is true. So, Statement (I) \u003cem\u003ea\u003c/em\u003e \u0026#x003E; \u003cem\u003eb\u003c/em\u003e is true, and therefore Statement (II) \u003cem\u003ea\u003c/em\u003e \u003d \u003cem\u003eb\u003c/em\u003e and Statement (III) \u003cem\u003ea\u003c/em\u003e \u0026#x003C; \u003cem\u003eb\u003c/em\u003e are false. Note the strategy we used here: We assumed something to be true (\u003cem\u003ea \u0026#x003E; b\u003c/em\u003e) and then reduced it to something that we know is true (\u003cem\u003ey\u003c/em\u003e \u0026#x003E;\u003cem\u003ex\u003c/em\u003e). If all the steps are reversible (and they are here), then we have proven that our assumption is in fact true. This is a common strategy in mathematics.Method II:Solve the given equations \u003cem\u003ea\u003c/em\u003e \u003d \u003cem\u003ex\u003c/em\u003e \u0026#x002B; 2\u003cem\u003ey\u003c/em\u003e and \u003cem\u003eb \u003d y \u0026#x002B; 2x\u003c/em\u003e for \u003cem\u003ex\u003c/em\u003e and y and substitute the results in the given inequality 3\u003cem\u003ex\u003c/em\u003e\u0026#x002B; 7\u003cem\u003ey\u003c/em\u003e \u0026#x003E; 7\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 3\u003cem\u003ey\u003c/em\u003e to derive \u003cem\u003ea\u003c/em\u003e \u0026#x003E; \u003cem\u003eb.\u003c/em\u003e Thus, I is true, and II and III are false.The answer is (A).",
+      "answers": [
+        {
+          "answerId": 17266,
+          "orderNum": 1,
+          "text": " I only",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17267,
+          "orderNum": 2,
+          "text": " II only",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17268,
+          "orderNum": 3,
+          "text": " III only",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17269,
+          "orderNum": 4,
+          "text": " I and II only",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17270,
+          "orderNum": 5,
+          "text": " II and III only",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " If \u0026#x007C;\u003cem\u003ex\u003c/em\u003e\u0026#x007C; \u003cem\u003ex\u003c/em\u003e \u003d 4, then which one of the following is odd?",
+      "orderNum": 2,
+      "questionOrderNum": 2,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3117,
+      "count": 5,
+      "solution": " We are given that \u0026#x007C;\u003cem\u003ex\u003c/em\u003e\u0026#x007C; \u0026#x002B; \u003cem\u003ex\u003c/em\u003e \u003d 4. If \u003cem\u003ex\u003c/em\u003e is negative or zero, then \u0026#x007C;\u003cem\u003ex\u003c/em\u003e\u0026#x007C; equals -\u003cem\u003ex\u003c/em\u003e and \u0026#x007C;\u003cem\u003ex\u003c/em\u003e\u0026#x007C; \u0026#x002B; \u003cem\u003ex\u003c/em\u003e equals -\u003cem\u003ex\u003c/em\u003e \u0026#x002B; \u003cem\u003ex\u003c/em\u003e \u003d 0. This conflicts with the given equation, so \u003cem\u003ex\u003c/em\u003e is not negative nor equal to 0. Hence, \u003cem\u003ex\u003c/em\u003e is positive and therefore \u0026#x007C;\u003cem\u003ex\u003c/em\u003e\u0026#x007C; equals \u003cem\u003ex.\u003c/em\u003e Putting this in the given equation yields\u003cimg class\u003d\"mid\" src\u003d\"9781889057705_191-1.png\" alt\u003d\"\"/\u003eNow, select the answer-choice that results in an odd number when \u003cem\u003ex\u003c/em\u003e \u003d Choice (A): \u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 3\u003cem\u003ex\u003c/em\u003e \u003d 2\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 3(2) \u003d 4 \u0026#x002B; 6 \u003d 10, an even number. Reject.Choice (B): \u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 3\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 2 \u003d 2\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 3(2) \u0026#x002B; 2 \u003d 4 \u0026#x002B; 6 \u0026#x002B; 2 \u003d 12, an even number. Reject.Choice (C): \u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 4\u003cem\u003ex\u003c/em\u003e \u003d 2\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 4(2) \u003d 4 \u0026#x002B; 8 \u003d 12, an even number. Reject.Choice (D): \u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 4\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 2 \u003d 2\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 4(2) \u0026#x002B; 2 \u003d 4 \u0026#x002B; 8 \u0026#x002B; 2 \u003d 14, an even number. Reject.Choice (E): \u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 4\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 3 \u003d 2\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 4(2) \u0026#x002B; 3 \u003d 4 \u0026#x002B; 8 \u0026#x002B; 3 \u003d 15, an odd number. Accept.The answer is (E).",
+      "answers": [
+        {
+          "answerId": 17271,
+          "orderNum": 1,
+          "text": "\u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 3\u003cem\u003ex\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17272,
+          "orderNum": 2,
+          "text": "\u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e\u0026#x002B;3\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17273,
+          "orderNum": 3,
+          "text": "\u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 4\u003cem\u003ex\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17274,
+          "orderNum": 4,
+          "text": "\u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 4\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17275,
+          "orderNum": 5,
+          "text": "\u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 4\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 3",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " If 5 \u0026#x003C; \u003cem\u003ex\u003c/em\u003e \u0026#x003C; 10 and \u003cem\u003ey\u003c/em\u003e \u003d \u003cem\u003ex\u003c/em\u003e \u0026#x002B; 5, what is the greatest possible integer value of \u003cem\u003ex\u003c/em\u003e \u0026#x002B; \u003cem\u003ey\u003c/em\u003e?",
+      "orderNum": 3,
+      "questionOrderNum": 3,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3118,
+      "count": 5,
+      "solution": " Adding \u003cem\u003ex\u003c/em\u003e to both sides of the equation \u003cem\u003ey\u003c/em\u003e \u003d \u003cem\u003ex\u003c/em\u003e \u0026#x002B; 5 yields \u003cem\u003ex\u003c/em\u003e \u0026#x002B; \u003cem\u003ey\u003c/em\u003e \u003d \u003cem\u003ex\u003c/em\u003e \u0026#x002B; (\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 5), or \u003cem\u003ex\u003c/em\u003e \u0026#x002B; \u003cem\u003ey\u003c/em\u003e \u003d 2\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 5. Hence, the greatest possible value of \u003cem\u003ex\u003c/em\u003e \u0026#x002B; \u003cem\u003ey\u003c/em\u003e is the maximum possible value of 2\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 5. Now, let\u0026#x2019;s create this expression out of the given inequality 5 \u0026#x003C; \u003cem\u003ex\u003c/em\u003e \u0026#x003C; 10. Multiplying the inequality by 2 yields 10 \u0026#x003C; 2\u003cem\u003ex\u003c/em\u003e \u0026#x003C; 20. Adding 5 to each part of the inequality yields 10 \u0026#x002B; 5 \u0026#x003C; 2\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 5 \u0026#x003C; 20 \u0026#x002B; 5, or 15 \u0026#x003C; 2\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 5 \u0026#x003C; 25. So, 2\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 5 is less than 25. The greatest possible integer value of 2\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 5 is 24. Hence, the answer is (D).",
+      "answers": [
+        {
+          "answerId": 17276,
+          "orderNum": 1,
+          "text": " 18",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17277,
+          "orderNum": 2,
+          "text": " 20",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17278,
+          "orderNum": 3,
+          "text": " 23",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17279,
+          "orderNum": 4,
+          "text": " 24",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17280,
+          "orderNum": 5,
+          "text": " 254",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " If \u003cem\u003ex\u003c/em\u003e \u0026#x003E; 2 and \u003cem\u003ex\u003c/em\u003e \u0026#x003C; 3, then which of the following is positive?\u003cbr\u003e(I) (\u003cem\u003ex\u003c/em\u003e \u0026#x2212; 2)(\u003cem\u003ex\u003c/em\u003e \u0026#x2212; 3)\u003cbr\u003e(II) (2 \u0026#x2212; \u003cem\u003ex\u003c/em\u003e)(\u003cem\u003ex\u003c/em\u003e \u0026#x2212; 3)\u003cbr\u003e(III)(2 \u0026#x2212; \u003cem\u003ex\u003c/em\u003e)(3 \u0026#x2212; \u003cem\u003ex\u003c/em\u003e)\u003cbr/\u003e",
+      "orderNum": 4,
+      "questionOrderNum": 4,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3119,
+      "count": 5,
+      "solution": " Combining the given inequalities \u003cem\u003ex\u003c/em\u003e \u0026#x003E; 2 and \u003cem\u003ex\u003c/em\u003e \u0026#x003C; 3 yields 2 \u0026#x003C; \u003cem\u003ex\u003c/em\u003e \u0026#x003C; 3. So, \u003cem\u003ex\u003c/em\u003e lies between 2 and 3. Hence,\u003cem\u003ex\u003c/em\u003e \u0026#x2212; 2 is positive and \u003cem\u003ex\u003c/em\u003e\u0026#x2212; 3 is negative. Hence, the product (\u003cem\u003ex\u003c/em\u003e\u0026#x2212; 2)(\u003cem\u003ex\u003c/em\u003e \u0026#x2212; 3) is negative. I is false.2 \u0026#x2212; \u003cem\u003ex\u003c/em\u003e is negative and \u003cem\u003ex\u003c/em\u003e \u0026#x2212; 3 is negative. Hence, the product (\u003cem\u003ex\u003c/em\u003e \u0026#x2212; 2)(\u003cem\u003ex\u003c/em\u003e \u0026#x2212; 3) is positive. II is true.2 \u0026#x2212; \u003cem\u003ex\u003c/em\u003e is negative and 3 - \u003cem\u003ex\u003c/em\u003e is positive. Hence, the product (2 \u0026#x2212; \u003cem\u003ex\u003c/em\u003e)(3 \u0026#x2212; \u003cem\u003ex\u003c/em\u003e) is negative. III is false.Hence, II only is correct, the answer is (B).",
+      "answers": [
+        {
+          "answerId": 17281,
+          "orderNum": 1,
+          "text": " I only ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17282,
+          "orderNum": 2,
+          "text": " II only ",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17283,
+          "orderNum": 3,
+          "text": " III only ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17284,
+          "orderNum": 4,
+          "text": " I and II only ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17285,
+          "orderNum": 5,
+          "text": " I and III only",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " If \u003cem\u003ea\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e\u003c/em\u003e \u0026#x002B; 7\u003cem\u003ea\u003c/em\u003e \u0026#x003C; 0, then which one of the following could be the value of \u003cem\u003ea\u003c/em\u003e?",
+      "orderNum": 5,
+      "questionOrderNum": 5,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3120,
+      "count": 5,
+      "solution": " Factoring out the common factor \u003cem\u003ea\u003c/em\u003e on the left-hand side of the inequality \u003cem\u003ea\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e\u003c/em\u003e \u0026#x002B; 7\u003cem\u003ea\u003c/em\u003e \u0026#x003C; 0 yields \u003cem\u003ea(a\u003c/em\u003e \u0026#x002B; 7) \u0026#x003C; 0. The product of two numbers (here, \u003cem\u003ea\u003c/em\u003e and \u003cem\u003ea\u003c/em\u003e \u0026#x002B; 7) is negative when one is negative and the other is positive. Hence, we have two cases:1) \u003cem\u003ea\u003c/em\u003e \u0026#x003C; 0 and \u003cem\u003ea\u003c/em\u003e \u0026#x002B; 7 \u0026#x003E; 02) \u003cem\u003ea\u003c/em\u003e \u0026#x003E; 0 and \u003cem\u003ea\u003c/em\u003e \u0026#x002B; 7 \u0026#x003C; 0Case 2) is impossible since if \u003cem\u003ea\u003c/em\u003e is positive then \u003cem\u003ea\u003c/em\u003e \u0026#x002B; 7 cannot be negative.Case 1) is valid for all values of \u003cem\u003ea\u003c/em\u003e between 0 and \u0026#x2212;7. Hence, \u003cem\u003ea\u003c/em\u003e must be negative, so \u003cem\u003ea\u003c/em\u003e could equal \u0026#x2212; 3. The answer is (A).",
+      "answers": [
+        {
+          "answerId": 17286,
+          "orderNum": 1,
+          "text": " \u0026#x2212;3",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17287,
+          "orderNum": 2,
+          "text": " 0",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17288,
+          "orderNum": 3,
+          "text": " 1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17289,
+          "orderNum": 4,
+          "text": " 2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17290,
+          "orderNum": 5,
+          "text": " 3",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " Three workers \u003cem\u003eA, B,\u003c/em\u003e and \u003cem\u003eC\u003c/em\u003e are hired for 4 days. The daily wages of the three workers are as follows:\u003cbr\u003eA\u0026#x2019;s first day wage is \u0026#x0024;4.\u003cbr/\u003eEach day, his wage increases by 2 dollars.\u003cbr\u003eB\u0026#x2019;s first day wage is \u0026#x0024;3.\u003cbr/\u003eEach day, his wage increases by 2 dollars.\u003cbr\u003eC\u0026#x2019;s first day wage is \u0026#x0024;1.\u003cbr/\u003eEach day, his wage increases by the prime numbers 2, 3, and 5 in that order.\u003cbr\u003eWhich one of the following is true about the wages earned by \u003cem\u003eA, B,\u003c/em\u003e and \u003cem\u003eC\u003c/em\u003e in the first 4 days?",
+      "orderNum": 6,
+      "questionOrderNum": 6,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3121,
+      "count": 5,
+      "solution": " The payments to Worker \u003cem\u003eA\u003c/em\u003e for the 4 days are the four integers 4, 6, 8, and 10. The sum of the payments is 4 \u0026#x002B; 6 \u0026#x002B; 8\u0026#x002B; 10 \u003d 28.The payments to Worker \u003cem\u003eB\u003c/em\u003e for the 4 days are the four integers 3, 5, 7, and 9. The sum of the payments is 3 \u0026#x002B; 5 \u0026#x002B; 7 \u0026#x002B; 9 \u003d 24.The payments to Worker \u003cem\u003eC\u003c/em\u003e for the 4 days are 1,1\u0026#x002B;2 \u003d 3, 3 \u0026#x002B; 3 \u003d 6, and 6 \u0026#x002B; 5 \u003d 11. The sum of the payments is 1 \u0026#x002B; 3 \u0026#x002B; 6\u0026#x002B;11\u003d21.From the calculations, \u003cem\u003eA\u003c/em\u003e\u0026#x003E; \u003cem\u003eB\u003c/em\u003e\u0026#x003E; \u003cem\u003eC\u003c/em\u003e. The answer is (A).",
+      "answers": [
+        {
+          "answerId": 17291,
+          "orderNum": 1,
+          "text": " \u003cem\u003eA \u0026#x003E; B \u0026#x003E; C\u003c/em\u003e",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17292,
+          "orderNum": 2,
+          "text": " \u003cem\u003eC \u0026#x003E; B \u0026#x003E; A\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17293,
+          "orderNum": 3,
+          "text": " \u003cem\u003eA \u0026#x003E; C \u0026#x003E; B\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17294,
+          "orderNum": 4,
+          "text": " \u003cem\u003eB \u0026#x003E; A \u0026#x003E; C\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17295,
+          "orderNum": 5,
+          "text": " \u003cem\u003eC \u0026#x003E; A \u0026#x003E; B\u003c/em\u003e",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " If 0 \u0026#x003C; \u003cem\u003ex\u003c/em\u003e \u0026#x2264; 1, then which one of the following is the maximum value of (\u003cem\u003ex\u003c/em\u003e \u0026#x2014; 1)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; \u003cem\u003ex\u003c/em\u003e ?",
+      "orderNum": 7,
+      "questionOrderNum": 7,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3122,
+      "count": 5,
+      "solution": "Since 0 \u0026#x003C; \u003cem\u003ex\u003c/em\u003e \u0026#x2264; 1, we know that \u003cem\u003ex\u003c/em\u003e is positive. Now, multiplying both sides of the inequality 0 \u0026#x003C; \u003cem\u003ex\u003c/em\u003e \u0026#x2264; 1 by \u003cem\u003ex\u003c/em\u003e yields\u003c/p\u003e\u003cimg class\u003d\"mid\" src\u003d\"9781889057705_192-1.png\" alt\u003d\"\"/\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eNext, let \u003cem\u003ey\u003c/em\u003e equal (\u003cem\u003ex\u003c/em\u003e\u0026#x2014; l)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; \u003cem\u003ex.\u003c/em\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eExpanding the expression for \u003cem\u003ey\u003c/em\u003e yields \u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e #x2212; 2\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 1 \u0026#x002B;\u003cem\u003ex\u003c/em\u003e \u003d \u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e -\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 1 \u003d\u003cem\u003ey\u003c/em\u003e.\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eAdding this equation to the inequality - (\u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e - \u003cem\u003ex\u003c/em\u003e)\u0026#x2265; 0 yields \u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e - \u003cem\u003ex\u003c/em\u003e \u0026#x002B; 1 - (\u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e - \u003cem\u003ex\u003c/em\u003e) \u0026#x2265;\u003cem\u003ey\u003c/em\u003e \u0026#x002B; 0. Simplifying yields 1 \u0026#x2265; \u003cem\u003ey.\u003c/em\u003e Hence, \u003cem\u003ey\u003c/em\u003e is less than or equal to 1. Since \u003cem\u003ey \u003d\u003c/em\u003e 1 when \u003cem\u003ex\u003c/em\u003e \u003d 1, the maximum value is 1. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 17296,
+          "orderNum": 1,
+          "text": " \u0026#x2212;2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17297,
+          "orderNum": 2,
+          "text": " \u0026#x2212;1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17298,
+          "orderNum": 3,
+          "text": " 0",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17299,
+          "orderNum": 4,
+          "text": " 1",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17300,
+          "orderNum": 5,
+          "text": " 2",
+          "result": "Wrong"
+        }
+      ]
+    }
+  ],
+  "applications": []
+}

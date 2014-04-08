@@ -1,0 +1,352 @@
+{
+  "quizId": 223,
+  "name": "Problem Set J (GMAT MATH)",
+  "description": "",
+  "questions": [
+    {
+      "text": " 2 \u0026#x00D7; 10\u003csup class\u003d\"frac\"\u003e1\u003c/sup\u003e \u0026#x002B; 3 \u0026#x00D7; 10\u0026#x00B0; \u0026#x002B; 4 \u0026#x00D7; l0\u003csup class\u003d\"frac\"\u003e\u0026#x2212;1\u003c/sup\u003e \u0026#x002B; 5 \u0026#x00D7; 10\u003csup class\u003d\"frac\"\u003e\u0026#x2212;2\u003c/sup\u003e \u0026#x003D;",
+      "orderNum": 1,
+      "questionOrderNum": 1,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3123,
+      "count": 5,
+      "solution": " 2 \u0026#x00D7; 10\u003csup class\u003d\"frac\"\u003e1\u003c/sup\u003e \u0026#x002B; 3 \u0026#x00D7; 10\u0026#x00B0; \u0026#x002B; 4 \u0026#x00D7; 10\u003csup class\u003d\"frac\"\u003e\u0026#x2212;1\u003c/sup\u003e \u0026#x002B; 5 \u0026#x00D7; l0\u003csup class\u003d\"frac\"\u003e\u0026#x2212;2\u003c/sup\u003e \u003d 20 \u0026#x002B; 3 \u0026#x002B; 0.4 \u0026#x002B; 0.05 \u003d 23.45.\u003cp class\u003d\"hangingarr2\"\u003eThe answer is (C).",
+      "answers": [
+        {
+          "answerId": 17301,
+          "orderNum": 1,
+          "text": " 11.15",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17302,
+          "orderNum": 2,
+          "text": " 20.131",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17303,
+          "orderNum": 3,
+          "text": " 23.45",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17304,
+          "orderNum": 4,
+          "text": " 45.321",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17305,
+          "orderNum": 5,
+          "text": " 53.231",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " Kate ate 1/3 of a cake, Fritz ate 1/2 of the remaining cake, and what was left was eaten by Emily. The fraction of the cake eaten by Emily equals",
+      "orderNum": 2,
+      "questionOrderNum": 2,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3124,
+      "count": 5,
+      "solution": " We are given that Kate ate 1/3 of the cake. So, the uneaten part of the cake is 1 \u0026#x2212; 1/3 \u003d 2/3. Exactly 1/2 of this part is eaten by Fritz. Hence, 1 \u0026#x2212; 1/2 \u003d 1/2 of this part is uneaten. The uneaten part of the complete cake is now 1/2 \u0026#x00D7; 2/3 \u003d 1/3. This was eaten by Emily, and the answer is (B).",
+      "answers": [
+        {
+          "answerId": 17306,
+          "orderNum": 1,
+          "text": " 1/5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17307,
+          "orderNum": 2,
+          "text": " 1/3",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17308,
+          "orderNum": 3,
+          "text": " 2/3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17309,
+          "orderNum": 4,
+          "text": " 1/2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17310,
+          "orderNum": 5,
+          "text": " 3/5",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " 3/8 of a number is what fraction of 2 times the number?",
+      "orderNum": 3,
+      "questionOrderNum": 3,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3125,
+      "count": 5,
+      "solution": " Let the number be \u003cem\u003ex.\u003c/em\u003e Now, 3/8 of the number is 3\u003cem\u003ex\u003c/em\u003e/8, and 2 times the number is \u003cem\u003e2x.\u003c/em\u003e Forming the fraction yields \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_200-1.png\" alt\u003d\"\"/\u003e. The answer is (A).",
+      "answers": [
+        {
+          "answerId": 17311,
+          "orderNum": 1,
+          "text": " 3/16",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17312,
+          "orderNum": 2,
+          "text": "3/8",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17313,
+          "orderNum": 3,
+          "text": "1/2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17314,
+          "orderNum": 4,
+          "text": "4/6",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17315,
+          "orderNum": 5,
+          "text": "3/4",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " If \u003cem\u003ea\u003c/em\u003e is \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_frac3031.png\" alt\u003d\"\"/\u003e of \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_frac3132.png\" alt\u003d\"\"/\u003e and \u003cem\u003eb\u003c/em\u003e \u003d \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_frac3031.png\" alt\u003d\"\"/\u003e, then \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_fracab.png\" alt\u003d\"\"/\u003e \u003d",
+      "orderNum": 4,
+      "questionOrderNum": 4,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3126,
+      "count": 5,
+      "solution": " \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_200-2a.png\" alt\u003d\"\"/\u003e\u003cimg class\u003d\"mid\" src\u003d\"9781889057705_200-3a.png\" alt\u003d\"\"/\u003eHence, \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_200-4a.png\" alt\u003d\"\"/\u003e. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 17316,
+          "orderNum": 1,
+          "text": " 900/992",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17317,
+          "orderNum": 2,
+          "text": " 30/32",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17318,
+          "orderNum": 3,
+          "text": " 30/31",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17319,
+          "orderNum": 4,
+          "text": " 31/32",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17320,
+          "orderNum": 5,
+          "text": " 992/900",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " If \u003cem\u003ex\u003c/em\u003e is not equal to 1 and \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_199-1.png\" alt\u003d\"\"/\u003e, then which one of the following cannot be the value of \u003cem\u003ey\u003c/em\u003e ?",
+      "orderNum": 5,
+      "questionOrderNum": 5,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3127,
+      "count": 5,
+      "solution": " Since the numerator of the fraction \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_200-2.png\" alt\u003d\"\"/\u003e fraction can never equal 0. The answer is (A).",
+      "answers": [
+        {
+          "answerId": 17321,
+          "orderNum": 1,
+          "text": " 0",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17322,
+          "orderNum": 2,
+          "text": " 1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17323,
+          "orderNum": 3,
+          "text": " 2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17324,
+          "orderNum": 4,
+          "text": " 3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17325,
+          "orderNum": 5,
+          "text": " 4",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " Which one of the following does the expression \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_199-2.png\" alt\u003d\"\"/\u003e equal?",
+      "orderNum": 6,
+      "questionOrderNum": 6,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3128,
+      "count": 5,
+      "solution": " The term \u003cem\u003e2\u003c/em\u003e\u003csup class\u003d\"frac\"\u003ex\u0026#x2212;1\u003c/sup\u003e equals \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_200-3.png\" alt\u003d\"\"/\u003e, and the term \u003cem\u003e2\u003csup class\u003d\"frac\"\u003ex \u0026#x002B;1\u003c/sup\u003e\u003c/em\u003e equals 2\u003csup class\u003d\"frac\"\u003ex\u003c/sup\u003e \u0026#x00B7;2. Hence, the given expression \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_200-4.png\" alt\u003d\"\"/\u003e becomes\u003cimg class\u003d\"mid\" src\u003d\"9781889057705_200-5.png\" alt\u003d\"\"/\u003eThe answer is (B).",
+      "answers": [
+        {
+          "answerId": 17326,
+          "orderNum": 1,
+          "text": " 1 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17327,
+          "orderNum": 2,
+          "text": " 3/2",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17328,
+          "orderNum": 3,
+          "text": " 2 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17329,
+          "orderNum": 4,
+          "text": " 5/2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17330,
+          "orderNum": 5,
+          "text": " 3 ",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " There are 87 balls in a jar. Each ball is painted with at least one of two colors, red or green. It is observed that 2/7 of the balls that have red color also have green color, while 3/7 of the balls that have green color also have red color. What fraction of the balls in the jar have both red and green colors?",
+      "orderNum": 7,
+      "questionOrderNum": 7,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3129,
+      "count": 5,
+      "solution": " Let \u003cem\u003eT\u003c/em\u003e be the total number of balls, \u003cem\u003eR\u003c/em\u003e the number of balls having red color, \u003cem\u003eG\u003c/em\u003e the number having green color, and \u003cem\u003eB\u003c/em\u003e the number having both colors.So, the number of balls having only red is \u003cem\u003eR \u0026#x2212; B,\u003c/em\u003e the number having only green is \u003cem\u003eG \u0026#x2212; B,\u003c/em\u003e and the number having both is \u003cem\u003eB.\u003c/em\u003e Now, the total number of balls is \u003cem\u003eT \u003d (R \u0026#x2212; B) \u0026#x002B; (G \u0026#x2212; B) \u0026#x002B; B \u003d R \u0026#x002B; G \u0026#x2212; B.\u003c/em\u003eWe are given that 2/7 of the balls having red color have green also. This implies that \u003cem\u003eB \u003d 2R/7\u003c/em\u003e. Also, we are given that 3/7 of the green balls have red color. This implies that \u003cem\u003eB\u003c/em\u003e \u003d 3\u003cem\u003eG\u003c/em\u003e/ Solving for \u003cem\u003eR\u003c/em\u003e and \u003cem\u003eG\u003c/em\u003e in these two equations yields \u003cem\u003eR \u003d 7B/2\u003c/em\u003e and \u003cem\u003eG \u003d 7B/3\u003c/em\u003e. Substituting this into the equation \u003cem\u003eT \u003d R \u0026#x002B; G \u0026#x2212; B\u003c/em\u003e yields \u003cem\u003eT \u003d 7B/2 \u0026#x002B; 7B/3\u003c/em\u003e \u0026#x2212; \u003cem\u003eB\u003c/em\u003e. Solving for \u003cem\u003eB\u003c/em\u003e yields \u003cem\u003eB \u003d 6T/29\u003c/em\u003e. Hence, 6/29 of all the balls in the jar have both colors. The answer is (D). Note that we did not use the information: \u0026#x201C;There are 87 balls.\u0026#x201D; Sometimes, not all information in a problem is needed. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 17331,
+          "orderNum": 1,
+          "text": " 6/14",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17332,
+          "orderNum": 2,
+          "text": " 2/7",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17333,
+          "orderNum": 3,
+          "text": " 6/35",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17334,
+          "orderNum": 4,
+          "text": " 6/29",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17335,
+          "orderNum": 5,
+          "text": " 6/42",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " In a country, 60% of the male citizen and 70% of the female citizen are eligible to vote. 70% of male citizens eligible to vote voted, and 60% of female citizens eligible to vote voted. What fraction of the citizens voted during the election?",
+      "orderNum": 8,
+      "questionOrderNum": 8,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3130,
+      "count": 5,
+      "solution": "Let the number of male and female citizens in the country be m and/, respectively.\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eNow, 60% of the male citizens are eligible to vote, and 60% of m is 60\u003cem\u003em\u003c/em\u003e/100. 70% of female citizens are eligible to vote, and 70% of \u003cem\u003ef\u003c/em\u003e is 70\u003cem\u003ef\u003c/em\u003e/100.\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eWe are given that 70% of male citizens eligible to vote voted:\u003c/p\u003e\u003cimg class\u003d\"mid\" src\u003d\"9781889057705_201-1.png\" alt\u003d\"\"/\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eWe are also given that 60% of female citizens eligible to vote voted:\u003c/p\u003e\u003cimg class\u003d\"mid\" src\u003d\"9781889057705_201-2.png\" alt\u003d\"\"/\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eSo, out of the total \u003cem\u003em \u0026#x002B; f\u003c/em\u003e citizens, the total number of voters who voted is\u003c/p\u003e0.42\u003cem\u003em\u003c/em\u003e \u0026#x002B; 0.42\u003cem\u003ef\u003c/em\u003e\u003d 0.42(\u003cem\u003em \u0026#x002B; f\u003c/em\u003e)\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eHence, the required fraction is\u003c/p\u003e\u003cimg class\u003d\"mid\" src\u003d\"9781889057705_201-3.png\" alt\u003d\"\"/\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eThe answer is (A).",
+      "answers": [
+        {
+          "answerId": 17336,
+          "orderNum": 1,
+          "text": " 0.42",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17337,
+          "orderNum": 2,
+          "text": " 0.48",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17338,
+          "orderNum": 3,
+          "text": " 0.49",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17339,
+          "orderNum": 4,
+          "text": " 0.54",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17340,
+          "orderNum": 5,
+          "text": " 0.60",
+          "result": "Wrong"
+        }
+      ]
+    }
+  ],
+  "applications": []
+}

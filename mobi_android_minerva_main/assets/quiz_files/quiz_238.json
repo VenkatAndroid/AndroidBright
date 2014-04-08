@@ -1,0 +1,997 @@
+{
+  "quizId": 238,
+  "name": "Problem Set Y (GMAT MATH)",
+  "description": "",
+  "questions": [
+    {
+      "text": "A stockholder holds one share each of two different companies A and B. Last month, the value of a share of Company A increased by 13 dollars and that of Company B decreased by 8 dollars. How much did the net value of the two shares increase last month?",
+      "orderNum": 1,
+      "questionOrderNum": 1,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3361,
+      "count": 5,
+      "solution": " We have that the value of a share of Company A increased by 13 dollars and that of Company B decreased by 8 dollars. Hence, the net increase in the combined value of the two shares is 13 \u0026#x2212; 8 \u003d 5. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 18465,
+          "orderNum": 1,
+          "text": " 2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18466,
+          "orderNum": 2,
+          "text": " 3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18467,
+          "orderNum": 3,
+          "text": " 4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18468,
+          "orderNum": 4,
+          "text": " 5",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18469,
+          "orderNum": 5,
+          "text": " 6",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "Which one of the following products has the greatest value?",
+      "orderNum": 2,
+      "questionOrderNum": 2,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3362,
+      "count": 5,
+      "solution": " Each answer-choice has two factors. The first factor of each answer-choice varies from 6.00 to 6.04, and the second factor varies from 0.16 to 0.20. The percentage change in the first factor is very small (0.67\u0026#x0025;) compared to the large (almost 25\u0026#x0025;) change in the second factor. Hence, we can approximate the first factor with 6.00, and the answer-choice that has the greatest second factor [choice (A)] is the biggest. Hence, the answer is (A)Method II:\u003cbr/\u003eAll the answer-choices are positive. Hence, we can use the ratios of the answer-choices to find which choice is the greatest:\u003cimg src\u003d\"9781889057705_409-1.png\" alt\u003d\"\"/\u003ePositive Numerator \u0026#x00F7; Lesser Positive Denominator \u0026#x003E; 1\u003cbr/\u003eHence, Choice (A) \u0026#x003E; Choice (B). Reject Choice (B)\u003cimg src\u003d\"9781889057705_409-png\" alt\u003d\"\"/\u003e\u003c/pPositive Numerator \u0026#x00F7; Lesser Positive Denominator \u0026#x003E; 1\u003cbr/\u003eHence, Choice (A) \u0026#x003E; Choice (C). Reject Choice (C)\u003cimg src\u003d\"9781889057705_409-3.png\" alt\u003d\"\"/\u003ePositive Numerator \u0026#x00F7; Lesser Positive Denominator \u0026#x003E; 1\u003cbr/\u003eHence, Choice (A) \u0026#x003E; Choice (D). Reject Choice (D)\u003cimg src\u003d\"9781889057705_409-4.png\" alt\u003d\"\"/\u003ePositive Numerator \u0026#x00F7; Lesser Positive Denominator \u0026#x003E; 1\u003cbr/\u003eHence, Choice (A) \u0026#x003E; Choice (E). Reject Choice (E)The answer is (A).",
+      "answers": [
+        {
+          "answerId": 18470,
+          "orderNum": 1,
+          "text": " 6.00 \u0026#x00D7; 0.20",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18471,
+          "orderNum": 2,
+          "text": " 6.01 \u0026#x00D7; 0.19",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18472,
+          "orderNum": 3,
+          "text": " 6.02 \u0026#x00D7; 0.18",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18473,
+          "orderNum": 4,
+          "text": " 6.03 \u0026#x00D7; 0.17",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18474,
+          "orderNum": 5,
+          "text": " 6.04 \u0026#x00D7; 0.16",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "A fund was invested 25 years ago. Its value is approximately \u0026#x0024;300,000 now. If the value of the fund doubled each year for the last 10 years, how long ago was the value of the fund exactly half of the current value?",
+      "orderNum": 3,
+      "questionOrderNum": 3,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3363,
+      "count": 5,
+      "solution": " Since the value of the fund doubled each year for the last 10 years, its value would halve \u003cem\u003eeach\u003c/em\u003e year going back for the period. Hence, the answer is (B).",
+      "answers": [
+        {
+          "answerId": 18475,
+          "orderNum": 1,
+          "text": " Half a year ago.",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18476,
+          "orderNum": 2,
+          "text": " 1 year ago.",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18477,
+          "orderNum": 3,
+          "text": " 2 years ago.",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18478,
+          "orderNum": 4,
+          "text": " 5 years ago.",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18479,
+          "orderNum": 5,
+          "text": " 10 years ago.",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "Park, Jack, and Galvin distributed prize money of \u003cem\u003ex\u003c/em\u003e dollars among themselves. Park received 3/10 of what Jack and Galvin together received. Jack received 3/11 of what Park and Galvin together received. What is the ratio of the amount received by Park to the amount received by Jack?",
+      "orderNum": 4,
+      "questionOrderNum": 4,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3364,
+      "count": 5,
+      "solution": " Let the amounts received by Park, Jack and Galvin be \u003cem\u003eP, J,\u003c/em\u003e and \u003cem\u003eG\u003c/em\u003e, respectively.Since the prize money, \u003cem\u003ex,\u003c/em\u003e was distributed to Park, Jack, and Galvin, the amount that Jack and Galvin together received equals \u003cem\u003ex\u003c/em\u003e \u0026#x2212; (the amount received by Park) \u003d 120 \u0026#x2212; \u003cem\u003eP.\u003c/em\u003eSince we are given that Park received 3/10 of what Jack and Galvin together received, we have the equation \u003cem\u003eP\u003c/em\u003e \u003d (3/10)(\u003cem\u003ex\u003c/em\u003e \u0026#x2212; \u003cem\u003eP\u003c/em\u003e). Solving the equation for \u003cem\u003eP\u003c/em\u003e yields \u003cem\u003eP\u003c/em\u003e \u003d 3\u003cem\u003ex\u003c/em\u003e/13.Similarly, since we are given that Jack received 3/11 of what Park and Galvin together received (\u003cem\u003ex\u003c/em\u003e \u0026#x2212; \u003cem\u003eJ\u003c/em\u003e), we have the equation \u003cem\u003eJ\u003c/em\u003e \u003d (3/11)(\u003cem\u003ex\u003c/em\u003e \u0026#x2212; \u003cem\u003eJ\u003c/em\u003e). Solving the equation yields \u003cem\u003eJ\u003c/em\u003e \u003d 3\u003cem\u003ex\u003c/em\u003e/1Now, \u003cem\u003eP\u003c/em\u003e : \u003cem\u003eJ\u003c/em\u003e \u003d 3\u003cem\u003ex\u003c/em\u003e/13 : 3\u003cem\u003ex\u003c/em\u003e/14 \u003d 14 : 13. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 18480,
+          "orderNum": 1,
+          "text": " 7:8",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18481,
+          "orderNum": 2,
+          "text": " 8:7",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18482,
+          "orderNum": 3,
+          "text": " 10: 11",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18483,
+          "orderNum": 4,
+          "text": " 14: 13",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18484,
+          "orderNum": 5,
+          "text": " 77:80",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "Neel and Nick are brothers. Neel is a distributor and Nick is a retailer. Neel purchased electronic shavers of a particular type at \u0026#x0024;4 a piece and sold all of them to Nick at \u0026#x0024;6 a piece. Nick sold all the shavers at \u0026#x0024;8 a piece to consumers.\u003cbr\u003eWhat is the total profit in dollars made by the two brothers on 100 pieces?",
+      "orderNum": 5,
+      "questionOrderNum": 5,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3365,
+      "count": 5,
+      "solution": " Neel purchased the shavers at \u0026#x0024;4 a piece and Nick sold the same pieces at \u0026#x0024;8 a piece. Hence, the net profit gained on each piece is 8 \u0026#x2212; 4 \u003d 4 dollars. On 100 pieces, the total profit is 4 \u0026#x00B7; 100 \u003d 400 dollars. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 18485,
+          "orderNum": 1,
+          "text": " 100",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18486,
+          "orderNum": 2,
+          "text": " 150",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18487,
+          "orderNum": 3,
+          "text": " 200",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18488,
+          "orderNum": 4,
+          "text": " 400",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18489,
+          "orderNum": 5,
+          "text": " 800",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "Neel and Nick are brothers. Neel is a distributor and Nick is a retailer. Neel purchased electronic shavers of a particular type at \u0026#x0024;4 a piece and sold all of them to Nick at \u0026#x0024;6 a piece. Nick sold all the shavers at \u0026#x0024;8 a piece to consumers.\u003cbr\u003eIf the percentage of profit is defined as (profit/cost) \u0026#x00B7; 100, then which one of the following equals the percentage of profit made by Neel?",
+      "orderNum": 6,
+      "questionOrderNum": 6,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3366,
+      "count": 5,
+      "solution": " Neel purchased the shavers at \u0026#x0024;4 a piece. He sold the shavers at \u0026#x0024;6 a piece. The profit is 6 \u0026#x2212; 4 \u003d 2. Hence, the percentage of profit made by Neel equals (profit/cost) \u0026#x00B7; 100 \u003d 2/4 \u0026#x00B7; 100 \u003d 1/2 \u0026#x00B7; 100 \u003d 50\u0026#x0025;. Hence, the answer is (E).",
+      "answers": [
+        {
+          "answerId": 18490,
+          "orderNum": 1,
+          "text": " 10\u0026#x0025;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18491,
+          "orderNum": 2,
+          "text": " 20\u0026#x0025;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18492,
+          "orderNum": 3,
+          "text": " 25\u0026#x0025;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18493,
+          "orderNum": 4,
+          "text": " 33.3\u0026#x0025;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18494,
+          "orderNum": 5,
+          "text": " 50\u0026#x0025;",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "John was born on February 28, 1999. It was a Sunday. February of that year had only 28 days, and the year had exactly 365 days. His brother Jack was born on the same day of the year 2000. February of the year 2000 had 29 days. On which day was Jack born?",
+      "orderNum": 7,
+      "questionOrderNum": 7,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3367,
+      "count": 5,
+      "solution": " The period February 28, 1999 through February 28, 2000 (not including the former date) does not include the complete month of February 2000 (which actually had 29 days). Hence, the length of the period is exactly 365 days (equal to the length of a normal year). Now, dividing 365 by 7 (the number of days in a week) yields a quotient of 52 and a remainder of 1. Hence, the exact length of the period is 52 weeks and one day. Hence, the day February 28 of the year 2000 would advance by one day over the date February 28 of the year 1999. Hence, since February 28, 1999 is a Sunday, the date February 28, 2000 is a Monday. The answer is (A).",
+      "answers": [
+        {
+          "answerId": 18495,
+          "orderNum": 1,
+          "text": " Monday",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18496,
+          "orderNum": 2,
+          "text": " Tuesday",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18497,
+          "orderNum": 3,
+          "text": " Friday",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18498,
+          "orderNum": 4,
+          "text": " Saturday",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18499,
+          "orderNum": 5,
+          "text": " Sunday",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "The money John has is just enough to buy him either 100 apples and 150 oranges, or 50 apples and 225 oranges. Which one of the following equals the ratio of the cost of 100 apples to the cost of 150 oranges?",
+      "orderNum": 8,
+      "questionOrderNum": 8,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3368,
+      "count": 5,
+      "solution": " Let the cost of each apple be \u003cem\u003ea\u003c/em\u003e, and the cost of each orange be \u003cem\u003eb.\u003c/em\u003e We are given that 100 apples and 150 oranges together cost the same as the combined cost of 50 apples and 225 oranges. Hence, we have the equation\u003cimg src\u003d\"9781889057705_410-1.png\" alt\u003d\"\"/\u003eHence, the apples cost 3/2 times as much as the oranges. Now, 100 apples cost 100\u003cem\u003ea\u003c/em\u003e, and 150 oranges cost 150\u003cem\u003eb\u003c/em\u003e, which equals 150(2\u003cem\u003ea\u003c/em\u003e/3) [using the known equation 2\u003cem\u003ea\u003c/em\u003e/3 \u003d \u003cem\u003eb\u003c/em\u003e] \u003d 100\u003cem\u003ea\u003c/em\u003e. Hence, the required ratio is 100\u003cem\u003ea\u003c/em\u003e : 100\u003cem\u003ea\u003c/em\u003e \u003d 1 : 1. The answer is (A).",
+      "answers": [
+        {
+          "answerId": 18500,
+          "orderNum": 1,
+          "text": " 1:1",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18501,
+          "orderNum": 2,
+          "text": " 1:3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18502,
+          "orderNum": 3,
+          "text": " 2:3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18503,
+          "orderNum": 4,
+          "text": " 5:6",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18504,
+          "orderNum": 5,
+          "text": " 3:5",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "Two sets A and B are defined as\u003cbr\u003eSet \u003cem\u003eA\u003c/em\u003e \u003d {\u0026#x2212;2,-l,0, 1,2}\u003cbr\u003eSet \u003cem\u003eB\u003c/em\u003e \u003d {\u0026#x2212;4, \u0026#x2212;2, 0, 2, 4,}\u003cbr\u003eWhich one of the following equals the sum of the products of each element in \u003cem\u003eA\u003c/em\u003e with each element in \u003cem\u003eB\u003c/em\u003e",
+      "orderNum": 9,
+      "questionOrderNum": 9,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3369,
+      "count": 5,
+      "solution": " The sum of the products of each element in \u003cem\u003eA\u003c/em\u003e with each element in \u003cem\u003eB\u003c/em\u003e\u003cimg src\u003d\"9781889057705_410-2a.png\" alt\u003d\"\"/\u003eThe answer is (C).",
+      "answers": [
+        {
+          "answerId": 18505,
+          "orderNum": 1,
+          "text": " \u0026#x2212;20",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18506,
+          "orderNum": 2,
+          "text": " \u0026#x2212;10",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18507,
+          "orderNum": 3,
+          "text": " 0",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18508,
+          "orderNum": 4,
+          "text": " 10",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18509,
+          "orderNum": 5,
+          "text": " 20",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "A manufacturer sells goods at \u0026#x0024;4 per unit to stockists after a 10\u0026#x0025; profit. The stockists then sell the goods to distributors at 25\u0026#x0025; profit. The distributor adds a 20\u0026#x0025; profit on it and sells it to a retailer.\u003cbr\u003eAt what price (per unit) did the retailer purchase the goods?",
+      "orderNum": 10,
+      "questionOrderNum": 10,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3370,
+      "count": 5,
+      "solution": " The supply chain can be visually mapped as shown:The manufacturer sells the goods to stockists at \u0026#x0024;4 per unit\u003cimg src\u003d\"9781889057705_411-1.png\" alt\u003d\"\"/\u003eThe stockist now sells the goods to distributors at a profit of 25\u0026#x0025;. By the formula, Selling price \u003d (Cost price)(l \u0026#x002B; profit percent/100), the selling price of the stockist (which also equals the cost price to the distributors) is 4(1 \u0026#x002B; 25/100) \u003d 4(1 \u0026#x002B; 1/4) \u003d 4(5/4) \u003d \u0026#x0024;5.Then the distributor sells the goods to retailers after a profit of 20\u0026#x0025;. Again since the Selling price \u003d (Cost price)(l \u0026#x002B; profit percent/100), the selling price of the distributor is 5(1 \u0026#x002B; 20/100) \u003d 5(1 \u0026#x002B; 1/5) \u003d 5(6/5) \u003d \u0026#x0024;6. This is also the cost price of the retailer. Hence, the answer is (B).",
+      "answers": [
+        {
+          "answerId": 18510,
+          "orderNum": 1,
+          "text": " 0.6",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18511,
+          "orderNum": 2,
+          "text": " 6",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18512,
+          "orderNum": 3,
+          "text": " 6.3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18513,
+          "orderNum": 4,
+          "text": " 6.6",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18514,
+          "orderNum": 5,
+          "text": " 7",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "A manufacturer sells goods at \u0026#x0024;4 per unit to stockists after a 10\u0026#x0025; profit. The stockists then sell the goods to distributors at 25\u0026#x0025; profit. The distributor adds a 20\u0026#x0025; profit on it and sells it to a retailer.\u003cbr\u003eIf the retailer sells the goods to the end customer at 10\u0026#x0025; profit, then what does each unit of the goods cost to a customer?",
+      "orderNum": 11,
+      "questionOrderNum": 11,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3371,
+      "count": 5,
+      "solution": " The cost price to the end customer is the selling price of the retailer. The goods cost \u0026#x0024;6 per unit to the retailer (from the solution of the previous question). He sells it to the end customer after 10\u0026#x0025; profit. Hence, by the formula, selling price \u003d (cost price)(l \u0026#x002B; profit percent/100) \u003d \u0026#x0024;6(1 \u0026#x002B; 10/100) \u003d \u0026#x0024;6.6. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 18515,
+          "orderNum": 1,
+          "text": " 4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18516,
+          "orderNum": 2,
+          "text": " 5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18517,
+          "orderNum": 3,
+          "text": " 6",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18518,
+          "orderNum": 4,
+          "text": " 6.6 ",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18519,
+          "orderNum": 5,
+          "text": " 7 ",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "The letters of the word JOHNY can be jumbled in 120 ways. In how many of them does the letter \u0026#x2018;H\u0026#x2019; appear in the middle?",
+      "orderNum": 12,
+      "questionOrderNum": 12,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3372,
+      "count": 5,
+      "solution": " To form a word by jumbling the five-lettered word JOHNY, the letter \u0026#x2018;H\u0026#x2019; can be placed in any one of the five relative positions with equal probability. Hence, one fifth of the jumbled words will have the letter \u0026#x2018;H\u0026#x2019; in the middle. We know that a total of 120 words can be formed by jumbling the word JOHNY. Hence, one-fifth of them (1/5 \u0026#x00D7; 120 \u003d 24 words) have the letter \u0026#x2018;H\u0026#x2019; in the middle. The answer is (C)Method II\u003cbr/\u003eLet the letters of the words be represented by 5 compartments:\u003cimg src\u003d\"9781889057705_411-2.png\" alt\u003d\"\"/\u003ePlacing H in the middle compartment gives\u003cimg src\u003d\"9781889057705_411-3.png\" alt\u003d\"\"/\u003eNow, there are 4 letters remaining for the first position (J, O, N, Y):\u003cimg src\u003d\"9781889057705_411-4.png\" alt\u003d\"\"/\u003eSince one of these letters will be used for the first position, there are 3 letters available for the second position:\u003cimg src\u003d\"9781889057705_411-5.png\" alt\u003d\"\"/\u003eSimilarly, there are 2 letters available for the fourth position and 1 letter for the fifth position:\u003cimg src\u003d\"9781889057705_411-6.png\" alt\u003d\"\"/\u003eMultiplying the options gives\u003cimg src\u003d\"9781889057705_411-7.png\" alt\u003d\"\"/\u003eThe answer is (C).",
+      "answers": [
+        {
+          "answerId": 18520,
+          "orderNum": 1,
+          "text": " 1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18521,
+          "orderNum": 2,
+          "text": " 20",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18522,
+          "orderNum": 3,
+          "text": " 24",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18523,
+          "orderNum": 4,
+          "text": " 26",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18524,
+          "orderNum": 5,
+          "text": " 30",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "Craig invited four friends to watch a TV show. He arranged 5 seats in a row. The number of ways he and his four friends can sit in the row is \u003cem\u003en.\u003c/em\u003e In how many of these ways can Craig sit in the middle?",
+      "orderNum": 13,
+      "questionOrderNum": 13,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3373,
+      "count": 5,
+      "solution": " In all the arrangements that can be formed, Craig is equally likely to sit in any one of the 5 seats. Hence, in one-fifth of all the arrangements, Craig sits in the middle seat. Since there are \u003cem\u003en\u003c/em\u003e possible arrangements, he sits in the middle seat \u003cem\u003en\u003c/em\u003e/5 times. The answer is (E).",
+      "answers": [
+        {
+          "answerId": 18525,
+          "orderNum": 1,
+          "text": " \u003cem\u003en\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18526,
+          "orderNum": 2,
+          "text": " \u003cem\u003en\u003c/em\u003e/2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18527,
+          "orderNum": 3,
+          "text": " \u003cem\u003en\u003c/em\u003e/3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18528,
+          "orderNum": 4,
+          "text": " \u003cem\u003en\u003c/em\u003e/4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18529,
+          "orderNum": 5,
+          "text": " \u003cem\u003en\u003c/em\u003e/5",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "Eric and Ortega and their teammates watch a movie. They all sit in a row, and they can sit in \u003cem\u003en\u003c/em\u003e different ways. In how many of the ways can Eric sit to the right of Ortega?",
+      "orderNum": 14,
+      "questionOrderNum": 14,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3374,
+      "count": 5,
+      "solution": " In any arrangement, it is equally likely that Eric sits to the right of Ortega, or not. Hence, in exactly half of the \u003cem\u003en\u003c/em\u003e possible arrangements, Eric sits to the right of Ortega. Now, half of \u003cem\u003en\u003c/em\u003e is \u003cem\u003en\u003c/em\u003e/2 The answer is (B).",
+      "answers": [
+        {
+          "answerId": 29328,
+          "orderNum": 1,
+          "text": " \u003cem\u003en\u003c/em\u003e",
+          "result": "INCORRECT"
+        },
+        {
+          "answerId": 18530,
+          "orderNum": 2,
+          "text": " \u003cem\u003en/2\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18531,
+          "orderNum": 3,
+          "text": " \u003cem\u003en/3\u003c/em\u003e",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18532,
+          "orderNum": 4,
+          "text": " \u003cem\u003en/4\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18533,
+          "orderNum": 5,
+          "text": " \u003cem\u003en/5\u003c/em\u003e",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "If distinct numbers \u003cem\u003ex, y, z,\u003c/em\u003e and \u003cem\u003ep\u003c/em\u003e are chosen from the numbers \u0026#x2212;2, 2, 1/2, \u0026#x2212;1/3, what is the largest possible value of the expression \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_406-1.png\" alt\u003d\"\"/\u003e?",
+      "orderNum": 15,
+      "questionOrderNum": 15,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3375,
+      "count": 5,
+      "solution": " The numerator is \u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e\u003cem\u003ey.\u003c/em\u003e To maximize the value of the expression \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_412-1.png\" alt\u003d\"\"/\u003e, this has to be as big as possible and should be positive if possible. Since \u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e is positive (whether \u003cem\u003ex\u003c/em\u003e is negative or positive) use up a negative number for \u003cem\u003ex\u003c/em\u003e. Since \u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e is in the numerator, choose a big number (in absolute value) for \u003cem\u003ex\u003c/em\u003e, choose \u0026#x2212;2. Also, choose a big positive number for \u003cem\u003ey\u003c/em\u003e in order to maximize the value of the given expression. So, choose 2 for \u003cem\u003ey\u003c/em\u003e.The denominator \u003cem\u003ez\u003c/em\u003e \u0026#x2212; \u003cem\u003ep.\u003c/em\u003e Make this a positive value by choosing a positive value for the minimum value of \u003cem\u003ez\u003c/em\u003e and a maximum value (in absolute value) for \u003cem\u003ep.\u003c/em\u003e So, choose \u003cem\u003ez\u003c/em\u003e \u003d 1/2 and \u003cem\u003ep\u003c/em\u003e \u003d \u0026#x2212;1/3. So \u003cem\u003ez\u003c/em\u003e \u0026#x2212; \u003cem\u003ep\u003c/em\u003e \u003d 1/2 \u0026#x2212; (\u0026#x2212;1/3) \u003d 1/2 \u0026#x002B; 1/3 \u003d 5/6.Hence, \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_412-2.png\" alt\u003d\"\"/\u003e. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 18534,
+          "orderNum": 1,
+          "text": " 26/4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18535,
+          "orderNum": 2,
+          "text": " 34/5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18536,
+          "orderNum": 3,
+          "text": " 38/5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18537,
+          "orderNum": 4,
+          "text": " 48/5",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18538,
+          "orderNum": 5,
+          "text": " 52/5",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "A bank pays interest to its customers on the last day of the year. The interest paid to a customer is calculated as 10\u0026#x0025; of the average monthly balance maintained by the customer. John is a customer at the bank. On the last day, when the interest was accumulated into his account, his bank balance doubled to \u0026#x0024;5680. What is the average monthly balance maintained by John in his account during the year?",
+      "orderNum": 16,
+      "questionOrderNum": 16,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3376,
+      "count": 5,
+      "solution": " Since the balance in John\u0026#x2019;s account doubled on the last day to \u0026#x0024;5680, from the accumulation of the interest, the interest added into his account must equal 5680/2 \u003d 2840 dollars.Since the interest is calculated as 10\u0026#x0025; of average monthly balance maintained, we have the equation10\u0026#x0025; of Average Monthly Balance \u003d 2840\u003cbr/\u003e10/100 \u0026#x00D7; Average Monthly Balance \u003d 2840\u003cbr/\u003e1/10 \u0026#x00D7; Average Monthly Balance \u003d 2840\u003cbr/\u003eAverage Monthly Balance \u003d 10 \u0026#x00D7; 2840 \u003d 28400The answer is (E).",
+      "answers": [
+        {
+          "answerId": 18539,
+          "orderNum": 1,
+          "text": " 2840",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18540,
+          "orderNum": 2,
+          "text": " 5680",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18541,
+          "orderNum": 3,
+          "text": " 6840",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18542,
+          "orderNum": 4,
+          "text": " 7540",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18543,
+          "orderNum": 5,
+          "text": " 28400",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "\u003cimg src\u003d\"9781889057705_407-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003eWhich one of the following diets or the combination of diets supplies more protein for every dollar?",
+      "orderNum": 17,
+      "questionOrderNum": 17,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3377,
+      "count": 5,
+      "solution": " The protein per dollar equals the protein (in grams)/weight (in grams) \u0026#x00D7; weight (in grams)/money(dollars). Now, calculating the value for each diet we have\u003cimg src\u003d\"9781889057705_412-3.png\" alt\u003d\"\"/\u003eAmong the three foods, Food B has the greatest value (0.667 grams of protein per dollar). Any combination of this food with either of the two other foods A and C would only decrease the value of proteins per dollar. Hence, the answer is (B).",
+      "answers": [
+        {
+          "answerId": 18544,
+          "orderNum": 1,
+          "text": " Food A",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18545,
+          "orderNum": 2,
+          "text": " Food B",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18546,
+          "orderNum": 3,
+          "text": " Food C",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18547,
+          "orderNum": 4,
+          "text": " 60\u0026#x0025; food B and 40\u0026#x0025; food C",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18548,
+          "orderNum": 5,
+          "text": " 60\u0026#x0025; food A and 40\u0026#x0025; food C",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "\u003cimg src\u003d\"9781889057705_407-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003eWhich diet supplies more protein than fat in each gram?",
+      "orderNum": 18,
+      "questionOrderNum": 18,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3378,
+      "count": 5,
+      "solution": " The protein-fat ratio for the foods here equals the ratio of \u0026#x201C;\u0026#x0025; of protein\u0026#x201D; to \u0026#x201C;\u0026#x0025; of fat.\u0026#x201D; The ratios for foods A, B and C are, respectively, 10/30 \u003d 1/3, 20/20 \u003d 1/1, 30/35 \u003d 6/7. In all of these, protein is less than fat.Choice (C): Now, considering the combination in choice (C), food A to B ratio is 60 : 40.\u003cbr/\u003eHence, choose 6 gm of food A and 4 gm of food B, so that foods are in this ratio.\u003cbr/\u003eFood A has 10\u0026#x0025; protein and 30\u0026#x0025; fat. 10\u0026#x0025; of 6 gm is 0.6 and 30\u0026#x0025; of 6 is 1.8.\u003cbr/\u003eFood B has 20\u0026#x0025; protein and 10\u0026#x0025; fat. 20\u0026#x0025; of 4 gm is 0.8 and 10\u0026#x0025; of 4 is 0.4.\u003cbr/\u003eThe net sum: Protein \u003d 0.6 (from A) \u0026#x002B; 0.8 (from B) \u003d 1.4.\u003cbr/\u003eThe net sum: Fat \u003d 1.8 (from A) \u0026#x002B; 0.4 (from B) \u003d 2.2.\u003cbr/\u003eThe food has less protein than Fat. Reject the choice.Choice (D): Now, considering the combination in choice (D), food B to C ratio is 60 : 40. Hence, choose 6 gm of food B and 4 gm of food C, so that foods are in this ratio.Food B has 20\u0026#x0025; protein and 10\u0026#x0025; fat. 20\u0026#x0025; of 6 gm is 1.2 and 10\u0026#x0025; of 6 is 0.6.\u003cbr/\u003eFood C has 30\u0026#x0025; protein and 35\u0026#x0025; fat. 30\u0026#x0025; of 4 gm is 1.2 and 35\u0026#x0025; of 4 is 1.4.The net sum: Protein \u003d 1.2 (from B) \u0026#x002B; 1.2 (from C) \u003d 2.4.\u003cbr/\u003eThe net sum: Fat \u003d 0.6 (from B) \u0026#x002B; 1.4 (from C) \u003d 2.0.\u003cbr/\u003eThe food has more protein than Fat. This is a correct choice.Choice (E): Both the foods A and C have higher fat percentage than protein percentage. So, any combination of the food will not result in a higher protein than fat. Reject the choice.The answer is (D).",
+      "answers": [
+        {
+          "answerId": 18549,
+          "orderNum": 1,
+          "text": " Food A ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18550,
+          "orderNum": 2,
+          "text": " Food B ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18551,
+          "orderNum": 3,
+          "text": " Foods A and B in the ratio 60 : 40",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18552,
+          "orderNum": 4,
+          "text": " Foods B and C in the ratio 60 : 40",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18553,
+          "orderNum": 5,
+          "text": " Foods A and C in the ratio 60 : 40",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "Forty tiles of dimensions 1 foot \u0026#x00D7; 2 foot each are required to completely cover a floor. How many tiles of dimensions 2 foot \u0026#x00D7; 4 foot each would be required to completely cover the same floor?",
+      "orderNum": 19,
+      "questionOrderNum": 19,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3379,
+      "count": 5,
+      "solution": " The area of a 2 \u0026#x00D7; 4 tile is 4 times as large as the area of a 1 \u0026#x00D7; 2 tile. Hence, we need only 1/4 as many large tiles to cover the same area as the 40 small tiles. Hence, 40/4 \u003d 10. The answer is (A).",
+      "answers": [
+        {
+          "answerId": 18554,
+          "orderNum": 1,
+          "text": " 10",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18555,
+          "orderNum": 2,
+          "text": " 20 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18556,
+          "orderNum": 3,
+          "text": " 80",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18557,
+          "orderNum": 4,
+          "text": " 160",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18558,
+          "orderNum": 5,
+          "text": " 320",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "If \u003cem\u003es\u003c/em\u003e and \u003cem\u003et\u003c/em\u003e are positive integers and \u003cem\u003es/t\u003c/em\u003e \u003d 39.12, then which one of the following could \u003cem\u003et\u003c/em\u003e equal?",
+      "orderNum": 20,
+      "questionOrderNum": 20,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3380,
+      "count": 5,
+      "solution": " We have that \u003cem\u003es\u003c/em\u003e/\u003cem\u003et\u003c/em\u003e \u003d 39.12. Solving for \u003cem\u003es\u003c/em\u003e yields \u003cem\u003es\u003c/em\u003e \u003d39.12\u003cem\u003et\u003c/em\u003e \u003d(39 \u0026#x002B; 0.12)\u003cem\u003et\u003c/em\u003e \u003d39\u003cem\u003et\u003c/em\u003e \u0026#x002B;0.12\u003cem\u003et\u003c/em\u003e \u003d39 \u0026#x00D7; (a positive integer) \u0026#x002B; 0.12\u003cem\u003et\u003c/em\u003e \u003d(a positive integer) \u0026#x002B; 0.12\u003cem\u003et\u003c/em\u003e\u003cem\u003es\u003c/em\u003e is a positive integer only when 0.12\u003cem\u003et\u003c/em\u003e is also a positive integer. Now, 0.12\u003cem\u003et\u003c/em\u003e equals 12/100 \u0026#x00D7; \u003cem\u003et\u003c/em\u003e \u003d 3/25 \u0026#x00D7; \u003cem\u003et\u003c/em\u003e and would result in an integer only when the denominator of the fraction (i.e., 25) is canceled out by \u003cem\u003et\u003c/em\u003e. This happens when \u003cem\u003et\u003c/em\u003e is a multiple of 25. The only answer-choice that is a multiple of 25 is (E).",
+      "answers": [
+        {
+          "answerId": 18559,
+          "orderNum": 1,
+          "text": " 8",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18560,
+          "orderNum": 2,
+          "text": " 13",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18561,
+          "orderNum": 3,
+          "text": " 15",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18562,
+          "orderNum": 4,
+          "text": " 60",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18563,
+          "orderNum": 5,
+          "text": " 75",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "What is the mimmum number of tiles of size 16 by 24 required to form a square by placing the tiles adjacent to one another other?",
+      "orderNum": 21,
+      "questionOrderNum": 21,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3381,
+      "count": 5,
+      "solution": " Let \u003cem\u003em\u003c/em\u003e columns and \u003cem\u003en\u003c/em\u003e rows be formed from the tiles of size 16 \u0026#x00D7; 24. Let the columns be formed by the 16 inch sides and the rows be formed by the 24 inch sides. Then the total length of all the rows is 16\u003cem\u003em\u003c/em\u003e, and the total length of all the columns is 24\u003cem\u003en\u003c/em\u003e.Since the result is a square, 16\u003cem\u003em\u003c/em\u003e \u003d 24\u003cem\u003en\u003c/em\u003e or \u003cem\u003em/n\u003c/em\u003e \u003d 24/16 \u003d 3/2. The minimum possible values of \u003cem\u003em\u003c/em\u003e and \u003cem\u003en\u003c/em\u003e are 3 and 2, respectively. Hence, the total number of tiles required is \u003cem\u003emn\u003c/em\u003e \u003d 3 \u0026#x00D7; 2 \u003d 6. The answer is (A)Method II\u003cbr/\u003eSince the tiles form a square, a side of the square formed must be a multiple of both 16 and 24. The least such number is 48. Since 48/16 \u003d 3, there are three columns of length 16. Since 48/2 \u003d 24, there are two rows of length 24. Hence, the total number of tiles required is 3 \u0026#x00D7; 2 \u003d 6. The answer is (A).",
+      "answers": [
+        {
+          "answerId": 18564,
+          "orderNum": 1,
+          "text": " 6",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18565,
+          "orderNum": 2,
+          "text": " 8 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18566,
+          "orderNum": 3,
+          "text": " 11",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18567,
+          "orderNum": 4,
+          "text": " 16",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18568,
+          "orderNum": 5,
+          "text": " 24",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "In 2003, there are 28 days in February and there are 365 days in the year. In 2004, there are 29 days in February and there are 366 days in the year. If the date March 11, 2003 is a Tuesday, then which one of the following would the date March 11, 2004 be?",
+      "orderNum": 22,
+      "questionOrderNum": 22,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3382,
+      "count": 5,
+      "solution": " The period March 11, 2003 through March 11, 2004, not including the former date, includes the complete month of February 2004. So, the length of the period is 366 days (equal to the length of a leap year). The number 366 has a quotient of 52 and a remainder of 2 when divided by 7. Hence, the length of the period is 52 weeks and 2 days. So, the date March 11, 2004 is 2 days advanced over the date March 11, 2003, which is given to be a Tuesday. The second day after a Tuesday is a Thursday. Hence, March 11, 2004 is a Thursday. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 18569,
+          "orderNum": 1,
+          "text": " Monday ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18570,
+          "orderNum": 2,
+          "text": " Tuesday ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18571,
+          "orderNum": 3,
+          "text": " Wednesday",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18572,
+          "orderNum": 4,
+          "text": " Thursday",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18573,
+          "orderNum": 5,
+          "text": " Sunday ",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "There are 5 packers \u003cem\u003eA, B,C, D,\u003c/em\u003e and \u003cem\u003eE\u003c/em\u003e in a company. The five packers \u003cem\u003eA,B,C,D\u003c/em\u003e and \u003cem\u003eE\u003c/em\u003e charge \u0026#x0024;66, \u0026#x0024;52, \u0026#x0024;46, \u0026#x0024;32, and \u0026#x0024;28, respectively, to pack each item. The time taken by the packers to pack one item is 20 minutes, 24 minutes, 30 minutes, 40 minutes and 48 minutes, respectively. All the items are sold at the end of the day. Each item earns a profit of 100 dollars, and the packers are paid from this profit. If each packer works 8 hours a day, which packer contributes the most to the net profit of the company?",
+      "orderNum": 23,
+      "questionOrderNum": 23,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3383,
+      "count": 5,
+      "solution": "Each item earns a profit of 100 dollars for the company. If a packer charges \u003cem\u003ex\u003c/em\u003e dollars for each item, the profit that the company would effectively get on each item packed would be 100 \u0026#x2212; \u003cem\u003ex\u003c/em\u003e.\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eEach worker works for 8 hours (\u003d 480 minutes). Hence, if a worker takes \u003cem\u003et\u003c/em\u003e minutes to pack an item, then he would pack 480/\u003cem\u003et\u003c/em\u003e items each day. So, the net profit on the 480/\u003cem\u003et\u003c/em\u003e items is \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_414-1.png\" alt\u003d\"\"/\u003e. The expression \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_414-2.png\" alt\u003d\"\"/\u003e is a maximum when \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_414-3.png\" alt\u003d\"\"/\u003e is maximum.\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eHence, select the answer-choice that yields the maximum value of the expression \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_414-4.png\" alt\u003d\"\"/\u003e:\u003c/p\u003e\n\u003cp class\u003d\"paran\"\u003e\u003cimg class\u003d\"mid\" src\u003d\"9781889057705_414-5.png\" alt\u003d\"\"/\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eHence, the correct choice is (B).",
+      "answers": [
+        {
+          "answerId": 18574,
+          "orderNum": 1,
+          "text": " Packer \u003cem\u003eA\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18575,
+          "orderNum": 2,
+          "text": " Packer \u003cem\u003eB\u003c/em\u003e",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18576,
+          "orderNum": 3,
+          "text": " Packer C",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18577,
+          "orderNum": 4,
+          "text": " Packer \u003cem\u003eD\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18578,
+          "orderNum": 5,
+          "text": " Packer \u003cem\u003eE\u003c/em\u003e",
+          "result": "Wrong"
+        }
+      ]
+    }
+  ],
+  "applications": []
+}

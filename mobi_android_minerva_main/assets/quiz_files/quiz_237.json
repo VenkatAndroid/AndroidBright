@@ -1,0 +1,739 @@
+{
+  "quizId": 237,
+  "name": "Problem Set X (GMAT MATH)",
+  "description": "",
+  "questions": [
+    {
+      "text": "The function \u003cem\u003ef\u003c/em\u003e is defined for all positive integers \u003cem\u003en\u003c/em\u003e as \u003cem\u003ef\u003c/em\u003e(\u003cem\u003en\u003c/em\u003e) \u003d \u003cem\u003en\u003c/em\u003e/(\u003cem\u003en\u003c/em\u003e \u0026#x002B; 1). Then \u003cem\u003ef\u003c/em\u003e(1)\u0026#x00B7; \u003cem\u003ef\u003c/em\u003e(2) \u0026#x2212; \u003cem\u003ef\u003c/em\u003e(2)\u0026#x00B7; \u003cem\u003ef\u003c/em\u003e(3) \u003d",
+      "orderNum": 1,
+      "questionOrderNum": 1,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3344,
+      "count": 5,
+      "solution": " The function \u003cem\u003ef\u003c/em\u003e is defined as \u003cem\u003ef\u003c/em\u003e (\u003cem\u003en\u003c/em\u003e) \u003d \u003cem\u003en\u003c/em\u003e/(\u003cem\u003en\u003c/em\u003e \u0026#x002B; 1). Putting,\u003cbr\u003e\u003cimg src\u003d\"9781889057705_398-png\" alt\u003d\"\"/\u003eHence, \u003cem\u003ef\u003c/em\u003e(1) \u0026#x00B7; \u003cem\u003ef\u003c/em\u003e(2) \u0026#x2212; \u003cem\u003ef\u003c/em\u003e(2) \u0026#x00B7; \u003cem\u003ef\u003c/em\u003e(3) \u003d 1/2 \u0026#x00B7; 2/3 \u0026#x2212; 2/3 \u0026#x00B7; 3/4 \u003d 1/3 \u0026#x2212; 2/4 \u003d 1/3 \u0026#x2212; 1/2 \u003d \u0026#x2212;1/6.The answer is (A).",
+      "answers": [
+        {
+          "answerId": 18380,
+          "orderNum": 1,
+          "text": " \u0026#x2212;1/6",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18381,
+          "orderNum": 2,
+          "text": " 1/5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18382,
+          "orderNum": 3,
+          "text": " 1/4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18383,
+          "orderNum": 4,
+          "text": " 1/3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18384,
+          "orderNum": 5,
+          "text": " 1/2",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "The functions \u003cem\u003ef\u003c/em\u003e and \u003cem\u003eg\u003c/em\u003e are defined as \u003cem\u003ef\u003c/em\u003e(\u003cem\u003ex\u003c/em\u003e, \u003cem\u003ey\u003c/em\u003e) \u003d 2\u003cem\u003ex\u003c/em\u003e \u0026#x002B; \u003cem\u003ey\u003c/em\u003e and \u003cem\u003eg\u003c/em\u003e(\u003cem\u003ex\u003c/em\u003e, \u003cem\u003ey\u003c/em\u003e) \u003d \u003cem\u003ex\u003c/em\u003e \u0026#x002B; 2\u003cem\u003ey\u003c/em\u003e. What is the value of \u003cem\u003ef\u003c/em\u003e(3, 4) ?",
+      "orderNum": 2,
+      "questionOrderNum": 2,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3345,
+      "count": 5,
+      "solution": " We are given the function rules \u003cem\u003ef\u003c/em\u003e (\u003cem\u003ex, y\u003c/em\u003e) \u003d 2\u003cem\u003ex\u003c/em\u003e \u0026#x002B; \u003cem\u003ey\u003c/em\u003e and \u003cem\u003eg\u003c/em\u003e(\u003cem\u003ex, y\u003c/em\u003e) \u003d \u003cem\u003ex\u003c/em\u003e \u0026#x002B; 2\u003cem\u003ey.\u003c/em\u003e Swapping arguments in \u003cem\u003eg\u003c/em\u003e yields \u003cem\u003eg\u003c/em\u003e(\u003cem\u003ey, x\u003c/em\u003e) \u003d \u003cem\u003ey\u003c/em\u003e \u0026#x002B; 2\u003cem\u003ex\u003c/em\u003e \u003d \u003cem\u003ef\u003c/em\u003e(\u003cem\u003ex\u003c/em\u003e, \u003cem\u003ey\u003c/em\u003e)Hence, \u003cem\u003ef\u003c/em\u003e (3,4) \u003d \u003cem\u003eg\u003c/em\u003e(4,3). The answer is (E).",
+      "answers": [
+        {
+          "answerId": 18385,
+          "orderNum": 1,
+          "text": " \u003cem\u003ef\u003c/em\u003e(4,3)",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18386,
+          "orderNum": 2,
+          "text": " \u003cem\u003ef\u003c/em\u003e(3,7)",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18387,
+          "orderNum": 3,
+          "text": " \u003cem\u003ef\u003c/em\u003e(7,4)",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18388,
+          "orderNum": 4,
+          "text": " \u003cem\u003eg\u003c/em\u003e(3,4)",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18389,
+          "orderNum": 5,
+          "text": " \u003cem\u003eg\u003c/em\u003e(4,3)",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "The functions \u003cem\u003ef\u003c/em\u003e and \u003cem\u003eg\u003c/em\u003e are defined as \u003cem\u003ef\u003c/em\u003e(\u003cem\u003ex\u003c/em\u003e, \u003cem\u003ey\u003c/em\u003e) \u003d 2\u003cem\u003ex\u003c/em\u003e \u0026#x002B; \u003cem\u003ey\u003c/em\u003e and \u003cem\u003eg\u003c/em\u003e(\u003cem\u003ex\u003c/em\u003e, \u003cem\u003ey\u003c/em\u003e) \u003d \u003cem\u003ex\u003c/em\u003e \u0026#x002B; 2\u003cem\u003ey.\u003c/em\u003e What is the value of \u003cem\u003ef\u003c/em\u003e(3,4) \u0026#x002B; \u003cem\u003eg\u003c/em\u003e(3,4)?",
+      "orderNum": 3,
+      "questionOrderNum": 3,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3346,
+      "count": 5,
+      "solution": " We are given the function rules \u003cem\u003ef\u003c/em\u003e(\u003cem\u003ex, y\u003c/em\u003e) \u003d 2\u003cem\u003ex\u003c/em\u003e \u0026#x002B; \u003cem\u003ey\u003c/em\u003e and \u003cem\u003eg\u003c/em\u003e(\u003cem\u003ex, y\u003c/em\u003e) \u003d \u003cem\u003ex\u003c/em\u003e \u0026#x002B; 2\u003cem\u003ey.\u003c/em\u003e\u003cem\u003ef\u003c/em\u003e(3, 4) \u0026#x002B; \u003cem\u003eg\u003c/em\u003e(3, 4) \u003d (2 \u0026#x00B7; 3 \u0026#x002B; 4) \u0026#x002B; (3 \u0026#x002B; 2 \u0026#x00B7; 4) \u003d 10 \u0026#x002B; 11 \u003d 21The answer is (E).",
+      "answers": [
+        {
+          "answerId": 18390,
+          "orderNum": 1,
+          "text": " 6",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18391,
+          "orderNum": 2,
+          "text": " 8",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18392,
+          "orderNum": 3,
+          "text": " 10",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18393,
+          "orderNum": 4,
+          "text": " 14",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18394,
+          "orderNum": 5,
+          "text": " 21",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "A function \u003cem\u003ef\u003c/em\u003e(\u003cem\u003ex\u003c/em\u003e) is defined for all real numbers by the expression (\u003cem\u003ex\u003c/em\u003e \u0026#x2212; 1.5)(\u003cem\u003ex\u003c/em\u003e \u0026#x2212; 2.5)(\u003cem\u003ex\u003c/em\u003e \u0026#x2212; 3.5)(\u003cem\u003ex\u003c/em\u003e \u0026#x2212; 5). For which one of the following values of \u003cem\u003ex\u003c/em\u003e, represented on the number line, is \u003cem\u003ef\u003c/em\u003e(\u003cem\u003ex\u003c/em\u003e) negative?",
+      "orderNum": 4,
+      "questionOrderNum": 4,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3347,
+      "count": 5,
+      "solution": " Choice A: The point \u003cem\u003eA\u003c/em\u003e represents \u003cem\u003ex\u003c/em\u003e \u003d 1. Now, \u003cem\u003ef\u003c/em\u003e (1) \u003d (1 \u0026#x2212; 1.5)(1 \u0026#x2212; 2.5)(1 \u0026#x2212; 3.5)(1 \u0026#x2212; 5) \u003d (\u0026#x2212;0.5)(\u0026#x2212;1.5)(\u0026#x2212;2.5)(\u0026#x2212;3.5) \u003d product of four (an even number of) negative numbers. The result is positive. Reject.Choice B: The point \u003cem\u003eB\u003c/em\u003e represents \u003cem\u003ex\u003c/em\u003e \u003d 2. Now, \u003cem\u003ef\u003c/em\u003e(2) \u003d (2 \u0026#x2212; 1.5)(2 \u0026#x2212; 2.5)(2 \u0026#x2212; 3.5)(2 \u0026#x2212; 5) \u003d (0.5)(\u0026#x2212;0.5)(\u0026#x2212;1.5)(\u0026#x2212;2.5) \u003d product of a positive number and three (an odd number of) negative numbers. The result is negative. Hence, correct.Choice C: The point \u003cem\u003eC\u003c/em\u003e represents \u003cem\u003ex\u003c/em\u003e \u003d 3. Now, \u003cem\u003ef\u003c/em\u003e(3) \u003d (3 \u0026#x2212; 1.5)(3 \u0026#x2212; 2.5)(3 \u0026#x2212; 3.5)(3 \u0026#x2212; 5) \u003d (1.5)(0.5)(\u0026#x2212;0.5)(\u0026#x2212;1.5) \u003d Product of two positive numbers and two (an even number of) negative numbers. The result is positive. Reject.Choice D: The point \u003cem\u003eD\u003c/em\u003e represents \u003cem\u003ex\u003c/em\u003e \u003d 5. Now, \u003cem\u003ef\u003c/em\u003e(5) \u003d (5 \u0026#x2212; 1.5)(5 \u0026#x2212; 2.5)(5 \u0026#x2212; 3.5)(5 \u0026#x2212; 5) \u003d 3 \u0026#x00D7; 2 \u0026#x00D7; 1 \u0026#x00D7; 0 \u003d 0, not a negative number. Reject.Choice E: The point \u003cem\u003eE\u003c/em\u003e represents \u003cem\u003ex\u003c/em\u003e \u003d 5.5. Now, \u003cem\u003ef\u003c/em\u003e(5.5) \u003d (5.5 \u0026#x2212; 1.5)(5.5 \u0026#x2212; 2.5)(5.5 \u0026#x2212; 3.5)(5.5 \u0026#x2212; 5) \u003d 4 \u0026#x00D7; 3 \u0026#x00D7; 2 \u0026#x00D7; 1\u003d product of positive numbers. The result is positive. Reject.The answer is (B).",
+      "answers": [
+        {
+          "answerId": 18395,
+          "orderNum": 1,
+          "text": " Point \u003cem\u003eA\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18396,
+          "orderNum": 2,
+          "text": " Point \u003cem\u003eB\u003c/em\u003e",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18397,
+          "orderNum": 3,
+          "text": " Point \u003cem\u003eC\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18398,
+          "orderNum": 4,
+          "text": " Point \u003cem\u003eD\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18399,
+          "orderNum": 5,
+          "text": " Point \u003cem\u003eE\u003c/em\u003e",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "\u003cimg src\u003d\"9781889057705_394-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003eA function \u003cem\u003ef\u003c/em\u003e(\u003cem\u003ex\u003c/em\u003e) is defined for all real numbers as \u003cem\u003ef\u003c/em\u003e(\u003cem\u003ex\u003c/em\u003e) \u003d (\u003cem\u003ex\u003c/em\u003e \u0026#x2212; l)(\u003cem\u003ex\u003c/em\u003e \u0026#x2212; 2)(\u003cem\u003ex\u003c/em\u003e \u0026#x2212; 3)(\u003cem\u003ex\u003c/em\u003e \u0026#x2212; 4). Which one of the following is negative?",
+      "orderNum": 5,
+      "questionOrderNum": 5,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3348,
+      "count": 5,
+      "solution": " Evaluate the choices by the given rule, \u003cem\u003ef\u003c/em\u003e(\u003cem\u003ex\u003c/em\u003e) \u003d (\u003cem\u003ex\u003c/em\u003e \u0026#x2212; 1)(x \u0026#x2212; 2)(\u003cem\u003ex\u003c/em\u003e \u0026#x2212; 3)(\u003cem\u003ex\u003c/em\u003e \u0026#x2212; 4), and select the one that is negative.Choice (A): \u003cem\u003ef\u003c/em\u003e(0.5) \u003d (0.5 \u0026#x2212; 1)(0.5 \u0026#x2212; 2)(0.5 \u0026#x2212; 3)(0.5 \u0026#x2212; 4) \u003d (\u0026#x2212;0.5)(\u0026#x2212;1.5)(\u0026#x2212;2.5)(-3.5) \u003d The product of four negative numbers, which is a positive number. Hence, the choice is not negative. Reject.Choice (B): \u003cem\u003ef\u003c/em\u003e(1.5) \u003d (1.5 \u0026#x2212; 1)(1.5 \u0026#x2212; 2)(1.5 \u0026#x2212; 3)(1.5 \u0026#x2212; 4) \u003d (0.5)(\u0026#x2212;0.5)(\u0026#x2212;1.5)(\u0026#x2212;2.5) \u003d The product of one positive number and three (an odd number) negative numbers. Hence, the choice is negative. Accept the choice.Choice (C): \u003cem\u003ef\u003c/em\u003e(2.5) \u003d (2.5 \u0026#x2212; 1)(2.5 \u0026#x2212; 2)(2.5 \u0026#x2212; 3)(2.5 \u0026#x2212; 4) \u003d (1.5)(0.5)(\u0026#x2212;0.5)(\u0026#x2212;1.5) \u003d The product of two positive numbers and two (an even number) negative numbers. Hence, the choice is positive. Reject.Choice (D): \u003cem\u003ef\u003c/em\u003e(3) \u003d (3 \u0026#x2212; 1)(3 \u0026#x2212; 2)(3 \u0026#x2212; 3)(3 \u0026#x2212; 4) \u003d 2 \u0026#x00B7; 1 \u0026#x00B7; 0 \u0026#x00B7; (\u0026#x2212;1) \u003d 0, not a negative number. Reject.Choice (E): \u003cem\u003ef\u003c/em\u003e(4.5) \u003d (4.5 \u0026#x2212; 1)(4.5 \u0026#x2212; 2)(4.5 \u0026#x2212; 3)(4.5 \u0026#x2212; 4) \u003d (3.5)(2.5)(1.5)(0.5) \u003d The product of four positive numbers, which is positive. Reject.The answer is (B).",
+      "answers": [
+        {
+          "answerId": 18400,
+          "orderNum": 1,
+          "text": " \u003cem\u003ef\u003c/em\u003e(0.5)",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18401,
+          "orderNum": 2,
+          "text": " \u003cem\u003ef\u003c/em\u003e(1.5)",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18402,
+          "orderNum": 3,
+          "text": " \u003cem\u003ef\u003c/em\u003e(2.5)",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18403,
+          "orderNum": 4,
+          "text": " \u003cem\u003ef\u003c/em\u003e(3)",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18404,
+          "orderNum": 5,
+          "text": " \u003cem\u003ef\u003c/em\u003e(4.5)",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "\u003cimg src\u003d\"9781889057705_395-1a.png\" alt\u003d\"\"/\u003e\u003cbr\u003eIn the function above, for what values of \u003cem\u003ex\u003c/em\u003e is \u003cem\u003eg\u003c/em\u003e(\u003cem\u003ex\u003c/em\u003e) a real number?",
+      "orderNum": 6,
+      "questionOrderNum": 6,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3349,
+      "count": 5,
+      "solution": " Let\u0026#x2019;s change the fractional notation to radical notation: \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_399-1.png\" alt\u003d\"\"/\u003e. Since we have an even root, the expression under the radical must be greater than or equal to zero. Hence, 2\u003cem\u003ex\u003c/em\u003e \u0026#x2212; 3 \u0026#x2265; 0. Adding 3 to both sides of this inequality yields 2\u003cem\u003ex\u003c/em\u003e \u0026#x2265; 3. Dividing both sides by 2 yields \u003cem\u003ex\u003c/em\u003e \u0026#x2265; 3/2. The answer is (C).",
+      "answers": [
+        {
+          "answerId": 18405,
+          "orderNum": 1,
+          "text": " \u003cem\u003ex\u003c/em\u003e \u0026#x2265; 0",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18406,
+          "orderNum": 2,
+          "text": " \u003cem\u003ex\u003c/em\u003e \u0026#x2265; 1/2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18407,
+          "orderNum": 3,
+          "text": " \u003cem\u003ex\u003c/em\u003e \u0026#x2265; 3/2",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18408,
+          "orderNum": 4,
+          "text": " \u003cem\u003ex\u003c/em\u003e \u0026#x2265; 2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18409,
+          "orderNum": 5,
+          "text": " \u003cem\u003ex\u003c/em\u003e \u0026#x2265; 3",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "\u003cimg src\u003d\"9781889057705_395-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003eThe table above shows the values of the quadratic function \u003cem\u003ef\u003c/em\u003e for several values of \u003cem\u003ex.\u003c/em\u003e Which one of the following best represents \u003cem\u003ef\u003c/em\u003e ?",
+      "orderNum": 7,
+      "questionOrderNum": 7,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3350,
+      "count": 5,
+      "solution": " We need to plug the \u003cem\u003ex\u003c/em\u003e table values into each given function to find the one that returns the function values in the bottom row of the table. Let\u0026#x2019;s start with \u003cem\u003ex\u003c/em\u003e \u003d 0 since zero is the easiest number to calculate with. According to the table \u003cem\u003ef\u003c/em\u003e(0) \u003d 3. This eliminates Choice (A) since \u003cem\u003ef\u003c/em\u003e(0) \u003d \u0026#x2212;2(0)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u003d \u0026#x2212;2(0) \u003d 0; and it eliminates Choice (D) since \u003cem\u003ef\u003c/em\u003e(0) \u003d \u0026#x2212;2(0)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x2212; 3 \u003d \u0026#x2212;2\u0026#x00B7;0 \u0026#x2212; 3 \u003d 0 \u0026#x2212; 3 \u003d \u0026#x2212; 3 . Now, choose \u003cem\u003ex\u003c/em\u003e \u003d 1. The next easiest number to calculate with. According to the table \u003cem\u003ef\u003c/em\u003e(1) \u003d 1. This eliminates Choice (B) since \u003cem\u003ef\u003c/em\u003e(1) \u003d 1\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B;3 \u003d 1 \u0026#x002B; 3 \u003d 4; and it eliminates Choice (C) since \u003cem\u003ef\u003c/em\u003e(1) \u003d \u0026#x2212;(1)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 3 \u003d \u0026#x2212; 1 \u0026#x002B; 3 \u003d 2. Hence, by process of elimination, the answer is (E).",
+      "answers": [
+        {
+          "answerId": 18410,
+          "orderNum": 1,
+          "text": " \u003cem\u003ef\u003c/em\u003e (\u003cem\u003ex\u003c/em\u003e) \u003d \u0026#x2212;2 \u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18411,
+          "orderNum": 2,
+          "text": " \u003cem\u003ef\u003c/em\u003e (\u003cem\u003ex\u003c/em\u003e) \u003d \u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18412,
+          "orderNum": 3,
+          "text": " \u003cem\u003ef\u003c/em\u003e (\u003cem\u003ex\u003c/em\u003e) \u003d \u0026#x2212; \u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18413,
+          "orderNum": 4,
+          "text": " \u003cem\u003ef\u003c/em\u003e (\u003cem\u003ex\u003c/em\u003e) \u003d \u0026#x2212;2 \u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x2212; 3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18414,
+          "orderNum": 5,
+          "text": " \u003cem\u003ef\u003c/em\u003e (\u003cem\u003ex\u003c/em\u003e) \u003d \u0026#x2212;2 \u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 3",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "\u003cimg src\u003d\"9781889057705_395-2.png\" alt\u003d\"\"/\u003e\u003cbr\u003eIn the function above, if \u003cem\u003ef\u003c/em\u003e(\u003cem\u003ek\u003c/em\u003e) \u003d 2, then which one of the following could be a value of \u003cem\u003ek\u003c/em\u003e ?",
+      "orderNum": 8,
+      "questionOrderNum": 8,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3351,
+      "count": 5,
+      "solution": " The graph has a height of 2 for every value of \u003cem\u003ex\u003c/em\u003e between 2 and 3; it also has a height of 2 at about \u003cem\u003ex\u003c/em\u003e \u003d \u0026#x2212; 2. The only number offered in this interval is 2.5. This is illustrated by the dot and the thick line in the following graph:\u003cimg src\u003d\"9781889057705_399-2.png\" alt\u003d\"\"/\u003eThe answer is (D).",
+      "answers": [
+        {
+          "answerId": 18415,
+          "orderNum": 1,
+          "text": " \u0026#x2212;1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18416,
+          "orderNum": 2,
+          "text": " 0",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18417,
+          "orderNum": 3,
+          "text": " 0.5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18418,
+          "orderNum": 4,
+          "text": " 2.5",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18419,
+          "orderNum": 5,
+          "text": " 4",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "Let the function \u003cem\u003eh\u003c/em\u003e be defined by \u003cem\u003eh\u003c/em\u003e(\u003cem\u003ef\u003c/em\u003e\u003cem\u003ex\u003c/em\u003e) \u003d \u003cimg src\u003d\"9781889057705_root_x.png\" alt\u003d\"\"/\u003e \u0026#x002B; 2. If 3 \u003cem\u003eh\u003c/em\u003e(\u003cem\u003ev\u003c/em\u003e) \u003d 18, then which one of the following is the value of \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_395-3.png\" alt\u003d\"\"/\u003e ?",
+      "orderNum": 9,
+      "questionOrderNum": 9,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3352,
+      "count": 5,
+      "solution": " Evaluating the function \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_399-3.png\" alt\u003d\"\"/\u003e at \u003cem\u003ev\u003c/em\u003e yields \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_399-4.png\" alt\u003d\"\"/\u003e. Plugging this into the equation 3\u003cem\u003eh\u003c/em\u003e(\u003cem\u003ev\u003c/em\u003e) \u003d 18 yields\u003cimg src\u003d\"9781889057705_399-5.png\" alt\u003d\"\"/\u003ePlugging \u003cem\u003ev\u003c/em\u003e \u003d 16 into \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_399-6.png\" alt\u003d\"\"/\u003e yields\u003cimg src\u003d\"9781889057705_399-7.png\" alt\u003d\"\"/\u003eThe answer is (E).",
+      "answers": [
+        {
+          "answerId": 18420,
+          "orderNum": 1,
+          "text": " \u0026#x2212;4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18421,
+          "orderNum": 2,
+          "text": " \u0026#x2212;1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18422,
+          "orderNum": 3,
+          "text": " 0",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18423,
+          "orderNum": 4,
+          "text": " 2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18424,
+          "orderNum": 5,
+          "text": " 4 ",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "\u003cimg src\u003d\"9781889057705_395-4.png\" alt\u003d\"\"/\u003e\u003cbr\u003eThe graph above shows a parabola that is symmetric about the \u003cem\u003ex\u003c/em\u003e-axis. Which one of the following could be the equation of the graph?",
+      "orderNum": 10,
+      "questionOrderNum": 10,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3353,
+      "count": 5,
+      "solution": " Since the graph is symmetric about the \u003cem\u003ex\u003c/em\u003e-axis, its base graph is \u003cem\u003ex\u003c/em\u003e \u003d \u003cem\u003ey\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e . Since the graph opens to the left, we know that the exterior of the base function is multiplied by negative one: \u0026#x2212;\u003cem\u003ey\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e. Since the graph is shifted one unit to the left, we know that one is subtracted from the exterior of the function: \u003cem\u003ex\u003c/em\u003e \u003d \u0026#x2212;\u003cem\u003ey\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x2212; 1. The answer is (A).",
+      "answers": [
+        {
+          "answerId": 18425,
+          "orderNum": 1,
+          "text": " \u003cem\u003ex\u003c/em\u003e \u003d \u0026#x2212;\u003cem\u003ey\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x2212; 1",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18426,
+          "orderNum": 2,
+          "text": " \u003cem\u003ex\u003c/em\u003e \u003d \u0026#x2212;\u003cem\u003ey\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18427,
+          "orderNum": 3,
+          "text": " \u003cem\u003ex\u003c/em\u003e \u003d \u0026#x2212;\u003cem\u003ey\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; l",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18428,
+          "orderNum": 4,
+          "text": " \u003cem\u003ex\u003c/em\u003e \u003d \u003cem\u003ey\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x2212; 1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18429,
+          "orderNum": 5,
+          "text": " \u003cem\u003ex\u003c/em\u003e \u003d (\u003cem\u003ey\u003c/em\u003e \u0026#x002B; l)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "A pottery store owner determines that the revenue for sales of a particular item can be modeled by the function \u003cimg src\u003d\"9781889057705_396-1.png\" alt\u003d\"\"/\u003e, where \u003cem\u003ex\u003c/em\u003e is the number of the items sold. How many of the items must be sold to generate \u0026#x0024; 110 in revenue?",
+      "orderNum": 11,
+      "questionOrderNum": 11,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3354,
+      "count": 5,
+      "solution": " We are asked to find the value of \u003cem\u003ex\u003c/em\u003e for which revenue is \u0026#x0024;110. In mathematical terms, we need to solve the equation \u003cem\u003er\u003c/em\u003e(\u003cem\u003ex\u003c/em\u003e) \u003d 110. Since \u003cimg src\u003d\"9781889057705_400-1.png\" alt\u003d\"\"/\u003e \u0026#x2212; 40, we get\u003cimg src\u003d\"9781889057705_400-2.png\" alt\u003d\"\"/\u003eSince \u003cem\u003ex\u003c/em\u003e \u003d \u0026#x2212;9 has no physical interpretation for this problem, we know that \u003cem\u003ex\u003c/em\u003e \u003d 9. The answer is (E).",
+      "answers": [
+        {
+          "answerId": 18430,
+          "orderNum": 1,
+          "text": " 5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18431,
+          "orderNum": 2,
+          "text": " 6",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18432,
+          "orderNum": 3,
+          "text": " 7",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18433,
+          "orderNum": 4,
+          "text": " 8",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18434,
+          "orderNum": 5,
+          "text": " 9",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "\u003cimg src\u003d\"9781889057705_396-2.png\" alt\u003d\"\"/\u003e\u003cbr\u003eIn the figure shown, the line \u003cem\u003el\u003c/em\u003e represents the function \u003cem\u003ef\u003c/em\u003e. What is the value of \u003cem\u003ef\u003c/em\u003e(10)?",
+      "orderNum": 12,
+      "questionOrderNum": 12,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3355,
+      "count": 5,
+      "solution": " We know that the slope of a line through any two points (\u003cem\u003ex\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e1\u003c/sub\u003e, \u003cem\u003ey\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e1\u003c/sub\u003e) and (\u003cem\u003ex\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e2\u003c/sub\u003e, \u003cem\u003ey\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e2\u003c/sub\u003e) is given by \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_400-3.png\" alt\u003d\"\"/\u003e.Since (\u0026#x2212;2, 0) and (0, 2) are two points on the line \u003cem\u003ef\u003c/em\u003e(\u003cem\u003ex\u003c/em\u003e), the slope of the line is \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_400-4.png\" alt\u003d\"\"/\u003e.If (10, \u003cem\u003ef\u003c/em\u003e (10)) is a point on the line, then using the point (0, 2) the slope of the line is\u003cimg src\u003d\"9781889057705_400-5.png\" alt\u003d\"\"/\u003eThe answer is (E).",
+      "answers": [
+        {
+          "answerId": 18435,
+          "orderNum": 1,
+          "text": " 2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18436,
+          "orderNum": 2,
+          "text": " 5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18437,
+          "orderNum": 3,
+          "text": " 8",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18438,
+          "orderNum": 4,
+          "text": " 10",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18439,
+          "orderNum": 5,
+          "text": " 12",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "The functions \u003cem\u003ef\u003c/em\u003e and \u003cem\u003eg\u003c/em\u003e are defined as \u003cem\u003ef\u003c/em\u003e(\u003cem\u003ex\u003c/em\u003e) \u003d 2\u003cem\u003ex\u003c/em\u003e \u0026#x2212; 3 and \u003cem\u003eg\u003c/em\u003e(\u003cem\u003ex\u003c/em\u003e) \u003d \u003cem\u003ex\u003c/em\u003e \u0026#x002B; 3/2. For what value of \u003cem\u003ey\u003c/em\u003e is \u003cem\u003ef\u003c/em\u003e(\u003cem\u003ey\u003c/em\u003e) \u003d \u003cem\u003eg\u003c/em\u003e(\u003cem\u003ey\u003c/em\u003e \u0026#x2212; 3)?",
+      "orderNum": 13,
+      "questionOrderNum": 13,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3356,
+      "count": 5,
+      "solution": " The given function definitions are \u003cem\u003ef\u003c/em\u003e(\u003cem\u003ex\u003c/em\u003e) \u003d 2\u003cem\u003ex\u003c/em\u003e \u0026#x2212; 3 and \u003cem\u003eg\u003c/em\u003e(\u003cem\u003ex\u003c/em\u003e) \u003d \u003cem\u003ex\u003c/em\u003e \u0026#x002B; 3/2. Putting \u003cem\u003ex\u003c/em\u003e \u003d \u003cem\u003ey\u003c/em\u003e in the definition of \u003cem\u003ef\u003c/em\u003e yields \u003cem\u003ef\u003c/em\u003e (\u003cem\u003ey\u003c/em\u003e) \u003d 2\u003cem\u003ey\u003c/em\u003e \u0026#x2212; 3.Putting \u003cem\u003ex\u003c/em\u003e \u003d \u003cem\u003ey\u003c/em\u003e \u0026#x2212; 3 in the definition of \u003cem\u003eg\u003c/em\u003e yields \u003cem\u003eg\u003c/em\u003e(\u003cem\u003ey\u003c/em\u003e \u0026#x2212; 3) \u003d (\u003cem\u003ey\u003c/em\u003e \u0026#x2212; 3) \u0026#x002B; 3/2 \u003d \u003cem\u003ey\u003c/em\u003e \u0026#x2212; 3 \u0026#x002B; 3/2 \u003d \u003cem\u003ey\u003c/em\u003e \u0026#x2212; 3/2.Now, \u003cem\u003ef\u003c/em\u003e(\u003cem\u003ey\u003c/em\u003e) equals \u003cem\u003eg\u003c/em\u003e(\u003cem\u003ey\u003c/em\u003e \u0026#x2212; 3) when 2\u003cem\u003ey\u003c/em\u003e \u0026#x2212; 3 \u003d \u003cem\u003ey\u003c/em\u003e \u0026#x2212; 3/2. Solving for \u003cem\u003ey\u003c/em\u003e yields \u003cem\u003ey\u003c/em\u003e \u003d 3/2. The answer is (B).",
+      "answers": [
+        {
+          "answerId": 18440,
+          "orderNum": 1,
+          "text": " 1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18441,
+          "orderNum": 2,
+          "text": " 3/2",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18442,
+          "orderNum": 3,
+          "text": " 2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18443,
+          "orderNum": 4,
+          "text": " 3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18444,
+          "orderNum": 5,
+          "text": " 5",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "A function is defined for all positive numbers \u003cem\u003ex\u003c/em\u003e as \u003cimg src\u003d\"9781889057705_397-1.png\" alt\u003d\"\"/\u003e. What is the value of \u003cem\u003ef\u003c/em\u003e(3), if \u003cem\u003ef\u003c/em\u003e(4) \u0026#x2212; \u003cem\u003ef\u003c/em\u003e(1) \u003d 2 and \u003cem\u003ef\u003c/em\u003e(4) \u0026#x002B; \u003cem\u003ef\u003c/em\u003e(1) \u003d 10?",
+      "orderNum": 14,
+      "questionOrderNum": 14,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3357,
+      "count": 5,
+      "solution": " The rule for the function \u003cem\u003ef\u003c/em\u003e on positive integers \u003cem\u003ex\u003c/em\u003e is \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_400-6.png\" alt\u003d\"\"/\u003e. Putting \u003cem\u003ex\u003c/em\u003e \u003d 1 in the rule yields \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_400-7.png\" alt\u003d\"\"/\u003e. Putting \u003cem\u003ex\u003c/em\u003e \u003d 4 in the rule yields \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_400-8.png\" alt\u003d\"\"/\u003e. Now, we are given that \u003cem\u003ef\u003c/em\u003e(4) \u0026#x2212; \u003cem\u003ef\u003c/em\u003e(l) \u003d 2 and \u003cem\u003ef\u003c/em\u003e(4) \u0026#x002B; \u003cem\u003ef\u003c/em\u003e(1) \u003d 10. Substituting the known results in the two equations yields\u003cimg src\u003d\"9781889057705_400-9.png\" alt\u003d\"\"/\u003eHence, the rule can be rephrased as \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_400-10.png\" alt\u003d\"\"/\u003e. Putting \u003cem\u003ex\u003c/em\u003e \u003d 3 in the rule yields \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_400-11.png\" alt\u003d\"\"/\u003e. Hence, the answer is (D).",
+      "answers": [
+        {
+          "answerId": 18445,
+          "orderNum": 1,
+          "text": " 1 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18446,
+          "orderNum": 2,
+          "text": " 2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18447,
+          "orderNum": 3,
+          "text": " \u003cimg src\u003d\"9781889057705_397-2c.png\" alt\u003d\"/\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18448,
+          "orderNum": 4,
+          "text": " \u003cimg src\u003d\"9781889057705_397-2d.png\" alt\u003d\"/\u003e",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18449,
+          "orderNum": 5,
+          "text": " \u003cimg src\u003d\"9781889057705_397-2e.png\" alt\u003d\"/\u003e",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "At time \u003cem\u003et\u003c/em\u003e \u003d 0, a projectile was fired upward from an initial height of 10 feet. Its height after \u003cem\u003et\u003c/em\u003e seconds is given by the function \u003cem\u003eh\u003c/em\u003e(\u003cem\u003et\u003c/em\u003e) \u003d \u003cem\u003ep\u003c/em\u003e \u0026#x2212; 10(\u003cem\u003eq\u003c/em\u003e \u0026#x2212; \u003cem\u003et\u003c/em\u003e)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e, where \u003cem\u003ep\u003c/em\u003e and \u003cem\u003eq\u003c/em\u003e are positive constants. If the projectile reached a maximum height of 100 feet when \u003cem\u003et\u003c/em\u003e \u003d 3, then what was the height, in feet, of the projectile when \u003cem\u003et\u003c/em\u003e \u003d 4 ?",
+      "orderNum": 15,
+      "questionOrderNum": 15,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3358,
+      "count": 5,
+      "solution": " Method I:Recall that when a quadratic function is written in the form \u003cem\u003ey\u003c/em\u003e \u003d \u003cem\u003ea\u003c/em\u003e(\u003cem\u003ex\u003c/em\u003e \u0026#x2212; \u003cem\u003eh\u003c/em\u003e)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; \u003cem\u003ek,\u003c/em\u003e its vertex (in this case, the maximum height of the projectile) occurs at the point (\u003cem\u003eh\u003c/em\u003e, \u003cem\u003ek\u003c/em\u003e). So let\u0026#x2019;s rewrite the function \u003cem\u003eh\u003c/em\u003e(\u003cem\u003et\u003c/em\u003e) \u003d \u003cem\u003ep\u003c/em\u003e \u0026#x2212;10(\u003cem\u003eq\u003c/em\u003e \u0026#x2212; \u003cem\u003et\u003c/em\u003e)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e in the form \u003cem\u003eh\u003c/em\u003e(\u003cem\u003et\u003c/em\u003e) \u003d \u003cem\u003ea\u003c/em\u003e(\u003cem\u003et\u003c/em\u003e \u0026#x2212; \u003cem\u003eh\u003c/em\u003e)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; \u003cem\u003ek.\u003c/em\u003e Notice that we changed \u003cem\u003ey\u003c/em\u003e to \u003cem\u003eh\u003c/em\u003e(\u003cem\u003et\u003c/em\u003e) and \u003cem\u003ex\u003c/em\u003e to \u003cem\u003et.\u003c/em\u003e\u003cimg src\u003d\"9781889057705_401-1.png\" alt\u003d\"\"/\u003eIn this form, we can see that the vertex (maximum) occurs at the point (\u003cem\u003eq, p\u003c/em\u003e). We are given that the maximum height of 100 occurs when \u003cem\u003et\u003c/em\u003e is 3. Hence, \u003cem\u003eq\u003c/em\u003e \u003d 3 and \u003cem\u003ep\u003c/em\u003e \u003d 100. Plugging this into our function yields\u003cimg src\u003d\"9781889057705_401-2.png\" alt\u003d\"\"/\u003eWe are asked to find the height of the projectile when \u003cem\u003et\u003c/em\u003e \u003d 4. Evaluating our function at 4 yields\u003cimg src\u003d\"9781889057705_401-3a.png\" alt\u003d\"\"/\u003eThe answer is (E)Method II:In this method, we are going to solve a system of two equations in two unknowns in order to determine the values of \u003cem\u003ep\u003c/em\u003e and \u003cem\u003eq\u003c/em\u003e in the function \u003cem\u003eh\u003c/em\u003e(\u003cem\u003et\u003c/em\u003e) \u003d \u003cem\u003ep\u003c/em\u003e \u0026#x2212; 10(\u003cem\u003eq \u0026#x2212; t\u003c/em\u003e)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e . At time \u003cem\u003et\u003c/em\u003e \u003d 0, the projectile had a height of 10 feet. In other words, \u003cem\u003eh\u003c/em\u003e(0) \u003d 10. At time \u003cem\u003et\u003c/em\u003e \u003d 3, the projectile had a height of 100 feet. In other words, \u003cem\u003eh\u003c/em\u003e(3) \u003d 100. Plugging this information into the function \u003cem\u003eh\u003c/em\u003e(\u003cem\u003et\u003c/em\u003e) \u003d \u003cem\u003ep\u003c/em\u003e \u0026#x2212; 10(\u003cem\u003eq\u003c/em\u003e \u0026#x2212; \u003cem\u003et\u003c/em\u003e)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e yields\u003cimg src\u003d\"9781889057705_401-3.png\" alt\u003d\"\"/\u003eNow, we solve this system of equations by subtracting the bottom equation from the top equation:\u003cimg src\u003d\"9781889057705_401-4.png\" alt\u003d\"\"/\u003eSolving this equation for \u003cem\u003eq\u003c/em\u003e yields\u003cimg src\u003d\"9781889057705_401-5.png\" alt\u003d\"\"/\u003ePlugging \u003cem\u003eq\u003c/em\u003e \u003d 3 into the equation 10 \u003d \u003cem\u003ep\u003c/em\u003e \u0026#x2212; 10\u003cem\u003eq\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e yields\u003cimg src\u003d\"9781889057705_402-1.png\" alt\u003d\"\"/\u003eHence, the function \u003cem\u003eh\u003c/em\u003e(\u003cem\u003et\u003c/em\u003e) \u003d \u003cem\u003ep\u003c/em\u003e \u0026#x2212; 10(\u003cem\u003eq\u003c/em\u003e \u0026#x2212; \u003cem\u003et\u003c/em\u003e)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e becomes \u003cem\u003eh\u003c/em\u003e(\u003cem\u003et\u003c/em\u003e) \u003d 100 \u0026#x2212; 10(3 \u0026#x2212; \u003cem\u003et\u003c/em\u003e)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e. We are asked to find the height of the projectile when \u003cem\u003et\u003c/em\u003e \u003d 4. Evaluating this function at 4 yields\u003cimg src\u003d\"9781889057705_402-2.png\" alt\u003d\"\"/\u003eThe answer is (E).",
+      "answers": [
+        {
+          "answerId": 18450,
+          "orderNum": 1,
+          "text": " 62",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18451,
+          "orderNum": 2,
+          "text": " 70",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18452,
+          "orderNum": 3,
+          "text": " 85",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18453,
+          "orderNum": 4,
+          "text": " 89",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18454,
+          "orderNum": 5,
+          "text": " 90",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "\u003cimg src\u003d\"9781889057705_397-3.png\" alt\u003d\"\"/\u003e\u003cbr\u003eThe figure above shows the graph of \u003cem\u003ey\u003c/em\u003e \u003d \u003cem\u003ea\u003c/em\u003e \u0026#x2212; \u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e for some constant \u003cem\u003ea.\u003c/em\u003e If the square \u003cem\u003eABCD\u003c/em\u003e intersects the graph at points \u003cem\u003eA\u003c/em\u003e and \u003cem\u003eB\u003c/em\u003e and the area of the square is 16, what is the value of \u003cem\u003ea\u003c/em\u003e ?",
+      "orderNum": 16,
+      "questionOrderNum": 16,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3359,
+      "count": 5,
+      "solution": " Let \u003cem\u003es\u003c/em\u003e denote the length of a side of square \u003cem\u003eABCD.\u003c/em\u003e Since the area of the square is 16, we get \u003cem\u003es\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u003d  Taking the square root of both sides of this equation yields \u003cem\u003es\u003c/em\u003e \u003d 4. Hence, line segment \u003cem\u003eAB\u003c/em\u003e has length 4. Since the parabola is symmetric about the \u003cem\u003ey\u003c/em\u003e-axis, Point \u003cem\u003eB\u003c/em\u003e is 2 units from the \u003cem\u003ey\u003c/em\u003e-axis (as is Point \u003cem\u003eA\u003c/em\u003e). That is, the \u003cem\u003ex\u003c/em\u003e-coordinate of Point \u003cem\u003eB\u003c/em\u003e is 2. Since line segment \u003cem\u003eBC\u003c/em\u003e has length 4, the coordinates of Point \u003cem\u003eB\u003c/em\u003e are (2, 4). Since the square and the parabola intersect at Point \u003cem\u003eB,\u003c/em\u003e the point (2, 4) must satisfy the equation \u003cem\u003ey\u003c/em\u003e \u003d \u003cem\u003ea\u003c/em\u003e \u0026#x2212; \u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e:\u003cimg src\u003d\"9781889057705_402-3.png\" alt\u003d\"\"/\u003eThe answer is (D).",
+      "answers": [
+        {
+          "answerId": 18455,
+          "orderNum": 1,
+          "text": " 2  ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18456,
+          "orderNum": 2,
+          "text": " 4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18457,
+          "orderNum": 3,
+          "text": " 6",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18458,
+          "orderNum": 4,
+          "text": " 8  ",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18459,
+          "orderNum": 5,
+          "text": " 10  ",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "If the function \u003cem\u003ef\u003c/em\u003e(\u003cem\u003ex\u003c/em\u003e) is defined for all real numbers \u003cem\u003ex\u003c/em\u003e as the maximum value of 2\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 4 and 12 \u0026#x002B; 3\u003cem\u003ex,\u003c/em\u003e then for which one of the following values of \u003cem\u003ex\u003c/em\u003e will \u003cem\u003ef\u003c/em\u003e(\u003cem\u003ex\u003c/em\u003e) actually equal 2\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 4 ?",
+      "orderNum": 17,
+      "questionOrderNum": 17,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3360,
+      "count": 5,
+      "solution": "\u003cem\u003ef\u003c/em\u003e(\u003cem\u003ex\u003c/em\u003e) equals the maximum of 2\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 4 and 12 \u0026#x002B; 3\u003cem\u003ex.\u003c/em\u003e Hence, the question asks for which value of \u003cem\u003ex\u003c/em\u003e is 2\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 4 is greater than or equal to 12 \u0026#x002B; \u003cem\u003e3x.\u003c/em\u003e (Note: By symmetry, we could also ask for which value of \u003cem\u003ex\u003c/em\u003e is 12 \u0026#x002B; 3\u003cem\u003ex\u003c/em\u003e is greater than or equal to 2\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 4.) Expressing the inequality yields 2\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 4 \u0026#x2265; 12 \u0026#x002B; 3\u003cem\u003ex\u003c/em\u003e. Subtracting 12 \u0026#x002B; 2\u003cem\u003ex\u003c/em\u003e from both sides yields \u003cem\u003ex\u003c/em\u003e \u0026#x2264; \u0026#x2212; 8. The only answer-choice that satisfies the inequality is (E).",
+      "answers": [
+        {
+          "answerId": 18460,
+          "orderNum": 1,
+          "text": " \u0026#x2212;4 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18461,
+          "orderNum": 2,
+          "text": " \u0026#x2212;5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18462,
+          "orderNum": 3,
+          "text": " \u0026#x2212;6",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18463,
+          "orderNum": 4,
+          "text": " \u0026#x2212;7",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18464,
+          "orderNum": 5,
+          "text": " \u0026#x2212;9",
+          "result": "Correct"
+        }
+      ]
+    }
+  ],
+  "applications": []
+}

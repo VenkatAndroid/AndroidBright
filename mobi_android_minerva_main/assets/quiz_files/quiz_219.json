@@ -1,0 +1,180 @@
+{
+  "quizId": 219,
+  "name": "Problem Set F (GMAT MATH)",
+  "description": "Solve the following problems by eye-balling the figures.",
+  "questions": [
+    {
+      "text": " \u003cimg src\u003d\"9781889057705_151-png\" alt\u003d\"\"/\u003e\u003cbr\u003eIn the figure to the right, the radius of the larger circle is twice that of the smaller circle. If the circles are concentric, what is the ratio of the shaded region\u0026#x2019;s area to the area of the smaller circle?",
+      "orderNum": 1,
+      "questionOrderNum": 1,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3092,
+      "count": 5,
+      "solution": " In the figure to the right, the radius of the larger circle is twice that of the smaller circle. If the circles are concentric, what is the ratio of the shaded region\u0026#x2019;s area to the area of the smaller circle?\u003cimg src\u003d\"9781889057705_152-png\" alt\u003d\"\"/\u003eThe area of the shaded region appears to be about three times the area of the smaller circle, so the answer should be (C). Let\u0026#x2019;s verify this. Suppose the radius of the larger circle is 2 and the radius of the smaller circle is  Then the area of the larger circle is \u0026#x03C0;\u003cem\u003er\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; \u0026#x03C0;(2)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; 4\u0026#x03C0;, and the area of the smaller circle is \u0026#x03C0;\u003cem\u003er\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; \u0026#x03C0;(1)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; \u0026#x03C0;. Hence, the area of the shaded region is 4\u0026#x03C0; \u0026#x2212; \u0026#x03C0; \u0026#x003D; 3\u0026#x03C0;. Now,\u003cimg src\u003d\"9781889057705_152-2.png\" alt\u003d\"\"/\u003eThe answer is (C).",
+      "answers": [
+        {
+          "answerId": 17148,
+          "orderNum": 1,
+          "text": " 10:1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17149,
+          "orderNum": 2,
+          "text": " 9:1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17150,
+          "orderNum": 3,
+          "text": " 3:1",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17151,
+          "orderNum": 4,
+          "text": " 2:1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17152,
+          "orderNum": 5,
+          "text": " 1:1",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " \u003cimg src\u003d\"9781889057705_151-png\" alt\u003d\"\"/\u003e\u003cbr\u003eIn the figure to the right, \u0026#x0394;\u003cem\u003ePST\u003c/em\u003e is an isosceles right triangle, and \u003cem\u003ePS\u003c/em\u003e \u0026#x003D;  What is the area of the shaded region \u003cem\u003eURST\u003c/em\u003e?",
+      "orderNum": 2,
+      "questionOrderNum": 2,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3093,
+      "count": 5,
+      "solution": " In the figure to the right, \u0026#x0394;\u003cem\u003ePST\u003c/em\u003e is an isosceles right triangle, and \u003cem\u003ePS\u003c/em\u003e \u0026#x003D;  What is the area of the shaded region \u003cem\u003eURST\u003c/em\u003e?\u003cimg src\u003d\"9781889057705_152-3.png\" alt\u003d\"\"/\u003eThe area of the square is 1\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; 1. Now, the area of the shaded region appears to be about half that of the square. Hence, the area of the shaded region is about 1/ The answer is (E).",
+      "answers": [
+        {
+          "answerId": 17153,
+          "orderNum": 1,
+          "text": " 4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17154,
+          "orderNum": 2,
+          "text": " 2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17155,
+          "orderNum": 3,
+          "text": " 5/4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17156,
+          "orderNum": 4,
+          "text": " 5/6",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17157,
+          "orderNum": 5,
+          "text": " 1/2",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " \u003cimg src\u003d\"9781889057705_151-png\" alt\u003d\"\"/\u003e\u003cbr\u003eIn the figure to the right, the area of \u0026#x0394;\u003cem\u003ePQR\u003c/em\u003e is 40. What is the area of \u0026#x0394;\u003cem\u003eQRS\u003c/em\u003e?",
+      "orderNum": 3,
+      "questionOrderNum": 3,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3094,
+      "count": 5,
+      "solution": " In the figure to the right, the area of \u0026#x0394;\u003cem\u003ePQR\u003c/em\u003e is 40. What is the area of \u0026#x0394;\u003cem\u003eQRS\u003c/em\u003e?\u003cimg src\u003d\"9781889057705_152-4.png\" alt\u003d\"\"/\u003eClearly from the drawing, the area of \u0026#x0394;\u003cem\u003eQRS\u003c/em\u003e is greater than half the area of \u0026#x0394;\u003cem\u003ePQR\u003c/em\u003e. This eliminates (A), (B), and (C). Now, the area of \u0026#x0394;\u003cem\u003eQRS\u003c/em\u003e cannot be greater than the area of \u0026#x0394;\u003cem\u003ePQR\u003c/em\u003e. This eliminates (E). The answer is (D).",
+      "answers": [
+        {
+          "answerId": 17158,
+          "orderNum": 1,
+          "text": " 10",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17159,
+          "orderNum": 2,
+          "text": " 15",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17160,
+          "orderNum": 3,
+          "text": " 20",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17161,
+          "orderNum": 4,
+          "text": " 25",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17162,
+          "orderNum": 5,
+          "text": " 45",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " \u003cimg src\u003d\"9781889057705_151-png\" alt\u003d\"\"/\u003e\u003cbr\u003eIn the figure to the right, \u003cem\u003ePQRS\u003c/em\u003e is a square and \u003cem\u003eM\u003c/em\u003e and \u003cem\u003eN\u003c/em\u003e are midpoints of their respective sides. What is the area of quadrilateral \u003cem\u003ePMRN\u003c/em\u003e?",
+      "orderNum": 4,
+      "questionOrderNum": 4,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3095,
+      "count": 5,
+      "solution": "In the figure to the right, \u003cem\u003ePQRS\u003c/em\u003e is a square and \u003cem\u003eM\u003c/em\u003e and \u003cem\u003eN\u003c/em\u003e are midpoints of their respective sides. What is the area of quadrilateral \u003cem\u003ePMRN\u003c/em\u003e?\u003c/p\u003e\n\u003cp class\u003d\"paran\"\u003e(A) 8\u003c/p\u003e\n\u003cp class\u003d\"paran\"\u003e(B) 10\u003c/p\u003e\n\u003cp class\u003d\"paran\"\u003e(C) 12\u003c/p\u003e\n\u003cp class\u003d\"paran\"\u003e(D) 14\u003c/p\u003e\n\u003cp class\u003d\"paran\"\u003e(E) 16\u003c/p\u003e\u003cimg src\u003d\"9781889057705_152-5.png\" alt\u003d\"\"/\u003e\u003c/p\u003e\u003cp class\u003d\"para1\"\u003eSince the square has sides of length 4, its area is 16. Now, the area of the shaded region appears to be half that of the square. Hence, its area is 8. The answer is (A).",
+      "answers": [
+        {
+          "answerId": 17163,
+          "orderNum": 1,
+          "text": " 8",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17164,
+          "orderNum": 2,
+          "text": " 10",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17165,
+          "orderNum": 3,
+          "text": " 12",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17166,
+          "orderNum": 4,
+          "text": " 14",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17167,
+          "orderNum": 5,
+          "text": " 16",
+          "result": "Wrong"
+        }
+      ]
+    }
+  ],
+  "applications": []
+}

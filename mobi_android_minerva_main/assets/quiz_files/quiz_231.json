@@ -1,0 +1,997 @@
+{
+  "quizId": 231,
+  "name": "Problem Set R (GMAT MATH)",
+  "description": "",
+  "questions": [
+    {
+      "text": " \u003cem\u003eA\u003c/em\u003e launched 3 products in the year 2007 and earns income from the sales of the products only. The top graph shows his monthly earnings for the year. \u003cem\u003eB\u0026#x2019;s\u003c/em\u003e earnings consist of continuously growing salary, growing by same amount each month as shown in the figure. Which one of the following equals the total earnings of \u003cem\u003eA\u003c/em\u003e and \u003cem\u003eB\u003c/em\u003e in the year 2007?",
+      "orderNum": 1,
+      "questionOrderNum": 1,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3223,
+      "count": 5,
+      "solution": " \u003cem\u003eA\u003c/em\u003e launched 3 products in the year 2007 and earns income from the sales of the products only. The top graph shows his monthly earnings for the year. \u003cem\u003eB\u0026#x2019;s\u003c/em\u003e earnings consist of continuously growing salary, growing by same amount each month as shown in the figure. Which one of the following equals the total earnings of \u003cem\u003eA\u003c/em\u003e and \u003cem\u003eB\u003c/em\u003e in the year 2007?\u003cbr\u003e(A)\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;7500,8100\u003cbr\u003e(B)\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;7850,8300\u003cbr\u003e(C)\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;8150,8400\u003cp class\u003d\"extract\"\u003eFrom the figure, the monthly income of \u003cem\u003eA\u003c/em\u003e for the first four months is \u0026#x0024;400. Hence, the net earnings in the 4 months is 4 \u0026#x00D7; 400 \u0026#x003D; 1600 dollars.\u003cp class\u003d\"extract\"\u003eFrom the figure, the monthly income of \u003cem\u003eA\u003c/em\u003e for the second four months is \u0026#x0024;700. Hence, the net earnings in the 4 months is 4 \u0026#x00D7; 700 \u0026#x003D; 2800 dollars.\u003cp class\u003d\"extract\"\u003eFrom the figure, the monthly income of \u003cem\u003eA\u003c/em\u003e for the last four months is \u0026#x0024;1000. Hence, the net earnings in the 4 months is 4 \u0026#x00D7; 1000 \u0026#x003D; 4000 dollars.\u003cp class\u003d\"extract\"\u003eHence, the total income in the year is 1600 \u0026#x002B; 2800 \u0026#x002B; 4000 \u0026#x003D; 8400 dollars.\u003cp class\u003d\"extract\"\u003eThe monthly income of \u003cem\u003eB\u003c/em\u003e grew regularly from 400 in January to 950 in December. Hence, the net income is 400 \u0026#x002B; 450 \u0026#x002B; 500 \u0026#x002B; 550 \u0026#x002B; 600 \u0026#x002B; 650 \u0026#x002B; 700 \u0026#x002B; 750 \u0026#x002B; 800 \u0026#x002B; 850 \u0026#x002B; 900 \u0026#x002B; 950 \u0026#x003D; 8100.Hence, the answer is (D).",
+      "answers": [
+        {
+          "answerId": 17796,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;7500,8100 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17797,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;7850,8300 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17798,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;8150,8400 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17799,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;8400,8100",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17800,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;8400,8700",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " The graph below shows historical exchange rates between the Indian Rupee (INR) and the US Dollar (USD) between January 9 and February 8 of a particular year.\u003cbr\u003e\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_273-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003eOn which day shown on the graph did the value of the US dollar increase against the Rupee by the greatest amount?",
+      "orderNum": 2,
+      "questionOrderNum": 2,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3224,
+      "count": 5,
+      "solution": " On which day shown on the graph did the value of the US dollar increase against the Rupee by the greatest amount?The graph below shows historical exchange rates between the Indian Rupee (INR) and the US Dollar (USD) between January 10 and February 8 of a particular year.\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_284-1.png\" alt\u003d\"\"/\u003eHere, the scale of the \u003cem\u003ex\u003c/em\u003e-axis is uniform. Hence, growth is greatest when the curve is steepest. The growth curve of the US dollar against the Indian Rupee is the steepest (increased by a bit more than six horizontal lines on the graph) on January 21. On February 5th, the growth is the next greatest, growing by a bit less than 6 horizontal lines. Hence, the answer is (C).",
+      "answers": [
+        {
+          "answerId": 17801,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;Jan. 10",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17802,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;Jan. 14",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17803,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;Jan. 21",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17804,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;Jan. 23",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17805,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;Feb. 4",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " The graph below shows historical exchange rates between the Indian Rupee (INR) and the US Dollar (USD) between January 9 and February 8 of a particular year.\u003cbr\u003e\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_273-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003eJohn had 100 dollars. The exchange rate converts the amount in US dollars to a number in Indian Rupees by directly multiplying by the value of the exchange rate. By what amount did John\u0026#x2019;s \u0026#x0024;100 increase in terms of Indian Rupees from Jan. 9 to Feb. 8?",
+      "orderNum": 3,
+      "questionOrderNum": 3,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3225,
+      "count": 5,
+      "solution": " John had 100 dollars. The exchange rate converts the amount in US dollars to a number in Indian Rupees by directly multiplying by the value of the exchange rate. By what amount did John\u0026#x2019;s \u0026#x0024;100 increase in terms of Indian Rupees from Jan. 9 to Feb. 8?The graph below shows historical exchange rates between the Indian Rupee (INR) and the US Dollar (USD) between January 10 and February 8 of a particular year.\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_284-1.png\" alt\u003d\"\"/\u003eOne dollar converted to 39.1 Rupees on Jan. 9. Hence, 100 dollars converts to 39.15\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00D7; 100 \u0026#x003D; 3915 Indian Rupees. On February 8, it converted to 39.65 Rupees. Hence, on that day, 100 dollars converted to 39.65 \u0026#x00D7; 100 \u0026#x003D; 3965 Rupees. The increase in terms of Indian Rupees is 3965 \u0026#x2212; 3915 \u0026#x003D; 50. The answer is (E).",
+      "answers": [
+        {
+          "answerId": 17806,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17807,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;10",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17808,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;15",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17809,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;25",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17810,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;50",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " The graph below shows historical exchange rates between the Indian Rupee (INR) and the US Dollar (USD) between January 9 and February 8 of a particular year.\u003cbr\u003e\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_273-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003eOn February 8, the dollar value was approximately what percent of the dollar value on January 9?",
+      "orderNum": 4,
+      "questionOrderNum": 4,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3226,
+      "count": 5,
+      "solution": " On February 8, the dollar value was approximately what percent of the dollar value on January 9?The graph below shows historical exchange rates between the Indian Rupee (INR) and the US Dollar (USD) between January 10 and February 8 of a particular year.\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_284-1.png\" alt\u003d\"\"/\u003eOn January 9, the dollar value was 39.15 Rupees, and on February 8 the dollar value was 39.65 Rupees. Hence, the dollar value on February 8th was 39.65/39.15\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0; \u0026#x00D7; 100 \u0026#x003D; (39.15 \u0026#x002B; 0.5)/39.15\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0; \u0026#x00D7; 100 \u0026#x003D; 100 \u0026#x002B; 0.5/39.15 \u0026#x00D7; 100 \u0026#x003D; (100 \u0026#x002B; 1.28) \u0026#x003D; 101.28 percent of the value on January 9th. Hence, the answer is (C).",
+      "answers": [
+        {
+          "answerId": 17811,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1.28",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17812,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;12.8",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17813,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;101.28",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17814,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;112.8",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17815,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;128",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_274-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003eBy what percent did the number of schools with Pupil/Teacher ratio less than 16 increase in January 1999 over January 1998?",
+      "orderNum": 5,
+      "questionOrderNum": 5,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3227,
+      "count": 5,
+      "solution": " By what percent did the number of schools with Pupil/Teacher ratio less than 16 increase in January 1999 over January 1998?\u003cp\u003e\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_285-1.png\" alt\u003d\"\"/\u003eIn January 1998, the Pupil/Teacher ratio is less than 16 in 2\u0026#x0025; of the schools. The number of schools in 1998 is 1000. Hence, 2\u0026#x0025; of 1000 is 2/100 \u0026#x00D7; 1000 \u0026#x003D; 20. So, 20 schools have pupil/Teacher ratio less than 16.\u003cp class\u003d\"extract\"\u003eIn January 1999, the pupil/Teacher ratio is less than 16 in 2\u0026#x0025; of schools again. The number of schools in 1999 is 1100. Hence, 2\u0026#x0025; of 1100 is 2/100 \u0026#x00D7; 1100 \u0026#x003D; 22. In 1999, there are 22 schools with the ratio less than 16.\u003cp class\u003d\"extract\"\u003eThe percentage increase equals (22 \u0026#x2212; 20)/20 \u0026#x00D7; 100 \u0026#x003D; 2/20 \u0026#x00D7; 100 \u0026#x003D; 10\u0026#x0025;. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 17816,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;-2\u0026#x0025;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17817,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;0\u0026#x0025;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17818,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;2\u0026#x0025;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17819,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;10\u0026#x0025;",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17820,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;12\u0026#x0025;",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_274-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003eIn January 1998, what percent of high schools had a Pupil/Teacher ratio less than 23?",
+      "orderNum": 6,
+      "questionOrderNum": 6,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3228,
+      "count": 5,
+      "solution": " In January 1998, what percent of high schools had a Pupil/Teacher ratio less than 23?\u003cp\u003e\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_285-1.png\" alt\u003d\"\"/\u003eThe number of schools having a ratio less than 23 isThe number of schools having the Pupil/Teacher ratio less than 16\u003cbr/\u003e+ The number of schools having the Pupil/Teacher ratio equal to 16\u003cbr/\u003e+ The number of schools having the Pupil/Teacher ratio equal to 17\u003cbr/\u003e+ The number of schools having the Pupil/Teacher ratio equal to 18\u003cbr/\u003e+ The number of schools having the Pupil/Teacher ratio equal to 19\u003cbr/\u003e+ The number of schools having the Pupil/Teacher ratio equal to 20\u003cbr/\u003e+ The number of schools having the Pupil/Teacher ratio equal to 21\u003cbr/\u003e+ The number of schools having the Pupil/Teacher ratio equal to 22 \u0026#x003D;\u003cbr/\u003e2\u0026#x0025; \u0026#x002B; 1\u0026#x0025; \u0026#x002B; 2\u0026#x0025; \u0026#x002B; 3\u0026#x0025; \u0026#x002B; 5\u0026#x0025; \u0026#x002B; 7\u0026#x0025; \u0026#x002B; 9\u0026#x0025; \u0026#x002B; 10\u0026#x0025; \u0026#x003D;\u003cbr/\u003e39\u0026#x0025;The answer is (B)\u003cp class\u003d\"extract\"\u003eMethod II(GMAT MATH):The number of schools having the ratio less than 23 equals100\u0026#x0025;\u003cbr/\u003e- (The number of schools having the Pupil Teacher ratio greater than 27\u003cbr/\u003e+ The number of schools having the Pupil/Teacher ratio equal to 27\u003cbr/\u003e+ The number of schools having the Pupil/Teacher ratio equal to 26\u003cbr/\u003e+ The number of schools having the Pupil/Teacher ratio equal to 25\u003cbr/\u003e+ The number of schools having the Pupil/Teacher ratio equal to 24\u003cbr/\u003e+ The number of schools having the Pupil/Teacher ratio equal to 23\u003cbr/\u003e)\u003cbr/\u003e\u003d 100 \u0026#x2212; (7\u0026#x0025; \u0026#x002B; 5\u0026#x0025; \u0026#x002B; 9\u0026#x0025; \u0026#x002B; 11\u0026#x0025; \u0026#x002B; 16\u0026#x0025; \u0026#x002B; 13\u0026#x0025;) \u0026#x003D; 100 \u0026#x2212; 61\u0026#x0025; \u0026#x003D; 39\u0026#x0025;.The answer is (B).",
+      "answers": [
+        {
+          "answerId": 17821,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;25\u0026#x0025;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17822,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;39\u0026#x0025;",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17823,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;50\u0026#x0025;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17824,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;60\u0026#x0025;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17825,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;75\u0026#x0025;",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_274-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003eIf the areas of the sectors in the circle graphs are drawn in proportion to the percent shown, what is the measure, in degrees, of the sector representing the number of high schools with Pupil/Teacher ratio greater than 27 in 1999?",
+      "orderNum": 7,
+      "questionOrderNum": 7,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3229,
+      "count": 5,
+      "solution": " If the areas of the sectors in the circle graphs are drawn in proportion to the percent shown, what is the measure, in degrees, of the sector representing the number of high schools with Pupil/Teacher ratio greater than 27 in 1999?\u003cp\u003e\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_285-1.png\" alt\u003d\"\"/\u003eFrom the chart, in 1999, 6\u0026#x0025; of schools have a Pupil/Teacher ratio greater than 2 Hence, the fraction of the angle that the sector makes in the complete angle of the circle also equals 6\u0026#x0025; \u0026#x003D; 6/100. Since the complete angle is 360\u0026#x00B0;, the part of the angle equals 6/100 \u0026#x00D7; 360 \u0026#x003D; 21.6\u0026#x00B0;. The answer is (A).",
+      "answers": [
+        {
+          "answerId": 17826,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;21.6",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17827,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;30",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17828,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;45.7",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17829,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;56.3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17830,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;72",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_276-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003eWhat was the number of security holes fixed in 2003?",
+      "orderNum": 8,
+      "questionOrderNum": 8,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3230,
+      "count": 5,
+      "solution": " \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_287-1.png\" alt\u003d\"\"/\u003eWhat was the number of security holes fixed in 2003?From the graph, the number of security holes fixed in 2003 is 4500. The answer is (C).",
+      "answers": [
+        {
+          "answerId": 17831,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1500",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17832,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1700",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17833,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;4500",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17834,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;6000",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17835,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;6300",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_276-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003eFor which year was the ratio of the Security holes to Bugs fixed by the software company the greatest?",
+      "orderNum": 9,
+      "questionOrderNum": 9,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3231,
+      "count": 5,
+      "solution": " \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_287-1.png\" alt\u003d\"\"/\u003eFor which year was the ratio of the Security holes to Bugs fixed by the software company the greatest?Let\u0026#x2019;s calculate the ratio and find the year in which the ratio is the greatest:\u003cp class\u003d\"extract\"\u003eChoice (A): Year 1998. The number of security holes to bugs fixed is 5000/1500 \u0026#x003D; 10/3 \u0026#x003D; 3.33.\u003cp class\u003d\"extract\"\u003eChoice (B): Year 199 The number of security holes to bugs fixed is 4500/1000 \u0026#x003D; 9/2 \u0026#x003D; 4.5 \u0026#x003E; Choice (A). Reject choice (A)\u003cp class\u003d\"extract\"\u003eChoice (C): Year 2000. The number of security holes to bugs fixed is 5000/1300 \u0026#x003D; 50/13 \u0026#x003D; 3.86 \u0026#x003C; Choice (B). Reject choice (C)\u003cp class\u003d\"extract\"\u003eChoice (D): Year 2001. The number of security holes to bugs fixed is 4700/1600 \u0026#x003D; 47/16 \u0026#x003D; 2.9375 \u0026#x003C; Choice (B). Reject choice (D)\u003cp class\u003d\"extract\"\u003eChoice (E): Year 2002. The number of security holes to bugs fixed is 5600/1300 \u0026#x003D; 56/13 \u0026#x003D; 4.3 \u0026#x003C; Choice (B). Reject choice (E)\u003cp class\u003d\"extract\"\u003eThe ratio is greatest in the year 199 Hence, the answer is (B).",
+      "answers": [
+        {
+          "answerId": 17836,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1998",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17837,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1999",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17838,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;2000",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17839,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;2001",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17840,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;2002",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_276-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003eIf the total number of software problems solved is a direct measure of the company\u0026#x2019;s capability, then by approximately what percent did capability increase from 1999 to 2002?",
+      "orderNum": 10,
+      "questionOrderNum": 10,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3232,
+      "count": 5,
+      "solution": " \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_287-1.png\" alt\u003d\"\"/\u003eIf the total number of software problems solved is a direct measure of the company\u0026#x2019;s capability, then by approximately what percent did capability increase from 1999 to 2002?In 1999, the total number of software problems solved by Eigen\u0026#x2019;s Software Company is Bugs \u0026#x002B; Security holes \u0026#x002B; Backdoors \u0026#x003D; 1000 \u0026#x002B; 4500 \u0026#x002B; 1700 \u0026#x003D; 7200.In 2002, the total number of software problems solved by Eigen\u0026#x2019;s Software Company is Bugs \u0026#x002B; Security holes \u0026#x002B; Backdoors \u0026#x003D; 1300 \u0026#x002B; 5600 \u0026#x002B; 1800 \u0026#x003D; 8700.Hence, the percent increase in the number in the period is \u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_288-1.png\" alt\u003d\"\"/\u003e The nearest answer is (B).",
+      "answers": [
+        {
+          "answerId": 17841,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;10\u0026#x0025;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17842,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;20\u0026#x0025;",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17843,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;30\u0026#x0025;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17844,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;40\u0026#x0025;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17845,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;50\u0026#x0025;",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "\u003cstrong\u003e\u003c/strong\u003e \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_277-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003eIn which year were the questions in the exam least difficult?",
+      "orderNum": 11,
+      "questionOrderNum": 11,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3233,
+      "count": 5,
+      "solution": " Which year had the second most difficult exam?The graphs below provide data on a common entrance examination conducted in different years.\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_289-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003e(A) 2000\u003cbr\u003e(B) 2001\u003cbr\u003e(C) 2002\u003cbr\u003e(D) 2004\u003cbr\u003e(E) 2006Refer to the graph CEE Exam Difficulty Level. The graph starts at 0 for each exam and ends at 10 for the most difficult exam, CEE 2000. So, the difficulty actually increases with \u0026#x2018;D-level\u0026#x2019; value. The second highest value corresponds to the Exam CEE 2001. The answer is (B).",
+      "answers": [
+        {
+          "answerId": 17846,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;2000",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17847,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;2001",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17848,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;2002",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17849,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;2004",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17850,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;2006",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_277-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003eBy approximately what percent did the number of questions decrease from CEE 2000 to CEE 2006?",
+      "orderNum": 12,
+      "questionOrderNum": 12,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3234,
+      "count": 5,
+      "solution": " By approximately what percent did the number of questions decrease from CEE 2000 to CEE 2006?The graphs below provide data on a common entrance examination conducted in different years.\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_289-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003e(A) 11\u003cbr\u003e(B) 22\u003cbr\u003e(C) 27\u003cbr\u003e(D) 33\u003cbr\u003e(E) 37From the graph, the number of questions in CEE 2000 is 55. The number in CEE 2006 is 40. Hence, the percent drop is \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_290-1.png\" alt\u003d\"\"/\u003e Since the nearest choice is (C), the answer is (C).",
+      "answers": [
+        {
+          "answerId": 17851,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;11",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17852,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;22",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17853,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;27",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17854,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;33",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17855,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;37",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_277-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003eIn which y ear were the test takers given the least time to answer all the questions?",
+      "orderNum": 13,
+      "questionOrderNum": 13,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3235,
+      "count": 5,
+      "solution": " In which y ear were the test takers given the least time to answer all the questions?The graphs below provide data on a common entrance examination conducted in different years.\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_289-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003e(A) 2000\u003cbr\u003e(B) 2001\u003cbr\u003e(C) 2002\u003cbr\u003e(D) 2004\u003cbr\u003e(E) 2006The time given can be evaluated as (Number of Questions) x (Time Per Question)Both the number of questions and the time given per question are the least in 2006. Hence, their product should be minimum in that year.Hence, the total time given is the least in 2006. The answer is (E).",
+      "answers": [
+        {
+          "answerId": 29306,
+          "orderNum": 1,
+          "text": "2000",
+          "result": "INCORRECT"
+        },
+        {
+          "answerId": 29307,
+          "orderNum": 2,
+          "text": "2001",
+          "result": "INCORRECT"
+        },
+        {
+          "answerId": 29308,
+          "orderNum": 3,
+          "text": "2002",
+          "result": "INCORRECT"
+        },
+        {
+          "answerId": 29309,
+          "orderNum": 4,
+          "text": "2004",
+          "result": "INCORRECT"
+        },
+        {
+          "answerId": 29310,
+          "orderNum": 5,
+          "text": "2006",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_277-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003eIf the Pressure Factor for the examinees in an exam is defined as Difficulty level divided by Average Time (in minutes) given per question, then the Pressure Factor equals which one of the following in CEE 2006?",
+      "orderNum": 14,
+      "questionOrderNum": 14,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3236,
+      "count": 5,
+      "solution": " If the Pressure Factor for the examinees in an exam is defined as Difficulty level divided by Average Time (in minutes) given per question, then the Pressure Factor equals which one of the following in CEE 2006?The graphs below provide data on a common entrance examination conducted in different years.\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_289-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003e(A) 7.5\u003cbr\u003e(B) 10\u003cbr\u003e(C) 12.5\u003cbr\u003e(D) 15\u003cbr\u003e(E) 17.5The Pressure Factor in 2006 equals Difficulty level divided by Average Time given per question \u003d 5/40 seconds or 5/(2/3 minutes) \u003d 15/2 per minute. The answer is (A).",
+      "answers": [
+        {
+          "answerId": 17856,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;7.5",
+          "result": "Correct"
+        },
+        {
+          "answerId": 29311,
+          "orderNum": 2,
+          "text": "10",
+          "result": "INCORRECT"
+        },
+        {
+          "answerId": 17857,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;12.5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17858,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;15",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17859,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;17.5",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_277-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003eIf the Stress Factor for the examinees in an exam is defined as the product of the Difficulty level and the Number of questions divided by the average time given per question, then the Stress Factor equals which one of the following in the exam CEE 2005?",
+      "orderNum": 15,
+      "questionOrderNum": 15,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3237,
+      "count": 5,
+      "solution": " If the Stress Factor for the examinees in an exam is defined as the product of the Difficulty level and the Number of questions divided by the average time given per question, then the Stress Factor equals which one of the following in the exam CEE 2005?The graphs below provide data on a common entrance examination conducted in different years.\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_289-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003e(A) 2 per second\u003cbr\u003e(B) 3 per second\u003cbr\u003e(C) 4 per second\u003cbr\u003e(D) 6 per second\u003cbr\u003e(E) 9 per secondThe Stress Factor equals\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_291-1.png\" alt\u003d\"\"/\u003eThe answer is (D).",
+      "answers": [
+        {
+          "answerId": 17860,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;2 per second",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17861,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;3 per second",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17862,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;4 per second",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17863,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;6 per second",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17864,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;9 per second",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_279-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003eBy approximately what percent did the number of questions decrease in CET 1994 over the previous year?",
+      "orderNum": 16,
+      "questionOrderNum": 16,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3238,
+      "count": 5,
+      "solution": " By approximately what percent did the number of questions decrease in CET 1994 over the previous year?The table below provides the complete semantics of a Common Entrance Test (CET) conducted in different years.\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_292-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003e(A) 16%\u003cbr\u003e(B) 19%\u003cbr\u003e(C) 35%\u003cbr\u003e(D) 40%\u003cbr\u003e(E) 50%CET 1993 asks 50 quantitative, 50 verbal, and 50 Analytical. The total is 50 + 50 + 50 \u003d 150.CET 1994 asks 37 quantitative, 50 verbal, and 39 Analytical. The total is 37 + 50 + 39 \u003d 126.The decrease percent is \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_293-1.png\" alt\u003d\"\"/\u003e.The answer is (A).",
+      "answers": [
+        {
+          "answerId": 17865,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;16\u0026#x0025;",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17866,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;19\u0026#x0025;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17867,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;35\u0026#x0025;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 29317,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;45\u0026#x0025;",
+          "result": "INCORRECT"
+        },
+        {
+          "answerId": 29318,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;50\u0026#x0025;",
+          "result": "INCORRECT"
+        }
+      ]
+    },
+    {
+      "text": " \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_279-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003eThe Difficulty Factor is the greatest for which one of the following exams?",
+      "orderNum": 17,
+      "questionOrderNum": 17,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3239,
+      "count": 5,
+      "solution": " The Difficulty Factor is the greatest for which one of the following exams?The table below provides the complete semantics of a Common Entrance Test (CET) conducted in different years.\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_292-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003e(A) CET 1990\u003cbr\u003e(B) CET 1991\u003cbr\u003e(C) CET 1992\u003cbr\u003e(D) CET 1993\u003cbr\u003e(E) CET 1994The Difficulty Factor of the exam is the sum of the products of the number of questions of each type and the corresponding difficulty level.Let\u0026#x2019;s calculate the Difficulty Factor for each exam and pick the answer-choice that has greatest value(GMAT MATH):Choice (A): In CET 1990, the Difficulty Factor is (3 \u0026#x00D7; 55 \u0026#x002B; 3 \u0026#x00D7; 55 \u0026#x002B; 2 \u0026#x00D7; 55) \u003d 165 \u0026#x002B; 165 \u0026#x002B; 110 \u003d 440.Choice (B): In CET 1991, the Difficulty Factor is (2 \u0026#x00D7; 50 \u0026#x002B; 1 \u0026#x00D7; 50 \u0026#x002B; 1 \u0026#x00D7; 50) \u003d 100 \u0026#x002B; 50 \u0026#x002B; 50 \u003d 200 \u0026#x003C; Choice (A). Reject the current choice.Choice (C): In CET 1992, the Difficulty Factor is (3 \u0026#x00D7; 50 \u0026#x002B; 1 \u0026#x00D7; 50 \u0026#x002B; 3 \u0026#x00D7; 50) \u003d 350 \u0026#x003C; Choice (A). Reject the current choice.Choice (D): In CET 1993, the Difficulty Factor is (3 \u0026#x00D7; 50 \u0026#x002B; 1 \u0026#x00D7; 50 \u0026#x002B; 2 \u0026#x00D7; 50) \u003d 300 \u0026#x003C; Choice (A). Reject the current choice.Choice (E): In CET 1994, the Difficulty Factor is (3 \u0026#x00D7; 37 \u0026#x002B; 1 \u0026#x00D7; 50 \u0026#x002B; 3 \u0026#x00D7; 39) \u003d 111 \u0026#x002B; 50 \u0026#x002B; 117 \u003d 278 \u0026#x003C; Choice (A). Reject the current choice.The answer is (A).",
+      "answers": [
+        {
+          "answerId": 17868,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;CET 1990",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17869,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;CET 1991",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17870,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;CET 1992",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17871,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;CET 1993",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17872,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;CET 1994",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_279-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003eWhich one of the following exams has been marked as having the highest Stress Factor?",
+      "orderNum": 18,
+      "questionOrderNum": 18,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3240,
+      "count": 5,
+      "solution": " Which one of the following exams has been marked as having the highest Stress Factor?The table below provides the complete semantics of a Common Entrance Test (CET) conducted in different years.\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_292-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003e(A) CET 1990\u003cbr\u003e(B) CET 1991\u003cbr\u003e(C) CET 1992\u003cbr\u003e(D) CET 1993\u003cbr\u003e(E) CET 1994The Difficulty Factor of the exam is the sum of the products of the number of questions of each type and the corresponding difficulty level.ThenThe Stress Factor \u003d the Difficulty Factor divided by the average time per question.Let\u0026#x2019;s calculate the Stress Factor for each answer-choice and choose the one that has the highest value(GMAT MATH):Choice (A): In CET 1990, the Difficulty Factor is (3 \u0026#x00D7; 55 \u0026#x002B; 3 \u0026#x00D7; 55 \u0026#x002B; 2 \u0026#x00D7; 55) \u003d 165 \u0026#x002B; 165 \u0026#x002B; 110 \u003d 440.Choice (B): In CET 1991, the Difficulty Factor is (2 \u0026#x00D7; 50 \u0026#x002B; 1 \u0026#x00D7; 50 \u0026#x002B; 1 \u0026#x00D7; 50) \u003d 100 \u0026#x002B; 50 \u0026#x002B; 50 \u003d 200 \u0026#x003C; Choice (A). Reject the current choice.Choice (C): In CET 1992, the Difficulty Factor is (3 \u0026#x00D7; 50 \u0026#x002B; 1 \u0026#x00D7; 50 \u0026#x002B; 3 \u0026#x00D7; 50) \u003d 350 \u0026#x003C; Choice (A). Reject the current choice.Choice (D): In CET 1993, the Difficulty Factor is (3 \u0026#x00D7; 50 \u0026#x002B; 1 \u0026#x00D7; 50 \u0026#x002B; 2 \u0026#x00D7; 50) \u003d 300 \u0026#x003C; Choice (A). Reject the current choice.Choice (E): In CET 1994, the Difficulty Factor is (3 \u0026#x00D7; 37 \u0026#x002B; 1 \u0026#x00D7; 50 \u0026#x002B; 3 \u0026#x00D7; 39) \u003d 111 \u0026#x002B; 50 \u0026#x002B; 117 \u003d 278 \u0026#x003C; Choice (A). Reject the current choice.The answer is (A).",
+      "answers": [
+        {
+          "answerId": 29312,
+          "orderNum": 1,
+          "text": "CET 1990",
+          "result": "Correct"
+        },
+        {
+          "answerId": 29313,
+          "orderNum": 2,
+          "text": "CET 1991",
+          "result": "INCORRECT"
+        },
+        {
+          "answerId": 29314,
+          "orderNum": 3,
+          "text": "CET 1992",
+          "result": "INCORRECT"
+        },
+        {
+          "answerId": 29315,
+          "orderNum": 4,
+          "text": "CET 1993",
+          "result": "INCORRECT"
+        },
+        {
+          "answerId": 29316,
+          "orderNum": 5,
+          "text": "CET 1994",
+          "result": "INCORRECT"
+        }
+      ]
+    },
+    {
+      "text": "\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_279-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003e Which one of the following statements can be inferred from the table?\u003cbr\u003e(I) As the Stress Factor increased, the cut off marks of the top five universities decreased\u003cbr\u003e(II) As the Difficulty Factor of the exam decreased, the cut off marks of the top five universities increased\u003cbr\u003e(III) As the Difficulty Factor increased, the Stress Factor increased",
+      "orderNum": 19,
+      "questionOrderNum": 19,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3241,
+      "count": 5,
+      "solution": " Which one of the following statements can be inferred from the table?The table below provides the complete semantics of a Common Entrance Test (CET) conducted in different years.\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_292-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003e(I) As the Stress Factor increased, the cut off marks of the top five universities decreased\u003cbr\u003e(II) As the Difficulty Factor of the exam decreased, the cut off marks of the top five universities increased\u003cbr\u003e(III) As the Difficulty Factor increased, the Stress Factor increased\u003cbr\u003e(A) (I) only\u003cbr\u003e(B) (II) only\u003cbr\u003e(C) (III) only\u003cbr\u003e(D) (I), and (II)\u003cbr\u003e(E) (I), and (III)The increasing order of the Difficulty Factor isCET 1991 (200) \u0026#x003C; CET 1994 (278) \u0026#x003C; CET 1993 (300) \u0026#x003C; CET 1992 (350) \u0026#x003C; CET 1990 (440)The increasing order of the Stress Factor isCET 1994 (278/71 \u003d 3.92) \u0026#x003C; CET 1991 (200/48 \u003d 4.16) \u0026#x003C; CET 1993(300/48 \u003d 6.25) \u0026#x003C; CET 1992(350/48 \u003d 7.29) \u0026#x003C; CET 1990 (440/44 \u003d 10)The decreasing order of the cut off marks isCET 1994 (68) \u0026#x003E; CET 1991 (65) \u0026#x003E; CET 1993 (60) \u0026#x003E; CET 1992 (58) \u0026#x003E; CET 1990 (55)The decreasing order of the cut off marks matches the increasing order of the Stress Factor.The decreasing order of the cut off marks does \u003cem\u003enot\u003c/em\u003e match the increasing order of the Difficulty Factor.As the Difficulty Factor increased, the Stress Factor \u003cem\u003edid not\u003c/em\u003e increase. Hence, III is false. Only I is true, the answer is (A).",
+      "answers": [
+        {
+          "answerId": 17873,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;(I) only",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17874,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;(II) only",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17875,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;(III) only",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17876,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;(I), and (II)",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17877,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;(I), and (III)",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_281-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003eIn 2007, how many industry groups consisted of more than 1 million employees?",
+      "orderNum": 20,
+      "questionOrderNum": 20,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3242,
+      "count": 5,
+      "solution": " \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_296-1.png\" alt\u003d\"\"/\u003eIn 2007, how many industry groups consisted of more than 1 million employees?\u003cbr\u003e(A) 0\u003cbr\u003e(B) 1\u003cbr\u003e(C) 2\u003cbr\u003e(D) 3\u003cbr\u003e(E) 4From the chart, the employment is greater than 1 million in the industry groups State Government and Utilities. Hence, the answer is 2, which is in choice (C).",
+      "answers": [
+        {
+          "answerId": 17878,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;0",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17879,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17880,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;2",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17881,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17882,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;4",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_281-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003eWhich one of the following industry groups employs the maximum number of people?",
+      "orderNum": 21,
+      "questionOrderNum": 21,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3243,
+      "count": 5,
+      "solution": " \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_296-1.png\" alt\u003d\"\"/\u003eWhich one of the following industry groups employs the maximum number of people?\u003cbr\u003e(A) Utilities\u003cbr\u003e(B) Information\u003cbr\u003e(C) State Government\u003cbr\u003e(D) Natural Resources and Mining\u003cbr\u003e(E) Transportation and WarehousingFrom the table, the State Government employs the maximum number. The number is 1, 121, 712. The answer is (C).",
+      "answers": [
+        {
+          "answerId": 17883,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;Utilities",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17884,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;Information",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17885,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;State Government",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17886,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;Natural Resources and Mining",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17887,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;Transportation and Warehousing",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_281-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003eWhich one of the following industry groups employs more than 10 employees per establishment?",
+      "orderNum": 22,
+      "questionOrderNum": 22,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3244,
+      "count": 5,
+      "solution": " \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_296-1.png\" alt\u003d\"\"/\u003eWhich one of the following industry groups employs more than 10 employees per establishment?\u003cbr\u003e(A) Construction\u003cbr\u003e(B) Manufacturing\u003cbr\u003e(C) Wholesale Trade\u003cbr\u003e(D) Retail Trade\u003cbr\u003e(E) Transportation and WarehousingThe correct choice is the industry that employs more than 10 employees per establishment in an average. Hence, the industry with the criterion: The Number of Establishments \u0026#x00B7; 10 \u0026#x003C; the Number of Employees would be the correct choice.Choice (A): Construction.\u003cbr/\u003eThe number of establishments \u003d 749.\u003cbr/\u003eThe Number of Establishments \u0026#x00D7; 10 \u003d 7490.\u003cbr/\u003eThe number of Employees \u003d 6,836.\u003cbr/\u003eHere, The Number of Establishments \u0026#x00D7; 10 is not less than The number of Employees.\u003cbr/\u003eReject the choice.Choice (B): Manufacturing.\u003cbr/\u003eThe number of Establishments \u003d 19,335.\u003cbr/\u003eThe Number of Establishments \u0026#x00D7; 10 \u003d 193,350.\u003cbr/\u003eThe number of Employees \u003d 188,420.\u003cbr/\u003eHere, The Number of Establishments \u0026#x00D7; 10 is not less than The number of Employees.\u003cbr/\u003eReject the choice.Choice (C): Wholesale Trade.\u003cbr/\u003eThe number of Establishments \u003d 2,320.\u003cbr/\u003eThe Number of Establishments \u0026#x00D7; 10 \u003d 23,200.\u003cbr/\u003eThe number of Employees \u003d 9,711.\u003cbr/\u003eHere, The Number of Establishments \u0026#x00D7; 10 is not less than The number of Employees.\u003cbr/\u003eReject the choice.Choice (D): Retail Trading.\u003cbr/\u003eThe number of Establishments \u003d 11,342.\u003cbr/\u003eThe Number of Establishments \u0026#x00D7; 10 \u003d 113,420.\u003cbr/\u003eThe number of Employees \u003d 94,997.\u003cbr/\u003eHere, The Number of Establishments \u0026#x00D7; 10 is not less than The number of Employees.\u003cbr/\u003eReject the choice.Choice (E): Transportation and Warehousing.\u003cbr/\u003eThe number of Establishments \u003d 18,593.\u003cbr/\u003eThe Number of Establishments \u0026#x00D7; 10 \u003d.185,930.\u003cbr/\u003eThe number of Employees \u003d 299,648.\u003cbr/\u003eHere, The Number of Establishments \u0026#x00D7; 10 is less than The number of Employees.\u003cbr/\u003eAccept.The answer is (E).",
+      "answers": [
+        {
+          "answerId": 17888,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;Construction",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17889,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;Manufacturing",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17890,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;Wholesale Trade",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17891,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;Retail Trade",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17892,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;Transportation and Warehousing ",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_281-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003eWhich one of the following is a valid inference?\u003cbr\u003e(I)\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;The State Government can be inferred as employing the highest number of Employees per Establishment only because the Percentage Employment it provides is the highest. The number of Establishments is not important.\u003cbr\u003e(II)\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;The State Government can be inferred as employing the highest number of Employees per Establishment since it has the least number of organizations and offers the highest Employment.\u003cbr\u003e(III)\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;The State Government can be inferred as employing the highest number of Employees per Establishment since it has the least number of organizations and offers the highest Percentage of Employment.",
+      "orderNum": 23,
+      "questionOrderNum": 23,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3245,
+      "count": 5,
+      "solution": ".\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_296-1.png\" alt\u003d\"\"/\u003e Which one of the following is a valid inference?\u003c/p\u003e\n\u003cp class\u003d\"paran\"\u003e(I) The State Government can be inferred as employing the highest number of Employees per Establishment only because the Percentage Employment it provides is the highest. The number of Establishments is not important.\u003c/p\u003e\n\u003cp class\u003d\"paran\"\u003e(II) The State Government can be inferred as employing the highest number of Employees per Establishment since it has the least number of organizations and offers the highest Employment.\u003c/p\u003e\n\u003cp class\u003d\"paran\"\u003e(III) The State Government can be inferred as employing the highest number of Employees per Establishment since it has the least number of organizations and offers the highest Percentage of Employment.\u003c/p\u003e\n\u003cp class\u003d\"paran\"\u003e(A) I only\u003c/p\u003e\n\u003cp class\u003d\"paran\"\u003e(B) II only\u003c/p\u003e\n\u003cp class\u003d\"paran\"\u003e(C) III only\u003c/p\u003e\n\u003cp class\u003d\"paran\"\u003e(D) I and II\u003c/p\u003e\n\u003cp class\u003d\"paran\"\u003e(E) II and III\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eThe Employment per establishment is given as The Number of Employees/The Number of Establishments. The ratio is greatest when the numerator has the greatest positive value, and the denominator has the smallest positive value. Hence, II is true.\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eThe highest employment can also be directly understood by the highest percentage employment. Hence, just as Statement II is true because of the highest employment, Statement III is also true because of the highest percentage employment.\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eHence, II and III are correct and the answer is (E).",
+      "answers": [
+        {
+          "answerId": 17893,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;I only",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17894,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;II only",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17895,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;III only",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17896,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;I and II",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17897,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;II and III",
+          "result": "Correct"
+        }
+      ]
+    }
+  ],
+  "applications": []
+}

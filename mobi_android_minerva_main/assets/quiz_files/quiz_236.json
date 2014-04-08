@@ -1,0 +1,1642 @@
+{
+  "quizId": 236,
+  "name": "Problem Set W (GMAT MATH)",
+  "description": "",
+  "questions": [
+    {
+      "text": "There are 3 doors to a lecture room. In how many ways can a lecturer enter and leave the room?",
+      "orderNum": 1,
+      "questionOrderNum": 1,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3306,
+      "count": 5,
+      "solution": " There are 3 doors to a lecture room. In how many ways can a lecturer enter and leave the room?Recognizing the Problem:\u003cstrong\u003e1) Is it a permutation or a combination problem?\u003c/strong\u003eHere, order is important. Suppose A, B, and C are the three doors. Entering by door A and leaving by door B is not the same way as entering by door B and leaving by door A. Hence, AB \u0026#x2260; B A implies the problem is \u003cem\u003ea permutation\u003c/em\u003e (order is important)\u003cstrong\u003e2) Are repetitions allowed?\u003c/strong\u003eSince the lecturer can enter and exit through the same door, \u003cem\u003erepetition\u003c/em\u003e is allowed.\u003cstrong\u003e3) Are there any indistinguishable objects in the base set?\u003c/strong\u003eDoors are different. They are not indistinguishable, so \u003cem\u003eno indistinguishable objects.\u003c/em\u003eHence, we have a permutation problem, with repetition allowed and no indistinguishable objects.Method I (Using known formula for the scenario):Apply Formula 1, \u003cem\u003en\u003c/em\u003e\u003csup class\u003d\"frac\"\u003er\u003c/sup\u003e, from the Formula section. Here, \u003cem\u003en\u003c/em\u003e \u0026#x003D; 3, (three doors to choose from), \u003cem\u003er\u003c/em\u003e \u0026#x003D; 2, 2 slots (one for entry door, one for exit door)Hence, \u003cem\u003en\u003c/em\u003e\u003csup class\u003d\"frac\"\u003er\u003c/sup\u003e \u0026#x003D; 3\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; 9, and the answer is (D)Method II (Model 2):The lecturer can enter the room in 3 ways and exit in 3 ways. So, in total, the lecturer can enter and leave the room in 9 (\u0026#x003D; 3 \u0026#x00B7; 3) ways. The answer is (D). This problem allows repetition: the lecturer can enter by a door and exit by the same door.Method III (Model 3):Let the 3 doors be A, B, and C. We must choose 2 doors: one to enter and one to exit. This can be done in 6 ways: {A, A}, {A, B}, {B, B}, {B, C}, {C, C}, and {C, A}. Now, the order of the elements is important because entering by A and leaving by B is not same as entering by B and leaving by A. Let\u0026#x2019;s permute the combinations, which yields\u003cimg src\u003d\"9781889057705_361-png\" alt\u003d\"\"/\u003eThe total is 9, and the answer is (D).",
+      "answers": [
+        {
+          "answerId": 18195,
+          "orderNum": 1,
+          "text": " 1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18196,
+          "orderNum": 2,
+          "text": " 3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18197,
+          "orderNum": 3,
+          "text": " 6",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18198,
+          "orderNum": 4,
+          "text": " 9",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18199,
+          "orderNum": 5,
+          "text": " 12",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "There are 3 doors to a lecture room. In how many ways can a lecturer enter the room from one door and leave from another door?",
+      "orderNum": 2,
+      "questionOrderNum": 2,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3307,
+      "count": 5,
+      "solution": " There are 3 doors to a lecture room. In how many ways can a lecturer enter the room from one door and leave from another door?This problem is the same as the previous one, except entering and leaving must be done by different doors (since the doors are different, repetition is not allowed)Hence, we have a permutation (there are two slots individually defined: one naming the entering door and one naming the leaving door), without repetition, and no indistinguishable objects (doors are different)Recognizing the Problem:\u003cstrong\u003e1) Is it a permutation or a combination problem?\u003c/strong\u003eHere, order is important. Suppose A, B, and C are the three doors. Entering by door B and leaving by door C is not same as entering by door C and leaving by door B. Hence, BC \u0026#x2260; CB implies the problem is a \u003cem\u003epermutation\u003c/em\u003e (order is important)\u003cstrong\u003e2) Are repetitions allowed?\u003c/strong\u003eWe must count the number of possibilities in which the lecturer enters and exits by different doors, so \u003cem\u003erepetition is not allowed.\u003c/em\u003e\u003cstrong\u003e3) Are there any indistinguishable objects in the base set?\u003c/strong\u003eDoors are different. They are not indistinguishable, so \u003cem\u003eno indistinguishable objects.\u003c/em\u003eHence, we have a permutation problem, with repetition not allowed and no indistinguishable objects.Method I (Using known formula for the scenario):Apply Formula 2, \u003csub class\u003d\"frac\"\u003en\u003c/sub\u003e\u003cem\u003eP\u003c/em\u003e\u003csub class\u003d\"frac\"\u003er\u003c/sub\u003e, from the Formula section. Here, \u003cem\u003en\u003c/em\u003e \u0026#x003D; 3 (three doors to choose), \u003cem\u003er\u003c/em\u003e \u0026#x003D; 2 slots (one for entry door, one for exit door) to place them in.The calculation is\u003cimg src\u003d\"9781889057705_362-1.png\" alt\u003d\"\"/\u003eThe answer is (C)Method II (Model 2):The lecturer can enter the room in 3 ways and exit in 2 ways (not counting the door entered). Hence, in total, the number of ways is 3 \u0026#x00B7; 2 \u0026#x003D; 6 (by Model 2) or by the Fundamental Principle of Counting 2 \u0026#x002B; 2 \u0026#x002B; 2 \u0026#x003D; 6. The answer is (C). This is a problem with repetition not allowed.Method III (Model 3):Let the 3 doors be A, B, and C. Hence, the base set is {A, B, C}. We have to choose 2 doors\u0026#x2014;one to enter and one to exit. This can be done in 3 ways: {A, B}, {B, C}, {C, A} [The combinations {A, A}, {B, B}, and {C, C} were eliminated because repetition is not allowed]. Now, the order of the permutation is important because entering by A and leaving by B is not considered same as entering by B and leaving by A. Let\u0026#x2019;s permute the combinations:\u003cimg src\u003d\"9781889057705_363-1.png\" alt\u003d\"\"/\u003eThe total is 6, and the answer is (C).",
+      "answers": [
+        {
+          "answerId": 18200,
+          "orderNum": 1,
+          "text": "1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18201,
+          "orderNum": 2,
+          "text": "3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18202,
+          "orderNum": 3,
+          "text": "6",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18203,
+          "orderNum": 4,
+          "text": "9",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18204,
+          "orderNum": 5,
+          "text": "12",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "How many possible combinations can a 3-digit safe code have?",
+      "orderNum": 3,
+      "questionOrderNum": 3,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3308,
+      "count": 5,
+      "solution": " How many possible combinations can a 3-digit safe code have?\u003cbr\u003e(A) \u003csub class\u003d\"frac\"\u003e9\u003c/sub\u003eC\u003csub class\u003d\"frac\"\u003e3\u003c/sub\u003eThe safe combination could be 433 or 334; the combinations are the same, but their ordering is different. Since order is important for the safe combinations, this is a permutation problem.A safe code can be made of any of the numbers {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. No two objects in the set are indistinguishable. Hence, the base set does not have any indistinguishable objects.Repetitions of numbers in the safe code are possible. For example, 334 is a possible safe code.Hence, the problem is a permutation, with repetition and no indistinguishable objects. Hence, use Formula 1, \u003cem\u003en\u003c/em\u003e\u003csup class\u003d\"frac\"\u003er\u003c/sup\u003e [here, \u003cem\u003en\u003c/em\u003e \u0026#x003D; 10, \u003cem\u003er\u003c/em\u003e \u0026#x003D; 3]. The number of codes is 10\u003csup class\u003d\"frac\"\u003e3\u003c/sup\u003e \u0026#x003D; 1000. The answer is (E).",
+      "answers": [
+        {
+          "answerId": 18205,
+          "orderNum": 1,
+          "text": " \u003cem\u003e\u003csub class\u003d\"frac\"\u003e9\u003c/sub\u003eC\u003csub class\u003d\"frac\"\u003e3\u003c/sub\u003e\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18206,
+          "orderNum": 2,
+          "text": " \u003cem\u003e\u003csub class\u003d\"frac\"\u003e9\u003c/sub\u003eP\u003csub class\u003d\"frac\"\u003e3\u003c/sub\u003e\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18207,
+          "orderNum": 3,
+          "text": " 3\u003csup class\u003d\"frac\"\u003e9\u003c/sup\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18208,
+          "orderNum": 4,
+          "text": " 9\u003csup class\u003d\"frac\"\u003e3\u003c/sup\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18209,
+          "orderNum": 5,
+          "text": " 10\u003csup class\u003d\"frac\"\u003e3\u003c/sup\u003e",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "Goodwin has 3 different colored pants and 2 different colored shirts. In how many ways can he choose a pair of pants and a shirt?",
+      "orderNum": 4,
+      "questionOrderNum": 4,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3309,
+      "count": 5,
+      "solution": "So, this is a uniform arrangement problem. We can use any formula or model here. But there are non-uniform arrangement problems. For example, if you are to form a 3-digit number, the first digit has an additional rule: it cannot be 0 (because in this case the number would actually be 2-digit number). In such scenarios, we need to use model I or II. The number of ways the digits can be formed by model II is9 \u0026#x00B7; 10 \u0026#x00B7; 10 \u0026#x003D; 900 Goodwin has 3 different colored pants and 2 different colored shirts. In how many ways can he choose a pair of pants and a shirt?Model 2:The pants can be selected in 3 ways and the shirt in 2 ways. Hence, the pair can be selected in 3 \u0026#x00B7; 2 \u0026#x003D; 6 ways. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 18210,
+          "orderNum": 1,
+          "text": " 2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 29326,
+          "orderNum": 2,
+          "text": "3",
+          "result": "INCORRECT"
+        },
+        {
+          "answerId": 18211,
+          "orderNum": 3,
+          "text": " 5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18212,
+          "orderNum": 4,
+          "text": " 6",
+          "result": "Correct"
+        },
+        {
+          "answerId": 29327,
+          "orderNum": 5,
+          "text": "12",
+          "result": "INCORRECT"
+        }
+      ]
+    },
+    {
+      "text": "In how many ways can 2 doors be selected from 3 doors?",
+      "orderNum": 5,
+      "questionOrderNum": 5,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3310,
+      "count": 5,
+      "solution": " In how many ways can 2 doors be selected from 3 doors?It appears that order is not important in this problem: the doors are mentioned but not defined. Also, since we are \u003cem\u003eselecting\u003c/em\u003e doors, it is a combination problem.The base set is the 3 doors [\u003cem\u003en\u003c/em\u003e \u0026#x003D; 3]. The doors are different, so there are no indistinguishable objects in the base set.The arranged sets are the 2 doors [\u003cem\u003er\u003c/em\u003e \u0026#x003D; 2] we select. A door cannot be selected twice because \u0026#x201C;we select 2 doors\u0026#x201D; clearly means 2 different doors.Hence, the problem is a combination, with no indistinguishable objects and no repetitions. Hence, using Formula 3, \u003csub class\u003d\"frac\"\u003en\u003c/sub\u003eC\u003csub class\u003d\"frac\"\u003er\u003c/sub\u003e yields\u003cimg src\u003d\"9781889057705_364-1.png\" alt\u003d\"\"/\u003eThe answer is (B).",
+      "answers": [
+        {
+          "answerId": 18213,
+          "orderNum": 1,
+          "text": " 1 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18214,
+          "orderNum": 2,
+          "text": " 3 ",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18215,
+          "orderNum": 3,
+          "text": " 6 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18216,
+          "orderNum": 4,
+          "text": " 9 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18217,
+          "orderNum": 5,
+          "text": " 12 ",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "In how many ways can 2 doors be selected from 3 doors for entering and leaving a room?",
+      "orderNum": 6,
+      "questionOrderNum": 6,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3311,
+      "count": 5,
+      "solution": " In how many ways can 2 doors be selected from 3 doors for entering and leaving a room?The problem statement almost ended at \u0026#x201C;3 doors.\u0026#x201D; The remaining part \u0026#x201C;entering and leaving\u0026#x201D; only explains the reason for the selection. Hence, this does not define the slots. So, this is a combination problem. Moreover, we are asked to \u003cem\u003eselect,\u003c/em\u003e not to \u003cem\u003earrange.\u003c/em\u003e Hence, the problem is a combination, with no indistinguishable objects and no repetitions allowed. Using Formula 3, the number of ways the room can be entered and left is\u003cimg src\u003d\"9781889057705_364-2.png\" alt\u003d\"\"/\u003eThe answer is (B).",
+      "answers": [
+        {
+          "answerId": 18218,
+          "orderNum": 1,
+          "text": " 1  ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18219,
+          "orderNum": 2,
+          "text": " 3  ",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18220,
+          "orderNum": 3,
+          "text": " 6  ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18221,
+          "orderNum": 4,
+          "text": " 9  ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18222,
+          "orderNum": 5,
+          "text": " 12  ",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "In how many ways can a room be entered and exited from the 3 doors to the room?",
+      "orderNum": 7,
+      "questionOrderNum": 7,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3312,
+      "count": 5,
+      "solution": " In how many ways can a room be entered and exited from the 3 doors to the room?There is specific stress on \u0026#x201C;entered\u0026#x201D; and \u0026#x201C;exited\u0026#x201D; doors. Hence, the problem is not combinational; it is a permutation (order/positioning is important)The problem type is \u0026#x201C;no indistinguishable objects and repetitions allowed\u0026#x201D;. Hence, by Formula 1, the number of ways the room can be entered and exited is \u003cem\u003en\u003c/em\u003e\u003csup class\u003d\"frac\"\u003er\u003c/sup\u003e \u0026#x003D; 3\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; 9. The answer is (C).",
+      "answers": [
+        {
+          "answerId": 18223,
+          "orderNum": 1,
+          "text": " 1    ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18224,
+          "orderNum": 2,
+          "text": " 3    ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18225,
+          "orderNum": 3,
+          "text": " 6    ",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18226,
+          "orderNum": 4,
+          "text": " 9    ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18227,
+          "orderNum": 5,
+          "text": " 12    ",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "There are 5 doors to a lecture room. Two are red and the others are green. In how many ways can a lecturer enter the room and leave the room from different colored doors?",
+      "orderNum": 8,
+      "questionOrderNum": 8,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3313,
+      "count": 5,
+      "solution": " There are 5 doors to a lecture room. Two are red and the others are green. In how many ways can a lecturer enter the room and leave the room from different colored doors?There are 2 red and 3 green doors. We have two cases:The room can be entered from a red door (2 red doors, so 2 ways) and can be left from a green door (3 green doors, so 3 ways): 2 \u0026#x00B7; 3 \u0026#x003D; 6.The room can be entered from a green door (3 green doors, so 3 ways) and can be left from a red door (2 red doors, so 2 ways): 3 \u0026#x00B7; 2 \u0026#x003D; 6.Hence, the total number of ways is2 \u0026#x00B7; 3 \u0026#x002B; 3 \u0026#x00B7; 2 \u0026#x003D; 6 \u0026#x002B; 6 \u0026#x003D; 12The answer is (E).",
+      "answers": [
+        {
+          "answerId": 18228,
+          "orderNum": 1,
+          "text": " 1     ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18229,
+          "orderNum": 2,
+          "text": " 3     ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18230,
+          "orderNum": 3,
+          "text": " 6     ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18231,
+          "orderNum": 4,
+          "text": " 9     ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18232,
+          "orderNum": 5,
+          "text": " 12     ",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "Four pool balls\u0026#x2014;A, B, C, D\u0026#x2014;are randomly arranged in a straight line. What is the probability that the order will actually be A, B, C, D ?",
+      "orderNum": 9,
+      "questionOrderNum": 9,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3314,
+      "count": 5,
+      "solution": " Four pool balls\u0026#x2014;A, B, C, D\u0026#x2014;are randomly arranged in a straight line. What is the probability that the order will actually be A, B, C, D ?\u003cbr\u003e\u003cimg src\u003d\"9781889057705_365-1.png\" alt\u003d\"\"/\u003eThis is a permutation problem (order is important)A ball cannot exist in two slots, so repetition is not allowed.Each ball is given a different identity A, B, C, and D, so there are no indistinguishable objects.Here, \u003cem\u003en\u003c/em\u003e \u0026#x003D; 4 (number of balls to arrange) in \u003cem\u003er\u003c/em\u003e \u0026#x003D; 4 (positions). We know the problem type, and the formula to use. Hence, by Formula 2, the number of arrangements possible is \u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e\u003cem\u003eP\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e, and {A, B, C, D} is just one of the arrangements. Hence, the probability is 1 in \u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e\u003cem\u003eP\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e, or \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_365-2.png\" alt\u003d\"\"/\u003e. The answer is (C).",
+      "answers": [
+        {
+          "answerId": 18233,
+          "orderNum": 1,
+          "text": " 1/4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18234,
+          "orderNum": 2,
+          "text": " \u003cimg src\u003d\"9781889057705_354-1b.png\" alt\u003d\"/\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18235,
+          "orderNum": 3,
+          "text": " \u003cimg src\u003d\"9781889057705_354-1c.png\" alt\u003d\"/\u003e",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18236,
+          "orderNum": 4,
+          "text": " 1/2!",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18237,
+          "orderNum": 5,
+          "text": " 1/3!",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "A basketball team has 11 players on its roster. Only 5 players can be on the court at one time. How many different groups of 5 players can the team put on the floor?",
+      "orderNum": 10,
+      "questionOrderNum": 10,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3315,
+      "count": 5,
+      "solution": " A basketball team has 11 players on its roster. Only 5 players can be on the court at one time. How many different groups of 5 players can the team put on the floor?\u003cbr\u003e(C) \u003csub class\u003d\"frac\"\u003e6\u003c/sub\u003e\u003cem\u003eP\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e5\u003c/sub\u003e\u003cbr\u003e(D) ll\u003csup class\u003d\"frac\"\u003e5\u003c/sup\u003eThe task is only to select a group of 5, not to order them. Hence, this is a combination problem. There are 11 players; repetition is not possible among them (one player cannot be counted more than once); and they are not given the same identity. Hence, there are no indistinguishable objects. Using Formula 3, groups of 5 can be chosen from 11 players in \u003csub class\u003d\"frac\"\u003e11\u003c/sub\u003e\u003cem\u003eC\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e5\u003c/sub\u003e ways. The answer is (B).",
+      "answers": [
+        {
+          "answerId": 18238,
+          "orderNum": 1,
+          "text": " 5\u003csup class\u003d\"frac\"\u003e11\u003c/sup\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18239,
+          "orderNum": 2,
+          "text": " \u003csub class\u003d\"frac\"\u003e11\u003c/sub\u003e\u003cem\u003eC\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e5\u003c/sub\u003e",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18240,
+          "orderNum": 3,
+          "text": " \u003csub class\u003d\"frac\"\u003e11\u003c/sub\u003e\u003cem\u003eP\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e5\u003c/sub\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18241,
+          "orderNum": 4,
+          "text": " 11\u003csup class\u003d\"frac\"\u003e5\u003c/sup\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18242,
+          "orderNum": 5,
+          "text": " 11! \u0026#x00B7; 5!",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "How many different 5-letter words can be formed from the word ORANGE using each letter only once?",
+      "orderNum": 11,
+      "questionOrderNum": 11,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3316,
+      "count": 5,
+      "solution": " How many different 5-letter words can be formed from t he word ORANGE using each letter only once?\u003cbr\u003e(A) \u003csub class\u003d\"frac\"\u003e6\u003c/sub\u003e\u003cem\u003eP\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e3\u003c/sub\u003e\u003cbr\u003e(C) \u003csub class\u003d\"frac\"\u003e6\u003c/sub\u003e\u003cem\u003eC\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e6\u003c/sub\u003e\u003cbr\u003e(E) \u003csub class\u003d\"frac\"\u003e6\u003c/sub\u003e\u003cem\u003eP\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e5\u003c/sub\u003eIn the problem, order is important because ORGAN is a word formed from ORANGE and ORNAG is a word formed from ORANGE, but they are not the same word. Repetition is not allowed, since each letter in the original word is used only once.The problem does not have indistinguishable objects because no two letters of the word ORANGE are the same. Hence, by Formula 2, \u003csub class\u003d\"frac\"\u003en\u003c/sub\u003e\u003cem\u003eP\u003c/em\u003e\u003csub class\u003d\"frac\"\u003er\u003c/sub\u003e, the answer is \u003csub class\u003d\"frac\"\u003e6\u003c/sub\u003e\u003cem\u003eP\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e5\u003c/sub\u003e, which is choice (E).",
+      "answers": [
+        {
+          "answerId": 18243,
+          "orderNum": 1,
+          "text": " \u003csub class\u003d\"frac\"\u003e6\u003c/sub\u003eP\u003csub class\u003d\"frac\"\u003e6\u003c/sub\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18244,
+          "orderNum": 2,
+          "text": " 36",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18245,
+          "orderNum": 3,
+          "text": " \u003csub class\u003d\"frac\"\u003e6\u003c/sub\u003eC\u003csub class\u003d\"frac\"\u003e6\u003c/sub\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18246,
+          "orderNum": 4,
+          "text": " 6\u003csup class\u003d\"frac\"\u003e6\u003c/sup\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18247,
+          "orderNum": 5,
+          "text": " \u003csub class\u003d\"frac\"\u003e6\u003c/sub\u003eP\u003csub class\u003d\"frac\"\u003e5\u003c/sub\u003e",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "How many unequal 5-digit numbers can be formed using each digit of the number 11235 only once?",
+      "orderNum": 12,
+      "questionOrderNum": 12,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3317,
+      "count": 5,
+      "solution": " How many unequal 5-digit numbers can be formed using each digit of the number 11235 only once?\u003cbr\u003e\u003cimg src\u003d\"9781889057705_366-1.png\" alt\u003d\"\"/\u003eThe word \u0026#x201C;unequal\u0026#x201D; indicates that this is a permutation problem, because 11532 is the same combination as 11235, but they are not equal. Hence, they are permutations, different arrangements in a combination.The indistinguishable objects in the base set {1, 1, 2, 3, 5} are the two l\u0026#x2019;s.Since each digit of the number 11235 (objects in the base set) is used only once, repetitions are not allowed.Hence, by Formula 4, the number of unequal 5-digit numbers that can be formed is\u003cimg src\u003d\"9781889057705_366-2.png\" alt\u003d\"\"/\u003eThe answer is (B).",
+      "answers": [
+        {
+          "answerId": 18248,
+          "orderNum": 1,
+          "text": " 5!",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18249,
+          "orderNum": 2,
+          "text": " \u003cimg src\u003d\"9781889057705_354-2b.png\" alt\u003d\"/\u003e",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18250,
+          "orderNum": 3,
+          "text": " \u003cimg src\u003d\"9781889057705_354-2c.png\" alt\u003d\"/\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18251,
+          "orderNum": 4,
+          "text": " \u003cimg src\u003d\"9781889057705_354-2d.png\" alt\u003d\"/\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18252,
+          "orderNum": 5,
+          "text": " \u003cimg src\u003d\"9781889057705_354-2e.png\" alt\u003d\"/\u003e",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "How many different six-digit numbers can be formed using all of the following digits : 3, 3, 4, 4, 4, 5?",
+      "orderNum": 13,
+      "questionOrderNum": 13,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3318,
+      "count": 5,
+      "solution": " How many different six-digit numbers can be formed using all of the following digits :Forming a six-digit number is a permutation because the value of the number changes with the different arrangements.Since we have indistinguishable numbers in the base set, the regular permutations generate repeating numbers. But we are asked for only different six-digit numbers. So, we count only 1 for each similar permutation.There are two sets of indistinguishable objects in the base set: two 3\u0026#x2019;s and three 4\u0026#x2019;s.No repetitions are allowed since all elements in the base set are to be used in each number.Hence, by Formula 4, the formula for permutations with no repetitions and with distinguishable objects, the number of six-digit numbers that can be formed is\u003cimg src\u003d\"9781889057705_367-1.png\" alt\u003d\"\"/\u003eThe answer is (E).",
+      "answers": [
+        {
+          "answerId": 18254,
+          "orderNum": 1,
+          "text": " 10",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18255,
+          "orderNum": 2,
+          "text": " 20",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18256,
+          "orderNum": 3,
+          "text": " 30",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18257,
+          "orderNum": 4,
+          "text": " 36",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18258,
+          "orderNum": 5,
+          "text": " 60",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "This is how Edward\u0026#x2019;s Lotteries work. First, 9 different numbers are selected. Tickets with exactly 6 of the 9 numbers randomly selected are printed suchthat no two tickets have the same set of numbers. Finally, the winning ticket is the one containing the 6 numbers drawn from the 9 randomly. There is exactly one winning ticket in the lottery system. How many tickets can the lottery system print?",
+      "orderNum": 14,
+      "questionOrderNum": 14,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3319,
+      "count": 5,
+      "solution": " This is how Edward\u0026#x2019;s Lotteries work. First, 9 different numbers are selected. Tickets with exactly 6 of the 9 numbers randomly selected are printed suchthat no two tickets have the same set of numbers. Finally, the winning ticket is the one containing the 6 numbers drawn from the 9 randomly. There is exactly one winning ticket in the lottery system. How many tickets can the lottery system print?\u003cbr\u003e(A) \u003csub class\u003d\"frac\"\u003e9\u003c/sub\u003e\u003cem\u003eP\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e6\u003c/sub\u003e\u003cbr\u003e(B) \u003csub class\u003d\"frac\"\u003e9\u003c/sub\u003e\u003cem\u003eP\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e3\u003c/sub\u003e\u003cbr\u003e(C) \u003csub class\u003d\"frac\"\u003e9\u003c/sub\u003e\u003cem\u003eC\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e9\u003c/sub\u003e\u003cbr\u003e(D) \u003csub class\u003d\"frac\"\u003e9\u003c/sub\u003e\u003cem\u003eC\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e6\u003c/sub\u003eThe only condition is that the winning ticket has the same set of numbers as the drawn numbers (in whatever order). Hence, order is not important. Now, count the combinations.Since the numbers in the base set (9 numbers) are different, the base set does not have indistinguishable objects.Six of the 9 different numbers are selected by the lottery system, so no repetitions are allowed.By Formula 3, the formula for combinations with no repetitions and no indistinguishable objects, the number of possible selections by the lottery system is \u003csub class\u003d\"frac\"\u003e9\u003c/sub\u003e\u003cem\u003eC\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e6\u003c/sub\u003e.Since only one winning ticket (winning combination) exists per lottery system, there is of \u003csub class\u003d\"frac\"\u003e9\u003c/sub\u003e\u003cem\u003eC\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e6\u003c/sub\u003e tickets per lottery system. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 18259,
+          "orderNum": 1,
+          "text": " \u003csub class\u003d\"frac\"\u003e9\u003c/sub\u003eP\u003csub class\u003d\"frac\"\u003e6\u003c/sub\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18260,
+          "orderNum": 2,
+          "text": " \u003csub class\u003d\"frac\"\u003e9\u003c/sub\u003eP\u003csub class\u003d\"frac\"\u003e3\u003c/sub\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18261,
+          "orderNum": 3,
+          "text": " \u003csub class\u003d\"frac\"\u003e9\u003c/sub\u003eC\u003csub class\u003d\"frac\"\u003e9\u003c/sub\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18262,
+          "orderNum": 4,
+          "text": " \u003csub class\u003d\"frac\"\u003e9\u003c/sub\u003eC\u003csub class\u003d\"frac\"\u003e6\u003c/sub\u003e",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18263,
+          "orderNum": 5,
+          "text": " 6\u003csup class\u003d\"frac\"\u003e9\u003c/sup\u003e",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "How many different strings of letters can be made by reordering the letters of the word SUCCESS?",
+      "orderNum": 15,
+      "questionOrderNum": 15,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3320,
+      "count": 5,
+      "solution": " How many different strings of letters can be made by reordering the letters of the word SUCCESS?The word SUCCESS is a different word from SUSSECC, while they are the same combination. Hence, this is a permutation problem, not a combination problem.There are two sets of indistinguishable objects in the base set: 2 C\u0026#x2019;s and 3 S\u0026#x2019;s.Each letter is used only once in each reordering (so do not allow repetition)Hence, we have a permutation problem, with indistinguishable objects and no repetitions. Using Formula 4, the formula for permutations with no repetitions but with distinguishable objects in the Formula section, yields \u003cem\u003en\u003c/em\u003e \u0026#x003D; l (base word has 7 letters), and \u003cem\u003er\u003c/em\u003e \u0026#x003D; l (each new word will have 7 letters). The repetitions are 2 C\u0026#x2019;s and 3 S\u0026#x2019;s. Hence, the total number of permutations is\u003cimg src\u003d\"9781889057705_368-1.png\" alt\u003d\"\"/\u003eThe answer is (E).",
+      "answers": [
+        {
+          "answerId": 18264,
+          "orderNum": 1,
+          "text": " 20",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18265,
+          "orderNum": 2,
+          "text": " 30",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18266,
+          "orderNum": 3,
+          "text": " 40",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18267,
+          "orderNum": 4,
+          "text": " 60",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18268,
+          "orderNum": 5,
+          "text": " 420",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "A company produces 8 different types of candies, and sells the candies in gift packs. How many different gift packs containing exactly 3 different candy types can the company put on the market?",
+      "orderNum": 16,
+      "questionOrderNum": 16,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3321,
+      "count": 5,
+      "solution": " A company produces 8 different types of candies, and sells the candies in gift packs. How many different gift packs containing exactly 3 different candy types can the company put on the market?\u003cbr\u003e(E) \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_368-2.png\" alt\u003d\"\"/\u003eThe phrase \u0026#x201C;8 different candies\u0026#x201D; indicates the base set does not have indistinguishable objects.Since no placement slots are defined, this is a combination problem. We need only to choose 3 of 8 candies; we do not need to order them.Repetitions are not allowed in the sets formed.By Formula 3, the formula for permutations with no repetitions but with distinguishable objects yields \u003csub class\u003d\"frac\"\u003e8\u003c/sub\u003e\u003cem\u003eC\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e3\u003c/sub\u003e which is Choice (B).",
+      "answers": [
+        {
+          "answerId": 18269,
+          "orderNum": 1,
+          "text": " \u003csub class\u003d\"frac\"\u003e8\u003c/sub\u003eC\u003csub class\u003d\"frac\"\u003e2\u003c/sub\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18270,
+          "orderNum": 2,
+          "text": " \u003csub class\u003d\"frac\"\u003e8\u003c/sub\u003eC\u003csub class\u003d\"frac\"\u003e3\u003c/sub\u003e",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18271,
+          "orderNum": 3,
+          "text": " \u003csub class\u003d\"frac\"\u003e8\u003c/sub\u003eP\u003csub class\u003d\"frac\"\u003e2\u003c/sub\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18272,
+          "orderNum": 4,
+          "text": " \u003csub class\u003d\"frac\"\u003e8\u003c/sub\u003eP\u003csub class\u003d\"frac\"\u003e3\u003c/sub\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18273,
+          "orderNum": 5,
+          "text": " \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_355-1.png\" alt\u003d\"/\u003e",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "Fritz is taking an examination that consists of two parts, A and B, with the following instructions:\u003cbr\u003ePart A contains three questions, and a student must answer two.\u003cbr/\u003ePart B contains four questions, and a student must answer two.\u003cbr/\u003ePart A must be completed before starting Part B.\u003cbr\u003eIn how many ways can the test be completed?",
+      "orderNum": 17,
+      "questionOrderNum": 17,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3322,
+      "count": 5,
+      "solution": " Fritz is taking an examination that consists of two parts, A and B, with the following instructions:\u003cbr\u003ePart A contains three questions, and a student must answer two.\u003cbr\u003ePart B contains four questions, and a student must answer two.\u003cbr\u003ePart A must be completed before starting Part B.\u003cbr\u003eIn how many ways can the test be completed?The problem has two parts.Each part is a permutation problem with no indistinguishable objects (no 2 questions are the same in either part), and repetitions are not allowed (the same question is not answered twice)Hence, the number of ways of answering the first part is \u003csub class\u003d\"frac\"\u003e3\u003c/sub\u003e\u003cem\u003eP\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e2\u003c/sub\u003e (2 questions to answer from 3), and the number of ways of answering the second part is \u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e\u003cem\u003eP\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e2\u003c/sub\u003e (2 questions to answer from 4)By the Fundamental Principle of Counting, the two parts can be done in\u003csub class\u003d\"frac\"\u003e3\u003c/sub\u003e\u003cem\u003eP\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e2\u003c/sub\u003e \u0026#x00B7; \u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e\u003cem\u003eP\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e2\u003c/sub\u003e \u0026#x003D; 6 \u0026#x00B7; 12 \u0026#x003D; 72 waysThe answer is (D)Method II [Model 2]:The first question in Part A can be chosen to be one of the 3 questions in Part A.The second question in Part A can be chosen to be one of the remaining 2 questions in Part A.The first question in Part B can be chosen to be one of the 4 questions in Part B.The second question in Part B can be chosen to be one of the remaining 3 questions in Part B.Hence, the number of choices is3 \u0026#x00B7; 2 \u0026#x00B7; 4 \u0026#x00B7; 3 \u0026#x003D; 72The answer is (D)Method III [Fundamental Principle of Counting combined with Model 2]:The first question in part A can be chosen to be one of the 3 questions in Part A.The second question in part A can be chosen to be one of the 3 questions in Part A allowing the repetitions. Hence, number of permutations is 3 \u0026#x00B7; 3 \u0026#x003D; 9. There are 3 repetitions [Ql \u0026#x0026; Ql, Q2 \u0026#x0026; Q2, Q3 \u0026#x0026; Q3]. The main question does not allow repetitions since you would not answer the same question again. Deleting them, we have 9 \u0026#x2212; 3 \u0026#x003D; 6 ways for Part A.The first question in Part B can be chosen to be one of the 4 questions in Part B.The second question in Part B can be chosen to be one of 4 questions in Part B. Hence, the number of permutations is 4 \u0026#x00B7; 4 \u0026#x003D; 16. There are 4 repetitions [Ql \u0026#x0026; Ql, Q2 \u0026#x0026; Q2, Q3 \u0026#x0026; Q3, Q4 \u0026#x0026; Q4]. The main question does not allow repetitions since you would not answer the same question again. Deleting them, we have 16 \u0026#x2212; 4 \u0026#x003D; 12 ways for Part A.Hence, the number of choices is6 \u0026#x00B7; 12 \u0026#x003D; 72The answer is (D).",
+      "answers": [
+        {
+          "answerId": 18274,
+          "orderNum": 1,
+          "text": " 12",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18275,
+          "orderNum": 2,
+          "text": " 15",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18276,
+          "orderNum": 3,
+          "text": " 36",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18277,
+          "orderNum": 4,
+          "text": " 72",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18278,
+          "orderNum": 5,
+          "text": " 90",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "A menu offers 2 entrees, 3 main courses, and 3 desserts. How many different combinations of dinner can be made? (A dinner must contain an entr\u0026#x00E9;e, a main course, and a dessert.)",
+      "orderNum": 18,
+      "questionOrderNum": 18,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3323,
+      "count": 5,
+      "solution": " A menu offers 2 entrees, 3 main courses, and 3 desserts. How many different combinations of dinner can be made? (A dinner must contain an entr\u0026#x00E9;e, a main course, and a dessert.)The problem is a mix of 3 combinational problems. The goal is to choose 1 of 2 entrees, then 1 of 3 main courses, then 1 of 3 desserts. The choices can be made in 2, 3, and 3 ways, respectively. Hence, the total number of ways of selecting the combinations is 2 \u0026#x00B7; 3 \u0026#x00B7; 3 \u0026#x003D; We can also count the combinations by the Fundamental Principle of Counting:\u003cimg src\u003d\"9781889057705_370-1.png\" alt\u003d\"\"/\u003eThe Fundamental Principle of Counting states:The total number of possible outcomes of a series of decisions, making selections from various categories, is found by multiplying the number of choices for each decision.Counting the number of choices in the final column above yields  The answer is (C).",
+      "answers": [
+        {
+          "answerId": 18279,
+          "orderNum": 1,
+          "text": " 12      ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18280,
+          "orderNum": 2,
+          "text": " 15      ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18281,
+          "orderNum": 3,
+          "text": " 18",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18282,
+          "orderNum": 4,
+          "text": " 21",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18283,
+          "orderNum": 5,
+          "text": " 24",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "In how many ways can 3 red marbles, 2 blue marbles, and 5 yellow marbles be placed in a row?",
+      "orderNum": 19,
+      "questionOrderNum": 19,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3324,
+      "count": 5,
+      "solution": " In how many ways can 3 red marbles, 2 blue marbles, and 5 yellow marbles be placed in a row?\u003cbr\u003e\u003cimg src\u003d\"9781889057705_371-1.png\" alt\u003d\"\"/\u003eSince the question is asking for the number of ways the marbles can be placed adjacent to each other, this is a permutation problem.The base set has 3 red marbles (indistinguishable objects), 2 blue marbles (indistinguishable objects) and 5 yellow marbles (indistinguishable objects). The possible arrangements are 3 \u0026#x002B; 2 \u0026#x002B; 5 \u0026#x003D; 10 positions.The same marble cannot be used twice, so no repetitions are allowed. Formula 4, \u003csub class\u003d\"frac\"\u003en\u003c/sub\u003e\u003cem\u003eP\u003c/em\u003e\u003csub class\u003d\"frac\"\u003er\u003c/sub\u003e and the method for indistinguishable objects (that is, divide the number of permutations, \u003csub class\u003d\"frac\"\u003en\u003c/sub\u003e\u003cem\u003eP\u003c/em\u003e\u003csub class\u003d\"frac\"\u003er\u003c/sub\u003e by the factorial count of each indistinguishable object [see Formulas section]) yield the number of permutations:\u003cimg src\u003d\"9781889057705_371-2.png\" alt\u003d\"\"/\u003eThe answer is (D).",
+      "answers": [
+        {
+          "answerId": 18284,
+          "orderNum": 1,
+          "text": " \u003cimg src\u003d\"9781889057705_356-1a.png\" alt\u003d\"/\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18285,
+          "orderNum": 2,
+          "text": " \u003cimg src\u003d\"9781889057705_356-1b.png\" alt\u003d\"/\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18286,
+          "orderNum": 3,
+          "text": " \u003cimg src\u003d\"9781889057705_356-1c.png\" alt\u003d\"/\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18287,
+          "orderNum": 4,
+          "text": " \u003cimg src\u003d\"9781889057705_356-1d.png\" alt\u003d\"/\u003e",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18288,
+          "orderNum": 5,
+          "text": " \u003cimg src\u003d\"9781889057705_356-1e.png\" alt\u003d\"/\u003e",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "The retirement plan for a company allows employees to invest in 10 different mutual funds. Six of the 10 funds grew by at least 10% over the last year. If Sam randomly selected 4 of the 10 funds, what is the probability that 3 of Sam\u0026#x2019;s 4 funds grew by at least 10% over last year?",
+      "orderNum": 20,
+      "questionOrderNum": 20,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3325,
+      "count": 5,
+      "solution": " The retirement plan for a company allows employees to invest in 10 different mutual funds. Six of the 10 funds grew by at least 10% over the last year. If Sam randomly selected 4 of the 10 funds, what is the probability that 3 of Sam\u0026#x2019;s 4 funds grew by at least 10% over last year?\u003cbr\u003e\u003cimg src\u003d\"9781889057705_371-3.png\" alt\u003d\"\"/\u003eThere are 6 winning funds that grew more than 10%, and 4 losing funds that grew less than 10%.The problem can be split into 3 sub-problems:We have the specific case where Sam must choose 4 funds, 3 of which are winning, so the remaining fund must be losing. Let\u0026#x2019;s evaluate the number of ways this can be done. [Note: The order in which the funds are chosen is not important because whether the first 3 funds are winning and the 4th one is losing, or the first fund is losing and the last 3 are winning; only 3 of 4 funds will be winning ones. Hence, this is a combination problem.] The problem has 2 sub-problems:Sam must choose 3 of the 6 winning funds. This can be done in \u003csub class\u003d\"frac\"\u003e6\u003c/sub\u003e\u003cem\u003eC\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e3\u003c/sub\u003e ways.Sam must choose one losing fund (say the 4th fund). There are 10 \u0026#x2212; 6 \u0026#x003D; 4 losing funds. Hence, the 4th fund can be any one of the 4 losing funds. The selection can be done in \u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e\u003cem\u003eC\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e1\u003c/sub\u003e ways.Hence, the total number of ways of choosing 3 winning funds and 1 losing one is \u003csub class\u003d\"frac\"\u003e6\u003c/sub\u003e\u003cem\u003eC\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e3\u003c/sub\u003e \u0026#x00B7; \u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e\u003cem\u003eC\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e1\u003c/sub\u003e.Sam could have chosen 4 funds in \u003csub class\u003d\"frac\"\u003e10\u003c/sub\u003e\u003cem\u003eC\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e ways.Hence, the probability that 3 of Sam\u0026#x2019;s 4 funds grew by at least 10% over last year is\u003cimg src\u003d\"9781889057705_372-1.png\" alt\u003d\"\"/\u003eThe answer is (B).",
+      "answers": [
+        {
+          "answerId": 18289,
+          "orderNum": 1,
+          "text": " \u003cimg src\u003d\"9781889057705_356-2a.png\" alt\u003d\"/\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18290,
+          "orderNum": 2,
+          "text": " \u003cimg src\u003d\"9781889057705_356-2b.png\" alt\u003d\"/\u003e",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18291,
+          "orderNum": 3,
+          "text": " \u003cimg src\u003d\"9781889057705_356-2c.png\" alt\u003d\"/\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18292,
+          "orderNum": 4,
+          "text": " \u003cimg src\u003d\"9781889057705_356-2d.png\" alt\u003d\"/\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18293,
+          "orderNum": 5,
+          "text": " \u003cimg src\u003d\"9781889057705_356-2e.png\" alt\u003d\"/\u003e",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "The retirement plan for a company allows employees to invest in 10 different mutual funds. Six of the 10 funds grew by at least 10% over the last year. If Sam randomly selected 4 of the 10 funds, what is the probability that \u003cem\u003eat least\u003c/em\u003e 3 of Sam\u0026#x2019;s 4 funds grew by at least 10% over the last year?",
+      "orderNum": 21,
+      "questionOrderNum": 21,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3326,
+      "count": 5,
+      "solution": " The retirement plan for a company allows employees to invest in 10 different mutual funds. Six of the 10 funds grew by at least 10% over the last year. If Sam randomly selected 4 of the 10 funds, what is the probability that \u003cem\u003eat least\u003c/em\u003e 3 of Sam\u0026#x2019;s 4 funds grew by at least 10% over the last year?\u003cbr\u003e\u003cimg src\u003d\"9781889057705_372-2.png\" alt\u003d\"\"/\u003eThere are 6 winning funds that grew more than 10%, and 4 losing funds that grew less than 10%.The problem can be split into 3 sub-problems:1) Sam has to choose 3 winning funds. This can be done in \u003csub class\u003d\"frac\"\u003e6\u003c/sub\u003e\u003cem\u003eC\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e3\u003c/sub\u003e ways.2) Sam has to choose 1 losing fund. This can be done in \u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e\u003cem\u003eC\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e1\u003c/sub\u003e ways.Or3) Sam has to choose all 4 funds to be winning funds. This can be done in \u003csub class\u003d\"frac\"\u003e6\u003c/sub\u003e\u003cem\u003eC\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e ways.This is how Sam chooses at least 3 winning funds.Hence, the total number of ways of choosing \u003cem\u003eat least\u003c/em\u003e 3 winning funds is \u003csub class\u003d\"frac\"\u003e6\u003c/sub\u003e\u003cem\u003eC\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e3\u003c/sub\u003e \u0026#x00B7; \u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e\u003cem\u003eC\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e1\u003c/sub\u003e \u0026#x002B; \u003csub class\u003d\"frac\"\u003e6\u003c/sub\u003e\u003cem\u003eC\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e.If there were no restrictions (such as choosing at least 3 winning funds), Sam would have chosen funds in \u003csub class\u003d\"frac\"\u003e10\u003c/sub\u003e\u003cem\u003eC\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e ways.Hence, the probability that \u003cem\u003eat least\u003c/em\u003e 3 of Sam\u0026#x2019;s 4 funds grew by at least 10% over the last year is\u003cimg src\u003d\"9781889057705_372-3.png\" alt\u003d\"\"/\u003eThe answer is (E).",
+      "answers": [
+        {
+          "answerId": 18294,
+          "orderNum": 1,
+          "text": " \u003cimg src\u003d\"9781889057705_356-3a.png\" alt\u003d\"/\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18295,
+          "orderNum": 2,
+          "text": " \u003cimg src\u003d\"9781889057705_356-3b.png\" alt\u003d\"/\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18296,
+          "orderNum": 3,
+          "text": " \u003cimg src\u003d\"9781889057705_356-3c.png\" alt\u003d\"/\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18297,
+          "orderNum": 4,
+          "text": " \u003cimg src\u003d\"9781889057705_356-3d.png\" alt\u003d\"/\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18298,
+          "orderNum": 5,
+          "text": " \u003cimg src\u003d\"9781889057705_356-3e.png\" alt\u003d\"/\u003e",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "In how many ways can the letters of the word ACUMEN be rearranged such that the vowels always appear together?",
+      "orderNum": 22,
+      "questionOrderNum": 22,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3327,
+      "count": 5,
+      "solution": " In how many ways can the letters of the word ACUMEN be rearranged such that the vowels always appear together?\u003cbr\u003e\u003cimg src\u003d\"9781889057705_373-1.png\" alt\u003d\"\"/\u003eThe word \u0026#x201C;rearranged\u0026#x201D; indicates that this is a permutation problem.The base set {A, C, U, M, E, N} has no indistinguishable objects.Repetition is not allowed.Since the 3 vowels must appear together, treat the three as an inseparable unit. Hence, reduce the base set to {{A, U, E}, C, M, N}. Now, there are 4 different units in the base set, and they can be arranged in \u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e\u003cem\u003eP\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e \u003d 4! ways. The unit {A, U, E} can itself be internally arranged in 3P3 \u003d 3! ways. Hence, by The Fundamental Principle of Counting, the total number of ways of arranging the word is 4!\u0026#x00B7;3!. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 18299,
+          "orderNum": 1,
+          "text": " \u003cimg src\u003d\"9781889057705_356-4a.png\" alt\u003d\"/\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18300,
+          "orderNum": 2,
+          "text": " \u003cimg src\u003d\"9781889057705_356-4b.png\" alt\u003d\"/\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18301,
+          "orderNum": 3,
+          "text": " \u003cimg src\u003d\"9781889057705_356-4c.png\" alt\u003d\"/\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18302,
+          "orderNum": 4,
+          "text": " \u003cimg src\u003d\"9781889057705_356-4d.png\" alt\u003d\"/\u003e",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18303,
+          "orderNum": 5,
+          "text": " \u003cimg src\u003d\"9781889057705_356-4e.png\" alt\u003d\"/\u003e",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "In how many ways can the letters of the word ACCLAIM be rearranged such that the vowels always appear together?",
+      "orderNum": 23,
+      "questionOrderNum": 23,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3328,
+      "count": 5,
+      "solution": " In how many ways can the letters of the word ACCLAIM be rearranged such that the vowels always appear together?\u003cbr\u003e\u003cimg src\u003d\"9781889057705_373-2.png\" alt\u003d\"\"/\u003eThe word \u0026#x201C;rearranged\u0026#x201D; indicates that this is a permutation problem.Since the 3 vowels A, A, and I must appear together, treat the three as an inseparable unit. Hence, reduce the base set to {{A, A, I}, C, C, L, M}.The set has two indistinguishable objects, C\u0026#x2019;s.Also, repetitions are not allowed since we rearrange the word.Hence, the number of permutations that can be created with units of the set is \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_373-3.png\" alt\u003d\"\"/\u003e.Now, let\u0026#x2019;s see how many permutations we can create with the unit {A, A, I}.The unit {A, A, I} has two indistinguishable objects, A\u0026#x2019;s.Also, repetitions are not allowed.Hence, by Formula 4, the number of ways of permuting it is \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_373-4.png\" alt\u003d\"\"/\u003e.Hence, by The Fundamental Principle of Counting, the total number of ways of rearranging the letters is\u003cimg src\u003d\"9781889057705_374-1.png\" alt\u003d\"\"/\u003eThe answer is (E).",
+      "answers": [
+        {
+          "answerId": 18304,
+          "orderNum": 1,
+          "text": " \u003cimg src\u003d\"9781889057705_357-1a.png\" alt\u003d\"/\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18305,
+          "orderNum": 2,
+          "text": " \u003cimg src\u003d\"9781889057705_357-1b.png\" alt\u003d\"/\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18306,
+          "orderNum": 3,
+          "text": " \u003cimg src\u003d\"9781889057705_357-1c.png\" alt\u003d\"/\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18307,
+          "orderNum": 4,
+          "text": " \u003cimg src\u003d\"9781889057705_357-1d.png\" alt\u003d\"/\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18308,
+          "orderNum": 5,
+          "text": " \u003cimg src\u003d\"9781889057705_357-1e.png\" alt\u003d\"/\u003e",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "In how many of ways can 5 balls be placed in 4 tins if any number of balls can be placed in any tin?",
+      "orderNum": 24,
+      "questionOrderNum": 24,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3329,
+      "count": 5,
+      "solution": " In how many of ways can 5 balls be placed in 4 tins if any number of balls can be placed in any tin?\u003cbr\u003e(A) \u003csub class\u003d\"frac\"\u003e5\u003c/sub\u003e\u003cem\u003eC\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003eThe first ball can be placed in any one of the four tins.Similarly, the second, the third, the fourth, and the fifth balls can be placed in any one of the 4 tins.Hence, the number of ways of placing the balls is 4 \u0026#x00B7; 4 \u0026#x00B7; 4 \u0026#x00B7; 4 \u0026#x00B7; 4 \u003d 4\u003csup class\u003d\"frac\"\u003e5\u003c/sup\u003e. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 18309,
+          "orderNum": 1,
+          "text": " \u003csub class\u003d\"frac\"\u003e5\u003c/sub\u003eC\u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18310,
+          "orderNum": 2,
+          "text": " \u003csub class\u003d\"frac\"\u003e5\u003c/sub\u003e\u003cem\u003eP\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18311,
+          "orderNum": 3,
+          "text": " 5\u003csup class\u003d\"frac\"\u003e4\u003c/sup\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18312,
+          "orderNum": 4,
+          "text": " 4\u003csup class\u003d\"frac\"\u003e5\u003c/sup\u003e",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18313,
+          "orderNum": 5,
+          "text": " 5\u003csup class\u003d\"frac\"\u003e5\u003c/sup\u003e",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "On average, a sharpshooter hits the target once every 3 shots. What is the probability that he will hit the target in 4 shots?",
+      "orderNum": 25,
+      "questionOrderNum": 25,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3330,
+      "count": 5,
+      "solution": " On average, a sharpshooter hits the target once every 3 shots. What is the probability that he will hit the target in 4 shots?The sharpshooter hits the target once in 3 shots. Hence, the probability of hitting the target is 1/3. The probability of not hitting the target is 1 \u0026#x2212; 1/3 \u003d 2/3.Now, (the probability of not hitting the target even once in 4 shots) \u0026#x002B; (the probability of hitting at least once in 4 shots) equals 1, because these are the only possible cases.Hence, the probability of hitting the target at least once in 4 shots is1 \u0026#x2212; (the probability of not hitting even once in 4 shots)The probability of not hitting in the 4 chances is \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_376-2.png\" alt\u003d\"\"/\u003e. Now, 1 \u0026#x2212; 16/81 \u003d 65/81.This methodology is similar to Model 2. You might try analyzing why. Clue: The numerators of \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_376-2.png\" alt\u003d\"\"/\u003e are the number of ways of doing the specific jobs, and the denominators are the number of ways of doing all possible jobs. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 18314,
+          "orderNum": 1,
+          "text": " 1      ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18315,
+          "orderNum": 2,
+          "text": " 1/81",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18316,
+          "orderNum": 3,
+          "text": " 1/3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18317,
+          "orderNum": 4,
+          "text": " 65/81",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18318,
+          "orderNum": 5,
+          "text": " 71/81",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "On average, a sharpshooter hits the target once every 3 shots. What is the probability that he will not hit the target until 4th shot?",
+      "orderNum": 26,
+      "questionOrderNum": 26,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3331,
+      "count": 5,
+      "solution": " On average, a sharpshooter hits the target once every 3 shots. What is the probability that he will not hit the target until 4th shot?The sharpshooter hits the target once in every 3 shots. Hence, the probability of hitting the target is 1/3. The probability of not hitting the target is 1 \u0026#x2212; 1/3 \u003d 2/3.He will not hit the target on the first, second, and third shots, but he will hit it on the fourth shot. The probability of this is\u003cimg src\u003d\"9781889057705_377-1.png\" alt\u003d\"\"/\u003eThis methodology is similar to Model 2. You might try analyzing why. Clue: The numerators of \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_377-2.png\" alt\u003d\"\"/\u003e are the number of ways of doing the specific jobs, and the denominators are the number of ways of doing all possible jobs.The answer is (B).",
+      "answers": [
+        {
+          "answerId": 18319,
+          "orderNum": 1,
+          "text": " 1          ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18320,
+          "orderNum": 2,
+          "text": " 8/81",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18321,
+          "orderNum": 3,
+          "text": " 16/81",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18322,
+          "orderNum": 4,
+          "text": " 65/81     ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18323,
+          "orderNum": 5,
+          "text": " 71/81     ",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "A new word is to be formed by randomly rearranging the letters of the word ALGEBRA. What is the probability that the new word has consonants occupying only the positions currently occupied by consonants in the word ALGEBRA?",
+      "orderNum": 27,
+      "questionOrderNum": 27,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3332,
+      "count": 5,
+      "solution": " A new word is to be formed by randomly rearranging the letters of the word ALGEBRA. What is the probability that the new word has consonants occupying only the positions currently occupied by consonants in the word ALGEBRA?If we do not put restrictions on the arrangements of the consonants, then by Formula 4 the number of words that can be formed from the word ALGEBRA is \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_377-3.png\" alt\u003d\"\"/\u003e (A repeats)If we constrain that the positions of consonants is reserved only for consonants, then the format of the new arrangement should look like this\u003cimg src\u003d\"9781889057705_377-4.png\" alt\u003d\"\"/\u003eThe 4 slots for consonants can be filled in \u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e\u003cem\u003eP\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e \u003d 4! ways, and the 3 slots for vowels can be filled in \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_377-5.png\" alt\u003d\"\"/\u003e (A repeats) ways. Hence, by Formula 2, the total number of arrangements in the format is \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_377-6.png\" alt\u003d\"\"/\u003e.Hence, the probability is\u003cimg src\u003d\"9781889057705_377-7.png\" alt\u003d\"\"/\u003eThe answer is (E).",
+      "answers": [
+        {
+          "answerId": 18324,
+          "orderNum": 1,
+          "text": " 2/120",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18325,
+          "orderNum": 2,
+          "text": " 1/24",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18326,
+          "orderNum": 3,
+          "text": " 1/6",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18327,
+          "orderNum": 4,
+          "text": " 2/105",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18328,
+          "orderNum": 5,
+          "text": " 1/35",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "Chelsea has 5 roses and 2 jasmines. A bouquet of 3 flowers is to be formed. In how many ways can it be formed if at least one jasmine must be in the bouquet?",
+      "orderNum": 28,
+      "questionOrderNum": 28,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3333,
+      "count": 5,
+      "solution": " Chelsea has 5 roses and 2 jasmines. A bouquet of 3 flowers is to be formed. In how many ways can it be formed if at least one jasmine must be in the bouquet?This is a selection problem because whether you choose a jasmine first or a rose first does not matter.The 3 flowers in the bouquet can be either 1 jasmine and 2 roses or 2 jasmines and 1 rose.1 of 2 jasmines can be selected in \u003csub class\u003d\"frac\"\u003e2\u003c/sub\u003e\u003cem\u003eC\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e1\u003c/sub\u003e ways.2 of 5 roses can be selected in \u003csub class\u003d\"frac\"\u003e5\u003c/sub\u003e\u003cem\u003eC\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e2\u003c/sub\u003e ways.The subtotal is \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_378-1.png\" alt\u003d\"\"/\u003e.2 of 2 jasmines can be selected in \u003csub class\u003d\"frac\"\u003e2\u003c/sub\u003e\u003cem\u003eC\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e2\u003c/sub\u003e ways.1 of 5 roses can be selected in \u003csub class\u003d\"frac\"\u003e5\u003c/sub\u003e\u003cem\u003eC\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e1\u003c/sub\u003e ways.The subtotal is \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_378-2.png\" alt\u003d\"\"/\u003e.The grand total is 20 \u0026#x002B; 5 \u003d 25 ways. The answer is (C).",
+      "answers": [
+        {
+          "answerId": 18329,
+          "orderNum": 1,
+          "text": " 5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18330,
+          "orderNum": 2,
+          "text": " 20 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18331,
+          "orderNum": 3,
+          "text": " 25",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18332,
+          "orderNum": 4,
+          "text": " 35",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18333,
+          "orderNum": 5,
+          "text": " 40",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "In how many ways can 3 boys and 2 girls be selected from a group of 6 boys and 5 girls?",
+      "orderNum": 29,
+      "questionOrderNum": 29,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3334,
+      "count": 5,
+      "solution": " In how many ways can 3 boys and 2 girls be selected from a group of 6 boys and 5 girls?We have two independent actions to do:\u003cbr\u003e1) Select 3 boys from 6 boys.\u003cbr\u003e2) Select 2 girls from 5 girls.Selection is a combination problem since selection does not include ordering. Hence, by Model 2, the number of ways is\u003cimg src\u003d\"9781889057705_378-3.png\" alt\u003d\"\"/\u003eThe answer is (E).",
+      "answers": [
+        {
+          "answerId": 18334,
+          "orderNum": 1,
+          "text": " 10  ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18335,
+          "orderNum": 2,
+          "text": " 20  ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18336,
+          "orderNum": 3,
+          "text": " 50",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18337,
+          "orderNum": 4,
+          "text": " 100",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18338,
+          "orderNum": 5,
+          "text": " 200",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "In how many ways can a committee of 5 members be formed from 4 women and 6 men such that at least 1 woman is a member of the committee?",
+      "orderNum": 30,
+      "questionOrderNum": 30,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3335,
+      "count": 5,
+      "solution": " In how many ways can a committee of 5 members be formed from 4 women and 6 men such that at least 1 woman is a member of the committee?Forming members of committee is a selection action and therefore this is a combination problem. Whether you select A first and B next or vice versa, it will only be said that A and B are members of the committee.The number of ways of forming the committee of 5 from 4 \u0026#x002B; 6 \u003d 10 people is \u003csub class\u003d\"frac\"\u003e10\u003c/sub\u003e\u003cem\u003eC\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e5\u003c/sub\u003e. The number of ways of forming a committee with no women (5 members to choose from 6 men) is \u003csub class\u003d\"frac\"\u003e6\u003c/sub\u003e\u003cem\u003eC\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e5\u003c/sub\u003e. Hence, the number of ways of forming the combinations is\u003cimg src\u003d\"9781889057705_379-1.png\" alt\u003d\"\"/\u003eThe answer is (D).",
+      "answers": [
+        {
+          "answerId": 18339,
+          "orderNum": 1,
+          "text": " 112",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18340,
+          "orderNum": 2,
+          "text": " 156",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18341,
+          "orderNum": 3,
+          "text": " 208",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18342,
+          "orderNum": 4,
+          "text": " 246",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18343,
+          "orderNum": 5,
+          "text": " 252",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "In how many ways can the letters of the word MAXIMA be arranged such that all vowels are together?",
+      "orderNum": 31,
+      "questionOrderNum": 31,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3336,
+      "count": 5,
+      "solution": " In how many ways can the letters of the word MAXIMA be arranged such that all vowels are together?The base set can be formed as {{A, I, A}, M, X, M}. The unit {A, I, A} arranges itself in \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_380-1.png\" alt\u003d\"\"/\u003e ways. The 4 units in the base set can be arranged in \u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e\u003cem\u003eP\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e/2! ways. Hence, the total number of ways of arranging the letters\u003cimg src\u003d\"9781889057705_380-2.png\" alt\u003d\"\"/\u003eThe answer is (D).",
+      "answers": [
+        {
+          "answerId": 18344,
+          "orderNum": 1,
+          "text": " 12       ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18345,
+          "orderNum": 2,
+          "text": " 18",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18346,
+          "orderNum": 3,
+          "text": " 30       ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18347,
+          "orderNum": 4,
+          "text": " 36       ",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18348,
+          "orderNum": 5,
+          "text": " 72",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "In how many ways can the letters of the word MAXIMA be arranged such that all vowels are together and all consonants are together?",
+      "orderNum": 32,
+      "questionOrderNum": 32,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3337,
+      "count": 5,
+      "solution": " In how many ways can the letters of the word MAXIMA be arranged such that all vowels are together and all consonants are together?\u003cbr\u003e(E) 42Since vowels are together and consonants are together, arrange the base set as {{A, I, A}, {M, X, M}}. Here, {A, I, A} and {M, X, M} are two inseparable units.The two units can be mutually arranged in \u003csub class\u003d\"frac\"\u003e2\u003c/sub\u003e\u003cem\u003eP\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e2\u003c/sub\u003e ways.Each unit has 3 objects, 2 of which are indistinguishable.Hence, the number of permutations of each is \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_380-3.png\" alt\u003d\"\"/\u003e.Hence, the total number of arrangements possible is\u003cimg src\u003d\"9781889057705_380-4.png\" alt\u003d\"\"/\u003eThe answer is (B).",
+      "answers": [
+        {
+          "answerId": 29322,
+          "orderNum": 1,
+          "text": "12",
+          "result": "Correct"
+        },
+        {
+          "answerId": 29323,
+          "orderNum": 2,
+          "text": "18",
+          "result": "INCORRECT"
+        },
+        {
+          "answerId": 29324,
+          "orderNum": 3,
+          "text": "30",
+          "result": "INCORRECT"
+        },
+        {
+          "answerId": 29325,
+          "orderNum": 4,
+          "text": "36",
+          "result": "INCORRECT"
+        },
+        {
+          "answerId": 18349,
+          "orderNum": 5,
+          "text": " 42       ",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "In how many ways can 4 boys and 4 girls be arranged in a row such that no two boys and no two girls are next to each other?",
+      "orderNum": 33,
+      "questionOrderNum": 33,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3338,
+      "count": 5,
+      "solution": " In how many ways can 4 boys and 4 girls be arranged in a row such that no two boys and no two girls are next to each other?Form the base set as {{B1, B2, B3, B4}, {G1, G2, G3, G4}}; Looking at the problem, either B\u0026#x2019;s or G\u0026#x2019;s occupy the odd slots and the other one occupies the even slots. Choosing one to occupy an odd slot set can be done in 2P1 ways, and the other one is automatically filled by the other group.Now, fill B\u0026#x2019;s in odd slots (the number of ways is \u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e\u003cem\u003eP\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e), and fill G\u0026#x2019;s in even slots (the number of ways is \u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e\u003cem\u003eP\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e ways). The total number of ways of doing this is \u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e\u003cem\u003eP\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e \u0026#x00B7; \u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e\u003cem\u003eP\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e.The number of ways of doing all of this is 2! \u0026#x00B7; \u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e\u003cem\u003eP\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e \u0026#x00B7; \u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e\u003cem\u003eP\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e \u003d 2 \u0026#x00B7; 24 \u0026#x00B7; 24 \u003d 1152. The answer is (B).",
+      "answers": [
+        {
+          "answerId": 18350,
+          "orderNum": 1,
+          "text": " 1032 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18351,
+          "orderNum": 2,
+          "text": " 1152 ",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18352,
+          "orderNum": 3,
+          "text": " 1254 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18353,
+          "orderNum": 4,
+          "text": " 1432 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18354,
+          "orderNum": 5,
+          "text": " 1564 ",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "In how many ways can 4 boys and 4 girls be arranged in a row such that boys and girls alternate their positions (that is, boy girl)?",
+      "orderNum": 34,
+      "questionOrderNum": 34,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3339,
+      "count": 5,
+      "solution": " In how many ways can 4 boys and 4 girls be arranged in a row such that boys and girls alternate their positions (that is, boy girl)?Form the base set as {{B1, B2, B3, B4}, {G1, G2, G3, G4}}; the set {B1, B2, B3, B4} occupies alternate positions, as does the set {G1, G2, G3, G4}.Now there are odd slots and even slots. Each odd slot alternates, and each even slot alternates. Therefore, we have two major slots: even and odd and two units to occupy them: {B1, B2, B3, B4} and {G1, G2, G3, G4}. This can be done in 2P1 ways.An alternate explanation for this is: The person starting the row can be chosen in 2 ways (i.e., either boys start the first position and arrange alternately or girls start and do the same), either B starts first or G starts first.Either way, the positions {1, 3, 5, 7} are reserved for one of the two groups B or G, and the positions {2, 4, 6, 8} are reserved for the other group. Arrangements in each position set can be done in \u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e\u003cem\u003eP\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e ways.Hence, the total number of arrangements is 2! \u0026#x00B7; \u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e\u003cem\u003eP\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e \u0026#x00B7; \u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e\u003cem\u003eP\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e4\u003c/sub\u003e \u003d 2 \u0026#x00B7; 24 \u0026#x00B7; 24 \u003d 1152. The answer is (B).",
+      "answers": [
+        {
+          "answerId": 18355,
+          "orderNum": 1,
+          "text": " 1032",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18356,
+          "orderNum": 2,
+          "text": " 1152",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18357,
+          "orderNum": 3,
+          "text": " 1254",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18358,
+          "orderNum": 4,
+          "text": " 1432",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18359,
+          "orderNum": 5,
+          "text": " 1564",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "The University of Maryland, University of Vermont, and Emory University have each 4 soccer players. If a team of 9 is to be formed with an equal number of players from each university, how many number of ways can the selections be done?",
+      "orderNum": 35,
+      "questionOrderNum": 35,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3340,
+      "count": 5,
+      "solution": " The University of Maryland, University of Vermont, and Emory University have each 4 soccer players. If a team of 9 is to be formed with an equal number of players from each university, how many number of ways can the selections be done?\u003cbr\u003e(A) 3\u003cbr\u003e(B) 4\u003cbr\u003e(C) 12\u003cbr\u003e(D) 16\u003cbr\u003e(E) 25Selecting 3 of 4 players can be done in \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_381-1.png\" alt\u003d\"\"/\u003e ways.The selection from the 3 universities can be done in 3 \u0026#x00B7; 4 \u003d 12 ways.The answer is (C).",
+      "answers": [
+        {
+          "answerId": 18360,
+          "orderNum": 1,
+          "text": "3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18361,
+          "orderNum": 2,
+          "text": "4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18362,
+          "orderNum": 3,
+          "text": "12",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18363,
+          "orderNum": 4,
+          "text": "16",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18364,
+          "orderNum": 5,
+          "text": "25",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "In how many ways can 5 persons be seated around a circular table?",
+      "orderNum": 36,
+      "questionOrderNum": 36,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3341,
+      "count": 5,
+      "solution": " In how many ways can 5 persons be seated around a circular table?\u003cbr\u003e(B) 24\u003cbr\u003e(D) 30\u003cbr\u003e(E) 120For a circular table, we use cyclical permutations, not linear permutations. Hence, 1 in every\u0026#x00A0;\u0026#x00A0;\u003cem\u003er\u003c/em\u003e linear permutations (here \u003cem\u003en\u003c/em\u003e \u003d 5 and \u003cem\u003er\u003c/em\u003e \u003d 5) is a circular permutation. There are \u003csub class\u003d\"frac\"\u003e5\u003c/sub\u003e\u003cem\u003eP\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e5\u003c/sub\u003e linear permutations. Hence,\u003cimg src\u003d\"9781889057705_382-1.png\" alt\u003d\"\"/\u003eThe answer is (B).",
+      "answers": [
+        {
+          "answerId": 18365,
+          "orderNum": 1,
+          "text": "5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18366,
+          "orderNum": 2,
+          "text": "24",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18367,
+          "orderNum": 3,
+          "text": "25",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18368,
+          "orderNum": 4,
+          "text": "30",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18369,
+          "orderNum": 5,
+          "text": "120",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "In how many ways can 5 people from a group of 6 people be seated around a circular table?",
+      "orderNum": 37,
+      "questionOrderNum": 37,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3342,
+      "count": 5,
+      "solution": " In how many ways can 5 people from a group of 6 people be seated around a circular table?\u003cbr\u003e(A) 56\u003cbr\u003e(B) 80\u003cbr\u003e(C) 100\u003cbr\u003e(D) 120For a circular table, we use cyclical permutations, not linear permutations. Hence, 1 in every \u0026#x00A0;\u0026#x00A0;\u003cem\u003er\u003c/em\u003e linear permutations (here r \u003d 5) is a circular permutation. There are 6P5 linear permutations and therefore \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_382-2.png\" alt\u003d\"\"/\u003e circular permutations. Now\u003cimg src\u003d\"9781889057705_382-3.png\" alt\u003d\"\"/\u003eThe answer is (E).",
+      "answers": [
+        {
+          "answerId": 18370,
+          "orderNum": 1,
+          "text": "56",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18371,
+          "orderNum": 2,
+          "text": "80",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18372,
+          "orderNum": 3,
+          "text": "100",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18373,
+          "orderNum": 4,
+          "text": "120",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18374,
+          "orderNum": 5,
+          "text": "144",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "What is the probability that a word formed by randomly rearranging the letters of the word ALGAE is the word ALGAE itself?",
+      "orderNum": 38,
+      "questionOrderNum": 38,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3343,
+      "count": 5,
+      "solution": "What is the probability that a word formed by randomly rearranging the letters of the word ALGAE is the word ALGAE itself?\u003c/p\u003e\n\n\u003cp class\u003d\"paran\"\u003e(A) 1/120\u003c/p\u003e\n\u003cp class\u003d\"paran\"\u003e(B) 1/60\u003c/p\u003e\n\u003cp class\u003d\"paran\"\u003e(C) 2/7\u003c/p\u003e\n\u003cp class\u003d\"paran\"\u003e(D) 2/5\u003c/p\u003e\n\u003cp class\u003d\"paran\"\u003e(E) 1/30\u003c/p\u003e\n\n\u003cp class\u003d\"para1\"\u003eThe number of words that can be formed from the word ALGAE is \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_382-4.png\" alt\u003d\"\"/\u003e (A repeats). ALGAE is just one of the words. Hence, the probability is \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_382-5.png\" alt\u003d\"\"/\u003e. The answer is (B)\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eof the words. Hence, the probability is \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_382-6.png\" alt\u003d\"\"/\u003e. The answer is (B).",
+      "answers": [
+        {
+          "answerId": 18375,
+          "orderNum": 1,
+          "text": "1/120",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18376,
+          "orderNum": 2,
+          "text": "1/60",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18377,
+          "orderNum": 3,
+          "text": "2/7",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18378,
+          "orderNum": 4,
+          "text": "2/5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18379,
+          "orderNum": 5,
+          "text": "1/30",
+          "result": "Wrong"
+        }
+      ]
+    }
+  ],
+  "applications": []
+}

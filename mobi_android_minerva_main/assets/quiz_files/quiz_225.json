@@ -1,0 +1,610 @@
+{
+  "quizId": 225,
+  "name": "Problem Set L (GMAT MATH)",
+  "description": "",
+  "questions": [
+    {
+      "text": " \u003cimg src\u003d\"9781889057705_214-3.png\" alt\u003d\"\"/\u003e\u003cbr\u003eThe figure is not drawn to scale.\u003cbr\u003eWhich one of the following points in the figure is the median of the points \u003cem\u003eM, P,Q,R,\u003c/em\u003e and \u003cem\u003eS\u003c/em\u003e ?",
+      "orderNum": 1,
+      "questionOrderNum": 1,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3146,
+      "count": 5,
+      "solution": " The definition of \u003cem\u003emedian\u003c/em\u003e is \u0026#x201C;When a set of numbers is arranged in order of size, the \u003cem\u003emedian\u003c/em\u003e is the middle number. If a set contains an even number of elements, then the median is the average of the two middle elements.\u0026#x201D;\u003cp class\u003d\"extract\"\u003eFrom the number line \u003cem\u003eM\u0026#x003D;\u003c/em\u003e 16, \u003cem\u003eP \u0026#x003D;\u003c/em\u003e 18, \u003cem\u003eQ \u0026#x003D;\u003c/em\u003e 20, \u003cem\u003eR \u0026#x003D;\u003c/em\u003e 21, and \u003cem\u003eS \u0026#x003D;\u003c/em\u003e 25. The numbers arranged in order are 16, 18, 20, 21, and 25. The median is 20. Since \u003cem\u003eQ \u0026#x003D;\u003c/em\u003e 20, the answer is (C).",
+      "answers": [
+        {
+          "answerId": 17416,
+          "orderNum": 1,
+          "text": " \u003cem\u003eM\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17417,
+          "orderNum": 2,
+          "text": " \u003cem\u003eP\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17418,
+          "orderNum": 3,
+          "text": " \u003cem\u003eQ\u003c/em\u003e",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17419,
+          "orderNum": 4,
+          "text": " \u003cem\u003eR\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17420,
+          "orderNum": 5,
+          "text": " \u003cem\u003eS\u003c/em\u003e",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " The last digit of which one of the following results equals the last digit of the average of 3\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e and 5\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e?",
+      "orderNum": 2,
+      "questionOrderNum": 2,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3147,
+      "count": 5,
+      "solution": " 3\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e equals 9 and 5\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e equals 25, and the average of the two is (9 \u0026#x002B; 25)/2 \u0026#x003D; 34/2 \u0026#x003D; 17, which ends with 7. Hence, select the answer-choice the result of which ends with 7.\u003cp class\u003d\"para101\"\u003eChoice (A): The sum of 13 and 25 is 38, which does not end with 7. Reject.\u003cp class\u003d\"para101\"\u003eChoice (B): The sum of 3 and 5\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e is 3 \u0026#x002B; 25 \u0026#x003D; 28, which does not end with 7. Reject.\u003cp class\u003d\"para101\"\u003eChoice (C): The average of 13 and 25 is (13 \u0026#x002B; 25)/2 \u0026#x003D; 19, which does not end with 7. Reject.\u003cp class\u003d\"para101\"\u003eChoice (D): The average of 13 and 15 is (13 \u0026#x002B; 15)/2 \u0026#x003D; 14, which does not end with 7. Reject.\u003cp class\u003d\"para101\"\u003eChoice (E): The average of 19 and 35 \u0026#x003D; (19 \u0026#x002B; 35)/2 \u0026#x003D; 54/2 \u0026#x003D; 27, which ends with 7. Accept the choice.The answer is (E).",
+      "answers": [
+        {
+          "answerId": 17421,
+          "orderNum": 1,
+          "text": " The sum of 13 and 25",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17422,
+          "orderNum": 2,
+          "text": " The sum of 3 and 5\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17423,
+          "orderNum": 3,
+          "text": " The average of 13 and 25",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17424,
+          "orderNum": 4,
+          "text": " The average of 13 and 15",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17425,
+          "orderNum": 5,
+          "text": " The average of 19 and 35",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " The monthly rainfall for the first eight months of 2008 in inches was 2, 4, 4, 5, 7, 9, 10, 11. Which one of the following equals the mean monthly rainfall for the 8 months and the median of the rainfall for the 8 months, respectively?",
+      "orderNum": 3,
+      "questionOrderNum": 3,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3148,
+      "count": 5,
+      "solution": " The mean rainfall for the 8 months is the sum of the eight rainfall measurements divided by 8:(2 \u0026#x002B; 4 \u0026#x002B; 4 \u0026#x002B; 5 \u0026#x002B; 9 \u0026#x002B; 10 \u0026#x002B; 11)/8 \u0026#x003D;6.5When a set of numbers is arranged in order of size, the \u003cem\u003emedian\u003c/em\u003e is the middle number. If a set contains an even number of elements, then the median is the average of the two middle elements. The average of 5 and 7 is 6, which is the median of the set.Hence, the answer is (A).",
+      "answers": [
+        {
+          "answerId": 17426,
+          "orderNum": 1,
+          "text": " 6.5,6",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17427,
+          "orderNum": 2,
+          "text": " 6,7.5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17428,
+          "orderNum": 3,
+          "text": " 7,8",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17429,
+          "orderNum": 4,
+          "text": " 8,9",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17430,
+          "orderNum": 5,
+          "text": " 8.5,9.5",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " A group of 30 employees of Cadre A has a mean age of 27. A different group of 70 employees of Cadre B has a mean age of 23. What is the mean age of the employees of the two groups together?",
+      "orderNum": 4,
+      "questionOrderNum": 4,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3149,
+      "count": 5,
+      "solution": " Cadre A has 30 employees whose mean age is 27. Hence, the sum of their ages is 30 \u0026#x00D7; 27 \u0026#x003D; 810. Cadre B has 70 employees whose mean age is 23. Hence, the sum of their ages is 23 \u0026#x00D7; 70 \u0026#x003D; 1610. Now, the total sum of the ages of the 100 (\u0026#x003D; 30 \u0026#x002B; 70) employees is 810\u0026#x002B;1610 \u0026#x003D; 2420. Hence, the average age is\u003cimg src\u003d\"9781889057705_217-1.png\" alt\u003d\"\"/\u003eThe answer is (B).",
+      "answers": [
+        {
+          "answerId": 17431,
+          "orderNum": 1,
+          "text": " 23",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17432,
+          "orderNum": 2,
+          "text": " 24.2",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17433,
+          "orderNum": 3,
+          "text": " 25",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17434,
+          "orderNum": 4,
+          "text": " 26.8",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17435,
+          "orderNum": 5,
+          "text": " 27",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " The difference between two angles of a triangle is 24\u0026#x00B0;. The average of the same two angles is 54\u0026#x00B0;. Which one of the following is the value of the greatest angle of the triangle?",
+      "orderNum": 5,
+      "questionOrderNum": 5,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3150,
+      "count": 5,
+      "solution": " Let \u003cem\u003ea\u003c/em\u003e and \u003cem\u003eb\u003c/em\u003e be the two angles in the question, with \u003cem\u003ea \u0026#x003E; b.\u003c/em\u003e We are given that the difference between the angles is 24\u0026#x00B0;, so \u003cem\u003ea \u0026#x2212; b \u0026#x003D;\u003c/em\u003e 24. Since the average of the two angles is 54\u0026#x00B0;, we have (\u003cem\u003ea\u003c/em\u003e \u0026#x002B; \u003cem\u003eb)/2 \u0026#x003D;\u003c/em\u003e 54. Solving for \u003cem\u003eb\u003c/em\u003e in the first equation yields \u003cem\u003eb \u0026#x003D; a \u0026#x2212;\u003c/em\u003e 24, and substituting this into the second equation yields\u003cp class\u003d\"paran10\"\u003e\u003cimg src\u003d\"9781889057705_218-1.png\" alt\u003d\"\"/\u003eAlso, \u003cem\u003eb \u0026#x003D; a \u0026#x2212;\u003c/em\u003e 24 \u0026#x003D; 66 \u0026#x2212; 24 \u0026#x003D; 42.Now, let cbe the third angle of the triangle. Since the sum of the angles in the triangle is 180\u0026#x00B0;, \u003cem\u003ea\u003c/em\u003e \u0026#x002B; \u003cem\u003eb\u003c/em\u003e \u0026#x002B; \u003cem\u003ec \u003d\u003c/em\u003e 180. Plugging the previous results into the equation yields 66 \u0026#x002B; 42 \u0026#x002B; \u003cem\u003ec \u003d\u003c/em\u003e 180. Solving for \u003cem\u003ec\u003c/em\u003e yields \u003cem\u003ec \u003d\u003c/em\u003e 72. Hence, the greatest of the three angles \u003cem\u003ea, b\u003c/em\u003e and \u003cem\u003ec\u003c/em\u003e is \u003cem\u003ec,\u003c/em\u003e which equals 72\u0026#x00B0;. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 17436,
+          "orderNum": 1,
+          "text": " 45\u0026#x00B0;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17437,
+          "orderNum": 2,
+          "text": " 60\u0026#x00B0;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17438,
+          "orderNum": 3,
+          "text": " 66\u0026#x00B0;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17439,
+          "orderNum": 4,
+          "text": " 72\u0026#x00B0;",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17440,
+          "orderNum": 5,
+          "text": " 78\u0026#x00B0;",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " The average length of all the sides of a rectangle equals twice the width of the rectangle. If the area of the rectangle is 18, what is its perimeter?",
+      "orderNum": 6,
+      "questionOrderNum": 6,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3151,
+      "count": 5,
+      "solution": " The perimeter of a rectangle is twice the sum of its length and width. Hence, if / and \u003cem\u003ew\u003c/em\u003e are length and width, respectively, of the given rectangle, then the perimeter of the rectangle is \u003cem\u003e2(1\u003c/em\u003e \u0026#x002B; \u003cem\u003ew).\u003c/em\u003e Also, the average side length of the rectangle is 1/4 times the sum. So, the average side length is \u003cem\u003e2(1\u003c/em\u003e \u0026#x002B; \u003cem\u003ew)l\u0026#x005C;\u003c/em\u003e \u0026#x003D; \u003cem\u003e112\u003c/em\u003e \u0026#x002B; \u003cem\u003ew/2.\u003c/em\u003e\u003cp class\u003d\"extract\"\u003eNow, we are given that the average equals twice the width. Hence, we have \u003cem\u003e\u0026#x00BD;\u003c/em\u003e \u0026#x002B; \u003cem\u003ew/2 \u0026#x003D; 2w.\u003c/em\u003e Multiplying the equation by 2 yields / \u0026#x002B; \u003cem\u003ew \u0026#x003D;\u0026#x005C;w\u003c/em\u003e and solving for / yields \u003cem\u003el\u003d3w.\u003c/em\u003eNow, the area of the rectangle equals \u003cem\u003elength\u003c/em\u003e x \u003cem\u003ewidth \u0026#x003D; l\u003c/em\u003e x \u003cem\u003ew \u0026#x003D;\u003c/em\u003e 18 (given). Plugging 3w for / in the equation yields 3w x \u003cem\u003ew\u003c/em\u003e 18. Dividing the equation by 3 yields \u003cem\u003ew\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D;\u003c/em\u003e 6, and square rooting both sides yields \u003cem\u003ew \u0026#x003D;\u003c/em\u003e \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_root_png\" alt\u003d\"\"/\u003e . Finally, the perimeter equals \u003cem\u003e2(1 \u0026#x002B; w) \u0026#x003D;\u003c/em\u003e 2(3w \u0026#x002B; \u003cem\u003ew) \u0026#x003D;\u003c/em\u003e 8w \u0026#x003D; 8\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_root_png\" alt\u003d\"\"/\u003e . The answer is (B).",
+      "answers": [
+        {
+          "answerId": 17441,
+          "orderNum": 1,
+          "text": " 6\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_root_6.png\" alt\u003d\"/\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17442,
+          "orderNum": 2,
+          "text": " 8\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_root_6.png\" alt\u003d\"/\u003e",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17443,
+          "orderNum": 3,
+          "text": " 24",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17444,
+          "orderNum": 4,
+          "text": " 32",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17445,
+          "orderNum": 5,
+          "text": " 48",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " In quadrilateral \u003cem\u003eABCD, \u0026#x2220;A\u003c/em\u003e measures 20 degrees more than the average of the other three angles of the quadrilateral. Then \u003cem\u003e\u0026#x2220;A \u0026#x003D;\u003c/em\u003e",
+      "orderNum": 7,
+      "questionOrderNum": 7,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3152,
+      "count": 5,
+      "solution": " Setting the angle sum of the quadrilateral to 360\u0026#x00B0; yields \u003cem\u003e\u0026#x2220;A \u0026#x002B; \u0026#x2220;B \u0026#x002B; \u0026#x2220;C \u0026#x002B; \u0026#x2220;D \u0026#x003D;\u003c/em\u003e 360. Subtracting \u003cem\u003e\u0026#x2220;A\u003c/em\u003e from both sides yields \u003cem\u003e\u0026#x2220;B\u003c/em\u003e \u0026#x002B; \u003cem\u003e\u0026#x2220;C\u003c/em\u003e \u0026#x002B; \u003cem\u003e\u0026#x2220;D \u0026#x003D;\u003c/em\u003e 360 \u0026#x2212; \u003cem\u003e\u0026#x2220;A.\u003c/em\u003e Forming the average of the three angles \u003cem\u003e\u0026#x2220;B, \u0026#x2220;C\u003c/em\u003e, and \u003cem\u003e\u0026#x2220;D\u003c/em\u003e yields (\u003cem\u003eLB\u003c/em\u003e \u0026#x002B; \u003cem\u003eLC\u003c/em\u003e \u0026#x002B; \u003cem\u003e\u0026#x2220; D\u003c/em\u003e)3 and this equals (360 \u0026#x2212; \u0026#x2220;\u0026#x00C4;)3, since we know that \u003cem\u003e\u0026#x2220;B\u003c/em\u003e \u0026#x002B; \u003cem\u003e\u0026#x2220;C\u003c/em\u003e \u0026#x002B; \u003cem\u003e\u0026#x2220;D\u003c/em\u003e \u0026#x003D; 360 \u0026#x2212; \u003cem\u003e\u0026#x2220;A\u003c/em\u003e. Now, we are given that \u003cem\u003e\u0026#x2220;A\u003c/em\u003e measures 20 degrees more than the average of the other three angles. Hence, \u003cem\u003e\u0026#x2220;A \u0026#x2212;\u003c/em\u003e (360 \u0026#x2212; \u003cem\u003e\u0026#x2220;A)/3\u003c/em\u003e \u0026#x002B; 20. Solving the equation for \u003cem\u003e\u0026#x2220;A\u003c/em\u003e yields \u003cem\u003e\u0026#x2220;A \u0026#x003D;\u003c/em\u003e 105. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 17446,
+          "orderNum": 1,
+          "text": " 70\u0026#x00B0;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17447,
+          "orderNum": 2,
+          "text": " 85\u0026#x00B0;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17448,
+          "orderNum": 3,
+          "text": " 95\u0026#x00B0;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17449,
+          "orderNum": 4,
+          "text": " 105\u0026#x00B0;",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17450,
+          "orderNum": 5,
+          "text": " 110\u0026#x00B0;",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " \u003cimg src\u003d\"9781889057705_215-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003eThe five numbers 1056, 1095, 1098, 1100, and 1126 are represented on a number line by the points \u003cem\u003eA, B, C, D,\u003c/em\u003e and \u003cem\u003eE,\u003c/em\u003e respectively, as shown in the figure. Which one of the following points represents the average of the five numbers?",
+      "orderNum": 8,
+      "questionOrderNum": 8,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3153,
+      "count": 5,
+      "solution": " The average of the five numbers 56, 95, 98, 100, and 126 is\u003cimg src\u003d\"9781889057705_218-2.png\" alt\u003d\"\"/\u003eHence, the average of the five numbers 1056 (\u0026#x003D; 1000 \u0026#x002B; 56), 1095 (\u0026#x003D; 1000 \u0026#x002B; 95), 1098 (\u0026#x003D; 1000 \u0026#x002B; 98), 1100 (\u0026#x003D; 1000 \u0026#x002B; 100), and 1126 (\u0026#x003D; 1000 \u0026#x002B; 126) must be 1000 \u0026#x002B; 95 \u0026#x003D; 1095. The point that represents the number on the number line is point B. Hence, the answer is (B).",
+      "answers": [
+        {
+          "answerId": 17451,
+          "orderNum": 1,
+          "text": " Point A",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17452,
+          "orderNum": 2,
+          "text": " Point B",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17453,
+          "orderNum": 3,
+          "text": " Point C",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17454,
+          "orderNum": 4,
+          "text": " Point D",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17455,
+          "orderNum": 5,
+          "text": " Point E",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " Which one of the following numbers can be removed from the set \u003cem\u003eS \u003d\u003c/em\u003e {0, 2, 4, 5, 9} without changing the average of set \u003cem\u003eS\u003c/em\u003e?",
+      "orderNum": 9,
+      "questionOrderNum": 9,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3154,
+      "count": 5,
+      "solution": " The average of the elements in the original set \u003cem\u003eS\u003c/em\u003e is (0 \u0026#x002B; 2 \u0026#x002B; 4 \u0026#x002B; 5 \u0026#x002B; 9)/5 \u0026#x003D; 20/5 \u0026#x003D; 4. If we remove an element that equals the average, then the average of the new set will remain unchanged. The new set after removing 4 is {0, 2, 5, 9}. The average of the elements is (0 \u0026#x002B; 2 \u0026#x002B; 5 \u0026#x002B; 9)/4 \u0026#x003D; 16/4 \u0026#x003D; 4. The answer is (C).",
+      "answers": [
+        {
+          "answerId": 17456,
+          "orderNum": 1,
+          "text": " 0",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17457,
+          "orderNum": 2,
+          "text": " 2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17458,
+          "orderNum": 3,
+          "text": " 4",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17459,
+          "orderNum": 4,
+          "text": " 5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17460,
+          "orderNum": 5,
+          "text": " 9",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " In a set of three numbers, the average of first two numbers is 2, the average of the last two numbers is 3, and the average of the first and the last numbers is 4. What is the average of three numbers?",
+      "orderNum": 10,
+      "questionOrderNum": 10,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3155,
+      "count": 5,
+      "solution": " Let the three numbers be \u003cem\u003ex\u003c/em\u003e\u003cem\u003e.y,\u003c/em\u003eandz. We are given that\u003cp class\u003d\"paran10\"\u003e\u003cimg src\u003d\"9781889057705_219-1.png\" alt\u003d\"\"/\u003eSumming the three equations yields\u003cp class\u003d\"paran10\"\u003e\u003cimg src\u003d\"9781889057705_219-2.png\" alt\u003d\"\"/\u003eThe average of the three numbers is (\u003cem\u003ex \u0026#x002B; y \u0026#x002B;\u003c/em\u003e z)/3 \u0026#x003D; 9/3 \u0026#x003D; 3. The answer is (C).",
+      "answers": [
+        {
+          "answerId": 17461,
+          "orderNum": 1,
+          "text": " 2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17462,
+          "orderNum": 2,
+          "text": " 2.5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17463,
+          "orderNum": 3,
+          "text": " 3",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17464,
+          "orderNum": 4,
+          "text": " 3.5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17465,
+          "orderNum": 5,
+          "text": " 4",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " The arithmetic mean (average) of the numbers \u003cem\u003ea\u003c/em\u003e and 6 is 5, and the geometric mean of the numbers \u003cem\u003ea\u003c/em\u003e and \u003cem\u003eb\u003c/em\u003e is 8. Then \u003cem\u003ea\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x2212;\u003c/em\u003e 10a \u0026#x003D;",
+      "orderNum": 11,
+      "questionOrderNum": 11,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3156,
+      "count": 5,
+      "solution": " The arithmetic mean of the numbers \u003cem\u003ea\u003c/em\u003e and \u003cem\u003eb\u003c/em\u003e is 5. Hence, we have (\u003cem\u003ea \u0026#x002B; b)l2 \u0026#x003D;\u003c/em\u003e 5, or \u003cem\u003ea \u0026#x002B; b \u003d\u003c/em\u003e 10.The geometric mean of the numbers \u003cem\u003ea\u003c/em\u003e and \u003cem\u003eb\u003c/em\u003e is 8. Hence, we have \u003cimg src\u003d\"9781889057705_219-3.png\" alt\u003d\"\"/\u003e \u003d 8, or \u003cem\u003eab \u003d\u003c/em\u003e 8\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; 64. Hence, \u003cem\u003eb \u003d\u003c/em\u003e 64/a.Substituting this into the equation \u003cem\u003ea \u0026#x002B; b \u003d\u003c/em\u003e 10 yields\u003cem\u003ea \u0026#x002B; 64/a \u0026#x003D;\u003c/em\u003e 10 \u003cem\u003e\u003cbr/\u003ea\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e\u0026#x002B; 64\u0026#x003D;\u003c/em\u003e 10a\u003cbr/\u003e\u003cem\u003ea\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e -\u003c/em\u003e 10a \u0026#x003D; \u0026#x2212;64The answer is (A).",
+      "answers": [
+        {
+          "answerId": 17466,
+          "orderNum": 1,
+          "text": " \u0026#x2212;64",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17467,
+          "orderNum": 2,
+          "text": " 76",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17468,
+          "orderNum": 3,
+          "text": " 82",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17469,
+          "orderNum": 4,
+          "text": " 96",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17470,
+          "orderNum": 5,
+          "text": " 102",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " In 2007, the arithmetic mean of the annual incomes of Jack and Jill was \u0026#x0024;3800. The arithmetic mean of the annual incomes of Jill and Jess was \u0026#x0024;4800, and the arithmetic mean of the annual incomes of Jess and Jack was \u0026#x0024;5800. What is the arithmetic mean of the incomes of the three?",
+      "orderNum": 12,
+      "questionOrderNum": 12,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3157,
+      "count": 5,
+      "solution": " Let a, \u003cem\u003eb,\u003c/em\u003e and cbe the annual incomes of Jack, Jill, and Jess, respectively. Now, we are given thatThe arithmetic mean of the annual incomes of Jack and Jill was \u0026#x0024;3800. Hence, (\u003cem\u003ea \u0026#x002B; b)l2 \u0026#x003D;\u003c/em\u003e 3800.\u003cbr/\u003eMultiplying by 2 yields \u003cem\u003ea \u0026#x002B; b \u0026#x003D; 2\u003c/em\u003e \u0026#x00D7; 3800 \u0026#x003D; 7600.The arithmetic mean of the annual incomes of Jill and Jess was \u0026#x0024;4800. Hence, (\u003cem\u003eb \u0026#x002B; c)l2 \u0026#x003D;\u003c/em\u003e 4800.\u003cbr/\u003eMultiplying by 2 yields \u003cem\u003eb \u0026#x002B; c \u0026#x003D; 2\u003c/em\u003e \u0026#x00D7; 4800 \u0026#x003D; 9600.The arithmetic mean of the annual incomes of Jess and Jack was \u0026#x0024;5800. Hence, (\u003cem\u003ec \u0026#x002B; a)l2 \u0026#x003D;\u003c/em\u003e 5800.\u003cbr/\u003eMultiplying by 2 yields c \u0026#x002B; a \u0026#x003D; 2 \u0026#x00D7; 5800 \u0026#x003D; 11,600.Summing these three equations yields\u003cimg src\u003d\"9781889057705_219-4.png\" alt\u003d\"\"/\u003eThe average of the income of the three equals the sum of the income divided by 3:\u003cimg src\u003d\"9781889057705_219-5.png\" alt\u003d\"\"/\u003eThe answer is (D).",
+      "answers": [
+        {
+          "answerId": 17471,
+          "orderNum": 1,
+          "text": " \u0026#x0024;4000",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17472,
+          "orderNum": 2,
+          "text": " \u0026#x0024;4200",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17473,
+          "orderNum": 3,
+          "text": " \u0026#x0024;4400",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17474,
+          "orderNum": 4,
+          "text": " \u0026#x0024;4800",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17475,
+          "orderNum": 5,
+          "text": " \u0026#x0024;5000",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " The average ages of the players on team A and team B are 20 and 30 years, respectively. The average age of the players on the teams together is 26. If the total number of players on the two teams is 100, then which one of the following is the number of players on team A?",
+      "orderNum": 13,
+      "questionOrderNum": 13,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3158,
+      "count": 5,
+      "solution": " Let the number of players onteamAbe \u003cem\u003ea\u003c/em\u003e and the number of players on team B be \u003cem\u003eb.\u003c/em\u003e Then the total number of players \u003cem\u003ea\u003c/em\u003e \u0026#x002B; \u003cem\u003eb\u003c/em\u003e equals 100 (given). Solving the equation for \u003cem\u003eb\u003c/em\u003e yields \u003cem\u003eb \u0026#x003D;\u003c/em\u003e 100 \u0026#x2212; \u003cem\u003ea.\u003c/em\u003eSince the average age of the players on team A is 20, the sum of the ages of the players on the team is 20 \u003cem\u003ea.\u003c/em\u003e Similarly, since the average age of the players on team B is \u003cem\u003eb,\u003c/em\u003e the sum of the ages of the players on the team is 30b.Now, the average age of the players on the two teams together is\u003cp class\u003d\"paran10\"\u003e\u003cimg src\u003d\"9781889057705_220-1.png\" alt\u003d\"\"/\u003eWe are given that this average is 26. Hence, we have\u003cp class\u003d\"paran10\"\u003e\u003cimg src\u003d\"9781889057705_220-2.png\" alt\u003d\"\"/\u003eThe answer is (B).",
+      "answers": [
+        {
+          "answerId": 17476,
+          "orderNum": 1,
+          "text": " 20",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17477,
+          "orderNum": 2,
+          "text": " 40",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17478,
+          "orderNum": 3,
+          "text": " 50",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17479,
+          "orderNum": 4,
+          "text": " 60",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17480,
+          "orderNum": 5,
+          "text": " 80",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " 40\u0026#x0025; of the employees in a factory are workers. All the remaining employees are executives. The annual income of each worker is \u0026#x0024;390. The annual income of each executive is \u0026#x0024;420. What is the average annual income of all the employees in the factory together?",
+      "orderNum": 14,
+      "questionOrderNum": 14,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3159,
+      "count": 5,
+      "solution": "Let \u003cem\u003ee\u003c/em\u003e be the number of employees.\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eWe are given that 40\u0026#x0025; of the employees are workers. Now, 40\u0026#x0025; of \u003cem\u003ee\u003c/em\u003e is 40/100 \u0026#x00D7; \u003cem\u003ee\u003c/em\u003e \u003d 0.4 \u003cem\u003ee.\u003c/em\u003e Hence, the number of workers is \u003cem\u003e2e/5\u003c/em\u003e.\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eAll the remaining employees are executives, so the number of executives equals\u003c/p\u003e(The number of Employees) \u0026#x2212; (The number of Workers) \u0026#x003D;\u003c/p\u003e\u003cem\u003ee 2el5 \u0026#x003D;\u003c/em\u003e\u003c/p\u003e3e/5\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eThe annual income of each worker is \u0026#x0024;390. Hence, the total annual income of all the workers together is 2e/5 \u0026#x00D7; 390 \u0026#x003D; 156e.\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eAlso, the annual income of each executive is \u0026#x0024;420. Hence, the total income of all the executives together is 3e/5 \u0026#x00D7; 420 \u0026#x003D; 252.\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eHence, the total income of the employees is 156e\u0026#x002B; 252e \u0026#x003D; 408e.\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eThe average income of all the employees together equals\u003c/p\u003e(The total income of all the employees) \u0026#x002B; (The number of employees) \u0026#x003D;\u003cbr/\u003e408e/e \u0026#x003D;\u003cbr/\u003e408\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eThe answer is (C).",
+      "answers": [
+        {
+          "answerId": 17481,
+          "orderNum": 1,
+          "text": " 390",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17482,
+          "orderNum": 2,
+          "text": " 405",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17483,
+          "orderNum": 3,
+          "text": " 408",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17484,
+          "orderNum": 4,
+          "text": " 415",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17485,
+          "orderNum": 5,
+          "text": " 420",
+          "result": "Wrong"
+        }
+      ]
+    }
+  ],
+  "applications": []
+}

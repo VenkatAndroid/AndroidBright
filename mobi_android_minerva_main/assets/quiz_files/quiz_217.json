@@ -1,0 +1,1470 @@
+{
+  "quizId": 217,
+  "name": "Problem Set D (GMAT MATH)",
+  "description": "",
+  "questions": [
+    {
+      "text": " Which one of the following is divisible by both 2 and 3?",
+      "orderNum": 1,
+      "questionOrderNum": 1,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2979,
+      "count": 5,
+      "solution": " A number divisible by 2 ends with one of the digits 0, 2, 4, 6, or 8.If a number is divisible by 3, then the sum of its digits is also divisible by 3.Hence, a number divisible by both 2 and 3 will follow both of the above rules.Choices (A) and (C) do not end with an even digit. Hence, eliminate them.The sum of digits of Choice (B) is 1 \u0026#x002B; 2 \u0026#x002B; 9 \u0026#x002B; 6 \u0026#x003D; 18, which is divisible by 3. Also, the last digit is 6. Hence, choice (B) is correct.Next, the sum of the digits of choices (D) and (E) are 1 \u0026#x002B; 4 \u0026#x002B; 0 \u0026#x002B; 6 (\u003d 11) and 1 \u0026#x002B; 4+1 \u0026#x002B; 4 (\u003d 10), respectively, and neither is divisible by 3. Hence, reject the two choices.Hence, the answer is (B).",
+      "answers": [
+        {
+          "answerId": 16591,
+          "orderNum": 1,
+          "text": " 1005",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16592,
+          "orderNum": 2,
+          "text": " 1296",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16593,
+          "orderNum": 3,
+          "text": " 1351",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16594,
+          "orderNum": 4,
+          "text": " 1406",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16595,
+          "orderNum": 5,
+          "text": " 1414",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " How many numbers between 100 and 300, inclusive, are multiples of both 5 and 6?",
+      "orderNum": 2,
+      "questionOrderNum": 2,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2980,
+      "count": 5,
+      "solution": " The least common multiple of the numbers 5 and 6 is the product of the two (since 5 and 6 have no common factors), which is 5 \u0026#x00D7; 6 \u0026#x003D; 30. Hence, if a number is a multiple of both 5 and 6, the number must be a multiple of 30. For example, the numbers 30, 60, 90, \u0026#x2026; are divisible by both 5 and 6. The multiples of 30 between 100 and 300, inclusive, are 120, 150, 180, 210, 240, 270, and 300. The count of the numbers is 7. The answer is (A).",
+      "answers": [
+        {
+          "answerId": 16596,
+          "orderNum": 1,
+          "text": " 7",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16597,
+          "orderNum": 2,
+          "text": " 12",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16598,
+          "orderNum": 3,
+          "text": " 15",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16599,
+          "orderNum": 4,
+          "text": " 20",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16600,
+          "orderNum": 5,
+          "text": " 30",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " Which one of the following equals the product of exactly two prime numbers?",
+      "orderNum": 3,
+      "questionOrderNum": 3,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2981,
+      "count": 5,
+      "solution": "Choice (A): 11 \u0026#x00B7; 6 can be factored as 11 \u0026#x00B7; 2 \u0026#x00B7;  The product of more than two primes. Reject.\u003cbr/\u003eChoice (B): 13 \u0026#x00B7; 22 can be factored as 13 \u0026#x00B7; 2 \u0026#x00B7; 11. The product of more than two primes. Reject.\u003cbr/\u003eChoice (C): 14 \u0026#x00B7; 23 can be factored as 7 \u0026#x00B7; 2 \u0026#x00B7; 2 The product of more than two primes. Reject.\u003cbr/\u003eChoice (D): 17 \u0026#x00B7; 21 can be factored as 17 \u0026#x00B7; 3 \u0026#x00B7; 7. The product of more than two primes. Reject.\u003cbr/\u003eChoice (E): 13 \u0026#x00B7; 23 cannot be further factored and is itself the product of two primes. Accept.\u003cp class\u003d\"paranarr\"\u003eThe answer is (E).",
+      "answers": [
+        {
+          "answerId": 16601,
+          "orderNum": 1,
+          "text": " 11 \u0026#x00B7; 6",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16602,
+          "orderNum": 2,
+          "text": " 13 \u0026#x00B7; 22",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16603,
+          "orderNum": 3,
+          "text": " 14 \u0026#x00B7; 23",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16604,
+          "orderNum": 4,
+          "text": " 17 \u0026#x00B7; 21",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16605,
+          "orderNum": 5,
+          "text": " 13 \u0026#x00B7; 23",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " Which one of the following equals the product of the smallest prime number greater than 21 and the largest prime number less than 16?",
+      "orderNum": 4,
+      "questionOrderNum": 4,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2982,
+      "count": 5,
+      "solution": " The smallest prime number greater than 21 is 23, and the largest prime number less than 16 is 13. The product of the two is 13 \u0026#x00B7; 23, which is listed in choice (C). The answer is (C).",
+      "answers": [
+        {
+          "answerId": 16606,
+          "orderNum": 1,
+          "text": " 13 \u0026#x00B7; 16",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16607,
+          "orderNum": 2,
+          "text": " 13 \u0026#x00B7; 29",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16608,
+          "orderNum": 3,
+          "text": " 13 \u0026#x00B7; 23",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16609,
+          "orderNum": 4,
+          "text": " 15 \u0026#x00B7; 23",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16610,
+          "orderNum": 5,
+          "text": " 16 \u0026#x00B7; 21",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " If \u003cem\u003em\u003c/em\u003e and \u003cem\u003en\u003c/em\u003e are two different prime numbers, then the least common multiple of the two numbers must equal which one of the following?",
+      "orderNum": 5,
+      "questionOrderNum": 5,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2983,
+      "count": 5,
+      "solution": " Prime numbers do not have common factors. Hence, the least common multiple of a set of such numbers equals the product of the numbers. For example, the LCM of 11 and 23 is 11 \u0026#x2022; 23. The answer is (A).",
+      "answers": [
+        {
+          "answerId": 16611,
+          "orderNum": 1,
+          "text": " \u003cem\u003emn\u003c/em\u003e",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16612,
+          "orderNum": 2,
+          "text": " \u003cem\u003em \u0026#x002B; n\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16613,
+          "orderNum": 3,
+          "text": " \u003cem\u003em-n\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16614,
+          "orderNum": 4,
+          "text": " \u003cem\u003em \u0026#x002B; mn\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16615,
+          "orderNum": 5,
+          "text": " \u003cem\u003emn \u0026#x002B; n\u003c/em\u003e",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " Which one of the following is the first number greater than 200 that is a multiple of both 6 and 8?",
+      "orderNum": 6,
+      "questionOrderNum": 6,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2984,
+      "count": 5,
+      "solution": " A multiple of 6 and 8 must be a multiple of the least common multiple of the two, which is 24. Now, 200/24 \u0026#x003D; 192/24 \u0026#x002B; 8/24 \u0026#x003D; 8 \u0026#x002B; 8/24. So, the first multiple of 24 that is smaller than 200 is 192 (\u003d 8 \u0026#x00D7; 24), and the first multiple of 24 that is greater than 200 is 216 (\u003d 24 \u0026#x00D7; [8 \u0026#x002B; 1] \u0026#x003D; 24 \u0026#x00D7; 9). The answer is (D).",
+      "answers": [
+        {
+          "answerId": 16616,
+          "orderNum": 1,
+          "text": " 200",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16617,
+          "orderNum": 2,
+          "text": " 208",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16618,
+          "orderNum": 3,
+          "text": " 212",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16619,
+          "orderNum": 4,
+          "text": " 216",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16620,
+          "orderNum": 5,
+          "text": " 224",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " What is the maximum possible difference between two three-digit numbers each of which is made up of all the digits 1, 2, and 3?",
+      "orderNum": 7,
+      "questionOrderNum": 7,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2985,
+      "count": 5,
+      "solution": " The difference between two numbers is maximum when one of the numbers takes the largest possible value and the other one takes the smallest possible value.The maximum possible three-digit number that can be formed using all three digits 1, 2, and 3 is 321 (Here, we assigned the higher numbers to the higher significant digits)The minimum possible three-digit number that can be formed from all three digits 1, 2, and 3 is 123 (Here, we assigned the lower numbers to the higher significant digits)The difference between the two numbers is 321 \u0026#x2212; 123 \u0026#x003D; 198. The answer is (E).",
+      "answers": [
+        {
+          "answerId": 16621,
+          "orderNum": 1,
+          "text": "156",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16622,
+          "orderNum": 2,
+          "text": "168",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16623,
+          "orderNum": 3,
+          "text": "176",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16624,
+          "orderNum": 4,
+          "text": "196",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16625,
+          "orderNum": 5,
+          "text": "198",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " The digits of a two-digit number differ by 4 and their squares differ by 40. Which one of the following could be the number?",
+      "orderNum": 8,
+      "questionOrderNum": 8,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2986,
+      "count": 5,
+      "solution": " Since the digits differ by 4, let \u003cem\u003ea\u003c/em\u003e and \u003cem\u003ea\u003c/em\u003e \u0026#x002B; 4 be the digits. The difference of their squares, which is (\u003cem\u003ea\u003c/em\u003e \u0026#x002B; 4)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x2212; \u003cem\u003ea\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e, equals 40 (given). Hence, we have\u003cp class\u003d\"paran10\"\u003e\u003cimg src\u003d\"9781889057705_39-1.png\" alt\u003d\"\"/\u003eThe other digit is \u003cem\u003ea\u003c/em\u003e \u0026#x002B; 4 \u0026#x003D; 3 \u0026#x002B; 4 \u0026#x003D; 7. Hence, 37 and 73 are the two possible answers. The answer is (E).",
+      "answers": [
+        {
+          "answerId": 16626,
+          "orderNum": 1,
+          "text": "15",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16627,
+          "orderNum": 2,
+          "text": "26",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16628,
+          "orderNum": 3,
+          "text": "40",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16629,
+          "orderNum": 4,
+          "text": "59",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16630,
+          "orderNum": 5,
+          "text": "73",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " The number 3 divides \u003cem\u003ea\u003c/em\u003e with a result of \u003cem\u003eb\u003c/em\u003e and a remainder of 2. The number 3 divides \u003cem\u003eb\u003c/em\u003e with a result of 2 and a remainder of 1. What is the value of \u003cem\u003ea\u003c/em\u003e?",
+      "orderNum": 9,
+      "questionOrderNum": 9,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2987,
+      "count": 5,
+      "solution": " Since 3 divides \u003cem\u003eb\u003c/em\u003e with a result of 2 and a remainder of 1\u003cem\u003eb\u003c/em\u003e \u0026#x003D; 2 \u0026#x00B7; 3 \u0026#x002B; 1 \u0026#x003D; 7. Since number 3 divides \u003cem\u003ea\u003c/em\u003e with a result of \u003cem\u003eb\u003c/em\u003e (which we now know equals 7) and a remainder of 2, \u003cem\u003ea\u003c/em\u003e \u003d\u003cem\u003eb\u003c/em\u003e \u0026#x00B7;3 \u0026#x002B; 2 \u0026#x003D; 7 \u0026#x00B7; 3 \u0026#x002B; 2 \u0026#x003D; 23. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 16631,
+          "orderNum": 1,
+          "text": " 13",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16632,
+          "orderNum": 2,
+          "text": " 17",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16633,
+          "orderNum": 3,
+          "text": " 21",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16634,
+          "orderNum": 4,
+          "text": " 23",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16635,
+          "orderNum": 5,
+          "text": " 27",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " The remainder when the positive integer \u003cem\u003em\u003c/em\u003e is divided by 7 is \u003cem\u003ex\u003c/em\u003e The remainder when \u003cem\u003em\u003c/em\u003e is divided by 14 is \u003cem\u003ex\u003c/em\u003e \u0026#x002B; 7. Which one of the following could \u003cem\u003em\u003c/em\u003e equal?",
+      "orderNum": 10,
+      "questionOrderNum": 10,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2988,
+      "count": 5,
+      "solution": " Choice (A): 45/7 \u0026#x003D; 6 \u0026#x002B; 3/7, so \u003cem\u003ex\u003c/em\u003e \u0026#x003D; 3. Now, 45/14 \u0026#x003D; 3 \u0026#x002B; 3/14. The remainder is 3, not \u003cem\u003ex\u003c/em\u003e \u0026#x002B; 7 (\u003d 10). Reject.Choice (B): 53/7 \u0026#x003D; 7 \u0026#x002B; 4/7, so \u003cem\u003ei\u003c/em\u003e \u0026#x003D; 4. Now, 53/14 \u0026#x003D; 3 \u0026#x002B; 11/14. The remainder is 11, and equals \u003cem\u003ex\u003c/em\u003e \u0026#x002B; 7 (\u003d 11). Accept the choice.Choice (C): 72/7 \u0026#x003D; 10 \u0026#x002B; 2/7, so \u003cem\u003ex\u003c/em\u003e \u0026#x003D; 2. Now, 72/14 \u0026#x003D; 5 \u0026#x002B; 2/14. The remainder is 2, not \u003cem\u003ex\u003c/em\u003e \u0026#x002B; 7 (\u003d 9). Reject.Choice (D): 85/7 \u0026#x003D; 12 \u0026#x002B; 1/7, so \u003cem\u003ex\u003c/em\u003e \u0026#x003D; 1. Now, 85/14 \u0026#x003D; 6 \u0026#x002B; 1/14. The remainder is 1, not \u003cem\u003ex\u003c/em\u003e \u0026#x002B; 7 (\u003d 8). Reject.Choice (E): 100/7 \u0026#x003D; 14 \u0026#x002B; 2/7, so \u003cem\u003ex\u003c/em\u003e \u0026#x003D; 2. Now, 100/14 \u0026#x003D; 7 \u0026#x002B; 2/14. The remainder is 2, not \u003cem\u003ex\u003c/em\u003e \u0026#x002B; 7 (\u003d 9). Reject.The answer is (B).",
+      "answers": [
+        {
+          "answerId": 16636,
+          "orderNum": 1,
+          "text": " 45",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16637,
+          "orderNum": 2,
+          "text": " 53",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16638,
+          "orderNum": 3,
+          "text": " 72",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16639,
+          "orderNum": 4,
+          "text": " 85",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16640,
+          "orderNum": 5,
+          "text": " 100",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " Which one of the following choices does not equal any of the other choices?",
+      "orderNum": 11,
+      "questionOrderNum": 11,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2989,
+      "count": 5,
+      "solution": " Choice (A) \u0026#x003D; 5.43 \u0026#x002B; 4.63 \u0026#x2212; 3.24 \u0026#x2212; 2.32 \u0026#x003D; 4.5.\u003cbr/\u003eChoice (B) \u0026#x003D; 5.53 \u0026#x002B; 4.73 \u0026#x2212; 3.34 \u0026#x2212; 2.42 \u0026#x003D; 4.5 \u0026#x003D; Choice (A). Reject choices (A) and (B).\u003cbr/\u003eChoice (C) \u0026#x003D; 5.53 \u0026#x002B; 4.53 \u0026#x2212; 3.34 \u0026#x2212; 2.22 \u0026#x003D; 4.5 \u0026#x003D; Choice (A). Reject choice (C).\u003cbr/\u003eChoice (D) \u0026#x003D; 5.43 \u0026#x002B; 4.73 \u0026#x2212; 3.24 \u0026#x2212; 2.42 \u0026#x003D; 4.5 \u0026#x003D; Choice (A). Reject choice (D).\u003cbr/\u003eChoice (E) \u0026#x003D; 5.43 \u0026#x002B; 4.73 \u0026#x2212; 3.14 \u0026#x2212; 2.22 \u0026#x003D; 4.8. Correct.The answer is (E).",
+      "answers": [
+        {
+          "answerId": 16641,
+          "orderNum": 1,
+          "text": " 5.43 \u0026#x002B; 4.63 \u0026#x2212; 3.24 \u0026#x2212; 2.32",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16642,
+          "orderNum": 2,
+          "text": " 5.53 \u0026#x002B; 4.73 \u0026#x2212; 3.34 \u0026#x2212; 2.42",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16643,
+          "orderNum": 3,
+          "text": " 5.53 \u0026#x002B; 4.53 \u0026#x2212; 3.34 \u0026#x2212; 2.22",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16644,
+          "orderNum": 4,
+          "text": " 5.43 \u0026#x002B; 4.73 \u0026#x2212; 3.24 \u0026#x2212; 2.42",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16645,
+          "orderNum": 5,
+          "text": " 5.43 \u0026#x002B; 4.73 \u0026#x2212; 3.14 \u0026#x2212; 2.22",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " Each of the two positive integers \u003cem\u003ea\u003c/em\u003e and \u003cem\u003eb\u003c/em\u003e ends with the digit 2. With which one of the following numbers does \u003cem\u003ea\u003c/em\u003e \u0026#x2212; \u003cem\u003eb\u003c/em\u003e end?",
+      "orderNum": 12,
+      "questionOrderNum": 12,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2990,
+      "count": 5,
+      "solution": " Since each of the two integers \u003cem\u003ea\u003c/em\u003e and \u003cem\u003eb\u003c/em\u003e ends with the same digit, the difference of the two numbers ends with 0. For example 642 \u0026#x2212; 182 \u0026#x003D; 460, and 460 ends with 0. Hence, the answer is (A).",
+      "answers": [
+        {
+          "answerId": 16646,
+          "orderNum": 1,
+          "text": " 0",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16647,
+          "orderNum": 2,
+          "text": " 1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16648,
+          "orderNum": 3,
+          "text": " 2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16649,
+          "orderNum": 4,
+          "text": " 3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16650,
+          "orderNum": 5,
+          "text": " 4",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " If \u003cem\u003ep\u003c/em\u003e and \u003cem\u003eq\u003c/em\u003e are two positive integers and \u003cem\u003ep\u003c/em\u003e/\u003cem\u003eq\u003c/em\u003e \u0026#x003D; 1.15, then \u003cem\u003ep\u003c/em\u003e can equal which one of the following?",
+      "orderNum": 13,
+      "questionOrderNum": 13,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2991,
+      "count": 5,
+      "solution": " We have that \u003cem\u003ep\u003c/em\u003e/\u003cem\u003eq\u003c/em\u003e \u0026#x003D; 1.15. Solving for \u003cem\u003ep\u003c/em\u003e yields \u003cem\u003ep\u003c/em\u003e \u0026#x003D; 1.15\u003cem\u003eq\u003c/em\u003e \u0026#x003D; \u003cem\u003eq\u003c/em\u003e \u0026#x002B; 0.15\u003cem\u003eq\u003c/em\u003e \u0026#x003D; (a positive integer) \u0026#x002B; 0.15\u003cem\u003eq\u003c/em\u003e. Now, \u003cem\u003ep\u003c/em\u003e is a positive integer only when 0.15\u003cem\u003eq\u003c/em\u003ea is an integer. Now, 0.15\u003cem\u003eq\u003c/em\u003e equals 15/100 \u0026#x00B7; \u003cem\u003eq\u003c/em\u003e \u0026#x003D; 3\u003cem\u003eq\u003c/em\u003e/20 and would result in an integer only when the denominator of the fraction (i.e., 20) is canceled out by \u003cem\u003eq\u003c/em\u003e. This happens only when \u003cem\u003eq\u003c/em\u003e is a multiple of 20. Hence, \u003cem\u003eq\u003c/em\u003e \u0026#x003D; 20, or 40, or 60, \u0026#x2026;. Pick the minimum value for \u003cem\u003eq\u003c/em\u003e, which is 20. Now, 1.15\u003cem\u003eq\u003c/em\u003e \u0026#x003D; \u003cem\u003eq\u003c/em\u003e \u0026#x002B; 0.15\u003cem\u003eq\u003c/em\u003e \u0026#x003D; \u003cem\u003eq\u003c/em\u003e \u0026#x002B; 3/20 \u0026#x00B7; \u003cem\u003eq\u003c/em\u003e \u0026#x003D; 20 \u0026#x002B; 3/20 \u0026#x00B7; 20 \u0026#x003D; 23. For other values of \u003cem\u003eq\u003c/em\u003e (40, 60,80, \u0026#x2026;),\u003cem\u003ep\u003c/em\u003e is a multiple of 23. Only choice (E) is a multiple of 23. The answer is (E).",
+      "answers": [
+        {
+          "answerId": 16651,
+          "orderNum": 1,
+          "text": " 15",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16652,
+          "orderNum": 2,
+          "text": " 18",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16653,
+          "orderNum": 3,
+          "text": " 20",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16654,
+          "orderNum": 4,
+          "text": " 22",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16655,
+          "orderNum": 5,
+          "text": " 23",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " How many positive five-digit numbers can be formed with the digits 0,3, and 5?",
+      "orderNum": 14,
+      "questionOrderNum": 14,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2992,
+      "count": 5,
+      "solution": " Let the digits of the five-digit positive number be represented by 5 compartments:\u003cimg src\u003d\"9781889057705_40-1.png\" alt\u003d\"\"/\u003e\u003cp class\u003d\"extract2\"\u003eEach of the last four compartments can be filled in 3 ways (with any one of the numbers 0, 3 and 5)\u003cp class\u003d\"extract2\"\u003eThe first compartment can be filled in only 2 ways (with only 3 and 5, not with 0, because placing 0 in the first compartment would yield a number with fewer than 5 digits).\u003cbr\u003e\u003cimg src\u003d\"9781889057705_40-2.png\" alt\u003d\"\"/\u003e\u003cp class\u003d\"extract2\"\u003eHence, the total number of ways the five compartments can be filled in is 2 \u0026#x00B7; 3 \u0026#x00B7; 3 \u0026#x00B7; 3 \u0026#x00B7; 3 \u0026#x003D; 162. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 16656,
+          "orderNum": 1,
+          "text": " 14",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16657,
+          "orderNum": 2,
+          "text": " 15",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16658,
+          "orderNum": 3,
+          "text": " 108",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16659,
+          "orderNum": 4,
+          "text": " 162",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16660,
+          "orderNum": 5,
+          "text": " 243",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " If \u003cem\u003en\u003c/em\u003e is a positive integer, which one of the following numbers must have a remainder of 3 when divided by any of the numbers 4, 5, and 6?",
+      "orderNum": 15,
+      "questionOrderNum": 15,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2993,
+      "count": 5,
+      "solution": " Let \u003cem\u003em\u003c/em\u003e be a number that has a remainder of 3 when divided by any of the numbers 4, 5, and 6. Then \u003cem\u003em\u003c/em\u003e \u0026#x2212; 3 must be exactly divisible by all three numbers. Hence, \u003cem\u003em\u003c/em\u003e \u0026#x2212; 3 must be a multiple of the Least Common Multiple of the numbers 4, 5, and 6. The LCM is 3 \u0026#x00B7; 4 \u0026#x00B7; 5 \u0026#x003D; 60. Hence, we can suppose \u003cem\u003em\u003c/em\u003e \u0026#x2212; 3 \u0026#x003D; 60\u003cem\u003ep\u003c/em\u003e, where \u003cem\u003ep\u003c/em\u003e is a positive integer. Replacing \u003cem\u003ep\u003c/em\u003e with \u003cem\u003en\u003c/em\u003e, we get \u003cem\u003em\u003c/em\u003e \u0026#x2212; 3 \u0026#x003D; 60\u003cem\u003en\u003c/em\u003e. So, \u003cem\u003em\u003c/em\u003e \u0026#x003D; 60\u003cem\u003en\u003c/em\u003e \u0026#x002B; 3. Choice (E) is in the same format 120\u003cem\u003en\u003c/em\u003e \u0026#x002B; 3 \u0026#x003D; 60(2\u003cem\u003en\u003c/em\u003e) \u0026#x002B; 3. Hence, the answer is (E)We can also subtract 3 from each answer-choice, and the correct answer will be divisible by 60:\u003cp class\u003d\"para101\"\u003eChoice (A): If \u003cem\u003en\u003c/em\u003e \u0026#x003D; 1, then (12\u003cem\u003en\u003c/em\u003e \u0026#x002B; 3) \u0026#x2212; 3 \u0026#x003D; 12\u003cem\u003en\u003c/em\u003e \u0026#x003D; 12, not divisible by 60. Reject.\u003cp class\u003d\"para101\"\u003eChoice (B): If \u003cem\u003en\u003c/em\u003e \u0026#x003D; 1, then (24\u003cem\u003en\u003c/em\u003e \u0026#x002B; 3) \u0026#x2212; 3 \u0026#x003D; 24\u003cem\u003en\u003c/em\u003e \u0026#x003D; 24, not divisible by 60. Reject.\u003cp class\u003d\"para101\"\u003eChoice (C): If \u003cem\u003en\u003c/em\u003e \u0026#x003D; 1, then (80\u003cem\u003en\u003c/em\u003e \u0026#x002B; 3) \u0026#x2212; 3 \u0026#x003D; 80\u003cem\u003en\u003c/em\u003e \u0026#x003D; 80, not divisible by 60. Reject.\u003cp class\u003d\"para101\"\u003eChoice (D): If \u003cem\u003en\u003c/em\u003e \u0026#x003D; 1, then (90\u003cem\u003en\u003c/em\u003e \u0026#x002B; 2) \u0026#x2212; 3 \u0026#x003D; 90\u003cem\u003en\u003c/em\u003e \u0026#x2212; 1 \u0026#x003D; 89, not divisible by 60. Reject.\u003cp class\u003d\"para101\"\u003eChoice (E): (120\u003cem\u003en\u003c/em\u003e \u0026#x002B; 3) \u0026#x2212; 3 \u0026#x003D; 120\u003cem\u003en\u003c/em\u003e, divisible by 60 for any integer \u003cem\u003en\u003c/em\u003e. Hence, the correct answer is (E).",
+      "answers": [
+        {
+          "answerId": 16661,
+          "orderNum": 1,
+          "text": " 12\u003cem\u003en\u003c/em\u003e \u0026#x002B; 3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16662,
+          "orderNum": 2,
+          "text": " 24\u003cem\u003en\u003c/em\u003e \u0026#x002B; 3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16663,
+          "orderNum": 3,
+          "text": " 80\u003cem\u003en\u003c/em\u003e \u0026#x002B; 3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16664,
+          "orderNum": 4,
+          "text": " 90\u003cem\u003en\u003c/em\u003e \u0026#x002B; 2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16665,
+          "orderNum": 5,
+          "text": " 120\u003cem\u003en\u003c/em\u003e \u0026#x002B; 3",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " \u003cem\u003ex\u003c/em\u003e is a two-digit number. The digits of the number differ by 6, and the squares of the digits differ by 60. Which one of the following could \u003cem\u003ex\u003c/em\u003e equal?",
+      "orderNum": 16,
+      "questionOrderNum": 16,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2994,
+      "count": 5,
+      "solution": " Since the digits differ by 6, let \u003cem\u003ea\u003c/em\u003e and \u003cem\u003ea\u003c/em\u003e \u0026#x002B; 6 be the digits. The difference of their squares, which is (\u003cem\u003ea\u003c/em\u003e \u0026#x002B; 6)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x2212; \u003cem\u003ea\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e, equals 60 (given). Hence, we have\u003cp class\u003d\"para101\"\u003e\u003cimg src\u003d\"9781889057705_40-3.png\" alt\u003d\"\"/\u003e\u003cp class\u003d\"extract2\"\u003eThe other digit is \u003cem\u003ea\u003c/em\u003e \u0026#x002B; 6 \u0026#x003D; 2 \u0026#x002B; 6 \u0026#x003D; 8. Hence, 28 and 82 are the two possible answers. The answer is (B).",
+      "answers": [
+        {
+          "answerId": 16666,
+          "orderNum": 1,
+          "text": " 17",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16667,
+          "orderNum": 2,
+          "text": " 28",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16668,
+          "orderNum": 3,
+          "text": " 39",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16669,
+          "orderNum": 4,
+          "text": " 71",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16670,
+          "orderNum": 5,
+          "text": " 93",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " The number 3072 is divisible by both 6 and 8. Which one of the following is the first integer larger than 3072 that is also divisible by both 6 and 8?",
+      "orderNum": 17,
+      "questionOrderNum": 17,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2995,
+      "count": 5,
+      "solution": " Any number divisible by both 6 and 8 must be a multiple of the least common multiple of the two numbers, which is 24. Hence, any such number can be represented as 24\u003cem\u003en\u003c/em\u003e. If 3072 is one such number and is represented as 24\u003cem\u003en\u003c/em\u003e, then the next such number should be 24(\u003cem\u003en\u003c/em\u003e \u0026#x002B; 1) \u0026#x003D; 24\u003cem\u003en\u003c/em\u003e \u0026#x002B; 24 \u0026#x003D; 3072 \u0026#x002B; 24 \u0026#x003D; 3096. The answer is (E).",
+      "answers": [
+        {
+          "answerId": 16671,
+          "orderNum": 1,
+          "text": " 3078",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16672,
+          "orderNum": 2,
+          "text": " 3084",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16673,
+          "orderNum": 3,
+          "text": " 3086",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16674,
+          "orderNum": 4,
+          "text": " 3090",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16675,
+          "orderNum": 5,
+          "text": " 3096",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " If the least common multiple of \u003cem\u003em\u003c/em\u003e and \u003cem\u003en\u003c/em\u003e is 24, then what is the first integer larger than 3070 that is divisible by both \u003cem\u003em\u003c/em\u003e and \u003cem\u003en\u003c/em\u003e?",
+      "orderNum": 18,
+      "questionOrderNum": 18,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2996,
+      "count": 5,
+      "solution": " Any number divisible by both \u003cem\u003em\u003c/em\u003e and \u003cem\u003en\u003c/em\u003e must be a multiple of the least common multiple of the two numbers, which is given to be 24. The first multiple of 24 greater than 3070 is 3072. Hence, the answer is (A).",
+      "answers": [
+        {
+          "answerId": 16676,
+          "orderNum": 1,
+          "text": " 3072",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16677,
+          "orderNum": 2,
+          "text": " 3078",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16678,
+          "orderNum": 3,
+          "text": " 3084",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16679,
+          "orderNum": 4,
+          "text": " 3088",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16680,
+          "orderNum": 5,
+          "text": " 3094",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " \u003cem\u003ea\u003c/em\u003e, \u003cem\u003eb\u003c/em\u003e, and \u003cem\u003ec\u003c/em\u003e are consecutive integers in increasing order of size. If \u003cem\u003ep\u003c/em\u003e \u0026#x003D; \u003cem\u003ea\u003c/em\u003e/5 \u0026#x2212; \u003cem\u003eb\u003c/em\u003e/6 and \u003cem\u003eq\u003c/em\u003e \u0026#x003D; \u003cem\u003eb\u003c/em\u003e/5 \u0026#x2212; \u003cem\u003ec\u003c/em\u003e/6, then \u003cem\u003eq\u003c/em\u003e \u0026#x2212; \u003cem\u003ep\u003c/em\u003e \u003d",
+      "orderNum": 19,
+      "questionOrderNum": 19,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2997,
+      "count": 5,
+      "solution": " The consecutive integers \u003cem\u003ea\u003c/em\u003e, \u003cem\u003eb,\u003c/em\u003e and \u003cem\u003ec\u003c/em\u003e in the increasing order can be expressed as \u003cem\u003ea\u003c/em\u003e, \u003cem\u003ea\u003c/em\u003e \u0026#x002B; 1, \u003cem\u003ea\u003c/em\u003e \u0026#x002B; 2, respectively.\u003cp class\u003d\"para101\"\u003e\u003cimg src\u003d\"9781889057705_41-1.png\" alt\u003d\"\"/\u003e\u003cp class\u003d\"extract2\"\u003eThe answer is (E).",
+      "answers": [
+        {
+          "answerId": 16681,
+          "orderNum": 1,
+          "text": " 1/60",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16682,
+          "orderNum": 2,
+          "text": " 1/30",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16683,
+          "orderNum": 3,
+          "text": " 1/12",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16684,
+          "orderNum": 4,
+          "text": " 1/6",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16685,
+          "orderNum": 5,
+          "text": " 1/5",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " A palindrome number is a number that reads the same forward or backward. For example, 787 is a palindrome number. By how much is the first palindrome larger than 233 greater than 233?",
+      "orderNum": 20,
+      "questionOrderNum": 20,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2998,
+      "count": 5,
+      "solution": " A palindrome number reads the same forward or backward. The first palindrome larger than 233 will have the last digit 2 (same as the first digit), and the middle digit will be 1 unit greater than the middle digit of 233. Hence, the first palindrome larger than 233 is 242. Now, 242 \u0026#x2212; 233 \u0026#x003D; 9. The answer is (A).",
+      "answers": [
+        {
+          "answerId": 16686,
+          "orderNum": 1,
+          "text": " 9",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16687,
+          "orderNum": 2,
+          "text": " 11",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16688,
+          "orderNum": 3,
+          "text": " 13",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16689,
+          "orderNum": 4,
+          "text": " 14",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16690,
+          "orderNum": 5,
+          "text": " 16",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " How many 3-digit numbers do not have an even digit or a zero?",
+      "orderNum": 21,
+      "questionOrderNum": 21,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2999,
+      "count": 5,
+      "solution": " There are 5 digits that are not even or zero: 1, 3, 5, 7, and 9. Now, let\u0026#x2019;s count all the three-digit numbers that can be formed from these five digits. The first digit of the number can be filled in 5 ways with any one of the mentioned digits. Similarly, the second and third digits of the number can be filled in 5 ways. Hence, the total number of ways of forming the three-digit number is 125 (\u003d 5 \u0026#x00D7; 5 \u0026#x00D7; 5). The answer is (E).",
+      "answers": [
+        {
+          "answerId": 16691,
+          "orderNum": 1,
+          "text": " 20",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16692,
+          "orderNum": 2,
+          "text": " 30",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16693,
+          "orderNum": 3,
+          "text": " 60",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16694,
+          "orderNum": 4,
+          "text": " 80",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16695,
+          "orderNum": 5,
+          "text": " 125",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " Which one of the following is the minimum value of the sum of two integers whose product is 36?",
+      "orderNum": 22,
+      "questionOrderNum": 22,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3000,
+      "count": 5,
+      "solution": " List all possible factors \u003cem\u003ex\u003c/em\u003e and \u003cem\u003ey\u003c/em\u003e whose product is 36, and calculate the corresponding sum \u003cem\u003ex\u003c/em\u003e \u0026#x002B; \u003cem\u003ey\u003c/em\u003e:\u003cimg src\u003d\"9781889057705_41-2.png\" alt\u003d\"\"/\u003eFrom the table, the minimum sum is 12. The answer is (E).",
+      "answers": [
+        {
+          "answerId": 16696,
+          "orderNum": 1,
+          "text": " 37",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16697,
+          "orderNum": 2,
+          "text": " 20",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16698,
+          "orderNum": 3,
+          "text": " 15 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16699,
+          "orderNum": 4,
+          "text": " 13",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16700,
+          "orderNum": 5,
+          "text": " 12",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " If \u003cem\u003em\u003c/em\u003e and \u003cem\u003en\u003c/em\u003e are two positive integers such that 5\u003cem\u003em\u003c/em\u003e \u0026#x002B; 7\u003cem\u003en\u003c/em\u003e \u0026#x003D; 46, then what is the value of \u003cem\u003emn\u003c/em\u003e?",
+      "orderNum": 23,
+      "questionOrderNum": 23,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3001,
+      "count": 5,
+      "solution": " Usually, an equation such as 5\u003cem\u003em\u003c/em\u003e \u0026#x002B; 7\u003cem\u003en\u003c/em\u003e \u0026#x003D; 46 alone will not have a unique solution. But if we attach a constraint into the system such as an inequality or some other information (Here, \u003cem\u003em\u003c/em\u003e and \u003cem\u003en\u003c/em\u003e are constrained to take positive integers values only), we might have a unique solution.Since \u003cem\u003em\u003c/em\u003e is a positive integer, 5 \u003cem\u003em\u003c/em\u003e is a positive integer; and since \u003cem\u003en\u003c/em\u003e is a positive integer, 7\u003cem\u003en\u003c/em\u003e is a positive integer. Let \u003cem\u003ep\u003c/em\u003e \u0026#x003D; 5\u003cem\u003em\u003c/em\u003e and \u003cem\u003eq\u003c/em\u003e \u0026#x003D; 7\u003cem\u003en\u003c/em\u003e. So, \u003cem\u003ep\u003c/em\u003e is multiple of 5 and \u003cem\u003eq\u003c/em\u003e is multiple of 7 and \u003cem\u003ep\u003c/em\u003e \u0026#x002B; \u003cem\u003eq\u003c/em\u003e \u0026#x003D; 46. Subtracting \u003cem\u003eq\u003c/em\u003e from both sides yields \u003cem\u003ep\u003c/em\u003e \u0026#x003D; 46 \u0026#x2212; \u003cem\u003eq\u003c/em\u003e [(a positive multiple of 5) equals 46 - (a positive multiple of 7)]. Let\u0026#x2019;s seek such solution for \u003cem\u003ep\u003c/em\u003e and \u003cem\u003eq\u003c/em\u003e:\u003cdiv class\u003d\"block\"\u003e\u003cp class\u003d\"para101\"\u003eIf \u003cem\u003eq\u003c/em\u003e \u0026#x003D; 7, \u003cem\u003ep\u003c/em\u003e \u0026#x003D; 46 \u0026#x2212; 7 \u0026#x003D; 39, not a multiple of 5. Reject.\u003cp class\u003d\"para101\"\u003eIf \u003cem\u003eq\u003c/em\u003e \u0026#x003D; 14, \u003cem\u003ep\u003c/em\u003e \u0026#x003D; 46 \u0026#x2212; 14 \u0026#x003D; 32, not a multiple of 5. Reject.\u003cp class\u003d\"para101\"\u003eIf \u003cem\u003eq\u003c/em\u003e \u0026#x003D; 21, \u003cem\u003ep\u003c/em\u003e \u0026#x003D; 46 \u0026#x2212; 21 \u0026#x003D; 25, a multiple of 5. Acceptable. So, \u003cem\u003en\u003c/em\u003e \u0026#x003D; \u003cem\u003eq\u003c/em\u003e/7 \u0026#x003D; 3 and \u003cem\u003em\u003c/em\u003e \u0026#x003D; \u003cem\u003ep\u003c/em\u003e/5 \u0026#x003D; 5.The checks below are not required since we already have an acceptable solution.\u003cdiv class\u003d\"block\"\u003e\u003cp class\u003d\"para101\"\u003eIf \u003cem\u003eq\u003c/em\u003e \u0026#x003D; 28, \u003cem\u003ep\u003c/em\u003e \u0026#x003D; 46 \u0026#x2212; 28 \u0026#x003D; 18, not a multiple of 5. Reject.\u003cp class\u003d\"para101\"\u003eIf \u003cem\u003eq\u003c/em\u003e \u0026#x003D; 35, \u003cem\u003ep\u003c/em\u003e \u0026#x003D; 46 \u0026#x2212; 35 \u0026#x003D; 11, not a multiple of 5. Reject.\u003cp class\u003d\"para101\"\u003eIf \u003cem\u003eq\u003c/em\u003e \u0026#x003D; 42, \u003cem\u003ep\u003c/em\u003e \u0026#x003D; 46 \u0026#x2212; 42 \u0026#x003D; 4, not a multiple of 5. Reject.\u003cp class\u003d\"para101\"\u003eIf \u003cem\u003ea\u003c/em\u003e \u0026#x2265; 49,\u003cem\u003ep\u003c/em\u003e \u0026#x2264; 46 \u0026#x2212; 49 \u0026#x003D; \u0026#x2212;3, not positive either. Reject.So, we have only one acceptable assumption and that is \u003cem\u003en\u003c/em\u003e \u0026#x003D; 3 and therefore \u003cem\u003em\u003c/em\u003e \u0026#x003D; 5. Hence, \u003cem\u003emn\u003c/em\u003e \u0026#x003D; 3 \u0026#x00B7; 5 \u0026#x003D; 15. The answer is (A).",
+      "answers": [
+        {
+          "answerId": 16701,
+          "orderNum": 1,
+          "text": " 15  ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16702,
+          "orderNum": 2,
+          "text": " 21",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16703,
+          "orderNum": 3,
+          "text": " 24",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16704,
+          "orderNum": 4,
+          "text": " 27",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16705,
+          "orderNum": 5,
+          "text": " 35",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " Which one of the following equals the number of multiples of 3 between 102 and 210, inclusive?",
+      "orderNum": 24,
+      "questionOrderNum": 24,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3002,
+      "count": 5,
+      "solution": " The numbers 102 and 210 are themselves multiples of 3. Also, a multiple of 3 exists once in every three consecutive integers. Counting the multiples of 3 starting with 1 for 102, 2 [\u003d 1 \u0026#x002B; (105 \u0026#x2212; 102)/3 \u0026#x003D; 1 \u0026#x002B; 1 \u0026#x003D; 2] for 105, 3 [\u003d 1 \u0026#x002B; (108 \u0026#x2212; 102)/3 \u0026#x003D; 1 \u0026#x002B; 2 \u0026#x003D; 3] for 108, and so on, the count we get for 210 equals 1 \u0026#x002B; (210 \u0026#x2212; 102)/3 \u0026#x003D; 1 \u0026#x002B; 36 \u0026#x003D; 37. Hence, the answer is (D).",
+      "answers": [
+        {
+          "answerId": 16706,
+          "orderNum": 1,
+          "text": " 32",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16707,
+          "orderNum": 2,
+          "text": " 33",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16708,
+          "orderNum": 3,
+          "text": " 36",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16709,
+          "orderNum": 4,
+          "text": " 37",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16710,
+          "orderNum": 5,
+          "text": " 38",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " The sum of the positive integers from 1 through \u003cem\u003en\u003c/em\u003e can be calculated by the formula \u003cem\u003en\u003c/em\u003e(\u003cem\u003en\u003c/em\u003e \u0026#x002B; 1)/2. Which one of the following equals the sum of all the even numbers from 0 through 20, inclusive?",
+      "orderNum": 25,
+      "questionOrderNum": 25,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3003,
+      "count": 5,
+      "solution": " The even numbers between 0 and 20, inclusive, are 0, 2, 4, 6, \u0026#x2026;, 20. Lheir sum is\u003cp class\u003d\"para101\"\u003e\u003cimg src\u003d\"9781889057705_42-1.png\" alt\u003d\"\"/\u003eThe answer is (D).",
+      "answers": [
+        {
+          "answerId": 16711,
+          "orderNum": 1,
+          "text": " 50",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16712,
+          "orderNum": 2,
+          "text": " 70",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16713,
+          "orderNum": 3,
+          "text": " 90",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16714,
+          "orderNum": 4,
+          "text": " 110",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16715,
+          "orderNum": 5,
+          "text": " 140",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " \u003cem\u003ea, b, c, d,\u003c/em\u003e and \u003cem\u003ee\u003c/em\u003e are five consecutive numbers in increasing order of size. Deleting one of the five numbers from the set decreased the sum of the remaining numbers in the set by 20%. Which one of the following numbers was deleted?",
+      "orderNum": 26,
+      "questionOrderNum": 26,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3004,
+      "count": 5,
+      "solution": " Since \u003cem\u003ea\u003c/em\u003e, \u003cem\u003eb\u003c/em\u003e, \u003cem\u003ec\u003c/em\u003e, \u003cem\u003ed\u003c/em\u003e, and \u003cem\u003ee\u003c/em\u003e are consecutive numbers in the increasing order, we have \u003cem\u003eb\u003c/em\u003e \u0026#x003D; \u003cem\u003ea\u003c/em\u003e \u0026#x002B; 1, \u003cem\u003ec\u003c/em\u003e \u0026#x003D; \u003cem\u003ea\u003c/em\u003e \u0026#x002B; 2, \u003cem\u003ed\u003c/em\u003e \u0026#x003D; \u003cem\u003ea\u003c/em\u003e \u0026#x002B; 3 and \u003cem\u003ee\u003c/em\u003e \u0026#x003D; \u003cem\u003ea\u003c/em\u003e \u0026#x002B; 4. The sum of the five numbers is \u003cem\u003ea\u003c/em\u003e \u0026#x002B; (\u003cem\u003ea\u003c/em\u003e \u0026#x002B; 1) \u0026#x002B; (\u003cem\u003ea\u003c/em\u003e \u0026#x002B; 2) \u0026#x002B; (\u003cem\u003ea\u003c/em\u003e \u0026#x002B; 3) \u0026#x002B; (\u003cem\u003ea\u003c/em\u003e \u0026#x002B; 4) \u0026#x003D; 5\u003cem\u003ea\u003c/em\u003e \u0026#x002B; 10.\u003cp class\u003d\"extract2\"\u003eNow, we are given that the sum decreased by 20% when one number was deleted. Hence, the new sum should be (5\u003cem\u003ea\u003c/em\u003e \u0026#x002B; 10)(1 \u0026#x2212; 20/100) \u0026#x003D; (5\u003cem\u003ea\u003c/em\u003e \u0026#x002B; 10)(1 \u0026#x2212; 1/5) \u0026#x003D; (5\u003cem\u003ea\u003c/em\u003e \u0026#x002B; 10)(4/5) \u0026#x003D; 4\u003cem\u003ea\u003c/em\u003e \u0026#x002B; 8. Now, since New Sum \u0026#x003D; Old Sum \u0026#x2212; Dropped Number, we have (5\u003cem\u003ea\u003c/em\u003e \u0026#x002B; 10) \u0026#x003D; (4\u003cem\u003ea\u003c/em\u003e \u0026#x002B; 8) \u0026#x002B; Dropped Number. Hence, the number dropped is (5\u003cem\u003ea\u003c/em\u003e \u0026#x002B; 10) \u0026#x2212; (4\u003cem\u003ea\u003c/em\u003e \u0026#x002B; 8) \u0026#x003D; \u003cem\u003ea\u003c/em\u003e \u0026#x002B; 2. Since \u003cem\u003ec\u003c/em\u003e \u0026#x003D; \u003cem\u003ea\u003c/em\u003e \u0026#x002B; 2, the answer is (C).",
+      "answers": [
+        {
+          "answerId": 16716,
+          "orderNum": 1,
+          "text": " \u003cem\u003ea\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16717,
+          "orderNum": 2,
+          "text": " \u003cem\u003eb\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16718,
+          "orderNum": 3,
+          "text": " \u003cem\u003ec\u003c/em\u003e",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16719,
+          "orderNum": 4,
+          "text": " \u003cem\u003ed\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16720,
+          "orderNum": 5,
+          "text": " \u003cem\u003ee\u003c/em\u003e",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " A set has exactly five consecutive positive integers starting with 1. What is the percentage decrease in the average of the numbers when the greatest one of the numbers is removed from the set?",
+      "orderNum": 27,
+      "questionOrderNum": 27,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3005,
+      "count": 5,
+      "solution": " The average of the five consecutive positive integers 1, 2, 3, 4, and 5 is (1 \u0026#x002B; 2 \u0026#x002B; 3 \u0026#x002B; 4+ 5)/5 \u0026#x003D; 15/5 \u0026#x003D; 3. After dropping 5 (the greatest number), the new average becomes (1 \u0026#x002B; 2 \u0026#x002B; 3 \u0026#x002B; 4)/4 \u0026#x003D; 10/4 \u0026#x003D; 2.5. The percentage drop in the average is\u003cimg src\u003d\"9781889057705_43-1.png\" alt\u003d\"\"/\u003e\u003cp class\u003d\"extract2\"\u003eThe answer is (E).",
+      "answers": [
+        {
+          "answerId": 16721,
+          "orderNum": 1,
+          "text": " 5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16722,
+          "orderNum": 2,
+          "text": " 8.5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16723,
+          "orderNum": 3,
+          "text": " 12.5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16724,
+          "orderNum": 4,
+          "text": " 15.2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16725,
+          "orderNum": 5,
+          "text": " 16.66",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " What is the maximum value of \u003cem\u003em\u003c/em\u003e such that 7\u003csup class\u003d\"frac\"\u003em\u003c/sup\u003e divides into 14! evenly?",
+      "orderNum": 28,
+      "questionOrderNum": 28,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3006,
+      "count": 5,
+      "solution": " The term 14! equals the product of the numbers 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, and 14. Only two of these numbers are divisible by 7. The numbers are 7 and 14. Hence, 14! can be expressed as the product of \u003cem\u003ek\u003c/em\u003e \u0026#x00B7; 7 \u0026#x00B7; 14, where \u003cem\u003ek\u003c/em\u003e is not divisible by 7. Now, since there are two 7s in 14!, the numbers 7 and 7\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e divide 14! evenly. 7\u003csup class\u003d\"frac\"\u003e3\u003c/sup\u003e and further powers of 7 leave a remainder when divided into 14!. Hence, the maximum value of \u003cem\u003em\u003c/em\u003e is 2. The answer is (B).",
+      "answers": [
+        {
+          "answerId": 16726,
+          "orderNum": 1,
+          "text": " 1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16727,
+          "orderNum": 2,
+          "text": " 2",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16728,
+          "orderNum": 3,
+          "text": " 3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16729,
+          "orderNum": 4,
+          "text": " 4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16730,
+          "orderNum": 5,
+          "text": " 5",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " If \u003cem\u003ep\u003c/em\u003e \u0026#x2212; 10 is divisible by 6, then which one of the following must also be divisible by 6?",
+      "orderNum": 29,
+      "questionOrderNum": 29,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3007,
+      "count": 5,
+      "solution": " Since \u003cem\u003ep\u003c/em\u003e \u0026#x2212; 10 is divisible by 6, let\u0026#x2019;s represent it as 6\u003cem\u003en\u003c/em\u003e, where \u003cem\u003en\u003c/em\u003e is an integer. Then we have \u003cem\u003ep\u003c/em\u003e \u0026#x2212; 10 \u0026#x003D; 6\u003cem\u003en\u003c/em\u003e. Adding 10 to both sides of the equation yields \u003cem\u003ep\u003c/em\u003e \u0026#x003D; 6\u003cem\u003en\u003c/em\u003e \u0026#x002B; 10. Let\u0026#x2019;s plug this result into each answer-choice to find out which one is a multiple of 6 and therefore divisible by 6.\u003cp class\u003d\"para101\"\u003eChoice (A): \u003cem\u003ep\u003c/em\u003e \u0026#x003D; 6\u003cem\u003en\u003c/em\u003e \u0026#x002B; 10 \u0026#x003D; 6\u003cem\u003en\u003c/em\u003e \u0026#x002B; 6 \u0026#x002B; 4 \u0026#x003D; 6(\u003cem\u003en\u003c/em\u003e \u0026#x002B; 1) \u0026#x002B; 4. Hence, \u003cem\u003ep\u003c/em\u003e is not a multiple of 6. Reject.\u003cp class\u003d\"para101\"\u003eChoice (B): \u003cem\u003ep\u003c/em\u003e \u0026#x2212; 4 \u0026#x003D; (6\u003cem\u003en\u003c/em\u003e \u0026#x002B; 10) \u0026#x2212; 4 \u0026#x003D; 6\u003cem\u003en\u003c/em\u003e \u0026#x002B; 6 \u0026#x003D; 6(\u003cem\u003en\u003c/em\u003e \u0026#x002B; 1). Hence, \u003cem\u003ep\u003c/em\u003e is a multiple of 6 and therefore divisible by 6. Correct.\u003cp class\u003d\"para101\"\u003eChoice (C): \u003cem\u003ep\u003c/em\u003e \u0026#x002B; 4 \u0026#x003D; (6\u003cem\u003en\u003c/em\u003e \u0026#x002B; 10) \u0026#x002B; 4 \u0026#x003D; 6\u003cem\u003en\u003c/em\u003e \u0026#x002B; 14 \u0026#x003D; 6\u003cem\u003en\u003c/em\u003e \u0026#x002B; 12 \u0026#x002B; 2 \u0026#x003D; 6(\u003cem\u003en\u003c/em\u003e \u0026#x002B; 2) \u0026#x002B; 2. Hence, \u003cem\u003ep\u003c/em\u003e is not a multiple of 6. Reject.\u003cp class\u003d\"para101\"\u003eChoice (D): \u003cem\u003ep\u003c/em\u003e \u0026#x2212; 6 \u0026#x003D; (6\u003cem\u003en\u003c/em\u003e \u0026#x002B; 10) \u0026#x2212; 6 \u0026#x003D; 6\u003cem\u003en\u003c/em\u003e \u0026#x002B; 4. Hence, \u003cem\u003ep\u003c/em\u003e is not a multiple of 6. Reject.\u003cp class\u003d\"para101\"\u003eChoice (E): \u003cem\u003ep\u003c/em\u003e \u0026#x002B; 6 \u0026#x003D; (6\u003cem\u003en\u003c/em\u003e \u0026#x002B; 10) \u0026#x002B; 6 \u0026#x003D; 6\u003cem\u003en\u003c/em\u003e \u0026#x002B; 16 \u0026#x003D; 6\u003cem\u003en\u003c/em\u003e \u0026#x002B; 12 \u0026#x002B; 4 \u0026#x003D; 6(\u003cem\u003en\u003c/em\u003e \u0026#x002B; 2) \u0026#x002B; 4. Hence, \u003cem\u003ep\u003c/em\u003e is not a multiple of 6. Reject.The answer is (B).",
+      "answers": [
+        {
+          "answerId": 16731,
+          "orderNum": 1,
+          "text": " \u003cem\u003eP\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16732,
+          "orderNum": 2,
+          "text": " \u003cem\u003ep\u003c/em\u003e\u0026#x2212;4",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16733,
+          "orderNum": 3,
+          "text": " \u003cem\u003ep\u003c/em\u003e \u0026#x002B; 4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16734,
+          "orderNum": 4,
+          "text": " \u003cem\u003ep\u003c/em\u003e\u0026#x2212;6",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16735,
+          "orderNum": 5,
+          "text": " \u003cem\u003ep\u003c/em\u003e \u0026#x002B; 629.",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " Which one of the following equals the maximum difference between the squares of two single-digit numbers that differ by 4?",
+      "orderNum": 30,
+      "questionOrderNum": 30,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3008,
+      "count": 5,
+      "solution": " Suppose \u003cem\u003ea\u003c/em\u003e and \u003cem\u003eb\u003c/em\u003e are the single-digit numbers. Then by the Difference of Squares formula \u003cem\u003ea\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x2212; \u003cem\u003eb\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; (\u003cem\u003ea\u003c/em\u003e \u0026#x2212; \u003cem\u003eb\u003c/em\u003e)(\u003cem\u003ea\u003c/em\u003e \u0026#x002B; \u003cem\u003eb\u003c/em\u003e) \u0026#x003D; 4(\u003cem\u003ea\u003c/em\u003e \u0026#x002B; \u003cem\u003eb\u003c/em\u003e) [Given that difference between the digits is 4]. This is maximum when (\u003cem\u003ea\u003c/em\u003e \u0026#x002B; \u003cem\u003eb\u003c/em\u003e) is maximum.\u003cp class\u003d\"extract2\"\u003eIf \u003cem\u003ea\u003c/em\u003e and \u003cem\u003eb\u003c/em\u003e are single digit numbers, then \u003cem\u003ea\u003c/em\u003e \u0026#x002B; \u003cem\u003eb\u003c/em\u003e would be a maximum when \u003cem\u003ea\u003c/em\u003e is equal to 9 and \u003cem\u003eb\u003c/em\u003e \u0026#x003D; 9 \u0026#x2212; 4 \u0026#x003D; 5 (given the numbers differ by 4). Hence, the maximum value of \u003cem\u003ea\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x2212; \u003cem\u003eb\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e is 9\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x2212; 5\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; 56. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 16736,
+          "orderNum": 1,
+          "text": " 13 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16737,
+          "orderNum": 2,
+          "text": " 25",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16738,
+          "orderNum": 3,
+          "text": " 45",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16739,
+          "orderNum": 4,
+          "text": " 56",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16740,
+          "orderNum": 5,
+          "text": " 63",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " The positive integers \u003cem\u003em\u003c/em\u003e and \u003cem\u003en\u003c/em\u003e leave remainders of 2 and 3, respectively, when divided by 6. \u003cem\u003em\u003c/em\u003e \u0026#x003E; \u003cem\u003en\u003c/em\u003e. What is the remainder when \u003cem\u003em\u003c/em\u003e \u0026#x2212; \u003cem\u003en\u003c/em\u003e is divided by 6?",
+      "orderNum": 31,
+      "questionOrderNum": 31,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3009,
+      "count": 5,
+      "solution": " We are given that the numbers \u003cem\u003em\u003c/em\u003e and \u003cem\u003en\u003c/em\u003e, when divided by 6, leave remainders of 2 and 3, respectively. Hence, we can represent the numbers \u003cem\u003em\u003c/em\u003e and \u003cem\u003en\u003c/em\u003e as 6\u003cem\u003ep\u003c/em\u003e \u0026#x002B; 2 and 6\u003cem\u003eq\u003c/em\u003e \u0026#x002B; 3, respectively, where\u003cem\u003ep\u003c/em\u003e and \u003cem\u003eq\u003c/em\u003e are suitable integers.\u003cp class\u003d\"extract2\"\u003eNow, \u003cem\u003em\u003c/em\u003e \u0026#x2212; n \u0026#x003D; (6\u003cem\u003ep\u003c/em\u003e \u0026#x002B; 2) \u0026#x2212; (6\u003cem\u003eq\u003c/em\u003e \u0026#x002B; 3) \u0026#x003D; 6\u003cem\u003ep\u003c/em\u003e \u0026#x2212; 6\u003cem\u003eq\u003c/em\u003e \u0026#x2212; 1 \u0026#x003D; 6(\u003cem\u003ep\u003c/em\u003e \u0026#x2212; \u003cem\u003eq\u003c/em\u003e) \u0026#x2212; 1. A remainder must be positive, so let\u0026#x2019;s add 6 to this expression and compensate by subtracting 6:\u003cimg src\u003d\"9781889057705_44-1.png\" alt\u003d\"\"/\u003eThus, the remainder is 5, and the answer is (E).",
+      "answers": [
+        {
+          "answerId": 16741,
+          "orderNum": 1,
+          "text": " 1 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16742,
+          "orderNum": 2,
+          "text": " 2 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16743,
+          "orderNum": 3,
+          "text": " 3 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16744,
+          "orderNum": 4,
+          "text": " 4 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16745,
+          "orderNum": 5,
+          "text": " 5 ",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " What is the remainder when 7\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x00B7; 8\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e is divided by 6?",
+      "orderNum": 32,
+      "questionOrderNum": 32,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3010,
+      "count": 5,
+      "solution": " 7\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x00B7; 8\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; (7 \u0026#x00B7; 8)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; 56\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e.The number immediately before 56 that is divisible by 6 is 54. Now, writing 56\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e as (54 \u0026#x002B; 2)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e, we have\u003cp class\u003d\"paran10\"\u003e\u003cimg src\u003d\"9781889057705_44-2.png\" alt\u003d\"\"/\u003eSince the remainder is 4, the answer is (D).",
+      "answers": [
+        {
+          "answerId": 16746,
+          "orderNum": 1,
+          "text": " 1  ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16747,
+          "orderNum": 2,
+          "text": " 2  ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16748,
+          "orderNum": 3,
+          "text": " 3  ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16749,
+          "orderNum": 4,
+          "text": " 4  ",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16750,
+          "orderNum": 5,
+          "text": " 5  ",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " \u003cem\u003ea, b, c, d,\u003c/em\u003e and \u003cem\u003ee\u003c/em\u003e are five consecutive integers in increasing order of size. Which one of the following expressions is not odd?",
+      "orderNum": 33,
+      "questionOrderNum": 33,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3011,
+      "count": 5,
+      "solution": " Choice (A): \u003cem\u003ea\u003c/em\u003e \u0026#x002B; \u003cem\u003eb\u003c/em\u003e \u0026#x002B; \u003cem\u003ec\u003c/em\u003e: Suppose \u003cem\u003ea\u003c/em\u003e is an even number. Then \u003cem\u003eb\u003c/em\u003e, the integer following \u003cem\u003ea\u003c/em\u003e, must be odd, and c, the integer following \u003cem\u003eb\u003c/em\u003e, must be even. Hence, \u003cem\u003ea\u003c/em\u003e \u0026#x002B; \u003cem\u003eb\u003c/em\u003e \u0026#x002B; \u003cem\u003ec\u003c/em\u003e\u003d sum of two even numbers (\u003cem\u003ea\u003c/em\u003e and \u003cem\u003ec\u003c/em\u003e) and an odd number (\u003cem\u003eb\u003c/em\u003e). Since the sum of any number of even numbers with an odd number is odd (For example, if \u003cem\u003ea\u003c/em\u003e \u0026#x003D; 4, then \u003cem\u003eb\u003c/em\u003e \u0026#x003D; 5, \u003cem\u003ec\u003c/em\u003e \u0026#x003D; 6, and \u003cem\u003ea\u003c/em\u003e \u0026#x002B; \u003cem\u003eb\u003c/em\u003e \u0026#x002B; \u003cem\u003ec\u003c/em\u003e equals 4 \u0026#x002B; 5 \u0026#x002B; 6 \u0026#x003D; 15 (odd)), \u003cem\u003ea\u003c/em\u003e \u0026#x002B; \u003cem\u003eb\u003c/em\u003e \u0026#x002B; \u003cem\u003ec\u003c/em\u003e is odd. Reject.\u003cp class\u003d\"extract2\"\u003eChoice (B): \u003cem\u003eab\u003c/em\u003e \u0026#x002B; \u003cem\u003ec\u003c/em\u003e: At least one of every two consecutive positive integers \u003cem\u003ea\u003c/em\u003e and \u003cem\u003eb\u003c/em\u003e must be even. Hence, the product \u003cem\u003eab\u003c/em\u003e is an even number. Now, if \u003cem\u003ec\u003c/em\u003e is odd (which happens when \u003cem\u003ea\u003c/em\u003e is odd), \u003cem\u003eab\u003c/em\u003e \u0026#x002B; \u003cem\u003ec\u003c/em\u003e must be odd. For example, if \u003cem\u003ea\u003c/em\u003e \u0026#x003D; 3, \u003cem\u003eb\u003c/em\u003e \u0026#x003D; 4, and \u003cem\u003ec\u003c/em\u003e \u0026#x003D; 5, then \u003cem\u003eab\u003c/em\u003e \u0026#x002B; \u003cem\u003ec\u003c/em\u003e must equal 12 \u0026#x002B; 5 \u0026#x003D; 17, an odd number. Reject.\u003cp class\u003d\"extract2\"\u003eChoice (C): \u003cem\u003eab\u003c/em\u003e \u0026#x002B; \u003cem\u003ed\u003c/em\u003e: We know that \u003cem\u003eab\u003c/em\u003e being the product of two consecutive numbers must be even. Hence, if \u003cem\u003ed\u003c/em\u003e happens to be an odd number (it happens when \u003cem\u003eb\u003c/em\u003e is odd), then the sum \u003cem\u003eab\u003c/em\u003e \u0026#x002B; \u003cem\u003edis\u003c/em\u003e also odd. For example, if \u003cem\u003ea\u003c/em\u003e \u0026#x003D; 4, then \u003cem\u003eb\u003c/em\u003e \u0026#x003D; 5, \u003cem\u003ec\u003c/em\u003e \u0026#x003D; 6, and \u003cem\u003ed\u003c/em\u003e \u0026#x003D; 1, then \u003cem\u003eab\u003c/em\u003e \u0026#x002B; ii \u0026#x003D; 3 \u0026#x2212; 5 \u0026#x002B; 7 \u0026#x003D; 15 \u0026#x002B; 7 \u0026#x003D; 23, an odd number. Reject.\u003cp class\u003d\"extract2\"\u003eChoice (D): \u003cem\u003eac\u003c/em\u003e \u0026#x002B; \u003cem\u003ed\u003c/em\u003e: Suppose \u003cem\u003ea\u003c/em\u003e is odd. Then cmust also be odd, being a number 2 more than \u003cem\u003ea\u003c/em\u003e. Hence, \u003cem\u003eac\u003c/em\u003e is the product of two odd numbers and must therefore be odd. Now, \u003cem\u003ed\u003c/em\u003e is the integer following \u003cem\u003ec\u003c/em\u003e and must be even. Hence, \u003cem\u003eac\u003c/em\u003e \u0026#x002B; \u003cem\u003ed\u003c/em\u003e \u0026#x003D; odd \u0026#x002B; even \u0026#x003D; odd. For example, if \u003cem\u003ea\u003c/em\u003e \u0026#x003D; 3, then \u003cem\u003eb\u003c/em\u003e \u0026#x003D; 3 \u0026#x002B; 1\u003d4, \u003cem\u003ec\u003c/em\u003e \u0026#x003D; 4 \u0026#x002B; 1\u003d5 (odd) and \u003cem\u003ed\u003c/em\u003e \u0026#x003D; 5 \u0026#x002B; 1 \u0026#x003D; 6 (even) and \u003cem\u003eac\u003c/em\u003e \u0026#x002B; \u003cem\u003ed\u003c/em\u003e \u0026#x003D; 3 \u0026#x00B7; 5 \u0026#x002B; 6 \u0026#x003D; 21, an odd number. Reject.\u003cp class\u003d\"extract2\"\u003eChoice (E): \u003cem\u003eac\u003c/em\u003e \u0026#x002B; \u003cem\u003ee\u003c/em\u003e. Suppose a is an odd number. Then both \u003cem\u003ec\u003c/em\u003e and \u003cem\u003ee\u003c/em\u003e must also be odd. Now, \u003cem\u003eac\u003c/em\u003e is product of two odd numbers and therefore must be odd. Summing this with another odd number \u003cem\u003ee\u003c/em\u003e yields an even number. For example, if \u003cem\u003ea\u003c/em\u003e \u0026#x003D; 1, thenc must equal 3, and \u003cem\u003ee\u003c/em\u003e must equal 5 and \u003cem\u003eac\u003c/em\u003e \u0026#x002B; \u003cem\u003ee\u003c/em\u003e must equal 1 \u0026#x2212; 3 \u0026#x002B; 5 \u0026#x003D; 8, an even number. Now, suppose a is an even number. Then both \u003cem\u003ec\u003c/em\u003e and \u003cem\u003ee\u003c/em\u003e must also be even. Hence,\u003cimg src\u003d\"9781889057705_44-3.png\" alt\u003d\"\"/\u003e\u003cp class\u003d\"extract2\"\u003eFor example, if \u003cem\u003ea\u003c/em\u003e \u0026#x003D; 2, then c must equal 4, and e must equal 6 and the expression \u003cem\u003eac\u003c/em\u003e \u0026#x002B; \u003cem\u003ee\u003c/em\u003e equals 14, an even number. Hence, in any case, \u003cem\u003eac\u003c/em\u003e \u0026#x002B; \u003cem\u003ee\u003c/em\u003e is even. Correct.\u003cp class\u003d\"extract2\"\u003eThe answer is (E).",
+      "answers": [
+        {
+          "answerId": 16751,
+          "orderNum": 1,
+          "text": " \u003cem\u003ea\u003c/em\u003e \u0026#x002B; \u003cem\u003eb\u003c/em\u003e \u0026#x002B; \u003cem\u003ec\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16752,
+          "orderNum": 2,
+          "text": " \u003cem\u003eab\u003c/em\u003e \u0026#x002B; \u003cem\u003ec\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16753,
+          "orderNum": 3,
+          "text": " \u003cem\u003eab\u003c/em\u003e \u0026#x002B; \u003cem\u003ed\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16754,
+          "orderNum": 4,
+          "text": " \u003cem\u003eac\u003c/em\u003e \u0026#x002B; \u003cem\u003ed\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16755,
+          "orderNum": 5,
+          "text": " \u003cem\u003eac\u003c/em\u003e \u0026#x002B; \u003cem\u003ee\u003c/em\u003e",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " How many positive integers less than 500 can be formed using the numbers 1, 2, 3 and 5 for the digits?",
+      "orderNum": 34,
+      "questionOrderNum": 34,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3012,
+      "count": 5,
+      "solution": "A number less than 500 will be 1) a single-digit number, or 2) a double-digit number, or a 3) triple-digit number with left-most digit less than 5.\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eLet the compartments shown below represent the single, double and three digit numbers.\u003c/p\u003e\u003cimg src\u003d\"9781889057705_45-1.png\" alt\u003d\"\"/\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eThe compartment for the single-digit number can be filled in 4 ways (with any one of the numbers 1, 2, 3, and 5)\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eEach of the two compartments for the double-digit number can be filled in 4 ways (with any one of the 4 numbers 1, 2,3, and 5) each. Hence, the two-digit number can be made in 4 \u0026#x00D7; 4 \u0026#x003D; 16 ways.\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eRegarding the three-digit number, the left most compartment can be filled in 3 ways (with any one of the numbers 1, 2, and 3). Each of the remaining two compartments can be filled in 4 ways (with any one of the numbers 1, 2, 3, and 5) each. Hence, total number of ways of forming the three-digit number equals 3 \u0026#x00D7; 4 \u0026#x00D7; 4 \u0026#x003D; 48.\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eHence, the total number of ways of forming the number is 4 \u0026#x002B; 16 \u0026#x002B; 48 \u0026#x003D; 68. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 16756,
+          "orderNum": 1,
+          "text": " 48",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16757,
+          "orderNum": 2,
+          "text": " 52",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16758,
+          "orderNum": 3,
+          "text": " 66",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16759,
+          "orderNum": 4,
+          "text": " 68",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16760,
+          "orderNum": 5,
+          "text": " 84",
+          "result": "Wrong"
+        }
+      ]
+    }
+  ],
+  "applications": []
+}

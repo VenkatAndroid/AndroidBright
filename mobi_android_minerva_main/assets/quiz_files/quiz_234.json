@@ -1,0 +1,395 @@
+{
+  "quizId": 234,
+  "name": "Problem Set U (GMAT MATH)",
+  "description": "",
+  "questions": [
+    {
+      "text": " In a zoo, each pigeon has 2 legs, and each rabbit has 4 leg s. The head count of the two species together is 12, and the leg count is 32. How many pigeons and how many rabbits are there in the zoo?",
+      "orderNum": 1,
+      "questionOrderNum": 1,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3275,
+      "count": 5,
+      "solution": " Let the number of pigeons be \u003cem\u003ep\u003c/em\u003e and the number of rabbits be \u003cem\u003er.\u003c/em\u003e Since the head count together is 12,\u003cem\u003ep\u003c/em\u003e \u0026#x002B; \u003cem\u003er\u003c/em\u003e\u003d 12\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;(1)Since each pigeon has 2 legs and each rabbit has 4 legs, the total leg count is2\u003cem\u003ep\u003c/em\u003e \u0026#x002B; 4\u003cem\u003er\u003c/em\u003e \u0026#x003D; 32\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;(2)Dividing equation (2) by 2 yields \u003cem\u003ep\u003c/em\u003e \u0026#x002B; 2\u003cem\u003er\u003c/em\u003e\u0026#x003D; 16. Subtracting this equation from equation (1) yields\u003cimg src\u003d\"9781889057705_326-png\" alt\u003d\"\"/\u003eSubstituting this into equation (1) yields/\u003cem\u003ep\u003c/em\u003e \u0026#x002B; 4 \u0026#x003D; 12, which reduces to \u003cem\u003ep\u003c/em\u003e \u0026#x003D; 8.Hence, the number of pigeons is \u003cem\u003ep\u003c/em\u003e \u0026#x003D; 8, and the number of rabbits is \u003cem\u003er\u003c/em\u003e \u0026#x003D; 4. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 18041,
+          "orderNum": 1,
+          "text": " 4,8",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18042,
+          "orderNum": 2,
+          "text": " 6,6",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18043,
+          "orderNum": 3,
+          "text": " 6,8",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18044,
+          "orderNum": 4,
+          "text": " 8,4",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18045,
+          "orderNum": 5,
+          "text": " 8,6",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " In jar A, 60\u0026#x0025; of the marbles are red and the rest are green. 40\u0026#x0025; of the red marbles are moved to an empty jar B. 60\u0026#x0025; of the green marbles are moved to an empty jar C. The marbles in both B and C are now moved to another empty jar D. What fraction of the marbles in jar A were moved to jar D?",
+      "orderNum": 2,
+      "questionOrderNum": 2,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3276,
+      "count": 5,
+      "solution": " Let \u003cem\u003ej\u003c/em\u003e be the total number of marbles in the jar A. Then 60\u0026#x0025; \u003cem\u003ej\u003c/em\u003e must be red (given), and the remaining 40\u0026#x0025;\u003cem\u003ej\u003c/em\u003e must be green (given). Now,Number of marbles moved to empty jar B \u0026#x003D; 40\u0026#x0025; of the red marbles \u0026#x003D; 40\u0026#x0025;(60\u0026#x0025;\u003cem\u003ej\u003c/em\u003e) \u0026#x003D; .40(.60\u003cem\u003ej\u003c/em\u003e) \u0026#x003D; .24\u003cem\u003ej\u003c/em\u003e.Number of marbles moved to empty jar C \u0026#x003D; 60\u0026#x0025; of the green marbles \u0026#x003D; 60\u0026#x0025;(40\u0026#x0025;\u003cem\u003ej\u003c/em\u003e) \u0026#x003D; .60(.40\u003cem\u003ej\u003c/em\u003e) \u0026#x003D; .24\u003cem\u003ej\u003c/em\u003e.Since the marbles in the jars B and C are now moved to the jar D, jar D should have .24 \u003cem\u003ej\u003c/em\u003e \u0026#x002B; .24\u003cem\u003ej\u003c/em\u003e \u0026#x003D; .48\u003cem\u003ej\u003c/em\u003e marbles.Hence, the fraction of the marbles that were moved to jar D is .48\u003cem\u003ej\u003c/em\u003e7\u003cem\u003ej\u003c/em\u003e \u0026#x003D; 0.48. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 18046,
+          "orderNum": 1,
+          "text": " 0.12",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18047,
+          "orderNum": 2,
+          "text": " 0.24",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18048,
+          "orderNum": 3,
+          "text": " 0.36",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18049,
+          "orderNum": 4,
+          "text": " 0.48",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18050,
+          "orderNum": 5,
+          "text": " 0.6",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " For how many positive integers \u003cem\u003en\u003c/em\u003e is it true that the sum of 13/\u003cem\u003en\u003c/em\u003e, 18/\u003cem\u003en\u003c/em\u003e, and 29/\u003cem\u003en\u003c/em\u003e is an integer?",
+      "orderNum": 3,
+      "questionOrderNum": 3,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3277,
+      "count": 5,
+      "solution": " The sum of 13/\u003cem\u003en\u003c/em\u003e, 18/\u003cem\u003en\u003c/em\u003e, and 29/\u003cem\u003en\u003c/em\u003e is \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_326-2.png\" alt\u003d\"\"/\u003e. Now, if 60/\u003cem\u003en\u003c/em\u003e is to be an integer, \u003cem\u003en\u003c/em\u003e must be a factor of 60. Since the factors of 60 are 1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, and 60, there are 12 possible values for \u003cem\u003en\u003c/em\u003e. The answer is (E).",
+      "answers": [
+        {
+          "answerId": 18051,
+          "orderNum": 1,
+          "text": " 6",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18052,
+          "orderNum": 2,
+          "text": " 60",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18053,
+          "orderNum": 3,
+          "text": " Greatest common factor of 13, 18, and 29",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18054,
+          "orderNum": 4,
+          "text": " Least common multiple of 13, 18, and 29",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18055,
+          "orderNum": 5,
+          "text": " 12",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " For how many integers \u003cem\u003en\u003c/em\u003e between 5 and 20, inclusive, is the sum of 3\u003cem\u003en\u003c/em\u003e, 9\u003cem\u003en\u003c/em\u003e, and 11\u003cem\u003en\u003c/em\u003e greater than 200?",
+      "orderNum": 4,
+      "questionOrderNum": 4,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3278,
+      "count": 5,
+      "solution": " The sum of 3\u003cem\u003en\u003c/em\u003e, 9\u003cem\u003en\u003c/em\u003e, and 11\u003cem\u003en\u003c/em\u003e is 23\u003cem\u003en\u003c/em\u003e. Since this is to be greater than 200, we get the inequality 23 \u003cem\u003en\u003c/em\u003e \u0026#x003E; 200. From this, we get \u003cem\u003en\u003c/em\u003e \u0026#x003E; 200/23 \u0026#x2248; 8.7. Since \u003cem\u003en\u003c/em\u003e is an integer, \u003cem\u003en\u003c/em\u003e \u0026#x003E; 8. Now, we are given that 5 \u0026#x2264; \u003cem\u003en\u003c/em\u003e \u0026#x2264; 20. Hence, the values for \u003cem\u003en\u003c/em\u003e are 9 through 20, a total of 12 numbers. The answer is (C).",
+      "answers": [
+        {
+          "answerId": 18056,
+          "orderNum": 1,
+          "text": " 4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18057,
+          "orderNum": 2,
+          "text": " 8",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18058,
+          "orderNum": 3,
+          "text": " 12",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18059,
+          "orderNum": 4,
+          "text": " 16",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18060,
+          "orderNum": 5,
+          "text": " 20",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " Ana is a girl and has the same number of brothers as sisters. Andrew is a boy and has twice as many sisters as brothers. Ana and Andrew are the children of Emma. How many children does Emma have?",
+      "orderNum": 5,
+      "questionOrderNum": 5,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3279,
+      "count": 5,
+      "solution": " Let the number of female children Emma has be \u003cem\u003en\u003c/em\u003e. Since Anna herself is one of them, she has \u003cem\u003en\u003c/em\u003e \u0026#x2212; 1 sisters. Hence, as given, she must have the same number (\u0026#x003D; \u003cem\u003en\u003c/em\u003e \u0026#x2212; 1) of brothers. Hence, the number of male children Emma has is \u003cem\u003en\u003c/em\u003e \u0026#x2212; 1. Since Andrew is one of them, Andrew has (\u003cem\u003en\u003c/em\u003e \u0026#x2212; 1)\u0026#x2212; 1 \u0026#x003D; \u003cem\u003en\u003c/em\u003e \u0026#x2212; 2 brothers. Now, the number of sisters Andrew has (includes Anna) is \u003cem\u003en\u003c/em\u003e (\u0026#x003D; the number of female children). Since Andrew has twice as many sisters as brothers, we have the equation \u003cem\u003en\u003c/em\u003e \u0026#x003D; 2(\u003cem\u003en\u003c/em\u003e \u0026#x2212; 2). Solving the equation for \u003cem\u003en\u003c/em\u003e yields \u003cem\u003en\u003c/em\u003e \u0026#x003D; 4. Hence, Emma has 4 female children, and the number of male children she has is \u003cem\u003en\u003c/em\u003e \u0026#x2212; 1 \u0026#x003D; 4 \u0026#x2212; 1 \u0026#x003D; 3. Hence, the total number of children Emma has is 4 \u0026#x002B; 3 \u0026#x003D; 7. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 18061,
+          "orderNum": 1,
+          "text": " 2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18062,
+          "orderNum": 2,
+          "text": " 3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18063,
+          "orderNum": 3,
+          "text": " 5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18064,
+          "orderNum": 4,
+          "text": " 7",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18065,
+          "orderNum": 5,
+          "text": " 8",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " A trainer on a Project Planning Module conducts batches of soft skill training for different companies. The trainer sets the batch size (the number of participants) of any batch such that he can make groups of equal numbers without leaving out any of the participants. For a particular batch he decides that he should be able to make teams of 3 participants each, teams of 5 participants each, and teams of 6 participants each, successfully without leaving out anyone in the batch. Which one of the following best describes the batch size (number of participants) that he chooses for the program?",
+      "orderNum": 6,
+      "questionOrderNum": 6,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3280,
+      "count": 5,
+      "solution": " The trainer wants to make teams of either 3 participants each or 5 participants each or 6 participants each successfully without leaving out any one of the participants in the batch. Hence, the batch size must be a multiple of all three numbers 3, 5, and  Hence, the batch size must be a multiple of the least common multiple of 3, 5, and 6, which is 30. The answer is (E).",
+      "answers": [
+        {
+          "answerId": 18066,
+          "orderNum": 1,
+          "text": " Exactly 30 participants.",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18067,
+          "orderNum": 2,
+          "text": " At least 30 participants.",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18068,
+          "orderNum": 3,
+          "text": " Less than 30 participants.",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18069,
+          "orderNum": 4,
+          "text": " More than 30 participants.",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18070,
+          "orderNum": 5,
+          "text": " Participants in groups of 30 or its multiples.",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " In a multi-voting system, voters can vote for more than one candidate. Two candidates A and B are contesting the election. 100 voters voted for A. Fifty out of 250 voters voted for both candidates. If each voter voted for at least one of the two candidates, then how many candidates voted only for B?",
+      "orderNum": 7,
+      "questionOrderNum": 7,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3281,
+      "count": 5,
+      "solution": " There are three kinds of voters:1) Voters who voted for A only. Let the count of such voters be \u003cem\u003ea.\u003c/em\u003e2) Voters who voted for B only. Let the count of such voters be \u003cem\u003eb.\u003c/em\u003e3) Voters who voted for both A and B. The count of such voters is 50 (given)Since the total number of voters is 250, we have\u003cem\u003ea\u003c/em\u003e \u0026#x002B; \u003cem\u003eb\u003c/em\u003e \u0026#x002B; 50 \u0026#x003D; 250\u003cem\u003ea\u003c/em\u003e \u0026#x002B; \u003cem\u003eb\u003c/em\u003e \u0026#x003D; 200 \u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0; (1)\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;By subtracting 50 from both sidesNow, we have that 100 voters voted for A. Hence, we have(Voters who voted for A only) \u0026#x002B; (Voters who voted for both A and B) \u0026#x003D; 100Forming this as an equation yields\u003cem\u003ea\u003c/em\u003e \u0026#x002B; 50\u0026#x003D; 100\u003cbr/\u003e\u003cem\u003ea\u003c/em\u003e \u0026#x003D; 50Substituting this in equation (1) yields 50 \u0026#x002B; \u003cem\u003eb\u003c/em\u003e \u0026#x003D; 200. Solving for \u003cem\u003eb\u003c/em\u003e yields \u003cem\u003eb\u003c/em\u003e \u0026#x003D; 150.The answer is (C).",
+      "answers": [
+        {
+          "answerId": 18071,
+          "orderNum": 1,
+          "text": " 50",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18072,
+          "orderNum": 2,
+          "text": " 100",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18073,
+          "orderNum": 3,
+          "text": " 150",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18074,
+          "orderNum": 4,
+          "text": " 200",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18075,
+          "orderNum": 5,
+          "text": " 250",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " There are 750 male and female participants in a meeting. Half the female participants and one-quarter of the male participants are Democrats. One-third of all the participants are Democrats. How many of the Democrats are female?",
+      "orderNum": 8,
+      "questionOrderNum": 8,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3282,
+      "count": 5,
+      "solution": " Let \u003cem\u003em\u003c/em\u003e be the number of male participants and \u003cem\u003ef\u003c/em\u003e be the number of female participants in the meeting. The total number of participants is given as 750. Hence, we have\u003cem\u003em\u003c/em\u003e \u0026#x002B; \u003cem\u003ef\u003c/em\u003e \u0026#x003D; 750Now, we have that half the female participants and one-quarter of the male participants are Democrats. Let \u003cem\u003ed\u003c/em\u003e equal the number of the Democrats. Then we have the equation\u003cem\u003ef\u003c/em\u003e/2 \u0026#x002B; \u003cem\u003em\u003c/em\u003e/4 \u0026#x003D;\u003cem\u003ed\u003c/em\u003eNow, we have that one-third of the total participants are Democrats. Hence, we have the equation\u003cem\u003ed\u003c/em\u003e \u0026#x003D; 750/3 \u0026#x003D; 250Solving the three equations yields the solution \u003cem\u003ef\u003c/em\u003e \u0026#x003D; 250, \u003cem\u003em\u003c/em\u003e \u0026#x003D; 500, and \u003cem\u003ed\u003c/em\u003e \u0026#x003D; 250. The number of female democratic participants equals half the female participants equals 250/2 \u0026#x003D; 125. The answer is (C).",
+      "answers": [
+        {
+          "answerId": 18076,
+          "orderNum": 1,
+          "text": " 75",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 29321,
+          "orderNum": 2,
+          "text": "100",
+          "result": "INCORRECT"
+        },
+        {
+          "answerId": 18077,
+          "orderNum": 3,
+          "text": " 125",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18078,
+          "orderNum": 4,
+          "text": " 175",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18079,
+          "orderNum": 5,
+          "text": " 225",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " A survey of \u003cem\u003en\u003c/em\u003e people in the town of Eros found that 50\u0026#x0025; of them preferred Brand A. Another survey of 100 people in the town of Angie found that 60\u0026#x0025; preferred Brand A. In total, 55\u0026#x0025; of all the people surveyed together preferred Brand A. What is the total number of people surveyed?",
+      "orderNum": 9,
+      "questionOrderNum": 9,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3283,
+      "count": 5,
+      "solution": "50\u0026#x0025; of \u003cem\u003en\u003c/em\u003e people from Eros prefer brand A. 50\u0026#x0025; of \u003cem\u003en\u003c/em\u003e is 50/100 \u0026#x00D7; \u003cem\u003en\u003c/em\u003e \u0026#x003D; \u003cem\u003en\u003c/em\u003e/2.\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003e60\u0026#x0025; of 100 people from Angie prefer brand A. 60\u0026#x0025; of 100 is 60/100 \u0026#x00D7; 100 \u0026#x003D; 60.\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eOf the total \u003cem\u003en\u003c/em\u003e \u0026#x002B; 100 people surveyed, \u003cem\u003en\u003c/em\u003e/2 \u0026#x002B; 60 prefer brand A. Given that this is 55\u0026#x0025;, we have\u003c/p\u003e\u003cimg src\u003d\"9781889057705_328-1.png\" alt\u003d\"\"/\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eSolving the equation yields\u003c/p\u003e\n\u003cp class\u003d\"paran\"\u003e\u003cimg src\u003d\"9781889057705_328-2.png\" alt\u003d\"\"/\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eHence, the total number of people surveyed is \u003cem\u003en\u003c/em\u003e \u0026#x002B; 100 \u0026#x003D; 100 \u0026#x002B; 100 \u0026#x003D; 200. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 18080,
+          "orderNum": 1,
+          "text": " 50 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18081,
+          "orderNum": 2,
+          "text": " 100 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18082,
+          "orderNum": 3,
+          "text": " 150 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18083,
+          "orderNum": 4,
+          "text": " 200 ",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18084,
+          "orderNum": 5,
+          "text": " 250 ",
+          "result": "Wrong"
+        }
+      ]
+    }
+  ],
+  "applications": []
+}

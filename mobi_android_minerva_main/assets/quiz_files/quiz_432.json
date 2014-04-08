@@ -1,0 +1,1262 @@
+{
+  "quizId": 432,
+  "name": "Diagnostic Math Review",
+  "description": "This diagnostic test appears at the end of the math section because it is probably best for you to use it as a review test. Unless your math skills are very strong, you should thoroughly study every math chapter. Afterwards, you can use this diagnostic/review test to determine which math chapters you need to work on more. If you do not have much time to study, this test can also be used to concentrate your studies on your weakest areas.",
+  "questions": [
+    {
+      "text": "If 3\u003cem\u003ex\u003c/em\u003e + 9 \u003d 15, then \u003cem\u003ex\u003c/em\u003e + 2 \u003d",
+      "orderNum": 1,
+      "questionOrderNum": 1,
+      "questionType": {
+        "type": "Multiple"
+      },
+      "questionId": 6971,
+      "count": 5,
+      "solution": "Dividing both sides of the equation by 3 yields\u003c/p\u003e\n\u003cp class\u003d\"center-paran\"\u003e\u003cem\u003ex\u003c/em\u003e + 3 \u003d 5\u003c/p\u003e\n\u003cp class\u003d\"paradv\"\u003eSubtracting 1 from both sides of this equation (because we are looking for \u003cem\u003ex\u003c/em\u003e + 2) yields\u003c/p\u003e\n\u003cp class\u003d\"center-paran\"\u003e\u003cem\u003ex\u003c/em\u003e + 2 \u003d 4\u003c/p\u003e\n\u003cp class\u003d\"paradv\"\u003eThe answer is (C).",
+      "answers": [
+        {
+          "answerId": 35650,
+          "orderNum": 1,
+          "text": "2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35651,
+          "orderNum": 2,
+          "text": "3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35652,
+          "orderNum": 3,
+          "text": "4",
+          "result": "Correct"
+        },
+        {
+          "answerId": 35653,
+          "orderNum": 4,
+          "text": "5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35654,
+          "orderNum": 5,
+          "text": "6",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "If \u003cem\u003ea\u003c/em\u003e \u003d 3\u003cem\u003eb\u003c/em\u003e, \u003cem\u003eb\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e \u003d 2\u003cem\u003ec\u003c/em\u003e, 9\u003cem\u003ec\u003c/em\u003e \u003d \u003cem\u003ed\u003c/em\u003e, then",
+      "orderNum": 2,
+      "questionOrderNum": 2,
+      "questionType": {
+        "type": "Multiple"
+      },
+      "questionId": 6972,
+      "count": 5,
+      "solution": "\u003cimg class\u003d\"block1\" src\u003d\"f0299-01.jpg\" alt\u003d\"Image\"\u003e\u003c/img\u003e\u003c/p\u003e\n\u003cp class\u003d\"paradv\"\u003eThe answer is (B).",
+      "answers": [
+        {
+          "answerId": 35655,
+          "orderNum": 1,
+          "text": "½",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35656,
+          "orderNum": 2,
+          "text": "2",
+          "result": "Correct"
+        },
+        {
+          "answerId": 35657,
+          "orderNum": 3,
+          "text": "10/3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35658,
+          "orderNum": 4,
+          "text": "5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35659,
+          "orderNum": 5,
+          "text": "6",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "\u003cem\u003ea\u003c/em\u003e + \u003cem\u003eb\u003c/em\u003e + \u003cem\u003ec\u003c/em\u003e/2 \u003d 60\u003cbr\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;–\u003cem\u003ea\u003c/em\u003e – \u003cem\u003eb\u003c/em\u003e + \u003cem\u003ec\u003c/em\u003e/2 \u003d –10\u003cbr\u003eWhich is greater?\u003c/p\u003e\n\u003cp class\u003d\"parar\"\u003e\u003cem\u003eb\u003c/em\u003e\u003c/p\u003e\n\u003cp class\u003d\"parar\"\u003e\u003cem\u003ec\u003c/em\u003e",
+      "orderNum": 3,
+      "questionOrderNum": 3,
+      "questionType": {
+        "type": "Multiple"
+      },
+      "questionId": 6973,
+      "count": 4,
+      "solution": "Merely adding the two equations yields\u003c/p\u003e\n\u003cp class\u003d\"center-param\"\u003e\u003cem\u003ec\u003c/em\u003e \u003d 50\u003c/p\u003e\n\u003cp class\u003d\"paradvm\"\u003eNext, multiplying the bottom equation by \u0026#8211;1 and then adding the equations yields\u003c/p\u003e\n\u003cp class\u003d\"image\"\u003e\u003cimg src\u003d\"f0299-02.jpg\" alt\u003d\"Image\"\u003e\u003c/img\u003e\u003c/p\u003e\n\u003cp class\u003d\"paradv\"\u003eDividing this equation by 2 yields\u003c/p\u003e\n\u003cp class\u003d\"center-param\"\u003e\u003cem\u003ea + b\u003c/em\u003e \u003d 35\u003c/p\u003e\n\u003cp class\u003d\"paradvm\"\u003eThis equation does not allow us to determine whether the value of \u003cem\u003eb\u003c/em\u003e is larger, smaller, or equal to 50. For example, if \u003cem\u003ea\u003c/em\u003e \u003d 0, then \u003cem\u003eb\u003c/em\u003e \u003d 35. In this case, Column B is larger. Now suppose \u003cem\u003ea\u003c/em\u003e \u003d \u0026#8211;15, then \u003cem\u003eb\u003c/em\u003e \u003d 50. In this case, the columns are equal. This is a double case and therefore the answer is (D), not enough information to decide.",
+      "answers": [
+        {
+          "answerId": 35660,
+          "orderNum": 1,
+          "text": "b",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35661,
+          "orderNum": 2,
+          "text": "c",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35662,
+          "orderNum": 3,
+          "text": "Both are equal",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35663,
+          "orderNum": 4,
+          "text": "Cannot be determined from the information given",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "3 – (2\u003csup\u003e3\u003c/sup\u003e – 2[3 – 16 ÷ 2]) \u003d",
+      "orderNum": 4,
+      "questionOrderNum": 4,
+      "questionType": {
+        "type": "Multiple"
+      },
+      "questionId": 6974,
+      "count": 5,
+      "solution": "\u003ctable border\u003d\"0\" cellpadding\u003d\"0\" cellspacing\u003d\"0\" width\u003d\"100%\"\u003e\n\u003ctr\u003e\n\u003ctd valign\u003d\"top\" style\u003d\"width:50%\"\u003e\u003cp class\u003d\"tablermn\"\u003e3 \u0026#8211; (2\u003csup\u003e3\u003c/sup\u003e \u0026#8211; 2[3 \u0026#8211; 16 \u0026#247; 2]) \u003d\u003c/p\u003e\u003c/td\u003e\n\u003ctd valign\u003d\"top\" style\u003d\"width:50%\"\u003e\u003cp class\u003d\"tabledv\"\u003eWithin the innermost parentheses, division is performed before subtraction:\u003c/p\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd valign\u003d\"top\"\u003e\u003cp class\u003d\"tablermn\"\u003e3 \u0026#8211; (2\u003csup\u003e3\u003c/sup\u003e \u0026#8211; 2[3 \u0026#8211; 8]) \u003d\u003c/p\u003e\u003c/td\u003e\n\u003ctd valign\u003d\"top\"\u003e\u003cp class\u003d\"tabledv\"\u003e\u0026#160;\u003c/p\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd valign\u003d\"top\"\u003e\u003cp class\u003d\"tablermn\"\u003e3 \u0026#8211; (2\u003csup\u003e3\u003c/sup\u003e \u0026#8211; 2[\u0026#8211;5]) \u003d\u003c/p\u003e\u003c/td\u003e\n\u003ctd valign\u003d\"top\"\u003e\u003cp class\u003d\"tabledv\"\u003e\u0026#160;\u003c/p\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd valign\u003d\"top\"\u003e\u003cp class\u003d\"tablermn\"\u003e3 \u0026#8211; (8 \u0026#8211; 2[\u0026#8211;5]) \u003d\u003c/p\u003e\u003c/td\u003e\n\u003ctd valign\u003d\"top\"\u003e\u003cp class\u003d\"tabledv\"\u003e\u0026#160;\u003c/p\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd valign\u003d\"top\"\u003e\u003cp class\u003d\"tablermn\"\u003e3 \u0026#8211; (8 + 10) \u003d\u003c/p\u003e\u003c/td\u003e\n\u003ctd valign\u003d\"top\"\u003e\u003cp class\u003d\"tabledv\"\u003e\u0026#160;\u003c/p\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd valign\u003d\"top\"\u003e\u003cp class\u003d\"tablermn\"\u003e3 \u0026#8211; 18 \u003d\u003c/p\u003e\u003c/td\u003e\n\u003ctd valign\u003d\"top\"\u003e\u003cp class\u003d\"tabledv\"\u003e\u0026#160;\u003c/p\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd valign\u003d\"top\"\u003e\u003cp class\u003d\"tablermn\"\u003e\u0026#8211; 15\u003c/p\u003e\u003c/td\u003e\n\u003ctd valign\u003d\"top\"\u003e\u003cp class\u003d\"tabledv\"\u003e\u0026#160;\u003c/p\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/table\u003e\n\u003cp class\u003d\"paradv\"\u003eThe answer is (A).",
+      "answers": [
+        {
+          "answerId": 35664,
+          "orderNum": 1,
+          "text": "-15",
+          "result": "Correct"
+        },
+        {
+          "answerId": 35665,
+          "orderNum": 2,
+          "text": "-5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35666,
+          "orderNum": 3,
+          "text": "1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35667,
+          "orderNum": 4,
+          "text": "2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35668,
+          "orderNum": 5,
+          "text": "30",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "(\u003cem\u003ex\u003c/em\u003e – 2)(\u003cem\u003ex\u003c/em\u003e + 4) – (\u003cem\u003ex\u003c/em\u003e – 3)(\u003cem\u003ex\u003c/em\u003e – 1) \u003d 0",
+      "orderNum": 5,
+      "questionOrderNum": 5,
+      "questionType": {
+        "type": "Multiple"
+      },
+      "questionId": 6975,
+      "count": 5,
+      "solution": "Multiplying (using foil multiplication) both terms in the expression yields\u003c/p\u003e\n\u003cp class\u003d\"center-paran\"\u003e\u003cem\u003ex\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e + 4\u003cem\u003ex\u003c/em\u003e \u0026#8211; 2\u003cem\u003ex\u003c/em\u003e \u0026#8211; 8 \u0026#8211; (\u003cem\u003ex\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e \u0026#8211; \u003cem\u003ex\u003c/em\u003e \u0026#8211; 3\u003cem\u003ex\u003c/em\u003e + 3) \u003d 0\u003c/p\u003e\n\u003cp class\u003d\"paradv\"\u003e(Notice that parentheses are used in the second expansion but not in the first. Parentheses must be used in the second expansion because the negative sign must be distributed to \u003cem\u003eevery\u003c/em\u003e term within the parentheses.)\u003c/p\u003e\n\u003cp class\u003d\"para1m\"\u003eCombining like terms yields\u003c/p\u003e\n\u003cp class\u003d\"center-paran\"\u003e\u003cem\u003ex\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e + 2\u003cem\u003ex\u003c/em\u003e \u0026#8211; 8 \u0026#8211; (\u003cem\u003ex\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e \u0026#8211; 4\u003cem\u003ex\u003c/em\u003e + 3) \u003d 0\u003c/p\u003e\n\u003cp class\u003d\"paradv\"\u003eDistributing the negative sign to every term within the parentheses yields\u003c/p\u003e\n\u003cp class\u003d\"center-paran\"\u003e\u003cem\u003ex\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e + 2\u003cem\u003ex\u003c/em\u003e \u0026#8211; 8 \u0026#8211; \u003cem\u003ex\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e + 4\u003cem\u003ex\u003c/em\u003e \u0026#8211; 3 \u003d 0\u003c/p\u003e\n\u003cp class\u003d\"paradv\"\u003e(Note, although distributing the negative sign over the parentheses is an elementary operation, many, if not most, students will apply the negative sign to only the first term:\u003c/p\u003e\n\u003cp class\u003d\"center-paran\"\u003e\u0026#8211;\u003cem\u003ex\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e \u0026#8211; 4\u003cem\u003ex\u003c/em\u003e + 3\u003c/p\u003e\n\u003cp class\u003d\"paradv\"\u003eThe writers of the test are aware of this common mistake and structure the test so that there are many opportunities to make this mistake.)\u003c/p\u003e\n\u003cp class\u003d\"para1m\"\u003eGrouping like terms together yields\u003c/p\u003e\n\u003cp class\u003d\"center-paran\"\u003e(\u003cem\u003ex\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e \u0026#8211; \u003cem\u003ex\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e) + (2\u003cem\u003ex\u003c/em\u003e + 4\u003cem\u003ex\u003c/em\u003e) + (\u0026#8211;8 \u0026#8211; 3) \u003d 0\u003c/p\u003e\n\u003cp class\u003d\"paradv\"\u003eCombining the like terms yields\u003c/p\u003e\n\u003cp class\u003d\"center-paran\"\u003e6\u003cem\u003ex\u003c/em\u003e \u0026#8211; 11 \u003d 0\u003c/p\u003e\n\u003cp class\u003d\"center-paran\"\u003e6\u003cem\u003ex\u003c/em\u003e \u003d 11\u003c/p\u003e\n\u003cp class\u003d\"center-paran\"\u003e\u003cem\u003ex\u003c/em\u003e \u003d 11/6\u003c/p\u003e\n\u003cp class\u003d\"paradv\"\u003eThe answer is (E).",
+      "answers": [
+        {
+          "answerId": 35669,
+          "orderNum": 1,
+          "text": "-5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35670,
+          "orderNum": 2,
+          "text": "-1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35671,
+          "orderNum": 3,
+          "text": "0",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35672,
+          "orderNum": 4,
+          "text": "½",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35673,
+          "orderNum": 5,
+          "text": "11/6",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "–2\u003csup\u003e4\u003c/sup\u003e – (\u003cem\u003ex\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e – 1)\u003csup\u003e2\u003c/sup\u003e \u003d",
+      "orderNum": 6,
+      "questionOrderNum": 6,
+      "questionType": {
+        "type": "Multiple"
+      },
+      "questionId": 6976,
+      "count": 5,
+      "solution": "\u003cimg class\u003d\"block1\" src\u003d\"f0300-01.jpg\" alt\u003d\"Image\"\u003e\u003c/img\u003e\u003c/p\u003e\n\u003cp class\u003d\"paradv\"\u003eThe answer is (C).\nNotice that \u0026#8211;2\u003csup\u003e4\u003c/sup\u003e \u003d \u0026#8211;16, not 16. This is one of the most common mistakes on the test. To see why \u0026#8211;2\u003csup\u003e4\u003c/sup\u003e \u003d \u0026#8211;16 more clearly, rewrite \u0026#8211;2\u003csup\u003e4\u003c/sup\u003e as follows:\u003c/p\u003e\n\u003cp class\u003d\"center-paran\"\u003e\u0026#8211;2\u003csup\u003e4\u003c/sup\u003e \u003d (\u0026#8211;1)2\u003csup\u003e4\u003c/sup\u003e\u003c/p\u003e\n\u003cp class\u003d\"indent-para1n\"\u003eIn this form, it is clearer that the exponent, 4, applies only to the number 2, not to the number \u0026#8211;1. So \u0026#8211;2\u003csup\u003e4\u003c/sup\u003e \u003d (\u0026#8211;1)2\u003csup\u003e4\u003c/sup\u003e \u003d (\u0026#8211;1)16 \u003d \u0026#8211;16.\u003c/p\u003e\n\u003cp class\u003d\"indent-para1n\"\u003eTo make the answer positive 16, the \u0026#8211;2 could be placed in parentheses:\u003c/p\u003e\n\u003cp class\u003d\"center-paran\"\u003e(\u0026#8211;2)\u003csup\u003e4\u003c/sup\u003e \u003d [(\u0026#8211;1)2]\u003csup\u003e4\u003c/sup\u003e \u003d (\u0026#8211;1)\u003csup\u003e4\u003c/sup\u003e 2\u003csup\u003e4\u003c/sup\u003e \u003d (+1)16 \u003d 16",
+      "answers": [
+        {
+          "answerId": 35674,
+          "orderNum": 1,
+          "text": "\u003cem\u003ex\u003c/em\u003e\u003csup\u003e4\u003c/sup\u003e + 2\u003cem\u003ex\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e + 15",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35675,
+          "orderNum": 2,
+          "text": "–\u003cem\u003ex\u003c/em\u003e\u003csup\u003e4\u003c/sup\u003e – 2\u003cem\u003ex\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e + 17",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35676,
+          "orderNum": 3,
+          "text": "–\u003cem\u003ex\u003c/em\u003e\u003csup\u003e4\u003c/sup\u003e + 2\u003cem\u003ex\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e – 17",
+          "result": "Correct"
+        },
+        {
+          "answerId": 35677,
+          "orderNum": 4,
+          "text": "–\u003cem\u003ex\u003c/em\u003e\u003csup\u003e4\u003c/sup\u003e + 2\u003cem\u003ex\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e – 15",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35678,
+          "orderNum": 5,
+          "text": "–\u003cem\u003ex\u003c/em\u003e\u003csup\u003e4\u003c/sup\u003e + 2\u003cem\u003ex\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e + 17",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "The smallest prime number greater than 48 is",
+      "orderNum": 7,
+      "questionOrderNum": 7,
+      "questionType": {
+        "type": "Multiple"
+      },
+      "questionId": 6977,
+      "count": 5,
+      "solution": "Since the question asks for the \u003cem\u003esmallest\u003c/em\u003e prime greater than 48, we start with the smallest answer-choice. Now, 49 is not prime since 49 \u003d 7 \u0026#183; 7. Next, 50 is not prime since 50 \u003d 5 \u0026#183; 10. Next, 51 is not prime since 51 \u003d 3 \u0026#183; 17. Next, 52 is not prime since 52 \u003d 2 \u0026#183; 26. Finally, 53 \u003cem\u003eis\u003c/em\u003e prime since it is divisible by only itself and 1. The answer is (E).\u003c/p\u003e\n\u003cp class\u003d\"indent-para1n\"\u003eNote, an integer is prime if it greater than 1 and divisible by only itself and 1. The number 2 is the smallest prime (and the only even prime) because the only integers that divide into it evenly are 1 and 2. \u003ca id\u003d\"page_301\"\u003e\u003c/a\u003eThe number 3 is the next larger prime. The number 4 is not prime because 4 \u003d 2 \u0026#183; 2. Following is a partial list of the prime numbers. You should memorize it.\u003c/p\u003e\n\u003cp class\u003d\"center-paran\"\u003e2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, .\u0026#160;.\u0026#160;.",
+      "answers": [
+        {
+          "answerId": 35679,
+          "orderNum": 1,
+          "text": "49",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35680,
+          "orderNum": 2,
+          "text": "50",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35681,
+          "orderNum": 3,
+          "text": "51",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35682,
+          "orderNum": 4,
+          "text": "52",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35683,
+          "orderNum": 5,
+          "text": "53",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "If \u003cem\u003ea, b\u003c/em\u003e, and \u003cem\u003ec\u003c/em\u003e are consecutive integers and \u003cem\u003ea\u003c/em\u003e \u0026lt; \u003cem\u003eb\u003c/em\u003e \u0026lt; \u003cem\u003ec\u003c/em\u003e, which of the following must be true?",
+      "orderNum": 8,
+      "questionOrderNum": 8,
+      "questionType": {
+        "type": "Multiple"
+      },
+      "questionId": 6978,
+      "count": 5,
+      "solution": "Recall that an integer is prime if it is divisible by only itself and 1. In other words, an integer is prime if it cannot be written as a product of two other integers, other than itself and 1. Now, \u003cem\u003eb\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e \u003d \u003cem\u003ebb\u003c/em\u003e. Since \u003cem\u003eb\u003csup\u003e2\u003c/sup\u003e\u003c/em\u003e can be written as a product of \u003cem\u003eb\u003c/em\u003e and \u003cem\u003eb\u003c/em\u003e, it is not prime. Statement (A) is false.\u003c/p\u003e\n\u003cp class\u003d\"indent-para\"\u003eTurning to Choice (B), since \u003cem\u003ea\u003c/em\u003e, \u003cem\u003eb\u003c/em\u003e, and \u003cem\u003ec\u003c/em\u003e are consecutive integers, in that order, \u003cem\u003eb\u003c/em\u003e is one unit larger than \u003cem\u003ea\u003c/em\u003e: \u003cem\u003eb\u003c/em\u003e \u003d \u003cem\u003ea\u003c/em\u003e + 1, and \u003cem\u003ec\u003c/em\u003e is one unit larger than \u003cem\u003eb\u003c/em\u003e: \u003cem\u003ec\u003c/em\u003e \u003d \u003cem\u003eb\u003c/em\u003e + 1 \u003d (\u003cem\u003ea\u003c/em\u003e + 1) + 1 \u003d \u003cem\u003ea\u003c/em\u003e + 2. Now, plugging this information into the expression \u003cimg class\u003d\"block\" src\u003d\"f0301-01.jpg\" alt\u003d\"Image\"\u003e\u003c/img\u003e yields\u003c/p\u003e\n\u003cp class\u003d\"image\"\u003e\u003cimg src\u003d\"f0301-02.jpg\" alt\u003d\"Image\"\u003e\u003c/img\u003e\u003c/p\u003e\n\u003cp class\u003d\"para\"\u003eThe answer is (B).\u003c/p\u003e\n\u003cp class\u003d\"indent-para\"\u003eRegarding the other answer-choices, Choice (C) is true in some cases and false in others. To show that it can be false, let\u0026#8217;s plug in some numbers satisfying the given conditions. How about \u003cem\u003ea\u003c/em\u003e \u003d 1 and \u003cem\u003eb\u003c/em\u003e \u003d 2. In this case, \u003cem\u003ea\u003c/em\u003e + \u003cem\u003eb\u003c/em\u003e \u003d 1 + 2 \u003d 3, which is odd, not even. This eliminates Choice (C). Notice that to show a statement is false, we need only find one exception. However, to show a statement is true by plugging in numbers, you usually have to plug in more than one set of numbers because the statement may be true for one set of numbers but not for another set. We\u0026#8217;ll discuss in detail later the conditions under which you can say that a statement is true by plugging in numbers.\u003c/p\u003e\n\u003cp class\u003d\"indent-para\"\u003eChoice (D) is not necessarily true. For instance, let \u003cem\u003ea\u003c/em\u003e \u003d 1 and \u003cem\u003eb\u003c/em\u003e \u003d 2. Then \u003cimg class\u003d\"block\" src\u003d\"f0301-03.jpg\" alt\u003d\"Image\"\u003e\u003c/img\u003e, which is not an integer. This eliminates Choice (D).\u003c/p\u003e\n\u003cp class\u003d\"indent-para\"\u003eFinally, \u003cem\u003ec\u003c/em\u003e \u0026#8722; \u003cem\u003ea\u003c/em\u003e \u003d \u003cem\u003eb\u003c/em\u003e is not necessarily true. For instance, let \u003cem\u003ea\u003c/em\u003e \u003d 2, \u003cem\u003eb\u003c/em\u003e \u003d 3, and \u003cem\u003ec\u003c/em\u003e \u003d 4. Then \u003cem\u003ec\u003c/em\u003e \u0026#8722; \u003cem\u003ea\u003c/em\u003e \u003d 4 \u0026#8722; 2 \u003d 2 \u0026#8800; 3. This eliminates Choice (E).",
+      "answers": [
+        {
+          "answerId": 35684,
+          "orderNum": 1,
+          "text": "\u003cem\u003eb\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e is a prime number",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35685,
+          "orderNum": 2,
+          "text": "\u003cimg class\u003d\"block\" src\u003d\"f0297-02.jpg\" alt\u003d\"Image\"\u003e\u003c/img\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35686,
+          "orderNum": 3,
+          "text": "\u003cem\u003ea\u003c/em\u003e + \u003cem\u003eb\u003c/em\u003e is even",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35687,
+          "orderNum": 4,
+          "text": "\u003cem\u003eab\u003c/em\u003e/3 is an integer",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35688,
+          "orderNum": 5,
+          "text": "\u003cem\u003ec\u003c/em\u003e – \u003cem\u003ea\u003c/em\u003e \u003d \u003cem\u003eb\u003c/em\u003e",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "\u003cimg class\u003d\"block\" src\u003d\"f0297-03.jpg\" alt\u003d\"Image\"\u003e\u003c/img\u003e",
+      "orderNum": 9,
+      "questionOrderNum": 9,
+      "questionType": {
+        "type": "Multiple"
+      },
+      "questionId": 6979,
+      "count": 5,
+      "solution": "\u003cimg src\u003d\"f0301-04.jpg\" alt\u003d\"Image\"\u003e\u003c/img\u003e\u003c/p\u003e\n\u003cp class\u003d\"para\"\u003eThe answer is (E).",
+      "answers": [
+        {
+          "answerId": 35689,
+          "orderNum": 1,
+          "text": "2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35690,
+          "orderNum": 2,
+          "text": "20",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35691,
+          "orderNum": 3,
+          "text": "28",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35692,
+          "orderNum": 4,
+          "text": "30",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35693,
+          "orderNum": 5,
+          "text": "36",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "\u003cimg class\u003d\"block\" src\u003d\"f0297-04.jpg\" alt\u003d\"Image\"\u003e\u003c/img\u003e",
+      "orderNum": 10,
+      "questionOrderNum": 10,
+      "questionType": {
+        "type": "Multiple"
+      },
+      "questionId": 6980,
+      "count": 5,
+      "solution": "\u003cimg src\u003d\"f0301-05.jpg\" alt\u003d\"Image\"\u003e\u003c/img\u003e\u003c/p\u003e\n\u003cp class\u003d\"para\"\u003e\u003ca id\u003d\"page_302\"\u003e\u003c/a\u003eThe answer is (A). Note, this is considered to be a hard problem.\u003c/p\u003e\u003cp\u003e\nAs to the other answer-choices, Choice (B) wrongly adds the exponents \u003cem\u003ex\u003c/em\u003e and 2. The exponents are added when the same bases are multiplied:\u003c/p\u003e\n\u003cp class\u003d\"center-param77\"\u003e\u003cem\u003ea\u003csup\u003ex\u003c/sup\u003ea\u003csup\u003ey\u003c/sup\u003e\u003c/em\u003e \u003d \u003cem\u003ea\u003csup\u003ex + y\u003c/sup\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cp class\u003d\"para\"\u003eFor example: 2\u003csup\u003e3\u003c/sup\u003e2\u003csup\u003e2\u003c/sup\u003e \u003d 2\u003csup\u003e3+2\u003c/sup\u003e \u003d 2\u003csup\u003e5\u003c/sup\u003e \u003d 32. Be careful not to multiply unlike bases. For example, do not add exponents in the following expression: 2\u003csup\u003e3\u003c/sup\u003e4\u003csup\u003e2\u003c/sup\u003e. The exponents cannot be added here because the bases, 2 and 4, are not the same.\u003c/p\u003e\n\u003cp class\u003d\"indent-para\"\u003eChoice (C), first changes 4 into 2\u003csup\u003e2\u003c/sup\u003e, and then correctly multiplies 2 and \u003cem\u003ex\u003c/em\u003e: \u003cimg class\u003d\"block\" src\u003d\"f0302-03.jpg\" alt\u003d\"Image\"\u003e\u003c/img\u003e However, it then errs in adding 2\u003cem\u003ex\u003c/em\u003e and 2: \u003cimg class\u003d\"block\" src\u003d\"f0302-04.jpg\" alt\u003d\"Image\"\u003e\u003c/img\u003e\u003c/p\u003e\n\u003cp class\u003d\"indent-para\"\u003eChoice (D) wrongly squares the \u003cem\u003ex\u003c/em\u003e. When a power is raised to another power, the powers are multiplied:\u003c/p\u003e\n\u003cp class\u003d\"image\"\u003e\u003cimg class\u003d\"block\" src\u003d\"f0302-05.jpg\" alt\u003d\"Image\"\u003e\u003c/img\u003e\u003c/p\u003e\n\u003cp class\u003d\"para\"\u003eSo \u003cimg class\u003d\"block\" src\u003d\"f0302-06.jpg\" alt\u003d\"Image\"\u003e\u003c/img\u003e\u003c/p\u003e\n\u003cp class\u003d\"indent-para\"\u003eChoice (E) makes the same mistake as in Choice (D).",
+      "answers": [
+        {
+          "answerId": 35694,
+          "orderNum": 1,
+          "text": "2\u003csup\u003e4\u003cem\u003ex\u003c/em\u003e\u003c/sup\u003e",
+          "result": "Correct"
+        },
+        {
+          "answerId": 35695,
+          "orderNum": 2,
+          "text": "4\u003csup\u003e\u003cem\u003ex\u003c/em\u003e + 2\u003c/sup\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35696,
+          "orderNum": 3,
+          "text": "2\u003csup\u003e2\u003cem\u003ex\u003c/em\u003e + 2\u003c/sup\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35697,
+          "orderNum": 4,
+          "text": "\u003cimg class\u003d\"block\" src\u003d\"f0297-06.jpg\" alt\u003d\"Image\"\u003e\u003c/img\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35698,
+          "orderNum": 5,
+          "text": "\u003cimg class\u003d\"block\" src\u003d\"f0297-07.jpg\" alt\u003d\"Image\"\u003e\u003c/img\u003e",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "If 8\u003csup\u003e13\u003c/sup\u003e \u003d 2\u003csup\u003e\u003cem\u003ez\u003c/em\u003e\u003c/sup\u003e, then \u003cem\u003ez\u003c/em\u003e \u003d",
+      "orderNum": 11,
+      "questionOrderNum": 11,
+      "questionType": {
+        "type": "Multiple"
+      },
+      "questionId": 6981,
+      "count": 5,
+      "solution": "The number 8 can be written as 2\u003csup\u003e3\u003c/sup\u003e. Plugging this into the equation 8\u003csup\u003e13\u003c/sup\u003e \u003d 2\u003csup\u003e\u003cem\u003ez\u003c/em\u003e\u003c/sup\u003e yields\u003c/p\u003e\n\u003cp class\u003d\"image\"\u003e\u003cimg class\u003d\"block\" src\u003d\"f0302-07.jpg\" alt\u003d\"Image\"\u003e\u003c/img\u003e\u003c/p\u003e\n\u003cp class\u003d\"para\"\u003eApplying the rule \u003cimg class\u003d\"block\" src\u003d\"f0302-08.jpg\" alt\u003d\"Image\"\u003e\u003c/img\u003e yields\u003c/p\u003e\n\u003cp class\u003d\"center-param77\"\u003e2\u003csup\u003e39\u003c/sup\u003e \u003d 2\u003csup\u003e\u003cem\u003ez\u003c/em\u003e\u003c/sup\u003e\u003c/p\u003e\n\u003cp class\u003d\"para\"\u003eSince the bases are the same, the exponents must be the same. Hence, \u003cem\u003ez\u003c/em\u003e \u003d 39, and the answer is (E).",
+      "answers": [
+        {
+          "answerId": 35699,
+          "orderNum": 1,
+          "text": "10",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35700,
+          "orderNum": 2,
+          "text": "13",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35701,
+          "orderNum": 3,
+          "text": "19",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35702,
+          "orderNum": 4,
+          "text": "26",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35703,
+          "orderNum": 5,
+          "text": "39",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "1/2 of 0.2 percent equals",
+      "orderNum": 12,
+      "questionOrderNum": 12,
+      "questionType": {
+        "type": "Multiple"
+      },
+      "questionId": 6982,
+      "count": 5,
+      "solution": "Recall that percent means to divide by 100. So .2 percent equals .2/100 \u003d .002. (Recall that the decimal point is moved to the left one space for each zero in the denominator.) Now, as a decimal 1/2 \u003d .5.\u003c/p\u003e\n\u003cp class\u003d\"indent-para\"\u003eIn percent problems, \u0026#8220;of\u0026#8221; means multiplication. So multiplying .5 and .002 yields\u003c/p\u003e\n\u003cp class\u003d\"image\"\u003e\u003cimg src\u003d\"f0302-01.jpg\" alt\u003d\"Image\"\u003e\u003c/img\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eHence, the answer is (D).",
+      "answers": [
+        {
+          "answerId": 35704,
+          "orderNum": 1,
+          "text": "1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35705,
+          "orderNum": 2,
+          "text": "0",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35706,
+          "orderNum": 3,
+          "text": "0",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35707,
+          "orderNum": 4,
+          "text": "0",
+          "result": "Correct"
+        },
+        {
+          "answerId": 35708,
+          "orderNum": 5,
+          "text": "0",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "\u003cimg class\u003d\"block\" src\u003d\"f0297-05.jpg\" alt\u003d\"Image\"\u003e\u003c/img\u003e",
+      "orderNum": 13,
+      "questionOrderNum": 13,
+      "questionType": {
+        "type": "Multiple"
+      },
+      "questionId": 6983,
+      "count": 5,
+      "solution": "\u003cimg src\u003d\"f0302-02.jpg\" alt\u003d\"Image\"\u003e\u003c/img\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eHence, the answer is (D).",
+      "answers": [
+        {
+          "answerId": 35709,
+          "orderNum": 1,
+          "text": "1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35710,
+          "orderNum": 2,
+          "text": "½",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35711,
+          "orderNum": 3,
+          "text": "2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35712,
+          "orderNum": 4,
+          "text": "3",
+          "result": "Correct"
+        },
+        {
+          "answerId": 35713,
+          "orderNum": 5,
+          "text": "4",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "If \u003cem\u003ex\u003c/em\u003e + \u003cem\u003ey\u003c/em\u003e \u003d \u003cem\u003ek,\u003c/em\u003e then 3\u003cem\u003ex\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e + 6\u003cem\u003exy\u003c/em\u003e + 3\u003cem\u003ey\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e \u003d",
+      "orderNum": 14,
+      "questionOrderNum": 14,
+      "questionType": {
+        "type": "Multiple"
+      },
+      "questionId": 6984,
+      "count": 5,
+      "solution": "\u003cp class\u003d\"para1\"\u003e3\u003cem\u003ex\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e + 6\u003cem\u003exy\u003c/em\u003e + 3\u003cem\u003ey\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e \u003d \u003cbr/\u003e3(\u003cem\u003ex\u003csup\u003e2\u003c/sup\u003e\u003c/em\u003e + 2\u003cem\u003exy\u003c/em\u003e + \u003cem\u003ey\u003csup\u003e2\u003c/sup\u003e\u003c/em\u003e) \u003d\u003cbr/\u003e3(\u003cem\u003ex\u003c/em\u003e + \u003cem\u003ey\u003c/em\u003e)\u003csup\u003e2\u003c/sup\u003e \u003d\u003cbr/\u003e3\u003cem\u003ek\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e\u003c/p\u003e\u003c/td\u003e\n\u003ctd valign\u003d\"top\" style\u003d\"width:50%\"\u003e\u003cp class\u003d\"para1\"\u003e\u0026#160;\u003cbr/\u003eby factoring out the common factor 3\u003cbr/\u003eby the perfect square trinomial formula \u003cem\u003ex\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e + 2\u003cem\u003exy\u003c/em\u003e + \u003cem\u003ey\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e \u003d (\u003cem\u003ex\u003c/em\u003e + \u003cem\u003ey\u003c/em\u003e)\u003csup\u003e2\u003c/sup\u003e\u003c/p\u003e\u003cp class\u003d”para”\u003eHence, the answer is (E).",
+      "answers": [
+        {
+          "answerId": 35714,
+          "orderNum": 1,
+          "text": "\u003cem\u003ek\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35715,
+          "orderNum": 2,
+          "text": "3\u003cem\u003ek\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35716,
+          "orderNum": 3,
+          "text": "6\u003cem\u003ek\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35717,
+          "orderNum": 4,
+          "text": "\u003cem\u003ek\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35718,
+          "orderNum": 5,
+          "text": "3\u003cem\u003ek\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "8\u003cem\u003ex\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e \u0026#8211; 18 \u003d",
+      "orderNum": 15,
+      "questionOrderNum": 15,
+      "questionType": {
+        "type": "Multiple"
+      },
+      "questionId": 6985,
+      "count": 4,
+      "solution": "\u003cp class\u003d\"para1\"\u003e8\u003cem\u003ex\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e \u0026#8211; 18 \u003d\u003cbr/\u003e2(4\u003cem\u003ex\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e \u0026#8211; 9) \u003d\u003cbr/\u003e2(2\u003csup\u003e2\u003c/sup\u003e\u003cem\u003ex\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e \u0026#8211; 3\u003csup\u003e2\u003c/sup\u003e \u003d\u003cbr/\u003e2([2\u003cem\u003ex\u003c/em\u003e]\u003csup\u003e2\u003c/sup\u003e \u0026#8211; 3\u003csup\u003e2\u003c/sup\u003e) \u003d\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003e\u0026#160;\u003cbr/\u003eby the distributive property \u003cem\u003eax\u003c/em\u003e + \u003cem\u003eay\u003c/em\u003e \u003d \u003cem\u003ea\u003c/em\u003e(\u003cem\u003ex\u003c/em\u003e + \u003cem\u003ey\u003c/em\u003e)\u003c/p\u003e\u003cp class\u003d\"para\"\u003e\u0026#160;\u003c/p\u003e\u003cp class\u003d\"para\"\u003e2(2\u003cem\u003ex\u003c/em\u003e + 3)(2\u003cem\u003ex\u003c/em\u003e \u0026#8211; 3) by the difference of squares formula \u003cem\u003ex\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e \u0026#8722; \u003cem\u003ey\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e \u003d (\u003cem\u003ex\u003c/em\u003e + \u003cem\u003ey\u003c/em\u003e)(\u003cem\u003ex \u0026#8722; y\u003c/em\u003e)\u003c/p\u003e\n\u003cp class\u003d\"parad\"\u003eThe answer is (B).\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eIt is common for students to wrongly apply the difference of squares formula to a perfect square:\u003c/p\u003e\n\u003cp class\u003d\"center-param77\"\u003e(\u003cem\u003ex\u003c/em\u003e \u0026#8722; \u003cem\u003ey\u003c/em\u003e)\u003csup\u003e2\u003c/sup\u003e \u0026#8800; (\u003cem\u003ex\u003c/em\u003e + \u003cem\u003ey\u003c/em\u003e)(\u003cem\u003ex\u003c/em\u003e \u0026#8722; \u003cem\u003ey\u003c/em\u003e)\u003c/p\u003e\n\u003cp class\u003d\"para\"\u003eThe correct formulas follow. Notice that the first formula is the square of a difference, and the second formula is the difference of two squares.\u003c/p\u003e\n\u003ctable border\u003d\"0\" cellpadding\u003d\"0\" cellspacing\u003d\"0\" width\u003d\"100%\"\u003e\n\u003ctr\u003e\n\u003ctd valign\u003d\"top\"\u003e\u003cp class\u003d\"parad\"\u003e\u003cem\u003ePerfect square trinomial:\u003c/em\u003e\u003c/p\u003e\u003c/td\u003e\n\u003ctd valign\u003d\"top\"\u003e\u003cp class\u003d\"parad\"\u003e(\u003cem\u003ex\u003c/em\u003e \u0026#8722; \u003cem\u003ey\u003c/em\u003e)\u003csup\u003e2\u003c/sup\u003e \u003d \u003cem\u003ex\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e \u0026#8722; 2\u003cem\u003exy\u003c/em\u003e + \u003cem\u003ey\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e\u003c/p\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd valign\u003d\"top\"\u003e\u003cp class\u003d\"parad\"\u003e\u003cem\u003eDifference of squares:\u003c/em\u003e\u003c/p\u003e\u003c/td\u003e\n\u003ctd valign\u003d\"top\"\u003e\u003cp class\u003d\"parad\"\u003e\u003cem\u003ex\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e \u0026#8722; \u003cem\u003ey\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e \u003d (\u003cem\u003ex\u003c/em\u003e + \u003cem\u003ey\u003c/em\u003e)(\u003cem\u003ex\u003c/em\u003e \u0026#8722; \u003cem\u003ey\u003c/em\u003e)\u003c/p\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/table\u003e\n\u003cp class\u003d\"para\"\u003eIt is also common for students to wrongly distribute the 2 in a perfect square:\u003c/p\u003e\n\u003cp class\u003d\"center-param77\"\u003e(\u003cem\u003ex\u003c/em\u003e \u0026#8722; \u003cem\u003ey\u003c/em\u003e)\u003csup\u003e2\u003c/sup\u003e \u0026#8800; \u003cem\u003ex\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e \u0026#8722; \u003cem\u003ey\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e\u003c/p\u003e\n\u003cp class\u003d\"para\"\u003eNote, there is no factoring formula for a sum of squares: \u003cem\u003ex\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e + \u003cem\u003ey\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e. It cannot be factored.",
+      "answers": [
+        {
+          "answerId": 35719,
+          "orderNum": 1,
+          "text": "8(\u003cem\u003ex\u003c/em\u003e\u003csup\u003e2\u003c/sup\u003e \u0026#8211; 2)",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35720,
+          "orderNum": 2,
+          "text": "2(2\u003cem\u003ex\u003c/em\u003e + 3)(2\u003cem\u003ex\u003c/em\u003e \u0026#8211; 3)",
+          "result": "Correct"
+        },
+        {
+          "answerId": 35721,
+          "orderNum": 3,
+          "text": "2(4\u003cem\u003ex\u003c/em\u003e + 3)(4\u003cem\u003ex\u003c/em\u003e \u0026#8211; 3)",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35722,
+          "orderNum": 4,
+          "text": "2(2\u003cem\u003ex\u003c/em\u003e + 9)(2\u003cem\u003ex\u003c/em\u003e \u0026#8211; 9)",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "Which is greater?",
+      "orderNum": 16,
+      "questionOrderNum": 16,
+      "questionType": {
+        "type": "Multiple"
+      },
+      "questionId": 6986,
+      "count": 4,
+      "solution": "Since \u003cem\u003ex\u003c/em\u003e \u0026#60; \u003cem\u003ey\u003c/em\u003e \u0026#60; 0, both \u003cem\u003ex\u003c/em\u003e and \u003cem\u003ey\u003c/em\u003e are negative. Now, the sum of two negative numbers is negative. Hence, \u003cem\u003ex\u003c/em\u003e + \u003cem\u003ey\u003c/em\u003e is negative. Next, product of two negative numbers is positive. Hence, \u003cem\u003exy\u003c/em\u003e is positive. Therefore, Column B is larger than Column A, and the answer is (B).",
+      "answers": [
+        {
+          "answerId": 35723,
+          "orderNum": 1,
+          "text": "\u003cem\u003ex\u003c/em\u003e + \u003cem\u003ey\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35724,
+          "orderNum": 2,
+          "text": "\u003cem\u003exy\u003c/em\u003e",
+          "result": "Correct"
+        },
+        {
+          "answerId": 35725,
+          "orderNum": 3,
+          "text": "Both are equal",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35726,
+          "orderNum": 4,
+          "text": "Cannot be determined from the information given",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "If \u003cem\u003ex\u003c/em\u003e is an integer and \u003cem\u003ey\u003c/em\u003e \u003d \u0026#8211;3\u003cem\u003ex\u003c/em\u003e + 7, what is the least value of \u003cem\u003ex\u003c/em\u003e for which \u003cem\u003ey\u003c/em\u003e is less than 1?",
+      "orderNum": 17,
+      "questionOrderNum": 17,
+      "questionType": {
+        "type": "Multiple"
+      },
+      "questionId": 6987,
+      "count": 5,
+      "solution": "Since \u003cem\u003ey\u003c/em\u003e is to be less than 1 and \u003cem\u003ey\u003c/em\u003e \u003d \u0026#8722;3\u003cem\u003ex\u003c/em\u003e + 7, we get\u003c/p\u003e\n\u003ctable border\u003d\"0\" cellpadding\u003d\"0\" cellspacing\u003d\"0\" width\u003d\"100%\"\u003e\n\u003ctr\u003e\n\u003ctd valign\u003d\"top\" style\u003d\"width:50%\"\u003e\u003cp class\u003d\"param12\"\u003e\u0026#8722;3\u003cem\u003ex\u003c/em\u003e + 7 \u0026#60; 1\u003c/p\u003e\u003c/td\u003e\n\u003ctd valign\u003d\"top\" style\u003d\"width:50%\"\u003e\u003cp class\u003d\"param12\"\u003e\u0026#160;\u003c/p\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd valign\u003d\"top\"\u003e\u003cp class\u003d\"param12ab\"\u003e\u0026#8211;3\u003cem\u003ex\u003c/em\u003e \u0026#60; \u0026#8722; 6\u003c/p\u003e\u003c/td\u003e\n\u003ctd valign\u003d\"top\"\u003e\u003cp class\u003d\"param12ab\"\u003eby subtracting 7 from both sides of the inequality\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd valign\u003d\"top\"\u003e\u003cp class\u003d\"param12ab\"\u003e\u003cem\u003ex\u003c/em\u003e \u0026#62; 2\u003c/p\u003e\u003c/td\u003e\n\u003ctd valign\u003d\"top\"\u003e\u003cp class\u003d\"param12ab\"\u003eby dividing both sides of the inequality by \u0026#8722;3\u003c/p\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/table\u003e\n\u003cp class\u003d\"para1\"\u003e(Note that the inequality changes direction when we divide both sides by a negative number. This is also the case if you multiply both sides of an inequality by a negative number.)\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eSince \u003cem\u003ex\u003c/em\u003e is an integer and is to be as small as possible, \u003cem\u003ex\u003c/em\u003e \u003d 3. The answer is (C).",
+      "answers": [
+        {
+          "answerId": 35727,
+          "orderNum": 1,
+          "text": "1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35728,
+          "orderNum": 2,
+          "text": "2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35729,
+          "orderNum": 3,
+          "text": "3",
+          "result": "Correct"
+        },
+        {
+          "answerId": 35730,
+          "orderNum": 4,
+          "text": "4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35731,
+          "orderNum": 5,
+          "text": "5",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "In the figure above, triangle \u003cem\u003eABC\u003c/em\u003e is isosceles with base \u003cem\u003eAC\u003c/em\u003e. If \u003cem\u003ex\u003c/em\u003e \u003d 60\u0026#176;, then \u003cem\u003eAC\u003c/em\u003e \u003d",
+      "orderNum": 18,
+      "questionOrderNum": 18,
+      "questionType": {
+        "type": "Multiple"
+      },
+      "questionId": 6988,
+      "count": 5,
+      "solution": "Since the triangle is isosceles, with base \u003cem\u003eAC\u003c/em\u003e, the base angles are congruent (equal). That is, \u003cem\u003eA\u003c/em\u003e \u003d \u003cem\u003eC\u003c/em\u003e. Since the angle sum of a triangle is 180, we get\u003c/p\u003e\n\u003cp class\u003d\"center-param77\"\u003eA + C + \u003cem\u003ex\u003c/em\u003e \u003d 180\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eReplacing \u003cem\u003eC\u003c/em\u003e with \u003cem\u003eA\u003c/em\u003e and \u003cem\u003ex\u003c/em\u003e with 60 gives\u003c/p\u003e\n\u003cp class\u003d\"center-para1\"\u003e\u003cem\u003eA\u003c/em\u003e + \u003cem\u003eA\u003c/em\u003e + 60 \u003d 180\u003c/p\u003e\n\u003cp class\u003d\"center-para\"\u003e2\u003cem\u003eA\u003c/em\u003e + 60 \u003d 180\u003c/p\u003e\n\u003cp class\u003d\"center-para\"\u003e2\u003cem\u003eA\u003c/em\u003e \u003d 120\u003c/p\u003e\n\u003cp class\u003d\"center-para\"\u003e\u003cem\u003eA\u003c/em\u003e \u003d 60\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eHence, the triangle is equilateral (all three sides are congruent). Since we are given that side \u003cem\u003eAB\u003c/em\u003e has length 4, side \u003cem\u003eAC\u003c/em\u003e also has length 4. The answer is (C).",
+      "answers": [
+        {
+          "answerId": 35732,
+          "orderNum": 1,
+          "text": "2\u003csup\u003e4\u003cem\u003ex\u003c/em\u003e\u003c/sup\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35733,
+          "orderNum": 2,
+          "text": "3\u003cem\u003ek\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35734,
+          "orderNum": 3,
+          "text": "4",
+          "result": "Correct"
+        },
+        {
+          "answerId": 35735,
+          "orderNum": 4,
+          "text": "14/3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35736,
+          "orderNum": 5,
+          "text": "\u003cimg class\u003d\"block\" src\u003d\"f0298-02.jpg\" alt\u003d\"Image\"\u003e\u003c/img\u003e",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "A unit square is circumscribed about a circle. If the circumference of the circle is \u003cem\u003eq\u0026#960;,\u003c/em\u003e what is the value of \u003cem\u003eq\u003c/em\u003e?",
+      "orderNum": 19,
+      "questionOrderNum": 19,
+      "questionType": {
+        "type": "Multiple"
+      },
+      "questionId": 6989,
+      "count": 5,
+      "solution": "Since the unit square is circumscribed about the circle, the diameter of the circle is 1 and the radius of the circle is \u003cem\u003er\u003c/em\u003e \u003d \u003cem\u003ed\u003c/em\u003e/2 \u003d 1/2. This is illustrated in the following figure:\u003c/p\u003e\n\u003cp class\u003d\"image\"\u003e\u003cimg src\u003d\"f0304-01.jpg\" alt\u003d\"Image\"\u003e\u003c/img\u003e\u003c/p\u003e\n\u003cp class\u003d\"indent-para\"\u003eNow, the circumference of a circle is given by the formula \u003cem\u003e2\u0026#960;r\u003c/em\u003e. For this circle the formula becomes 2\u003cem\u003e\u0026#960;r\u003c/em\u003e \u003d 2\u0026#960;(l/2) \u003d \u003cem\u003e\u0026#960;\u003c/em\u003e. We are told that the circumference of the circle is \u003cem\u003eq\u0026#960;\u003c/em\u003e. Setting these two expressions equal yields\u003c/p\u003e\n\u003cp class\u003d\"center-param77\"\u003e\u003cem\u003e\u0026#960;\u003c/em\u003e \u003d \u003cem\u003eq\u0026#960;\u003c/em\u003e\u003c/p\u003e\n\u003cp class\u003d\"para\"\u003eDividing both sides of this equation by \u003cem\u003e\u0026#960;\u003c/em\u003e yields\u003c/p\u003e\n\u003cp class\u003d\"center-param77\"\u003e1 \u003d \u003cem\u003eq\u003c/em\u003e\u003c/p\u003e\n\u003cp class\u003d\"para\"\u003eThe answer is (A).",
+      "answers": [
+        {
+          "answerId": 35737,
+          "orderNum": 1,
+          "text": "1",
+          "result": "Correct"
+        },
+        {
+          "answerId": 35738,
+          "orderNum": 2,
+          "text": "2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35739,
+          "orderNum": 3,
+          "text": "\u003cem\u003e\u0026#960;\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35740,
+          "orderNum": 4,
+          "text": "2\u003cem\u003e\u0026#960;\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35741,
+          "orderNum": 5,
+          "text": "5\u003cem\u003e\u0026#960;\u003c/em\u003e",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "Which is greater?",
+      "orderNum": 20,
+      "questionOrderNum": 20,
+      "questionType": {
+        "type": "Multiple"
+      },
+      "questionId": 6990,
+      "count": 4,
+      "solution": "Since we don\u0026#8217;t know the radius of the cone in Column A, the cone can be as wide or as narrow as we want. Hence, the surface area can be a large or small as we want. Similarly, since we don\u0026#8217;t know the height of the cone in Column B, the surface area can be as large or small as we want. Hence, there is not enough information to decide which column is larger. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 35742,
+          "orderNum": 1,
+          "text": "The surface area of a cone with radius 3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35743,
+          "orderNum": 2,
+          "text": "The surface area of a cone with height 3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35744,
+          "orderNum": 3,
+          "text": "Both are equal",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35745,
+          "orderNum": 4,
+          "text": "Cannot be determined from the information given",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "If the average of 2\u003cem\u003ex\u003c/em\u003e and 4\u003cem\u003ex\u003c/em\u003e is 12, then \u003cem\u003ex\u003c/em\u003e \u003d",
+      "orderNum": 21,
+      "questionOrderNum": 21,
+      "questionType": {
+        "type": "Multiple"
+      },
+      "questionId": 6991,
+      "count": 5,
+      "solution": "Since the average of 2\u003cem\u003ex\u003c/em\u003e and 4\u003cem\u003ex\u003c/em\u003e is 12, we get\u003c/p\u003e\n\u003cp class\u003d\"image\"\u003e\u003cimg src\u003d\"f0304-02.jpg\" alt\u003d\"Image\"\u003e\u003c/img\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eThe answer is (D).",
+      "answers": [
+        {
+          "answerId": 35746,
+          "orderNum": 1,
+          "text": "1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35747,
+          "orderNum": 2,
+          "text": "2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35748,
+          "orderNum": 3,
+          "text": "3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35749,
+          "orderNum": 4,
+          "text": "4",
+          "result": "Correct"
+        },
+        {
+          "answerId": 35750,
+          "orderNum": 5,
+          "text": "24",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "The average of \u003cem\u003ex, y,\u003c/em\u003e and \u003cem\u003ez\u003c/em\u003e is 8 and the average of \u003cem\u003ey\u003c/em\u003e and \u003cem\u003ez\u003c/em\u003e is 4. What is the value of \u003cem\u003ex\u003c/em\u003e?",
+      "orderNum": 22,
+      "questionOrderNum": 22,
+      "questionType": {
+        "type": "Multiple"
+      },
+      "questionId": 6992,
+      "count": 5,
+      "solution": "Recall that the average of N numbers is their sum divided by N. That is, average \u003d sum/N. Since the average of \u003cem\u003ex\u003c/em\u003e, \u003cem\u003ey\u003c/em\u003e, and \u003cem\u003ez\u003c/em\u003e is 8 and the average of \u003cem\u003ey\u003c/em\u003e and \u003cem\u003ez\u003c/em\u003e is 4, this formula yields\u003c/p\u003e\n\u003cp class\u003d\"image\"\u003e\u003cimg src\u003d\"f0304-03.jpg\" alt\u003d\"Image\"\u003e\u003c/img\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eSolving the bottom equation for \u003cem\u003ey\u003c/em\u003e + \u003cem\u003ez\u003c/em\u003e yields \u003cem\u003ey\u003c/em\u003e + \u003cem\u003ez\u003c/em\u003e \u003d 8. Plugging this into the top equation gives\u003c/p\u003e\n\u003cp class\u003d\"image\"\u003e\u003cimg src\u003d\"f0304-04.jpg\" alt\u003d\"Image\"\u003e\u003c/img\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eThe answer is (C).",
+      "answers": [
+        {
+          "answerId": 35751,
+          "orderNum": 1,
+          "text": "4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35752,
+          "orderNum": 2,
+          "text": "9",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35753,
+          "orderNum": 3,
+          "text": "16",
+          "result": "Correct"
+        },
+        {
+          "answerId": 35754,
+          "orderNum": 4,
+          "text": "20",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35755,
+          "orderNum": 5,
+          "text": "24",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "If the ratio of two numbers is 6 and their sum is 21, what is the value of the larger number?",
+      "orderNum": 23,
+      "questionOrderNum": 23,
+      "questionType": {
+        "type": "Multiple"
+      },
+      "questionId": 6993,
+      "count": 5,
+      "solution": "Let the two numbers be \u003cem\u003ex\u003c/em\u003e and \u003cem\u003ey\u003c/em\u003e. Now, a ratio is simply a fraction. Forming the fraction yields \u003cem\u003ex\u003c/em\u003e/\u003cem\u003ey\u003c/em\u003e \u003d 6, and forming the sum yields \u003cem\u003ex\u003c/em\u003e + \u003cem\u003ey\u003c/em\u003e \u003d 21. Solving the first equation for \u003cem\u003ex\u003c/em\u003e yields \u003cem\u003ex\u003c/em\u003e \u003d 6\u003cem\u003ey\u003c/em\u003e. Plugging this into the second equation yields\u003c/p\u003e\n\u003cp class\u003d\"image\"\u003e\u003cimg src\u003d\"f0304-05.jpg\" alt\u003d\"Image\"\u003e\u003c/img\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003ePlugging this into the equation \u003cem\u003ex\u003c/em\u003e \u003d 6\u003cem\u003ey\u003c/em\u003e yields\u003c/p\u003e\n\u003cp class\u003d\"center-param77\"\u003e\u003cem\u003ex\u003c/em\u003e \u003d 6(3) \u003d 18\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eThe answer is (E).",
+      "answers": [
+        {
+          "answerId": 35756,
+          "orderNum": 1,
+          "text": "1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35757,
+          "orderNum": 2,
+          "text": "5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35758,
+          "orderNum": 3,
+          "text": "12",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35759,
+          "orderNum": 4,
+          "text": "17",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35760,
+          "orderNum": 5,
+          "text": "18",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "What percent of 3\u003cem\u003ex\u003c/em\u003e is 6\u003cem\u003ey\u003c/em\u003e if \u003cem\u003ex\u003c/em\u003e \u003d 4\u003cem\u003ey\u003c/em\u003e?",
+      "orderNum": 24,
+      "questionOrderNum": 24,
+      "questionType": {
+        "type": "Multiple"
+      },
+      "questionId": 6994,
+      "count": 5,
+      "solution": "Let \u003cem\u003ez\u003c/em\u003e% represent the unknown percent. Now, when solving percent problems, \u0026#8220;of\u0026#8221; means times. Translating the statement \u0026#8220;What percent of 3\u003cem\u003ex\u003c/em\u003e is 6\u003cem\u003ey\u003c/em\u003e\u0026#8221; into an equation yields\u003c/p\u003e\n\u003cp class\u003d\"center-param77\"\u003ez%(3\u003cem\u003ex\u003c/em\u003e) \u003d 6\u003cem\u003ey\u003c/em\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eSubstituting \u003cem\u003ex\u003c/em\u003e \u003d 4\u003cem\u003ey\u003c/em\u003e into this equation yields\u003c/p\u003e\n\u003cp class\u003d\"image\"\u003e\u003cimg src\u003d\"f0305-01.jpg\" alt\u003d\"Image\"\u003e\u003c/img\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eThe answer is (A).",
+      "answers": [
+        {
+          "answerId": 35761,
+          "orderNum": 1,
+          "text": "0",
+          "result": "Correct"
+        },
+        {
+          "answerId": 35762,
+          "orderNum": 2,
+          "text": "0",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35763,
+          "orderNum": 3,
+          "text": "0",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35764,
+          "orderNum": 4,
+          "text": "0",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35765,
+          "orderNum": 5,
+          "text": "0",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "\u003cem\u003ey\u003c/em\u003e \u003d 3\u003cem\u003ex\u003c/em\u003e and \u003cem\u003ex\u003c/em\u003e \u0026#62; 2 \u003cbr\u003e Which is greater?",
+      "orderNum": 25,
+      "questionOrderNum": 25,
+      "questionType": {
+        "type": "Multiple"
+      },
+      "questionId": 6995,
+      "count": 4,
+      "solution": "Translating Column A into a mathematical expression yields .10\u003cem\u003ey\u003c/em\u003e. Translating Column B into a mathematical expression yields .40\u003cem\u003ex\u003c/em\u003e. Since \u003cem\u003ey\u003c/em\u003e \u003d 3\u003cem\u003ex\u003c/em\u003e, Column A becomes .10\u003cem\u003ey\u003c/em\u003e \u003d .10(3\u003cem\u003ex\u003c/em\u003e) \u003d .30\u003cem\u003ex\u003c/em\u003e. Since .40 is larger than .30 and \u003cem\u003ex\u003c/em\u003e is positive, Column B is larger. The answer is (B).",
+      "answers": [
+        {
+          "answerId": 35766,
+          "orderNum": 1,
+          "text": "10% of \u003cem\u003ey\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35767,
+          "orderNum": 2,
+          "text": "40% of \u003cem\u003ex\u003c/em\u003e",
+          "result": "Correct"
+        },
+        {
+          "answerId": 35768,
+          "orderNum": 3,
+          "text": "Both are equal",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35769,
+          "orderNum": 4,
+          "text": "Cannot be determined from the information given",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "How many ounces of water must be added to a 30-ounce solution that is 40 percent alcohol to dilute the solution to 25 percent alcohol?",
+      "orderNum": 26,
+      "questionOrderNum": 26,
+      "questionType": {
+        "type": "Multiple"
+      },
+      "questionId": 6996,
+      "count": 5,
+      "solution": "Let \u003cem\u003ex\u003c/em\u003e be the amount of water added. Since there is no alcohol in the water, the percent of alcohol in the water is 0%\u003cem\u003ex\u003c/em\u003e. The amount of alcohol in the original solution is 40%(30), and the amount of alcohol in the final solution will be 25%(30 + \u003cem\u003ex\u003c/em\u003e). Now, the concentration of alcohol in the original solution plus the concentration of alcohol in the added solution (water) must equal the concentration of alcohol in the resulting solution:\u003c/p\u003e\n\u003cp class\u003d\"center-param77\"\u003e40%(30) + 0%\u003cem\u003ex\u003c/em\u003e \u003d 25%(30 + \u003cem\u003ex\u003c/em\u003e)\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eMultiplying this equation by 100 to clear the percent symbol yields\u003c/p\u003e\n\u003cp class\u003d\"center-para1\"\u003e40(30) + 0 \u003d 25(30 + \u003cem\u003ex\u003c/em\u003e)\u003c/p\u003e\n\u003cp class\u003d\"center-para\"\u003e1200 \u003d 750 + 25\u003cem\u003ex\u003c/em\u003e\u003c/p\u003e\n\u003cp class\u003d\"center-para\"\u003e450 \u003d 25\u003cem\u003ex\u003c/em\u003e\u003c/p\u003e\n\u003cp class\u003d\"center-para\"\u003e18 \u003d \u003cem\u003ex\u003c/em\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eThe answer is (E).",
+      "answers": [
+        {
+          "answerId": 35770,
+          "orderNum": 1,
+          "text": "9",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35771,
+          "orderNum": 2,
+          "text": "10",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35772,
+          "orderNum": 3,
+          "text": "15",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35773,
+          "orderNum": 4,
+          "text": "16",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35774,
+          "orderNum": 5,
+          "text": "18",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "What is the value of the 201\u003csup\u003est\u003c/sup\u003e term of a sequence if the first term of the sequence is 2 and each successive term is 4 more than the term immediately preceding it?",
+      "orderNum": 27,
+      "questionOrderNum": 27,
+      "questionType": {
+        "type": "Multiple"
+      },
+      "questionId": 6997,
+      "count": 5,
+      "solution": "Except for the first term, each term of the sequence is found by adding 4 to the term immediately preceding it. In other words, we are simply adding 4 to the sequence 200 times. This yields\u003c/p\u003e\n\u003cp class\u003d\"center-param77\"\u003e4 \u0026#183; 200 \u003d 800\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eAdding the 2 in the first term gives 800 + 2 \u003d 802. The answer is (C).\u003c/p\u003e\n\u003cp class\u003d\"indent-para1\"\u003eWe can also solve this problem formally. The first term of the sequence is 2, and since each successive term is 4 more than the term immediately preceding it, the second term is 2 + 4, and the third term is (2 + 4) + 4, and the fourth term is [(2 + 4) + 4] + 4, etc. Regrouping yields (note that we rewrite the first term as 2 + 4(0). You\u0026#8217;ll see why in a moment.)\u003c/p\u003e\n\u003cp class\u003d\"center-param77\"\u003e2 + 4(0), 2 + 4(1), 2 + 4(2), 2 + 4(3), .\u0026#160;.\u0026#160;.\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eNotice that the number within each pair of parentheses is 1 less than the numerical order of the term. For instance, the \u003cem\u003efirst\u003c/em\u003e term has a 0 within the parentheses, the \u003cem\u003esecond\u003c/em\u003e term has a 1 within the parentheses, etc. Hence, the \u003cem\u003en\u003c/em\u003e\u003csup\u003eth\u003c/sup\u003e term of the sequence is\u003c/p\u003e\n\u003cp class\u003d\"center-param77\"\u003e2 + 4(\u003cem\u003en\u003c/em\u003e \u0026#8722; 1)\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eUsing this formula, the 201\u003csup\u003e\u003cem\u003est\u003c/em\u003e\u003c/sup\u003e term is 2 + 4(201 \u0026#8722; 1) \u003d 2 + 4(200) \u003d 2 + 800 \u003d 802.",
+      "answers": [
+        {
+          "answerId": 35775,
+          "orderNum": 1,
+          "text": "798",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35776,
+          "orderNum": 2,
+          "text": "800",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35777,
+          "orderNum": 3,
+          "text": "802",
+          "result": "Correct"
+        },
+        {
+          "answerId": 35778,
+          "orderNum": 4,
+          "text": "804",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35779,
+          "orderNum": 5,
+          "text": "806",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "A particular carmaker sells four models of cars, and each model comes with 5 options. How many different types of cars does the carmaker sell?",
+      "orderNum": 28,
+      "questionOrderNum": 28,
+      "questionType": {
+        "type": "Multiple"
+      },
+      "questionId": 6998,
+      "count": 5,
+      "solution": "For the first model, there are 5 options. So there are 5 different types of cars in this model. For the second model, there are the same number of different types of cars. Likewise, for the other two types of models. Hence, there are 5 + 5 + 5 + 5 \u003d 20 different types of cars. The answer is (E).\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eThis problem illustrates the \u003cem\u003eFundamental Principle of Counting:\u003c/em\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eIf an event occurs \u003cem\u003em\u003c/em\u003e times, and each of the \u003cem\u003em\u003c/em\u003e events is followed by a second event which occurs \u003cem\u003ek\u003c/em\u003e times, then the first event follows the second event \u003cem\u003em \u0026#183; k\u003c/em\u003e times.",
+      "answers": [
+        {
+          "answerId": 35780,
+          "orderNum": 1,
+          "text": "15",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35781,
+          "orderNum": 2,
+          "text": "16",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35782,
+          "orderNum": 3,
+          "text": "17",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35783,
+          "orderNum": 4,
+          "text": "18",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35784,
+          "orderNum": 5,
+          "text": "20",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "Define \u003cem\u003ea\u003c/em\u003e @ \u003cem\u003eb\u003c/em\u003e to be \u003cem\u003ea\u003c/em\u003e\u003csup\u003e3\u003c/sup\u003e \u0026#8211; 1. \u003cbr\u003e Which is greater?",
+      "orderNum": 29,
+      "questionOrderNum": 29,
+      "questionType": {
+        "type": "Multiple"
+      },
+      "questionId": 6999,
+      "count": 4,
+      "solution": "This is considered to be a hard problem. However, it is actually quite easy. By the definition given, the function @ merely cubes the term on the left and then subtracts 1 from it (the value of the term on the right is irrelevant). In each column, the term on the left is \u003cem\u003ex\u003c/em\u003e. Hence, in each case, the result is \u003cem\u003ex\u003c/em\u003e\u003csup\u003e3\u003c/sup\u003e \u0026#8722; 1. This shows the two expressions are equal, and the answer is (C).",
+      "answers": [
+        {
+          "answerId": 35785,
+          "orderNum": 1,
+          "text": "\u003cem\u003ex\u003c/em\u003e @ 1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35786,
+          "orderNum": 2,
+          "text": "\u003cem\u003ex\u003c/em\u003e @ 10",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35787,
+          "orderNum": 3,
+          "text": "Both are equal",
+          "result": "Correct"
+        },
+        {
+          "answerId": 35788,
+          "orderNum": 4,
+          "text": "Cannot be determined from the information given",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "Define the symbol * by the following equation: \u003cem\u003ex\u003c/em\u003e* \u003d 1 \u0026#8211; \u003cem\u003ex,\u003c/em\u003e for all non-negative \u003cem\u003ex.\u003c/em\u003e If ((1 \u0026#8211; \u003cem\u003ex\u003c/em\u003e)*)* \u003d (1 \u0026#8211; \u003cem\u003ex\u003c/em\u003e)*, then \u003cem\u003ex\u003c/em\u003e \u003d",
+      "orderNum": 30,
+      "questionOrderNum": 30,
+      "questionType": {
+        "type": "Multiple"
+      },
+      "questionId": 7000,
+      "count": 5,
+      "solution": "\u003cimg src\u003d\"f0306-01.jpg\" alt\u003d\"Image\"\u003e\u003c/img\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eThe answer is (A).",
+      "answers": [
+        {
+          "answerId": 35789,
+          "orderNum": 1,
+          "text": "½",
+          "result": "Correct"
+        },
+        {
+          "answerId": 35790,
+          "orderNum": 2,
+          "text": "¾",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35791,
+          "orderNum": 3,
+          "text": "1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35792,
+          "orderNum": 4,
+          "text": "2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 35793,
+          "orderNum": 5,
+          "text": "3",
+          "result": "Wrong"
+        }
+      ]
+    }
+  ],
+  "applications": []
+}

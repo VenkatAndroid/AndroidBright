@@ -1,0 +1,868 @@
+{
+  "quizId": 232,
+  "name": "Problem Set S (GMAT MATH)",
+  "description": "",
+  "questions": [
+    {
+      "text": "\u0026#x00A0;\u0026#x00A0;A cyclist travels at 12 miles per hour. How many minutes will it take him to travel 24 miles?",
+      "orderNum": 1,
+      "questionOrderNum": 1,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3246,
+      "count": 5,
+      "solution": " Since the answer is in minutes, we must convert the cyclist\u0026#x2019;s speed (12 miles per hour) into miles per minute. Since there are 60 minutes in an hour, his speed is 12/60 \u003d 1/5 miles per minute.Remember that \u003cem\u003eDistance \u003dRate\u003c/em\u003e \u0026#x00D7; \u003cem\u003eTime.\u003c/em\u003e Hence,\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_309-png\" alt\u003d\"\"/\u003eSolving for t yields t \u003d 5 \u0026#x00D7; 24 \u003d 120. The answer is (E). [If you forgot to convert hours to minutes, you may have mistakenly answered (B).",
+      "answers": [
+        {
+          "answerId": 17898,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17899,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17900,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;30",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17901,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;60",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17902,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;120",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "\u0026#x00A0;\u0026#x00A0;Point \u003cem\u003eM\u003c/em\u003e is located 8 miles East of point \u003cem\u003eP.\u003c/em\u003e If point \u003cem\u003eP\u003c/em\u003e is located 6 miles North of another point \u003cem\u003eA,\u003c/em\u003e then how far is points from point \u003cem\u003eM\u003c/em\u003e?",
+      "orderNum": 2,
+      "questionOrderNum": 2,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3247,
+      "count": 5,
+      "solution": " First, place points arbitrarily. Then locate point \u003cem\u003eP\u003c/em\u003e 6 miles North of point \u003cem\u003eA,\u003c/em\u003e and then locate a new point 8 miles East of \u003cem\u003eP\u003c/em\u003e. Name the new pointM. The figure looks like this:\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_309-png\" alt\u003d\"\"/\u003eSince the angle between the standard directions East and North is 90\u0026#x00B0;, the three points \u003cem\u003eA, P\u003c/em\u003e and \u003cem\u003eM\u003c/em\u003e form a right triangle with right angle at \u003cem\u003eP.\u003c/em\u003e So, \u003cem\u003eAM\u003c/em\u003e is the hypotenuse. By The Pythagorean Theorem, the hypotenuse equals the square root of the sum of squares of the other two sides. Hence,\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_309-3.png\" alt\u003d\"\"/\u003e The answer is (E).",
+      "answers": [
+        {
+          "answerId": 17903,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17904,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17905,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;6",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17906,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;7",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17907,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;10",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "\u0026#x00A0;\u0026#x00A0;A wheat bag weighs 5 pounds and 12 ounces. How much does the bag weigh in pounds?",
+      "orderNum": 3,
+      "questionOrderNum": 3,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3248,
+      "count": 5,
+      "solution": " There are 16 ounces in a pound. Hence, each ounce equals 1/16 pounds. Now, 12 ounces equals 12 \u0026#x00D7; 1/16 \u003d 3/4 pounds. Hence, 5 pounds \u0026#x002B; 12 ounces equals 5 3/4 pounds. The answer is (C).",
+      "answers": [
+        {
+          "answerId": 17908,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;5 1/4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17909,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;5 1/2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17910,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;5 3/4",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17911,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;6 1/4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17912,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;6 3/4",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "\u0026#x00A0;\u0026#x00A0;One ton has 2000 pounds, and one pound has 16 ounces. How many packets containing wheat weighing 16 pounds and 4 ounces each would totally fill a gunny bag of capacity 13 tons?",
+      "orderNum": 4,
+      "questionOrderNum": 4,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3249,
+      "count": 5,
+      "solution": " One ton has 2000 pounds. The capacity of the gunny bag is 13 tons. Hence, its capacity in pounds would equal 13 \u0026#x00D7; 2000 pounds.One pound has 16 ounces. We are given the capacity of each packet is 16 pounds and 4 ounces. Converting it into pounds yields 16 pounds \u0026#x002B; 4/16 ounces \u003d 16 1/4 pounds \u003d (16 \u0026#x00D7; 4 \u0026#x002B; 1)/4 \u003d 65/4 pounds.Hence, the number of packets required to fill the gunny bag equals\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_309-png\" alt\u003d\"\"/\u003eThe answer is (A).",
+      "answers": [
+        {
+          "answerId": 17913,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;1600",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17914,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;1700",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17915,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;2350",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17916,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;2500",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17917,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;8000",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "\u0026#x00A0;\u0026#x00A0;An old man distributed all the gold coins he had to his two sons into two different numbers such that the difference between the squares of the two numbers is 36 times the difference between the two numbers. How many coins did the old man have?",
+      "orderNum": 5,
+      "questionOrderNum": 5,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3250,
+      "count": 5,
+      "solution": " Let \u003cem\u003ex\u003c/em\u003e and \u003cem\u003ey\u003c/em\u003e be the number of gold coins the two sons received. Since we are given that the difference between the squares of the two numbers is 36 times the difference between the two numbers, we have the equation\u003cp class\u003d\"paran10\"\u003e\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_310-2.png\" alt\u003d\"\"/\u003eHence, the total number of gold coins the old man had is \u003cem\u003ex \u0026#x002B; y\u003c/em\u003e which equals 36. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 17918,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;24",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17919,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;26",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17920,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;30 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17921,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;36",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17922,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;40",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "\u0026#x00A0; Patrick purchased 80 pencils and sold them at a loss equal to the selling price of 20 pencils. The cost of 80 pencils is how many times the selling price of 80 pencils?",
+      "orderNum": 6,
+      "questionOrderNum": 6,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3251,
+      "count": 5,
+      "solution": " Let \u003cem\u003ec\u003c/em\u003e be the cost of each pencil and \u003cem\u003es\u003c/em\u003e be the selling price of each pencil. Then the loss incuned by Patrick on each pencil is \u003cem\u003ec - s.\u003c/em\u003e The net loss on 80 pencils is 80(\u003cem\u003ec - s).\u003c/em\u003e Since we are given that the loss incuned on the 80 pencils equaled the selling price of 20 pencils (The selling price of 20 pencils is 20 \u003cem\u003es),\u003c/em\u003e we have the equation:80(\u003cem\u003ec-s\u003c/em\u003e) \u003d 20s80\u003cem\u003ec\u003c/em\u003e \u0026#x2212;80\u003cem\u003es\u003c/em\u003e \u003d 20\u003cem\u003es\u003c/em\u003e80\u003cem\u003ec\u003c/em\u003e \u003d 100\u003cem\u003es\u003c/em\u003e(80/100)\u003cem\u003ec\u003ds\u003c/em\u003eThe cost of 80 pencils is 80\u003cem\u003ec\u003c/em\u003e.The selling price of 80 pencils is 80\u003cem\u003es \u003d\u003c/em\u003e 80(80/100)c \u003d 64c. Hence, the cost of 80 pencils is 80c/64 c \u003d 5/4 \u003d 1.25 times the selling price. The answer is (E).",
+      "answers": [
+        {
+          "answerId": 17923,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;0.75",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17924,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;0.8",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17925,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17926,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;1.2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17927,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;1.25",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "\u0026#x00A0;\u0026#x00A0;A man walks at a rate of 10 mph After every ten miles, he rests for 6 minutes. How much time does he take to walk 50 miles?",
+      "orderNum": 7,
+      "questionOrderNum": 7,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3252,
+      "count": 5,
+      "solution": " Remember that \u003cem\u003eTime \u003d Distance \u0026#x002B; Speed.\u003c/em\u003e Hence, the time taken by the man to walk 10 miles is 10 miles/10 mph \u003d 1 hour.Since the man walks 50 miles in five installments of 10 miles each, each installment should take him 1 hour. Hence, the total time for which he walked equals 5\u0026#x00B7;1hr\u003d5hr\u003d5-60 \u003d 300 mins.Since he takes a break after each installment (until reaching the 50 mile point; one after 10 miles; one after 20 miles; one after 30 miles; final one after 40 miles. The 50\u003csup class\u003d\"frac\"\u003eth\u003c/sup\u003e mile is his destination.), he takes four breaks; and since each break lasts 6 minutes, the net time spent in the breaks is 4\u0026#x00B7;6 mins \u003d 24 mins.Hence, the total time taken to reach the destination is 300 \u0026#x002B; 24 \u003d 324 mins. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 17928,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;300",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17929,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;318",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17930,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;322",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17931,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;324",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17932,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;330",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "A project has three test cases. Three teams are formed to study the three different test cases. James is assigned to all three teams. Except for James, each researcher is assigned to exactly one team. If each team has exactly 6 members, then what is the exact number of researchers required?",
+      "orderNum": 8,
+      "questionOrderNum": 8,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3253,
+      "count": 5,
+      "solution": " Since James is common to all three teams, he occupies one of six positions in each team. Since any member but James is with exactly one team, 5 different researchers are required for each team. Hence, apart from James, the number of researchers required is 5 \u0026#x00B7;3 \u003d 15. Including James, there are 15 \u0026#x002B; 1 \u003d 16 researchers. The answer is (E).",
+      "answers": [
+        {
+          "answerId": 17933,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;10",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17934,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;12",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17935,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;14",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17936,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;15",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17937,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;16",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "\u0026#x00A0;\u0026#x00A0;The combined salaries of three brothers is \u0026#x0024;90,000. Mr. Big earns twice what Mr. Small earns, and Mr. Middle earns 1 1/2 times what Mr. Small earns. What is the smallest salary of the three brothers?",
+      "orderNum": 9,
+      "questionOrderNum": 9,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3254,
+      "count": 5,
+      "solution": " Let \u003cem\u003es\u003c/em\u003e be the salary of Mr. Small. Since Mr. Big earns twice what Mr. Small earns, the salary of Mr. Big is 2 \u003cem\u003es;\u003c/em\u003e and since Mr. Middle earns 1 1/2 times what Mr. Small earns, the salary of Mr. Middle equals (1 1/2)\u003cem\u003es \u003d 3s/2.\u003c/em\u003e Since \u003cem\u003es\u003c/em\u003e \u0026#x003C; 3s/2 and \u003cem\u003es\u003c/em\u003e \u0026#x003C; 2s, Mr. Small earns the smallest salary. Summing the salaries to 90,000 (given) yields\u003cem\u003e2s\u003c/em\u003e \u0026#x002B; \u003cem\u003e3s/2 \u0026#x002B;s\u003d\u003c/em\u003e 90,000\u003cem\u003e9s/2 \u003d\u003c/em\u003e 90,000\u003cem\u003es \u003d\u003c/em\u003e 90,000\u0026#x00B7;2/9 \u003d 20,000The answer is (A).",
+      "answers": [
+        {
+          "answerId": 17938,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;20,000",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17939,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;22,000",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17940,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;25,000",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17941,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;30,000",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17942,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;40,000",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "\u0026#x00A0;\u0026#x00A0;Mike and Fritz ran a 30-mile Marathon. Mike ran 10 miles at 10 miles per hour and then ran at 5 miles per hour for the remaining 20 miles. Fritz ran the first one-third (by time) of the run at 10 miles per hour and the remaining two-thirds of the run at 5 miles per hour.\u003cbr\u003eHow much time in hours did Mike take to complete the Marathon?",
+      "orderNum": 10,
+      "questionOrderNum": 10,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3255,
+      "count": 5,
+      "solution": " Mike ran 10 miles at 10 miles per hour (\u003cem\u003eTime \u003d Distance/Rate \u003d\u003c/em\u003e 10 miles/10 miles per hour \u003d 1 hour). He ran at 5 miles per hour for the remaining 20 miles (\u003cem\u003eTime \u003d Distance/Rate \u003d\u003c/em\u003e 20 miles/5 miles per hour \u003d 4 hrs). The net length of the Marathon track is 30 miles, and the total time taken to cover the track is 5 hours. Hence, the answer is (E).",
+      "answers": [
+        {
+          "answerId": 17943,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17944,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;3.5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17945,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17946,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;4.5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17947,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;5",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "\u0026#x00A0;\u0026#x00A0;Mike and Fritz ran a 30-mile Marathon. Mike ran 10 miles at 10 miles per hour and then ran at 5 miles per hour for the remaining 20 miles. Fritz ran the first one-third (by time) of the run at 10 miles per hour and the remaining two-thirds of the run at 5 miles per hour.\u003cbr\u003eHow much time in hours did Fritz take to complete the Marathon?",
+      "orderNum": 11,
+      "questionOrderNum": 11,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3256,
+      "count": 5,
+      "solution": " Suppose Fritz took t hours to complete the 30-mile Marathon. Then as given, Fritz ran at 10 miles per hour for \u003cem\u003et/3\u003c/em\u003e hours and 5 miles per hour for the remaining 2 \u003cem\u003et/3\u003c/em\u003e hours. Now, by formula, \u003cem\u003eDistance \u003d Rate \u0026#x00B7; Time,\u003c/em\u003e the net distance covered would be (10 miles per hour)\u0026#x00B7;\u003cem\u003et\u003c/em\u003e/3 \u0026#x002B; (5 miles per hour)\u0026#x00B7;2\u003cem\u003et\u003c/em\u003e/3 \u003d (10/3 \u0026#x002B; 10/3)t \u003d 30 miles. Solving the equation for t yields t \u003d 90/20 \u003d 4.5 hours. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 17948,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;3 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17949,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;3.5 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17950,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;4 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17951,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;4.5 ",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17952,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;5 ",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "\u0026#x00A0;\u0026#x00A0;When the price of oranges is lowered by 40\u0026#x0025;, 4 more oranges can be purchased for \u0026#x0024;12 than can be purchased for the original price. How many oranges can be purchased for 24 dollars at the original price?",
+      "orderNum": 12,
+      "questionOrderNum": 12,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3257,
+      "count": 5,
+      "solution": " Let the original price of each orange be x dollars. Remember that \u003cem\u003eQuantity \u003d Amount \u0026#x002B; Rate.\u003c/em\u003e Hence, we can purchase 12/x oranges for 12 dollars. After a 40\u0026#x0025; drop in price, the new price is x(1 \u0026#x2212;40/100) \u003d 0.6x dollars per orange. Hence, we should be able to purchase 12/(0.6 x) \u003d 20/x oranges for the same 12 dollars. The excess number of oranges we get (for \u0026#x0024;12) from the lower price is 20/x \u0026#x2212;12/x \u003d (1/x)(20 \u0026#x2212;12) \u003d (1/x)(8) \u003d 8/x \u003d 4 (given). Solving the equation 8/ x \u003d 4 for x yields x \u003d 2. Hence, the number of oranges that can be purchased for 24 dollars at original price x is 24/2 \u003d The answer is (B).",
+      "answers": [
+        {
+          "answerId": 17953,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;8",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 29319,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;12",
+          "result": "INCORRECT"
+        },
+        {
+          "answerId": 17954,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;16",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17955,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;20",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17956,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;24",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "\u0026#x00A0;\u0026#x00A0;John has \u0026#x0024;42. He purchased fifty mangoes and thirty oranges with the whole amount. He then chose to return six mangoes for nine oranges as both quantities are equally priced. What is the price of each Mango?",
+      "orderNum": 13,
+      "questionOrderNum": 13,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3258,
+      "count": 5,
+      "solution": " Since 6 mangoes are returnable for 9 oranges, if each mango costs \u003cem\u003em\u003c/em\u003e and each orange costs \u003cem\u003en,\u003c/em\u003e then 6\u003cem\u003em\u003c/em\u003e \u003d 9\u003cem\u003en\u003c/em\u003e, or 2\u003cem\u003em\u003c/em\u003e \u003d 3\u003cem\u003en.\u003c/em\u003e Solving for \u003cem\u003en\u003c/em\u003e yields, \u003cem\u003en\u003c/em\u003e \u003d 2\u003cem\u003em\u003c/em\u003e/3. Now, since 50 mangoes and 30 oranges together cost 42 dollars,\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_311-1.png\" alt\u003d\"\"/\u003eThe answer is (E).",
+      "answers": [
+        {
+          "answerId": 17957,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;0.4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17958,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;0.45",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17959,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;0.5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17960,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;0.55",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17961,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;0.6",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "\u0026#x00A0;\u0026#x00A0;In a market, a dozen eggs cost as much as a pound of rice, and a half-liter of kerosene costs as much as 8 eggs. If the cost of each pound of rice is \u0026#x0024;0.33, then how many cents does a liter of kerosene cost? [One dollar has 100 cents.]",
+      "orderNum": 14,
+      "questionOrderNum": 14,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3259,
+      "count": 5,
+      "solution": " One pound of rice costs 0.33 dollars. A dozen eggs cost as much as one pound of rice, and a dozen has 12 items. Hence, 12 eggs cost 0.33 dollars.Now, since half a liter of kerosene costs as much as 8 eggs, one liter must cost 2 times the cost of 8 eggs, which equals the cost of 16 eggs.Now, suppose 16 eggs cost x dollars. We know that 12 eggs cost 0.33 dollars. So, forming the proportion yields\u003cp class\u003d\"paran10\"\u003e\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_311-2.png\" alt\u003d\"\"/\u003eThe answer is (D).",
+      "answers": [
+        {
+          "answerId": 17962,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;0.33",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17963,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;0.44",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17964,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;0.55",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17965,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;44",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17966,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;55",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "\u0026#x00A0;\u0026#x00A0;Mr. Smith\u0026#x2019;s average annual income in each of the years 1966 and 1967 is x dollars. His average annual income in each of the years 1968, 1969, and 1970 is \u003cem\u003ey\u003c/em\u003e dollars. What is his average annual income in the five continuous years 1966 through 1970?",
+      "orderNum": 15,
+      "questionOrderNum": 15,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3260,
+      "count": 5,
+      "solution": " Since Mr. Smith\u0026#x2019;s average annual income in each of the two years 1966 and 1967 is x dollars, his total income in the two years is 2\u0026#x00B7;x \u003d 2x.Since Mr. Smith\u0026#x2019;s average annual income in each of the next three years 1968 through 1970 is \u003cem\u003ey\u003c/em\u003e dollars, his total income in the three years is 3\u0026#x00B7;\u003cem\u003ey\u003c/em\u003e \u003d 3\u003cem\u003ey.\u003c/em\u003eHence, the net income in the five continuous years is 2\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 3\u003cem\u003ey.\u003c/em\u003eHence, the average income in the five years is(the net income) \u0026#x002B; 5 \u003d\u003cbr/\u003e(2\u003cem\u003ex\u003c/em\u003e\u0026#x002B;3\u003cem\u003ey\u003c/em\u003e)/5 \u003d\u003cbr/\u003e2\u003cem\u003ex\u003c/em\u003e/5 \u0026#x002B; 3\u003cem\u003ey\u003c/em\u003e/5The answer is (A).",
+      "answers": [
+        {
+          "answerId": 17967,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;2x/5 \u0026#x002B; \u003cem\u003e3y/5\u003c/em\u003e",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17968,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;x/2 \u003cem\u003e\u0026#x002B;y/2\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17969,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u003cem\u003e5(x \u0026#x002B; y\u003c/em\u003e)",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17970,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;5x/2 \u0026#x002B; \u003cem\u003e5y/2\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17971,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;3x/5 \u0026#x002B; \u003cem\u003e2y/5\u003c/em\u003e",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "\u0026#x00A0;\u0026#x00A0;Hose A can fill a tank in 5 minutes, and Hose B can fill the same tank in 6 minutes. How many tanks would Hose B fill in the time Hose A fills 6 tanks?",
+      "orderNum": 16,
+      "questionOrderNum": 16,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3261,
+      "count": 5,
+      "solution": " Hose A takes 5 minutes to fill one tank. To fill 6 tanks, it takes 6 \u0026#x00B7; 5 \u003d 30 minutes. Hose B takes 6 minutes to fill one tank. Hence, in the 30 minutes, it would fill 30/6 \u003d 5 tanks. The answer is (C).",
+      "answers": [
+        {
+          "answerId": 29320,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;3",
+          "result": "INCORRECT"
+        },
+        {
+          "answerId": 17972,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17973,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17974,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;5.5",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17975,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;6",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "\u0026#x00A0;\u0026#x00A0;How many coins of 0.5 dollars each and 0.7 dollars each together make exactly 4.6 dollars?",
+      "orderNum": 17,
+      "questionOrderNum": 17,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3262,
+      "count": 5,
+      "solution": " Let \u003cem\u003em\u003c/em\u003e coins of 0.5 dollars each and \u003cem\u003en\u003c/em\u003e coins of 0.7 dollars each add up to 4.6 dollars. Then, we have the equation 0.5\u003cem\u003em\u003c/em\u003e \u0026#x002B; 0.7\u003cem\u003en\u003c/em\u003e \u003d 4.6. Multiplying both sides by 10 to eliminate the decimals yields 5 \u003cem\u003em\u003c/em\u003e \u0026#x002B; 7\u003cem\u003en\u003c/em\u003e \u003d 46. Since \u003cem\u003em\u003c/em\u003e is a positive integer, 5 \u003cem\u003em\u003c/em\u003e is positive integer; and since \u003cem\u003en\u003c/em\u003e is a positive integer, 7 \u003cem\u003en\u003c/em\u003e is a positive integer. Let \u003cem\u003ep\u003c/em\u003e \u003d 5\u003cem\u003em\u003c/em\u003e and \u003cem\u003eq\u003c/em\u003e \u003d 7\u003cem\u003en\u003c/em\u003e. So, \u003cem\u003ep\u003c/em\u003e is a multiple of 5 and \u003cem\u003eq\u003c/em\u003e is a multiple of 7 and \u003cem\u003ep\u003c/em\u003e \u0026#x002B; \u003cem\u003eq\u003c/em\u003e \u003d 46. Subtracting \u003cem\u003eq\u003c/em\u003e from both sides yields \u003cem\u003ep\u003c/em\u003e \u003d 46 - \u003cem\u003eq\u003c/em\u003e [(a positive multiple of 5) equals 46 - (a positive multiple of 7)]. Let\u0026#x2019;s seek such solution for \u003cem\u003ep\u003c/em\u003e and \u003cem\u003eq\u003c/em\u003e:If \u003cem\u003eq \u003d\u003c/em\u003e 7, \u003cem\u003ep \u003d\u003c/em\u003e 46 \u0026#x2212;7 \u003d 39, not a multiple of 5. Reject.If \u003cem\u003eq \u003d\u003c/em\u003e 14, \u003cem\u003ep \u003d\u003c/em\u003e 46 \u0026#x2212;14 \u003d 32, not a multiple of 5. Reject.If \u003cem\u003eq \u003d\u003c/em\u003e 21, \u003cem\u003ep\u003c/em\u003e \u003d 46-21 \u003d 25, a multiple of 5. Acceptable. So, \u003cem\u003en\u003c/em\u003e \u003d \u003cem\u003eq\u003c/em\u003e/7 \u003d 3 and \u003cem\u003em\u003c/em\u003e \u003d \u003cem\u003ep\u003c/em\u003e/5 \u003d 5.The following checks are not actually required since we already have an acceptable solution.If \u003cem\u003eq\u003c/em\u003e \u003d 28, \u003cem\u003ep \u003d\u003c/em\u003e 46 \u0026#x2212;28 \u003d 18, not a multiple of 5. Reject.If \u003cem\u003eq\u003c/em\u003e \u003d 35, \u003cem\u003ep\u003c/em\u003e \u003d 46 \u0026#x2212;35 \u003d 11, not a multiple of 5. Reject.If \u003cem\u003eq\u003c/em\u003e \u003d 42, \u003cem\u003ep\u003c/em\u003e \u003d 46 \u0026#x2212;42 \u003d 4, not a multiple of 5. Reject.If \u003cem\u003eq\u003c/em\u003e \u0026#x2265; 49, \u003cem\u003ep\u003c/em\u003e \u003d 46 \u0026#x2212;49 \u003d \u0026#x2212;3, not positive. Reject.The answer is (E).",
+      "answers": [
+        {
+          "answerId": 17976,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;1, 6",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17977,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;2, 7",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17978,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;3, 5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17979,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;4, 3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17980,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;5, 3",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "\u0026#x00A0;\u0026#x00A0;Apiece of string 35 inches long is cut into three smaller pieces along the length of the string. The length of the longest piece is three times the length of the shortest piece. Which one of the following could equal the length of the medium-size piece?",
+      "orderNum": 18,
+      "questionOrderNum": 18,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3263,
+      "count": 5,
+      "solution": " The string is cut into three along its length. Let \u003cem\u003el\u003c/em\u003e be the length of the smallest piece. Then the length of the longest piece is 3 \u003cem\u003el\u003c/em\u003e, and the total length of the three pieces is 35 inches. The length of the longest and shortest pieces together is \u003cem\u003el\u003c/em\u003e \u0026#x002B; 3\u003cem\u003el\u003c/em\u003e \u003d 4\u003cem\u003el\u003c/em\u003e. Hence, the length of the third piece (medium-size piece) must be 35-4\u003cem\u003el\u003c/em\u003e. Arranging the lengths of the three pieces in increasing order of length yields the following inequality:\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_313-1.png\" alt\u003d\"\"/\u003eThe only choice in this range is (C).",
+      "answers": [
+        {
+          "answerId": 17981,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17982,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;7",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17983,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;10",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17984,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;16",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17985,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;20",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "\u0026#x00A0;\u0026#x00A0;Katnna has a wheat business. She purchases wheat from a local wholesaler at a particular cost per pound. The price of the wheat at her stores is \u0026#x0024;3 per pound. Her faulty spring balance reads 0.9 pounds for a pound. Also, in the festival season, she gives a 10\u0026#x0025; discount on the wheat. She found that she made neither a profit nor a loss in the festival season. At what price did Katrina purchase the wheat from the wholesaler?",
+      "orderNum": 19,
+      "questionOrderNum": 19,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3264,
+      "count": 5,
+      "solution": " The cost of wheat at Katrina\u0026#x2019;s store is \u0026#x0024;3 per pound. After the 10\u0026#x0025; discount (festival season discount) the cost of the wheat would be, by the known formula the original price (1 - discount percent/100) \u003d 3(1 \u0026#x2212;10/100) \u003d 3(90/100) \u003d 2.7 dollars per pound.Since her faulty balance was reading 0.9 pounds for a pound, she was unknowingly selling 1 pound in the name of 0.9 pounds This is equivalent to selling 1/0.9 \u003d 10/9 pounds in the name of one pound. Hence, Katrina was trying to sell the wheat at 2.7 dollars per pound, but effectively she was selling the wheat at 2.7 dollars per (10/9 pounds) \u003d 2.7 \u0026#x00D7; 9/10 \u003d 2.43 dollars a pound. Since she earned neither a profit nor a loss, she must have purchased the wheat at this same cost from the wholesaler. Hence, the answer is (A).",
+      "answers": [
+        {
+          "answerId": 17986,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;2.43",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17987,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;2.5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17988,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;2.7",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17989,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17990,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;3.3",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "\u0026#x00A0;\u0026#x00A0;A car traveled 65\u0026#x0025; of the way from Town A to Town B at an average speed of 65 mph. The car traveled at an average speed of v mph for the remaining part of the trip. The average speed for the entire trip was 50 mph. What is v in mph?",
+      "orderNum": 20,
+      "questionOrderNum": 20,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3265,
+      "count": 5,
+      "solution": " Let \u003cem\u003ed\u003c/em\u003e be the distance between the towns A and B. 65\u0026#x0025; of this distance (\u003d 65\u0026#x0025; of \u003cem\u003ed\u003c/em\u003e \u003d 65/100 \u0026#x00D7; \u003cem\u003ed\u003c/em\u003e \u003d 0.65d) was traveled at 65 mph and the remaining 100 \u0026#x2212;65 \u003d 35\u0026#x0025; of the distance was traveled at v mph. Now, Remember that \u003cem\u003eTime \u003d Distance \u0026#x002B;Rate.\u003c/em\u003e Hence, the time taken by the car for the first 65\u0026#x0025; distance is 0.65\u003cem\u003ed\u003c/em\u003e/65 \u003d \u003cem\u003ed\u003c/em\u003e/100, and the time taken by the car for the last 35\u0026#x0025; distance is 0.35 \u003cem\u003ed/v.\u003c/em\u003e Hence, the total time taken is \u003cem\u003ed\u003c/em\u003e/100 \u0026#x002B; 0.35\u003cem\u003ed/v\u003c/em\u003e \u003d \u003cem\u003ed\u003c/em\u003e(1/100 \u0026#x002B; 0.35/\u003cem\u003ev\u003c/em\u003e)\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eNow, remeber the \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_313-2.png\" alt\u003d\"\"/\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eHence, the average speed of the journey is \u003cimg class\u003d\"bottom\" src\u003d\"9781889057705_313-3.png\" alt\u003d\"\"/\u003e. Equating this to the given value for the average\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003espeed yields\u003c/p\u003e\n\u003cp class\u003d\"paran10\"\u003e\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_314-1.png\" alt\u003d\"\"/\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eThe answer is (E).",
+      "answers": [
+        {
+          "answerId": 17991,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;65",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17992,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;50",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17993,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;45",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17994,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;40",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17995,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;35",
+          "result": "Correct"
+        }
+      ]
+    }
+  ],
+  "applications": []
+}

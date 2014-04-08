@@ -1,0 +1,954 @@
+{
+  "quizId": 235,
+  "name": "Problem Set V (GMAT MATH)",
+  "description": "",
+  "questions": [
+    {
+      "text": "In a jar, 2/5 of the marbles are red and 1/4 are green. 1/4 of the red balls and 1/5 of the green balls are broken. If no other balls in the jar are broken, then what is the probability that a ball randomly picked from the jar is a broken one?",
+      "orderNum": 1,
+      "questionOrderNum": 1,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3284,
+      "count": 5,
+      "solution": " Let there be\u003cem\u003ej\u003c/em\u003e balls in the jar.As given, 2\u003cem\u003ej\u003c/em\u003e/5 are red and \u003cem\u003ej\u003c/em\u003e/4 are green.Also, 1/4 of the red balls are broken. 1/4 of 2\u003cem\u003ej\u003c/em\u003e/5 \u0026#x003D; (l/4)(2\u003cem\u003ej\u003c/em\u003e/5) \u0026#x003D; 2\u003cem\u003ej\u003c/em\u003e/20.Also, 1/5 of the green balls are broken. 1/5 of \u003cem\u003ej\u003c/em\u003e/4 \u0026#x003D; (l/5)(\u003cem\u003ej\u003c/em\u003e/4) \u0026#x003D; \u003cem\u003ej\u003c/em\u003e/20.So, the total number of balls broken is 2 \u003cem\u003ej\u003c/em\u003e/20 \u0026#x002B; \u003cem\u003ej\u003c/em\u003e/20 \u0026#x003D; 3\u003cem\u003ej\u003c/em\u003e/20. Hence, 3/20 of the balls in the jar are broken. So, the probability of selecting a broken ball is 3/20. The answer is (A).",
+      "answers": [
+        {
+          "answerId": 18085,
+          "orderNum": 1,
+          "text": " 3/20",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18086,
+          "orderNum": 2,
+          "text": " 7/30",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18087,
+          "orderNum": 3,
+          "text": " 5/16",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18088,
+          "orderNum": 4,
+          "text": " 1/3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18089,
+          "orderNum": 5,
+          "text": " 2/5",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "The minimum temperatures from Monday through Sunday in the first week of July in southern Iceland are observed to be \u0026#x2212;2\u0026#x00B0;C, 4\u0026#x00B0;C, 4\u0026#x00B0;C, 5\u0026#x00B0;C, 7\u0026#x00B0; \u003cstrong\u003eC\u003c/strong\u003e, 9\u0026#x00B0;C, 10\u0026#x00B0;C. What is the range of the temperatures?",
+      "orderNum": 2,
+      "questionOrderNum": 2,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3285,
+      "count": 5,
+      "solution": " The \u003cem\u003erange\u003c/em\u003e is the greatest measurement minus the smallest measurement. The greatest of the seven temperature measurements is 10\u0026#x00B0;C, and the smallest is \u0026#x2212;2\u0026#x00B0;C. Hence, the required range is 10 \u0026#x2212; (\u0026#x2212;2) \u0026#x003D; 12\u0026#x00B0;C. The answer is (E).",
+      "answers": [
+        {
+          "answerId": 18090,
+          "orderNum": 1,
+          "text": " \u0026#x2212;10\u0026#x00B0;C",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18091,
+          "orderNum": 2,
+          "text": " \u0026#x2212;8\u0026#x00B0;C",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18092,
+          "orderNum": 3,
+          "text": " 8\u0026#x00B0;C",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18093,
+          "orderNum": 4,
+          "text": " 10\u0026#x00B0;C",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18094,
+          "orderNum": 5,
+          "text": " 12\u0026#x00B0;C",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "What is the probability that a number randomly picked from the range 1 through 1000 is divisible by both 7 and 10?",
+      "orderNum": 3,
+      "questionOrderNum": 3,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3286,
+      "count": 5,
+      "solution": " Any number divisible by both 7 and 10 is a common multiple of 7 and 10. The least common multiple of 7 and 10 is 70. There are 14 numbers, (70, 140, 210, \u0026#x2026;, 980), divisible by 70 from 1 through 1000, and there are 1000 numbers from 1 through 1000. Hence, the required fraction is 14/1000 \u0026#x003D; 7/500. The answer is (C).",
+      "answers": [
+        {
+          "answerId": 18095,
+          "orderNum": 1,
+          "text": " 7/1000",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18096,
+          "orderNum": 2,
+          "text": " 1/100",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18097,
+          "orderNum": 3,
+          "text": " 7/500",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18098,
+          "orderNum": 4,
+          "text": " 7/100",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18099,
+          "orderNum": 5,
+          "text": " 1/10",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "What is the probability that the product of two integers (not necessarily different integers) randomly selected from the numbers 1 through 20, inclusive, is odd?",
+      "orderNum": 4,
+      "questionOrderNum": 4,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3287,
+      "count": 5,
+      "solution": " The product of two integers is odd when both integers are themselves odd. Hence, the probability of the product being odd equals the probability of both numbers being odd. Since there is one odd number in every two numbers (there are 10 odd numbers in the 20 numbers 1 through 20, inclusive), the probability of a number being odd is 1/2. The probability of both numbers being odd (mutually exclusive case) is 1/2 \u0026#x00D7; 1/2 \u0026#x003D; 1/ The answer is (B).",
+      "answers": [
+        {
+          "answerId": 18100,
+          "orderNum": 1,
+          "text": " 0",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18101,
+          "orderNum": 2,
+          "text": " 1/4",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18102,
+          "orderNum": 3,
+          "text": " 1/2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18103,
+          "orderNum": 4,
+          "text": " 2/3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18104,
+          "orderNum": 5,
+          "text": " 3/4",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "Two data sets S and R are defined as follows:\u003cbr\u003eData set \u003cem\u003eS:\u003c/em\u003e 28, 30, 25, 28, 27\u003cbr\u003eData set \u003cem\u003eR\u003c/em\u003e: 22, 19, 15, 17, 21, 25\u003cbr\u003eBy how much is the median of data set \u003cem\u003eS\u003c/em\u003e greater than the median of data set \u003cem\u003eR?\u003c/em\u003e",
+      "orderNum": 5,
+      "questionOrderNum": 5,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3288,
+      "count": 5,
+      "solution": " The definition of \u003cem\u003emedian\u003c/em\u003e is \u0026#x201C;When a set of numbers is arranged in order of size, the \u003cem\u003emedian\u003c/em\u003e is the middle number. If a set contains an even number of elements, then the median is the average of the two middle elements.\u0026#x201D;Data set \u003cem\u003eS\u003c/em\u003e (arranged in increasing order of size) is 25, 27, 28, 28, 30. The median of the set is the third number 28.Data set \u003cem\u003eR\u003c/em\u003e (arranged in increasing order of size) is 15, 17, 19, 21, 22, 2 The median is the average of the two middle numbers (the 3rd and 4th numbers): (19 \u0026#x002B; 21)/2 \u0026#x003D; 40/2 \u0026#x003D; 20.The difference of 28 and 20 is 8. The answer is (B).",
+      "answers": [
+        {
+          "answerId": 18105,
+          "orderNum": 1,
+          "text": " 5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18106,
+          "orderNum": 2,
+          "text": " 6",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18107,
+          "orderNum": 3,
+          "text": " 7",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18108,
+          "orderNum": 4,
+          "text": " 8",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18109,
+          "orderNum": 5,
+          "text": " 9",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "If \u003cem\u003ex\u003c/em\u003e and \u003cem\u003ey\u003c/em\u003e are two positive integers and \u003cem\u003ex\u003c/em\u003e \u0026#x002B; \u003cem\u003ey\u003c/em\u003e \u0026#x003D; 5, then what is the probability thatx equals 1?",
+      "orderNum": 6,
+      "questionOrderNum": 6,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3289,
+      "count": 5,
+      "solution": " The possible positive integer solutions xand \u003cem\u003ey\u003c/em\u003e of the equation x \u003cem\u003e\u0026#x002B; y \u0026#x003D; 5\u003c/em\u003e are { \u003cem\u003ex, y\u003c/em\u003e} \u0026#x003D; {1, 4}, {2, 3}, {3, 2}, and {4, 1}. Each solution is equally probable. Exactly one of the 4 possible solutions has x equal to 1. Hence, the probability that x equals 1 is one in four ways, which equals 1/4. The answer is (C).",
+      "answers": [
+        {
+          "answerId": 18110,
+          "orderNum": 1,
+          "text": " 1/2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18111,
+          "orderNum": 2,
+          "text": " 1/3",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18112,
+          "orderNum": 3,
+          "text": " 1/4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18113,
+          "orderNum": 4,
+          "text": " 1/5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18114,
+          "orderNum": 5,
+          "text": " 1/6",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "The following values represent the number of cars owned by the 20 families on Pearl Street.\u003cbr1, 1, 2, 3, 2, 5, 4, 3, 2, 4, 5, 2, 6, 2, 1, 2, 4, 2, 1, 1\u003cbr\u003eWhat is the probability that a family randomly selected from Pearl Street has at least 3 cars?",
+      "orderNum": 7,
+      "questionOrderNum": 7,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3290,
+      "count": 5,
+      "solution": " From the distribution given, the 4\u003csup class\u003d\"frac\"\u003eth\u003c/sup\u003e, 6\u003csup class\u003d\"frac\"\u003eth\u003c/sup\u003e, 7\u003csup class\u003d\"frac\"\u003eth\u003c/sup\u003e, 8\u003csup class\u003d\"frac\"\u003eth\u003c/sup\u003e, 10\u003csup class\u003d\"frac\"\u003eth\u003c/sup\u003e, 11\u003csup class\u003d\"frac\"\u003eth\u003c/sup\u003e, 13\u003csup class\u003d\"frac\"\u003eth\u003c/sup\u003e, and 17\u003csup class\u003d\"frac\"\u003eth\u003c/sup\u003e families, a total of 8, have at least 3 cars. Hence, the probability of selecting a family having at least 3 cars out of the available 20 families is 8/20, which reduces to 2/5. The answer is (B).",
+      "answers": [
+        {
+          "answerId": 18115,
+          "orderNum": 1,
+          "text": " 1/6",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18116,
+          "orderNum": 2,
+          "text": " 2/5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18117,
+          "orderNum": 3,
+          "text": " 9/20",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18118,
+          "orderNum": 4,
+          "text": " 13/20",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18119,
+          "orderNum": 5,
+          "text": " 4/5",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "The following frequency distribution shows the number of cars owned by the 20 families on Pearl Street.\u003cbr\u003e\u003cimg src\u003d\"9781889057705_333-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003eWhat is the probability that a family randomly selected from the street has at least 4 cars?",
+      "orderNum": 8,
+      "questionOrderNum": 8,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3291,
+      "count": 5,
+      "solution": " From the distribution given, there are4 families having exactly 4 cars\u003cbr/\u003e5 families having exactly 5 cars\u003cbr/\u003e2 families having exactly 6 carsHence, there are 4 \u0026#x002B; 5 \u0026#x002B; 2\u0026#x003D;11 families with at least 4 cars. Hence, the probability of picking one such family from the 20 families is 11/20. The answer is (E).",
+      "answers": [
+        {
+          "answerId": 18120,
+          "orderNum": 1,
+          "text": " 1/10",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18121,
+          "orderNum": 2,
+          "text": " 1/5",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18122,
+          "orderNum": 3,
+          "text": " 3/10",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18123,
+          "orderNum": 4,
+          "text": " 9/20",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18124,
+          "orderNum": 5,
+          "text": " 11/20",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "Set \u003cem\u003eS\u003c/em\u003e is the set of all numbers from 1 through 100, inclusive. What is the probability that a number randomly selected from the set is divisible by 3?",
+      "orderNum": 9,
+      "questionOrderNum": 9,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3292,
+      "count": 5,
+      "solution": " The count of the numbers 1 through 100, inclusive, is 100.Now, let 3\u003cem\u003en\u003c/em\u003e represent a number divisible by 3, where \u003cem\u003en\u003c/em\u003e is an integer.Since we have the numbers from 1 through 100, we have 1 \u0026#x2264; 3\u003cem\u003en\u003c/em\u003e \u0026#x2264; 100. Dividing the inequality by 3 yields 1/3 \u0026#x2264; \u003cem\u003en\u003c/em\u003e \u0026#x2264; 100/3. The possible values of \u003cem\u003en\u003c/em\u003e are the integer values between 1/3 (\u0026#x2248; 0.33) and 100/3 (\u0026#x2248; 33.33). The possible numbers are 1 through 33, inclusive. The count of these numbers is 33.Hence, the probability of randomly selecting a number divisible by 3 is 33/100. The answer is (B).",
+      "answers": [
+        {
+          "answerId": 18125,
+          "orderNum": 1,
+          "text": " 1/9",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18126,
+          "orderNum": 2,
+          "text": " 33/100",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18127,
+          "orderNum": 3,
+          "text": " 34/100",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18128,
+          "orderNum": 4,
+          "text": " 1/3    ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18129,
+          "orderNum": 5,
+          "text": " 66/100",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "What is the probability that the sum of two different numbers randomly picked (without replacement) from the set \u003cem\u003eS\u003c/em\u003e \u0026#x003D;{ 1, 2, 3, 4} is 5?",
+      "orderNum": 10,
+      "questionOrderNum": 10,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3293,
+      "count": 5,
+      "solution": " The first selection can be done in 4 ways (by selecting any one of the numbers 1, 2, 3, and 4 of the set \u003cem\u003eS).\u003c/em\u003e Hence, there are 3 elements remaining in the set. The second number can be selected in 3 ways (by selecting any one of the remaining 3 numbers in the set \u003cem\u003eS).\u003c/em\u003e Hence, the total number of ways the selection can be made is 4 \u0026#x00D7; 3 \u0026#x003D; 12.The selections that result in the sum 5 are 1 and 4, 4 and 1, 2 and 3, 3 and 2, a total of 4 selections. So, 4 of the 12 possible selections have a sum of 5. Hence, the probability is the fraction 4/12 \u0026#x003D; 1/3. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 18130,
+          "orderNum": 1,
+          "text": " 1/5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18131,
+          "orderNum": 2,
+          "text": " 3/16",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18132,
+          "orderNum": 3,
+          "text": " 1/4   ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18133,
+          "orderNum": 4,
+          "text": " 1/3   ",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18134,
+          "orderNum": 5,
+          "text": " 1/2   ",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "The ratio of the number of red balls, to yellow balls, to green balls in a urn is 2 : 3 : 4. What is the probability that a ball chosen at random from the urn is a red ball?",
+      "orderNum": 11,
+      "questionOrderNum": 11,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3294,
+      "count": 5,
+      "solution": " Let the number of red balls in the urn be 2 \u003cem\u003ek,\u003c/em\u003e the number of yellow balls 3 \u003cem\u003ek,\u003c/em\u003e and the number of green balls 4 \u003cem\u003ek,\u003c/em\u003e where \u003cem\u003ek\u003c/em\u003e is a common factor of the three. Now, the total number of balls in the urn is \u003cem\u003e2k \u0026#x002B; 3k\u0026#x002B; 4k \u0026#x003D; 9k.\u003c/em\u003e Hence, the fraction of red balls from all the balls is 2 \u003cem\u003ek/9k\u003c/em\u003e \u0026#x003D; 2/9. This also equals the probability that a ball chosen at random from the urn is a red ball. The answer is (A).",
+      "answers": [
+        {
+          "answerId": 18135,
+          "orderNum": 1,
+          "text": " 2/9",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18136,
+          "orderNum": 2,
+          "text": " 3/9",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18137,
+          "orderNum": 3,
+          "text": " 4/9",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18138,
+          "orderNum": 4,
+          "text": " 5/9",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18139,
+          "orderNum": 5,
+          "text": " 7/9",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "The frequency distribution for \u003cem\u003ex\u003c/em\u003e is as given below. What is the range of \u003cem\u003ef\u003c/em\u003e?\u003cbr\u003e\u003cimg src\u003d\"9781889057705_334-1.png\" alt\u003d\"\"/\u003e",
+      "orderNum": 12,
+      "questionOrderNum": 12,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3295,
+      "count": 5,
+      "solution": " The \u003cem\u003erange\u003c/em\u003e of \u003cem\u003ef\u003c/em\u003e is the greatest value of/minus the smallest value of \u003cem\u003ef\u003c/em\u003e: 5 \u0026#x2212; 1 \u0026#x003D; 4. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 18140,
+          "orderNum": 1,
+          "text": " 0 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18141,
+          "orderNum": 2,
+          "text": " 1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18142,
+          "orderNum": 3,
+          "text": " 3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18143,
+          "orderNum": 4,
+          "text": " 4",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18144,
+          "orderNum": 5,
+          "text": " 5",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "In a box of 5 eggs, 2 are rotten. What is the probability that two eggs chosen at random from the box are rotten?",
+      "orderNum": 13,
+      "questionOrderNum": 13,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3296,
+      "count": 5,
+      "solution": " Since 2 of the 5 eggs are rotten, the chance of selecting a rotten egg the first time is 2/5. For the second selection, there is only one rotten egg, out of the 4 remaining eggs. Hence, there is a 1/4 chance of selecting a rotten egg again.Hence, the probability selecting 2 rotten eggs in a row is 2/5 \u0026#x00D7; 1/4 \u0026#x003D; 1/10. The answer is (B).",
+      "answers": [
+        {
+          "answerId": 18145,
+          "orderNum": 1,
+          "text": " 1/16",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18146,
+          "orderNum": 2,
+          "text": " 1/10",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18147,
+          "orderNum": 3,
+          "text": " 1/5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18148,
+          "orderNum": 4,
+          "text": " 2/5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18149,
+          "orderNum": 5,
+          "text": " 3/5",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "The table shows the distribution of a team of 16 engineers by gender and level.\u003cbr\u003e\u003cimg src\u003d\"9781889057705_334-2.png\" alt\u003d\"\"/\u003e\u003cbr\u003eIf one engineer is selected from the team, what is the probability that the engineer is a male senior engineer?",
+      "orderNum": 14,
+      "questionOrderNum": 14,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3297,
+      "count": 5,
+      "solution": " From the distribution table, we know that the team has exactly 4 male senior engineers out of a total of 16 engineers. Hence, the probability of selecting a male senior engineer is 4/16 \u0026#x003D; 1/4. The answer is (B).",
+      "answers": [
+        {
+          "answerId": 18150,
+          "orderNum": 1,
+          "text": " 7/32",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18151,
+          "orderNum": 2,
+          "text": " 1/4 ",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18152,
+          "orderNum": 3,
+          "text": " 7/16",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18153,
+          "orderNum": 4,
+          "text": " 1/2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18154,
+          "orderNum": 5,
+          "text": " 3/4 ",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "A prize of \u0026#x0024;200 is given to anyone who solves a hacker puzzle independently. The probability that Tom will win the prize is 0.6, and the probability that John will win the prize is 0.7. What is the probability that both will win the prize?",
+      "orderNum": 15,
+      "questionOrderNum": 15,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3298,
+      "count": 5,
+      "solution": " Let \u003cem\u003eP\u003c/em\u003e(\u003cem\u003eA\u003c/em\u003e) \u0026#x003D; The probability of Tom solving the problem \u0026#x003D; 0.6, and let \u003cem\u003eP\u003c/em\u003e(\u003cem\u003eB\u003c/em\u003e) \u0026#x003D; The probability of John solving the problem \u0026#x003D; 0.7. Now, since events \u003cem\u003eA\u003c/em\u003e and \u003cem\u003eB\u003c/em\u003e are independent (Tom\u0026#x2019;s performance is independent of John\u0026#x2019;s performance and vice versa), we have\u003cimg src\u003d\"9781889057705_338-1.png\" alt\u003d\"\"/\u003eThe answer is (C).",
+      "answers": [
+        {
+          "answerId": 18155,
+          "orderNum": 1,
+          "text": " 0.35",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18156,
+          "orderNum": 2,
+          "text": " 0.36",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18157,
+          "orderNum": 3,
+          "text": " 0.42",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18158,
+          "orderNum": 4,
+          "text": " 0.58",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18159,
+          "orderNum": 5,
+          "text": " 0.88",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "If the probability that Mike will miss at least one of the ten jobs assigned to him is 0.55, then what is the probability that he will do all ten jobs?",
+      "orderNum": 16,
+      "questionOrderNum": 16,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3299,
+      "count": 5,
+      "solution": " There are only two cases:1) Mike will miss at least one of the ten jobs.2) Mike will not miss any of the ten jobs.Hence, (The probability that Mike will miss at least one of the ten jobs) \u0026#x002B; (The probability that he will not miss any job) \u0026#x003D; 1. Since the probability that Mike will miss at least one of the ten jobs is 0.55, this equation becomes0.55 \u0026#x002B; (The probability that he will not miss any job) \u0026#x003D; 1(The probability that he will not miss any job) \u0026#x003D; 1\u0026#x2212;0.55(The probability that he will not miss any job) \u0026#x003D; 0.45The answer is (B).",
+      "answers": [
+        {
+          "answerId": 18160,
+          "orderNum": 1,
+          "text": " 0.1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18161,
+          "orderNum": 2,
+          "text": " 0.45",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18162,
+          "orderNum": 3,
+          "text": " 0.55",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18163,
+          "orderNum": 4,
+          "text": " 0.85",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18164,
+          "orderNum": 5,
+          "text": " 1",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "The probability that Tom will win the Booker prize is 0.5, and the probability that John will win the Booker prize is 0.4. There is only one Booker prize to win. What is the probability that at least one of them wins the prize?",
+      "orderNum": 17,
+      "questionOrderNum": 17,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3300,
+      "count": 5,
+      "solution": " Probability of Tom winning the prize is 0.5. Hence, probability of Tom not winning is 1 \u0026#x2212; 0.5 \u0026#x003D; 0.5.Probability of John winning is 0.4. Hence, probability of John not winning is 1 \u0026#x2212; 0.4 \u0026#x003D; 0.6.So, the probability of both Tom and John not winning equals\u003cimg src\u003d\"9781889057705_339-1.png\" alt\u003d\"\"/\u003eThe probability of one of them (at least) winning \u0026#x002B; The probability of neither winning \u0026#x003D; 1 (because these are the only cases.)Hence, The probability of one of them (at least) not winning \u0026#x003D; 1 \u0026#x2212; The probability of neither winning \u0026#x003D; 1 \u0026#x2212; 0.3 \u0026#x003D; 0.7.The answer is (C).",
+      "answers": [
+        {
+          "answerId": 18165,
+          "orderNum": 1,
+          "text": " 0.2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18166,
+          "orderNum": 2,
+          "text": " 0.4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18167,
+          "orderNum": 3,
+          "text": " 0.7",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18168,
+          "orderNum": 4,
+          "text": " 0.8",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18169,
+          "orderNum": 5,
+          "text": " 0.9",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "The following values represent the exact number of cars owned by the 20 families on Pearl Street.\u003cbr\u003e1, 1, 2, 3, 2, 5, 4, 3, 2, 4, 5, 2, 6, 2, 1, 2, 4, 2, 1, 1\u003cbr\u003eThis can be expressed in frequency distribution format as follows:\u003cbr\u003e\u003cimg src\u003d\"9781889057705_335-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003eWhat are the values of \u003cem\u003ea\u003c/em\u003e and \u003cem\u003eb,\u003c/em\u003e respectively?",
+      "orderNum": 18,
+      "questionOrderNum": 18,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3301,
+      "count": 5,
+      "solution": " In the frequency distribution table, the first column represents the number of cars and the second column represents the number of families having the particular number of cars. Now, from the data given, the number of families having exactly 3 cars is 2, and the number of families having exactly 5 cars is 2. Hence, \u003cem\u003ea\u003c/em\u003e \u0026#x003D; 2 and \u003cem\u003eb \u0026#x003D; 2.\u003c/em\u003e The answer is (D).",
+      "answers": [
+        {
+          "answerId": 18170,
+          "orderNum": 1,
+          "text": " l and l",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18171,
+          "orderNum": 2,
+          "text": " l and 2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18172,
+          "orderNum": 3,
+          "text": " 2 and l",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18173,
+          "orderNum": 4,
+          "text": " 2 and l",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18174,
+          "orderNum": 5,
+          "text": " 2 and 3",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "A meeting is attended by 750 professionals. 450 of the attendees are females. Half the female attendees are less than thirty years old, and one-fourth of the male attendees are less than thirty years old. If one of the attendees of the meeting is selected at random to receive a prize, what is the probability that the person selected is less than thirty years old?",
+      "orderNum": 19,
+      "questionOrderNum": 19,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3302,
+      "count": 5,
+      "solution": " The number of attendees at the meeting is 750 of which 450 are female. Hence, the number of male attendees is 750 \u0026#x2212; 450 \u0026#x003D; 300. Half of the female attendees are less than 30 years old. One half of 450 is 450/2 \u0026#x003D; 225. Also, one-fourth of the male attendees are less than 30 years old. One-fourth of 300 is 300/4 \u0026#x003D; 75.Now, the total number of (male and female) attendees who are less than 30 years old is 225 \u0026#x002B; 75 \u0026#x003D; 300.So, out of the total 750 attendees 300 attendees are less than 30 years old. Hence, the probability of randomly selecting an attendee less than 30 years old (equals the fraction of all the attendees who are less than 30 years old) is 300/750 \u0026#x003D; 2/5. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 18175,
+          "orderNum": 1,
+          "text": " 1/8",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18176,
+          "orderNum": 2,
+          "text": " 1/2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18177,
+          "orderNum": 3,
+          "text": " 3/8",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18178,
+          "orderNum": 4,
+          "text": " 2/5  ",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18179,
+          "orderNum": 5,
+          "text": " 3/4  ",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "Each Employee at a certain bank is either a clerk or an agent or both. Of every three agents, one is also a clerk. Of every two clerks, one is also an agent. What is the probability that an employee randomly selected from the bank is both an agent and a clerk?",
+      "orderNum": 20,
+      "questionOrderNum": 20,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3303,
+      "count": 5,
+      "solution": " The employees of the bank can be categorized into three groups:1) Employees who are only Clerks. Let cbe the count.2) Employees who are only Agents. Let \u003cem\u003ea\u003c/em\u003e be the count.3) Employees who are both Clerks and Agents. Let \u003cem\u003ex\u003c/em\u003ebe the count.Hence, the total number of employees is \u003cem\u003ec\u003c/em\u003e \u0026#x002B; \u003cem\u003ea\u003c/em\u003e \u0026#x002B; \u003cem\u003ex.\u003c/em\u003eThe total number of clerks is \u003cem\u003ec\u003c/em\u003e \u0026#x002B; \u003cem\u003ex.\u003c/em\u003eThe total number of agents is \u003cem\u003ea\u003c/em\u003e \u0026#x002B; \u003cem\u003ex.\u003c/em\u003eWe are given that of every three agents one is also a clerk. Hence, we have that one of every three agents is also a clerk (both agent and clerk). Forming the ratio yields \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_340-1.png\" alt\u003d\"\"/\u003e. Solving for \u003cem\u003ea\u003c/em\u003e yields \u003cem\u003ea \u0026#x003D; 2x.\u003c/em\u003eWe are given that of every two clerks, one is also an agent. Hence, we have that one of every two clerks is also an agent (both clerk and agent). Forming the ratio yields \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_340-2.png\" alt\u003d\"\"/\u003e. Solving for \u003cem\u003ec\u003c/em\u003e yields \u003cem\u003ec \u0026#x003D; x.\u003c/em\u003eNow, the probability of selecting an employee who is both an agent and a clerk from the bank is \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_340-3.png\" alt\u003d\"\"/\u003eThe answer is (C).",
+      "answers": [
+        {
+          "answerId": 18180,
+          "orderNum": 1,
+          "text": " 1/2 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18181,
+          "orderNum": 2,
+          "text": " 1/3 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18182,
+          "orderNum": 3,
+          "text": " 1/4 ",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18183,
+          "orderNum": 4,
+          "text": " 1/5 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18184,
+          "orderNum": 5,
+          "text": " 2/5 ",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "Every one who passes the test will be awarded a degree. The probability that Tom passes the test is 0.3, and the probability that John passes the test is 0.4. The two events are independent of each other. What is the probability that at least one of them gets the degree?",
+      "orderNum": 21,
+      "questionOrderNum": 21,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3304,
+      "count": 5,
+      "solution": " The probability that Tom passes is 0.3. Hence, the probability that Tom does not pass is 1 \u0026#x2212; 0.3 \u0026#x003D; 0.7.The probability that John passes is 0.4. Hence, the probability that John does not pass is 1 \u0026#x2212; 0.4 \u0026#x003D; 0.6.At least one of them gets a degree in three cases:1) Tom passes and John does not2) John passes and Tom does not3) Both Tom and John passHence, the probability of at least one of them passing equals(The probability of Tom passing and John not) \u0026#x002B;\u003cbr/\u003e(The probability of John passing and Tom not) \u0026#x002B;\u003cbr/\u003e(The probability of both passing)(The probability of Tom passing and John not) \u0026#x003D;\u003cbr/\u003e(The probability of Tom passing) \u0026#x00D7; (The probability of John not) \u0026#x003D;\u003cbr/\u003e0.3 \u0026#x00D7;0.6 \u0026#x003D;\u003cbr/\u003e0.18(The probability of John passing and Tom not) \u0026#x003D;\u003cbr/\u003e(The probability of John passing) \u0026#x00D7; (The probability of Tom not) \u0026#x003D;\u003cbr/\u003e0.4\u0026#x00D7;0.7 \u0026#x003D;\u003cbr/\u003e0.28(The probability of both passing) \u0026#x003D;\u003cbr/\u003e(The probability of Tom passing) \u0026#x00D7; (The probability of John passing) \u0026#x003D;\u003cbr/\u003e0.3 \u0026#x00D7;0.4 \u0026#x003D;\u003cbr/\u003e0.12Hence, the probability of at least one passing is 0.18 \u0026#x002B; 0.28 \u0026#x002B; 0.12 \u0026#x003D; 0.58. The answer is (D)Method II:The probability of Tom passing is 0.3. Hence, the probability of Tom not passing is 1 \u0026#x2212; 0.3 \u0026#x003D; 0.7.The probability of John passing is 0.4. Hence, the probability of John not passing is 1\u0026#x2212; 0.4 \u0026#x003D; 0.6.At least one of Tom and John passes in all the cases except when both do not pass.Hence,The probability of at least one passing \u0026#x003D;1 \u0026#x2212; (the probability of neither passing) \u0026#x003D;1 \u0026#x2212; (The probability of Tom not passing) \u0026#x00D7; (The probability of John not passing) \u0026#x003D;1\u0026#x2212;0.7\u0026#x00D7;0.6 \u0026#x003D;1 \u0026#x2212; 0.42 \u0026#x003D;0.58The answer is (D).",
+      "answers": [
+        {
+          "answerId": 18185,
+          "orderNum": 1,
+          "text": " 0.28 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18186,
+          "orderNum": 2,
+          "text": " 0.32 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18187,
+          "orderNum": 3,
+          "text": " 0.5 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18188,
+          "orderNum": 4,
+          "text": " 0.58 ",
+          "result": "Correct"
+        },
+        {
+          "answerId": 18189,
+          "orderNum": 5,
+          "text": " 0.82 ",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "A national math examination has 4 statistics problems. The distribution of the number of students who answered the questions correctly is shown in the chart. If 400 students took the exam and each question was worth 25 points, then what is the average score of the students taking the exam?\u003cbr\u003e\u003cimg src\u003d\"9781889057705_336-1.png\" alt\u003d\"\"/\u003e",
+      "orderNum": 22,
+      "questionOrderNum": 22,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3305,
+      "count": 5,
+      "solution": "The average score of the students is equal to the net score of all the students divided by the number of students. The number of students is 400 (given). Now, let\u0026#x2019;s calculate the net score. Each question carries 25 points, the first question is solved by 200 students, the second one by 304 students, the third one by 350 students, and the fourth one by 200 students. Hence, the net score of all the students is\u003c/p\u003e\u003cimg src\u003d\"9781889057705_341-1.png\" alt\u003d\"\"/\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eHence, the average score equals\u003c/p\u003e\u003cimg src\u003d\"9781889057705_341-2.png\" alt\u003d\"\"/\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eThe answer is (D).",
+      "answers": [
+        {
+          "answerId": 18190,
+          "orderNum": 1,
+          "text": " 1 point",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18191,
+          "orderNum": 2,
+          "text": " 25 points",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18192,
+          "orderNum": 3,
+          "text": " 26 points",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18193,
+          "orderNum": 4,
+          "text": " 69 points",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 18194,
+          "orderNum": 5,
+          "text": " 263.5 points",
+          "result": "Correct"
+        }
+      ]
+    }
+  ],
+  "applications": []
+}

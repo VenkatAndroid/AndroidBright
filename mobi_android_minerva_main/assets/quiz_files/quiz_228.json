@@ -1,0 +1,266 @@
+{
+  "quizId": 228,
+  "name": "Problem Set O (GMAT MATH)",
+  "description": "",
+  "questions": [
+    {
+      "text": " If \u0026#x007C;x\u0026#x007C; \u0026#x2260;\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_frac12.png\" alt\u003d\"\"/\u003e, then\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_249-png\" alt\u003d\"\"/\u003e",
+      "orderNum": 1,
+      "questionOrderNum": 1,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3190,
+      "count": 5,
+      "solution": " Applying the Difference of Squares Formula \u003cem\u003ea\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x2212;b\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; (a \u0026#x002B; b)(a - b\u003c/em\u003e) to the given expression yields\u003cp class\u003d\"paran10\"\u003e\u003cimg src\u003d\"9781889057705_250-png\" alt\u003d\"\"/\u003eThe answer is (A).",
+      "answers": [
+        {
+          "answerId": 17635,
+          "orderNum": 1,
+          "text": " \u0026#x2212;2",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17636,
+          "orderNum": 2,
+          "text": " \u0026#x2212;1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17637,
+          "orderNum": 3,
+          "text": " 0",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17638,
+          "orderNum": 4,
+          "text": " 2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17639,
+          "orderNum": 5,
+          "text": " 4",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " If \u003cem\u003eb\u003c/em\u003e \u0026#x003D; \u003cem\u003ea\u003c/em\u003e\u0026#x002B; \u003cem\u003ec\u003c/em\u003e and \u003cem\u003eb\u003c/em\u003e \u0026#x003D; 3, then \u003cem\u003eab\u003c/em\u003e \u0026#x002B; \u003cem\u003ebc\u003c/em\u003e \u003d",
+      "orderNum": 2,
+      "questionOrderNum": 2,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3191,
+      "count": 5,
+      "solution": " Factoring the common factor \u003cem\u003eb\u003c/em\u003e from the expression \u003cem\u003eab \u0026#x002B; bc\u003c/em\u003e yields \u003cem\u003eb(a \u0026#x002B; c) \u0026#x003D; b \u0026#x00B7; b\u003c/em\u003e [since \u003cem\u003ea \u0026#x002B; c \u0026#x003D; b] \u0026#x003D; b\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D;\u003c/em\u003e 3\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; 9. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 17640,
+          "orderNum": 1,
+          "text": " \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_root_3.png\" alt\u003d\"/\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17641,
+          "orderNum": 2,
+          "text": " 3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17642,
+          "orderNum": 3,
+          "text": " 3\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_root_3.png\" alt\u003d\"/\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17643,
+          "orderNum": 4,
+          "text": " 9",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17644,
+          "orderNum": 5,
+          "text": " 27",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_249-2.png\" alt\u003d\"\"/\u003e",
+      "orderNum": 3,
+      "questionOrderNum": 3,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3192,
+      "count": 5,
+      "solution": " \u003cimg src\u003d\"9781889057705_250-2.png\" alt\u003d\"\"/\u003eThe answer is (D).",
+      "answers": [
+        {
+          "answerId": 17645,
+          "orderNum": 1,
+          "text": " 0",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17646,
+          "orderNum": 2,
+          "text": " 5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17647,
+          "orderNum": 3,
+          "text": " 12.5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17648,
+          "orderNum": 4,
+          "text": " 25",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17649,
+          "orderNum": 5,
+          "text": " 50",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " If a \u0026#x003D; 49 and b \u0026#x003D; 59, then \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_249-3.png\" alt\u003d\"\"/\u003e",
+      "orderNum": 4,
+      "questionOrderNum": 4,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3193,
+      "count": 5,
+      "solution": " Applying the Difference of Squares Formula \u003cem\u003ea\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x2212;b\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D;(a\u0026#x002B;b)(a-b\u003c/em\u003e) to the given expression yields\u003cp class\u003d\"paran10\"\u003e\u003cimg src\u003d\"9781889057705_250-3.png\" alt\u003d\"\"/\u003eThe answer is (E).",
+      "answers": [
+        {
+          "answerId": 17650,
+          "orderNum": 1,
+          "text": " 39/49",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17651,
+          "orderNum": 2,
+          "text": " 37/45",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17652,
+          "orderNum": 3,
+          "text": " 59",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17653,
+          "orderNum": 4,
+          "text": " 108",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17654,
+          "orderNum": 5,
+          "text": " 118",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " If x \u0026#x2212; 3 \u0026#x003D; 10/x and x \u0026#x003E; 0, then what is the value of x ?",
+      "orderNum": 5,
+      "questionOrderNum": 5,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3194,
+      "count": 5,
+      "solution": " We have the equation x \u0026#x2212; 3 \u0026#x003D; 10/x. Multiplying the equation by x yields x\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x2212; 3x \u0026#x003D; 10. Subtracting 10 from both sides yields x\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e\u0026#x2212;3x\u0026#x2212;10 \u0026#x003D; 0. Factoring the equation yields (x \u0026#x2212; 5)(x \u0026#x002B; 2) \u0026#x003D; 0. The possible solutions are 5 and \u0026#x2212;2. The only solution that also satisfies the given inequality x \u0026#x003E; 0 isx \u0026#x003D;  The answer is (D).",
+      "answers": [
+        {
+          "answerId": 29302,
+          "orderNum": 1,
+          "text": "\u0026#x2212;2",
+          "result": "Correct"
+        },
+        {
+          "answerId": 29303,
+          "orderNum": 2,
+          "text": "\u0026#x2212;1",
+          "result": "INCORRECT"
+        },
+        {
+          "answerId": 17655,
+          "orderNum": 3,
+          "text": " 3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17656,
+          "orderNum": 4,
+          "text": " 5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17657,
+          "orderNum": 5,
+          "text": " 10",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " If x\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e\u0026#x2212;4x \u0026#x002B; 3 \u0026#x003D; 0, then what is the value of (x \u0026#x2212; 2)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e ?",
+      "orderNum": 6,
+      "questionOrderNum": 6,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3195,
+      "count": 5,
+      "solution": "Adding 1 to both sides of the given equation x\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x2212; 4x\u0026#x002B; 3 \u0026#x003D; 0 yields x\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e\u0026#x2212;4x \u0026#x002B; 4\u0026#x003D; 1. Expanding (x \u0026#x2212; 2)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e by the Difference of Squares formula (\u003cem\u003ea \u0026#x2212; b)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; a\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x2212; 2 ab \u0026#x002B; b\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e\u003c/em\u003e yields x\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e\u0026#x2212;4x \u0026#x002B; 2\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e\u0026#x003D; x\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e\u0026#x2212;4x \u0026#x002B; 4\u0026#x003D;l. Hence, (x \u0026#x2212; 2)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; 1, and the answer is (C).",
+      "answers": [
+        {
+          "answerId": 17658,
+          "orderNum": 1,
+          "text": " \u0026#x2212;1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17659,
+          "orderNum": 2,
+          "text": " 0",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17660,
+          "orderNum": 3,
+          "text": " 1",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17661,
+          "orderNum": 4,
+          "text": " 3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17662,
+          "orderNum": 5,
+          "text": " 4 ",
+          "result": "Wrong"
+        }
+      ]
+    }
+  ],
+  "applications": []
+}

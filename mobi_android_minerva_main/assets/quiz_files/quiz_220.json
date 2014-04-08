@@ -1,0 +1,438 @@
+{
+  "quizId": 220,
+  "name": "Problem Set G (GMAT MATH)",
+  "description": "",
+  "questions": [
+    {
+      "text": " The slope of the line \u003cem\u003e2x + y\u003c/em\u003e \u003d 3 is NOT the same as the slope of which one of the following lines?",
+      "orderNum": 1,
+      "questionOrderNum": 1,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3096,
+      "count": 5,
+      "solution": " The slope of the line \u003cem\u003e2x + y\u003c/em\u003e \u003d 3 is NOT the same as the slope of which one of the following lines?(A) \u003cem\u003e2x + y \u003d 5\u003c/em\u003e(B) \u003cem\u003ex\u003c/em\u003e + \u003cem\u003ey\u003c/em\u003e/2 \u003d 3(C) \u003cem\u003ex\u003c/em\u003e \u003d \u0026#x2212;\u003cem\u003ey\u003c/em\u003e/2 \u0026#x2212; 3(D) \u003cem\u003ey\u003c/em\u003e \u003d 7 \u0026#x2212; \u003cem\u003e2x\u003c/em\u003e(E) \u003cem\u003ex\u003c/em\u003e + 2\u003cem\u003ey\u003c/em\u003e\u003d9The slope of a line expressed as \u003cem\u003ey\u003c/em\u003e \u003d \u003cem\u003emx + b\u003c/em\u003e is \u003cem\u003em.\u003c/em\u003e Expressing the given line 2\u003cem\u003ex\u003c/em\u003e + \u003cem\u003ey\u003c/em\u003e \u003d 3 in that format yields \u003cem\u003ey\u003c/em\u003e \u003d \u0026#x2212;2\u003cem\u003ex\u003c/em\u003e + 3. Hence, the slope is \u0026#x2212;2, the coefficient of \u003cem\u003ex.\u003c/em\u003e Let\u0026#x2019;s express each line in the form \u003cem\u003ey\u003c/em\u003e \u003d \u003cem\u003emx + b\u003c/em\u003e and pick the line whose slope is not \u0026#x2212;2.\u003cimg src\u003d\"9781889057705_164-png\" alt\u003d\"\"/\u003eThe answer is (E).",
+      "answers": [
+        {
+          "answerId": 17168,
+          "orderNum": 1,
+          "text": " \u003cem\u003e2x\u003c/em\u003e + \u003cem\u003ey\u003c/em\u003e \u003d 5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17169,
+          "orderNum": 2,
+          "text": " \u003cem\u003ex\u003c/em\u003e + \u003cem\u003ey/2\u003c/em\u003e \u003d 3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17170,
+          "orderNum": 3,
+          "text": " \u003cem\u003ex \u003d \u0026#x2212;y/2 \u0026#x2212;\u003c/em\u003e 3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17171,
+          "orderNum": 4,
+          "text": " \u003cem\u003ey\u003c/em\u003e \u003d 7 \u0026#x2212; \u003cem\u003e2x\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17172,
+          "orderNum": 5,
+          "text": " \u003cem\u003ex + 2y \u003d 9\u003c/em\u003e",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " What is the slope of the line passing through (\u0026#x2212;3, \u0026#x2212;4) and the origin?\u003cp\u003e\u003cp class\u003d\"paran\"\u003e(A) 3/7",
+      "orderNum": 2,
+      "questionOrderNum": 2,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3097,
+      "count": 5,
+      "solution": " What is the slope of the line passing through (\u0026#x2212;3, \u0026#x2212;4) and the origin?(A) 3/7(B) 4/7(C) 3/4(D) 1(E) 4/3The formula for the slope of a line passing through two points (\u003cem\u003ex\u003csub class\u003d\"frac\"\u003e1\u003c/sub\u003e\u003c/em\u003e, \u003cem\u003ey\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e1\u003c/sub\u003e) and (\u003cem\u003ex\u003csub class\u003d\"frac\"\u003e2\u003c/sub\u003e\u003c/em\u003e, \u003cem\u003ey\u003csub class\u003d\"frac\"\u003e2\u003c/sub\u003e\u003c/em\u003e) is \u003cimg src\u003d\"9781889057705_164-png\" alt\u003d\"\"/\u003e. Hence, the slope of the line through (\u0026#x2212;3, \u0026#x2212;4) and the origin (0, 0) is \u003cimg src\u003d\"9781889057705_164-3.png\" alt\u003d\"\"/\u003e. The answer is (E).",
+      "answers": [
+        {
+          "answerId": 29299,
+          "orderNum": 1,
+          "text": "3/7",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17173,
+          "orderNum": 2,
+          "text": " 4/7",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17174,
+          "orderNum": 3,
+          "text": " 3/4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17175,
+          "orderNum": 4,
+          "text": " 1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17176,
+          "orderNum": 5,
+          "text": " 4/3",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " \u003cimg src\u003d\"9781889057705_160-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003eIn the coordinate system shown, if (\u003cem\u003eb, a\u003c/em\u003e) lies in Quadrant III, then in which quadrant can the point (\u003cem\u003ea, b\u003c/em\u003e) lie?",
+      "orderNum": 3,
+      "questionOrderNum": 3,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3098,
+      "count": 5,
+      "solution": " In the coordinate system shown, if (\u003cem\u003eb, a\u003c/em\u003e) lies in Quadrant III, then in which quadrant can the point (\u003cem\u003ea\u003c/em\u003e, \u003cem\u003eb\u003c/em\u003e) lie?(A) I only(B) II only(C) III only(D) IV only(E) In any one of the four quadrants.We are given that the point (\u003cem\u003eb, a\u003c/em\u003e) lies in Quadrant III. In this quadrant, both \u003cem\u003ex-\u003c/em\u003e and \u003cem\u003ey\u003c/em\u003e-coordinates are negative. So, both \u003cem\u003eb\u003c/em\u003e and \u003cem\u003ea\u003c/em\u003e are negative. So, the point (\u003cem\u003ea\u003c/em\u003e, \u003cem\u003eb\u003c/em\u003e) also lies in the same quadrant (since both \u003cem\u003ex-\u003c/em\u003e and \u003cem\u003ey\u003c/em\u003e-coordinates are again negative).\u003cimg src\u003d\"9781889057705_166-1.png\" alt\u003d\"\"/\u003e Hence, the answer is (C).",
+      "answers": [
+        {
+          "answerId": 17177,
+          "orderNum": 1,
+          "text": " I only",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17178,
+          "orderNum": 2,
+          "text": " II only",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17179,
+          "orderNum": 3,
+          "text": " III only",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17180,
+          "orderNum": 4,
+          "text": " IV only",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17181,
+          "orderNum": 5,
+          "text": " In any one of the four quadrants.",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " In the figure, the point \u003cem\u003eA(m, n\u003c/em\u003e) lies in Quadrant II as shown. In which region is the point \u003cem\u003eB(n, m\u003c/em\u003e)?",
+      "orderNum": 4,
+      "questionOrderNum": 4,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3099,
+      "count": 5,
+      "solution": " In the figure, the point \u003cem\u003eA(m, n\u003c/em\u003e) lies in Quadrant II as shown. In which region is the point \u003cem\u003eB(n, m\u003c/em\u003e) ?(A) Quadrant I(B) Quadrant II(C) Quadrant II(D) Quadrant IV(E) On the \u003cem\u003ex\u003c/em\u003e-axisSince point \u003cem\u003eA(m, n\u003c/em\u003e) is in Quadrant II, the \u003cem\u003ex\u003c/em\u003e-coordinate \u003cem\u003em\u003c/em\u003e is negative and the \u003cem\u003ey\u003c/em\u003e-coordinate \u003cem\u003en\u003c/em\u003e is positive.Hence, in point \u003cem\u003eB(n, m),\u003c/em\u003e the \u003cem\u003ex\u003c/em\u003e-coordinate is positive, and the \u003cem\u003ey\u003c/em\u003e-coordinate is negative. So, point \u003cem\u003eB\u003c/em\u003e must be in Quadrant IV. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 17182,
+          "orderNum": 1,
+          "text": " Quadrant I",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17183,
+          "orderNum": 2,
+          "text": " Quadrant II",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17184,
+          "orderNum": 3,
+          "text": " Quadrant II",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17185,
+          "orderNum": 4,
+          "text": " Quadrant IV",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17186,
+          "orderNum": 5,
+          "text": " On the \u003cem\u003ex\u003c/em\u003e-axis",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " \u003cimg src\u003d\"9781889057705_161-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003eWhich of the following statements is true about the line segment with endpoints (\u0026#x2212;1, 1) and (1,\u0026#x2212;1)?",
+      "orderNum": 5,
+      "questionOrderNum": 5,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3100,
+      "count": 5,
+      "solution": " Which of the following statements is true about the line segment with endpoints (\u0026#x2212;1, 1) and (1,\u0026#x2212;1)?(A) Crosses the \u003cem\u003ex\u003c/em\u003e-axis only.(B) Crosses the \u003cem\u003ey\u003c/em\u003e-axis only.(C) Crosses the \u003cem\u003ey\u003c/em\u003e-axis on its positive side.(D) Passes through the origin (0, 0)(E) Crosses the \u003cem\u003ex-\u003c/em\u003e and \u003cem\u003ey\u003c/em\u003e-axes on their negative sides.Locating the points (\u0026#x2212;1, 1) and (1, \u0026#x2212;1) on the \u003cem\u003exy\u003c/em\u003e-plane gives\u003cimg src\u003d\"9781889057705_167-1.png\" alt\u003d\"\"/\u003eThe midpoint of two points is given by(Half the sum of the \u003cem\u003ex\u003c/em\u003e-coordinates of the two points, Half the sum of the \u003cem\u003ey-\u003c/em\u003ecoordinates of the two points)Hence, the midpoint of \u003cem\u003eA\u003c/em\u003e and \u003cem\u003eB\u003c/em\u003e is \u003cimg src\u003d\"9781889057705_167-2.png\" alt\u003d\"\"/\u003e.Hence, the line-segment passes through the origin.\u003cimg src\u003d\"9781889057705_168-1.png\" alt\u003d\"\"/\u003e The answer is (D).",
+      "answers": [
+        {
+          "answerId": 17187,
+          "orderNum": 1,
+          "text": " Crosses the \u003cem\u003ex\u003c/em\u003e-axis only.",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17188,
+          "orderNum": 2,
+          "text": " Crosses the \u003cem\u003ey\u003c/em\u003e-axis only.",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17189,
+          "orderNum": 3,
+          "text": " Crosses the \u003cem\u003ey\u003c/em\u003e-axis on its positive side.",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17190,
+          "orderNum": 4,
+          "text": " Passes through the origin (0, 0).",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17191,
+          "orderNum": 5,
+          "text": " Crosses the \u003cem\u003ex-\u003c/em\u003e and \u003cem\u003ey\u003c/em\u003e-axes on their negative sides.",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " If point \u003cem\u003eA(\u0026#x2212;m, n\u003c/em\u003e) is in Quadrant I, then where is point \u003cem\u003eB(m, n\u003c/em\u003e) located?",
+      "orderNum": 6,
+      "questionOrderNum": 6,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3101,
+      "count": 5,
+      "solution": "If point \u003cem\u003eA(\u0026#x2212;m, n\u003c/em\u003e) is in Quadrant I, then where is point \u003cem\u003eB(m, n\u003c/em\u003e) located?(A) Quadrant I(B) Quadrant II(C) Quadrant III(D) Quadrant IV(E) OriginWe have that the point \u003cem\u003eA(-m, n\u003c/em\u003e) lies in the first quadrant. In the first quadrant, both \u003cem\u003ex-\u003c/em\u003e and \u003cem\u003ey\u003c/em\u003e-coordinates are positive. Hence, \u003cem\u003e-m\u003c/em\u003e is positive, and \u003cem\u003en\u003c/em\u003e is positive. Hence, \u003cem\u003em\u003c/em\u003e must be negative. Hence, point \u003cem\u003eB(m, n) \u003d\u003c/em\u003e (a negative number, a positive number). The \u003cem\u003ex\u003c/em\u003e-coordinate is negative and \u003cem\u003ey\u003c/em\u003e-coordinate is positive only in Quadrant II. Hence, point \u003cem\u003eB\u003c/em\u003e lies in Quadrant II. The answer is (B).",
+      "answers": [
+        {
+          "answerId": 17192,
+          "orderNum": 1,
+          "text": " Quadrant I ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17193,
+          "orderNum": 2,
+          "text": " Quadrant II ",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17194,
+          "orderNum": 3,
+          "text": " Quadrant II ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17195,
+          "orderNum": 4,
+          "text": " Quadrant IV ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17196,
+          "orderNum": 5,
+          "text": " Origin",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " \u003cimg src\u003d\"9781889057705_162-2.png\" alt\u003d\"\"/\u003e\u003cbr\u003eIn the figure, the horizontal and vertical lines divide the square \u003cem\u003eABCD\u003c/em\u003e into 16 equal squares as shown. What is the area of the shaded region?",
+      "orderNum": 7,
+      "questionOrderNum": 7,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3102,
+      "count": 5,
+      "solution": " In the figure, the horizontal and vertical lines divide the square \u003cem\u003eABCD\u003c/em\u003e into 16 equal squares as shown. What is the area of the shaded region?(A) 4(B) 4.5(C) 5(D) 6.5(E) 7Since each side of the larger square measures 4 units and is divided by the four horizontal lines, the distance between any two adjacent horizontal lines must be 1 unit (\u003d 4 units/4). Similarly, the larger square is divided into four vertical lines in the figure and any two adjacent lines are separated by 1 unit (\u003d 4 units/4)\u003cimg src\u003d\"9781889057705_169-2.png\" alt\u003d\"\"/\u003eThe shaded region can be divided into two sub-regions by the line \u003cem\u003eFE,\u003c/em\u003e forming \u003cem\u003e\u0026#x0394;FPE\u003c/em\u003e and \u003cem\u003e\u0026#x0394;FQE.\u003c/em\u003eNow, the line-segment \u003cem\u003eFE\u003c/em\u003e is spread across the two opposite sides of the larger square and measures 4 units. The altitude to it, shown in the bottom triangle, is spread vertically across the three horizontal segments and therefore measures 3 units.Hence, the area of the lower triangle \u003d 1/2 \u0026#x00D7; \u003cem\u003ebase\u003c/em\u003e \u0026#x00D7; \u003cem\u003eheight\u003c/em\u003e \u003d 1/2\u0026#x00D7;4\u0026#x00D7;3 \u003d 6.The shaded region above the line \u003cem\u003eFE\u003c/em\u003e is one of the four sections formed by the two diagonals of the rectangle \u003cem\u003eABEF\u003c/em\u003e and therefore its area must equal one-fourth the area of rectangle \u003cem\u003eABEF.\u003c/em\u003e The area of rectangle \u003cem\u003eABEF\u003c/em\u003e is \u003cem\u003elength\u003c/em\u003e \u0026#x00D7; \u003cem\u003ewidth \u003d FE\u003c/em\u003e \u0026#x00D7; \u003cem\u003eAF\u003c/em\u003e \u003d 4\u0026#x00D7;1 \u003d 4. Hence, the area of the shaded region above the line \u003cem\u003eFE\u003c/em\u003e is 1/4\u0026#x00D7;4\u003d 1.Summing the areas of the two shaded regions yields the area of the total shaded region: 1 \u0026#x002B; 6 \u003d  The answer is (E).",
+      "answers": [
+        {
+          "answerId": 17197,
+          "orderNum": 1,
+          "text": " 4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17198,
+          "orderNum": 2,
+          "text": " 4.5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17199,
+          "orderNum": 3,
+          "text": " 5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17200,
+          "orderNum": 4,
+          "text": " 6.5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17201,
+          "orderNum": 5,
+          "text": " 7",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " \u003cimg src\u003d\"9781889057705_163-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003eAll the lines in the rectangular coordinate system shown in the figure are either horizontal or vertical with respect to the \u003cem\u003ex\u003c/em\u003e-axis. What is the area of the figure \u003cem\u003eABCDEFGH\u003c/em\u003e ?",
+      "orderNum": 8,
+      "questionOrderNum": 8,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3103,
+      "count": 5,
+      "solution": " All the lines in the rectangular coordinate system shown in the figure are either horizontal or vertical with respect to the \u003cem\u003ex\u003c/em\u003e-axis. What is the area of the figure \u003cem\u003eABCDEFGH\u003c/em\u003e ?(A) 15(B) 15.5(C) 16(D) 16.5(E) 17Drop a vertical line from \u003cem\u003eC\u003c/em\u003e on to the side \u003cem\u003eGH\u003c/em\u003e (to meet at, say, \u003cem\u003eP\u003c/em\u003e), and draw a horizontal line from \u003cem\u003eG\u003c/em\u003e on to the side \u003cem\u003eDE\u003c/em\u003e (to meet at, say, \u003cem\u003eQ\u003c/em\u003e). The resultant figure is as follows:\u003cimg src\u003d\"9781889057705_170-2.png\" alt\u003d\"\"/\u003eSince the point \u003cem\u003eP\u003c/em\u003e is horizontal to the point \u003cem\u003eH\u003c/em\u003e, its \u003cem\u003ey\u003c/em\u003e-coordinate equals the \u003cem\u003ey\u003c/em\u003e-coordinate of \u003cem\u003eH\u003c/em\u003e, which is 3. Also, since \u003cem\u003eP\u003c/em\u003e is vertical to the point \u003cem\u003eC\u003c/em\u003e, its \u003cem\u003ex\u003c/em\u003e-coordinate equals the \u003cem\u003ex\u003c/em\u003e-coordinate of the point \u003cem\u003eC\u003c/em\u003e, which is 4. Hence, the point \u003cem\u003eP\u003c/em\u003e is (4, 3)Similarly, the point \u003cem\u003eQ\u003c/em\u003e is vertical to the point \u003cem\u003eD\u003c/em\u003e and therefore its \u003cem\u003ex\u003c/em\u003e-coordinate equals the \u003cem\u003ex\u003c/em\u003e-coordinate of \u003cem\u003eD\u003c/em\u003e, which is 7. Also, the point \u003cem\u003eQ\u003c/em\u003e is horizontal to the point \u003cem\u003eH\u003c/em\u003e and therefore takes its \u003cem\u003ey\u003c/em\u003e-coordinate. Hence, the point \u003cem\u003eQ\u003c/em\u003e is (7, 3)Now, the shaded region in the given figure is the sum of the three rectangles \u003cem\u003eABPH, CDQP,\u003c/em\u003e and \u003cem\u003eGQEF\u003c/em\u003e.The area of the rectangle \u003cem\u003eABPH\u003c/em\u003e is \u003cem\u003elength \u0026#x00B7; width \u003d\u003c/em\u003e\u003cp class\u003d\"para101\"\u003e\u003cem\u003eBP \u0026#x00B7; AB \u003d\u003c/em\u003e\u003cp class\u003d\"para101\"\u003e(Difference in \u003cem\u003ey\u003c/em\u003e-coordinates of \u003cem\u003eB\u003c/em\u003e and \u003cem\u003eP\u003c/em\u003e) \u0026#x00B7; (Difference in \u003cem\u003ex\u003c/em\u003e-coordinates of \u003cem\u003eA\u003c/em\u003e and \u003cem\u003eB\u003c/em\u003e) \u003d\u003cp class\u003d\"para101\"\u003e(7\u0026#x2212;3)(4\u0026#x00D7;2) \u003d\u003cp class\u003d\"para101\"\u003e4 \u0026#x00B7; 2 \u003d\u003cp class\u003d\"para101\"\u003e8The area of the rectangle \u003cem\u003eCDQP\u003c/em\u003e is \u003cem\u003elength \u0026#x00B7; width \u003d\u003c/em\u003e\u003cp class\u003d\"para101\"\u003e\u003cem\u003eCD \u0026#x00B7; DQ \u003d\u003c/em\u003e\u003cp class\u003d\"para101\"\u003e(Difference in \u003cem\u003ex\u003c/em\u003e-coordinates of \u003cem\u003eC\u003c/em\u003e and \u003cem\u003eD\u003c/em\u003e) \u0026#x00B7; (Difference in \u003cem\u003ey\u003c/em\u003e-coordinates of \u003cem\u003eD\u003c/em\u003e and \u003cem\u003eQ\u003c/em\u003e) \u003d\u003cp class\u003d\"para101\"\u003e(7\u0026#x2212;4)(5\u0026#x2212;3) \u003d\u003cp class\u003d\"para101\"\u003e3 \u0026#x00B7; 2 \u003d\u003cp class\u003d\"para101\"\u003e6The area of the rectangle \u003cem\u003eGQEF\u003c/em\u003e is \u003cem\u003elength \u0026#x00B7; width \u003d\u003c/em\u003e\u003cp class\u003d\"para101\"\u003e\u003cem\u003eGQ \u0026#x00B7; QE \u003d\u003c/em\u003e\u003cp class\u003d\"para101\"\u003e(Difference in \u003cem\u003ex\u003c/em\u003e-coordinates of \u003cem\u003eG\u003c/em\u003e and \u003cem\u003eQ) ?\u003c/em\u003e (Difference in \u003cem\u003ey\u003c/em\u003e-coordinates of \u003cem\u003eQ\u003c/em\u003e and \u003cem\u003eE) \u003d\u003c/em\u003e\u003cp class\u003d\"para101\"\u003e(7\u0026#x2212;6)(3\u0026#x2212;0) \u003d\u003cp class\u003d\"para101\"\u003e1 \u0026#x00B7; 3 \u003d\u003cp class\u003d\"para101\"\u003e3\u003cimg src\u003d\"9781889057705_172-1.png\" alt\u003d\"\"/\u003eHence, the total area is 8 \u0026#x002B; 6 \u0026#x002B; 3 \u003d 17 sq. units. The answer is (E).",
+      "answers": [
+        {
+          "answerId": 17202,
+          "orderNum": 1,
+          "text": " 15",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17203,
+          "orderNum": 2,
+          "text": " 15.5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17204,
+          "orderNum": 3,
+          "text": " 16",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17205,
+          "orderNum": 4,
+          "text": " 16.5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17206,
+          "orderNum": 5,
+          "text": " 17",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " In the rectangular coordinate plane shown, what are the coordinates of point \u003cem\u003eE\u003c/em\u003e",
+      "orderNum": 9,
+      "questionOrderNum": 9,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3104,
+      "count": 5,
+      "solution": " In the rectangular coordinate plane shown, what are the coordinates of point \u003cem\u003eE\u003c/em\u003e?(A) (2,0)(B) (2,3)(C) (6,2)(D) (6,6)(E) (6,8)From the figure, since \u003cem\u003eEC\u003c/em\u003e is perpendicular to the \u003cem\u003ex\u003c/em\u003e-axis, \u003cem\u003eC\u003c/em\u003e is a point vertically below point \u003cem\u003eB\u003c/em\u003e. Hence, both have the same \u003cem\u003ex\u003c/em\u003e-coordinate.The line \u003cem\u003eAC\u003c/em\u003e is horizontal and therefore its length equals the x-coordinate difference of \u003cem\u003eA\u003c/em\u003e and \u003cem\u003eC\u003c/em\u003e, which equals 6\u0026#x2212;0 \u003d 6.The line \u003cem\u003eDC\u003c/em\u003e is horizontal and therefore its length equals the x-coordinate difference of \u003cem\u003eD\u003c/em\u003e and \u003cem\u003eC\u003c/em\u003e, which is 6\u0026#x2212;2 \u003d 4.The length of the vertical line \u003cem\u003eBC\u003c/em\u003e equals the \u003cem\u003ey\u003c/em\u003e-coordinate difference of \u003cem\u003eB\u003c/em\u003e and \u003cem\u003eC\u003c/em\u003e, which is 3 \u0026#x2212; 0 \u003d 3.The length of the vertical line \u003cem\u003eEC\u003c/em\u003e equals the \u003cem\u003ey\u003c/em\u003e-coordinate difference of \u003cem\u003eE\u003c/em\u003e and \u003cem\u003eC\u003c/em\u003e.Now, in \u003cem\u003e\u0026#x0394;ABC, \u0026#x2220;A \u003d a\u0026#x00B0;, \u0026#x2220;B\u003c/em\u003e \u003d 90\u0026#x00B0; \u0026#x2212; \u003cem\u003ea\u0026#x00B0;\u003c/em\u003e, and \u003cem\u003e\u0026#x2220;C\u003c/em\u003e \u003d 90\u0026#x00B0;. The sides opposite angles \u003cem\u003eA\u003c/em\u003e and \u003cem\u003eB\u003c/em\u003e are in the ratio \u003cem\u003eBC/AC\u003c/em\u003e \u003d 3/6 \u003d 1/2.Similarly, in \u003cem\u003e\u0026#x0394;DEC, \u0026#x2220;E \u003d a\u0026#x00B0;, \u0026#x2220;D\u003c/em\u003e \u003d 90\u0026#x00B0; \u0026#x2212; \u003cem\u003ea\u0026#x00B0;\u003c/em\u003e, and \u003cem\u003e\u0026#x2220;C\u003c/em\u003e \u003d 90\u0026#x00B0; (So, \u003cem\u003eABC\u003c/em\u003e and \u003cem\u003eDEC\u003c/em\u003e are similar triangles and their corresponding sides are proportional). Hence, the sides opposite angles \u003cem\u003eE\u003c/em\u003e and \u003cem\u003eD\u003c/em\u003e are in the ratio \u003cem\u003eDC/EC\u003c/em\u003e \u003d 1/2. Hence, we have\u003cp class\u003d\"para101\"\u003e\u003cem\u003eDC/EC\u003c/em\u003e \u003d 1/2\u003cp class\u003d\"para101\"\u003e\u003cem\u003eEC \u003d 2DC\u003c/em\u003e\u003cp class\u003d\"para101\"\u003e\u003cem\u003eEC\u003c/em\u003e \u003d 2 \u0026#x00B7; 4 \u003d 8Hence, the \u003cem\u003ey\u003c/em\u003e-coordinate of point E is 8, and the answer is (E).",
+      "answers": [
+        {
+          "answerId": 17207,
+          "orderNum": 1,
+          "text": " (2,0)",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17208,
+          "orderNum": 2,
+          "text": " (2,3)",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17209,
+          "orderNum": 3,
+          "text": " (6,2)",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17210,
+          "orderNum": 4,
+          "text": " (6,6)",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17211,
+          "orderNum": 5,
+          "text": " (6,8)",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " \u003cimg src\u003d\"9781889057705_163-2.png\" alt\u003d\"\"/\u003e\u003cbr\u003eIn the rectangular coordinate system shown, points \u003cem\u003eA\u003c/em\u003e and \u003cem\u003eE\u003c/em\u003e lie on the \u003cem\u003ex\u003c/em\u003e-axis and the points \u003cem\u003eD\u003c/em\u003e and \u003cem\u003eB\u003c/em\u003e lie on the \u003cem\u003ey\u003c/em\u003e-axis. Point \u003cem\u003eC\u003c/em\u003e(\u0026#x2212;3, \u0026#x2212;5) is the midpoint of the line \u003cem\u003eAB,\u003c/em\u003e and point \u003cem\u003eF(3,\u003c/em\u003e 5) is the midpoint of the line \u003cem\u003eDE.\u003c/em\u003e Which of the following is true?\u003cbr\u003e(I) \u003cem\u003eAB\u003c/em\u003e is parallel to \u003cem\u003eDE\u003c/em\u003e\u003cbr\u003e(II) \u003cem\u003eAB \u003d DE\u003c/em\u003e\u003cbr\u003e(III) \u003cem\u003eAE \u003d DB\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e",
+      "orderNum": 10,
+      "questionOrderNum": 10,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3105,
+      "count": 5,
+      "solution": "In the rectangular coordinate system shown, points \u003cem\u003eA\u003c/em\u003e and \u003cem\u003eE\u003c/em\u003e lie on the \u003cem\u003ex\u003c/em\u003e-axis and the points \u003cem\u003eD\u003c/em\u003e and \u003cem\u003eB\u003c/em\u003e lie on the \u003cem\u003ey\u003c/em\u003e-axis. Point \u003cem\u003eC\u003c/em\u003e(\u0026#x2212;3, \u0026#x2212;5) is the midpoint of the line \u003cem\u003eAB\u003c/em\u003e, and point \u003cem\u003eF\u003c/em\u003e(3, 5) is the midpoint of the line \u003cem\u003eDE\u003c/em\u003e. Which of the following is true?\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003e(I) \u003cem\u003eAB\u003c/em\u003e is parallel to \u003cem\u003eDE\u003c/em\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003e(II) \u003cem\u003eAB \u003d DE\u003c/em\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003e(III) \u003cem\u003eAE \u003d DB\u003c/em\u003e\u003cbr/\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003e(A) I only\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003e(B) II only\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003e(C) III only\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003e(D) I and II only\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003e(E) II and III only\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003e\u003cimg src\u003d\"9781889057705_173-1.png\" alt\u003d\"\"/\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eLet the coordinate representations of points \u003cem\u003eA\u003c/em\u003e and \u003cem\u003eE\u003c/em\u003e (which are on the \u003cem\u003ex\u003c/em\u003e-axis) be (\u003cem\u003ea\u003c/em\u003e, 0), and (\u003cem\u003ee\u003c/em\u003e, 0), respectively. Also, let the representations of the points \u003cem\u003eB\u003c/em\u003e and \u003cem\u003eD\u003c/em\u003e (which are on the \u003cem\u003ey\u003c/em\u003e-axis) be (0, \u003cem\u003eb\u003c/em\u003e) and (0, \u003cem\u003ed\u003c/em\u003e), respectively.\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eThe formula for the midpoint of two points (\u003cem\u003ex\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e1\u003c/sub\u003e, \u003cem\u003ey\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e1\u003c/sub\u003e) and (\u003cem\u003ex\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e2\u003c/sub\u003e, \u003cem\u003ey\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e2\u003c/sub\u003e) in a coordinate system is \u003cimg src\u003d\"9781889057705_173-2.png\" alt\u003d\"\"/\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eHence, the midpoint of \u003cem\u003eAB\u003c/em\u003e is \u003cimg src\u003d\"9781889057705_173-3.png\" alt\u003d\"\"/\u003e. Equating the \u003cem\u003ex\u003c/em\u003e - and \u003cem\u003ey\u003c/em\u003e-coordinates on both sides yields a/2 \u003d -3 and \u003cem\u003eb\u003c/em\u003e/2 \u003d -5. Solving for \u003cem\u003ea\u003c/em\u003e and \u003cem\u003eb\u003c/em\u003e yields \u003cem\u003ea\u003c/em\u003e \u003d -6 and \u003cem\u003eb\u003c/em\u003e \u003d -10.\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eSimilarly, the midpoint of \u003cem\u003eDE\u003c/em\u003e is \u003cimg src\u003d\"9781889057705_173-4.png\" alt\u003d\"\"/\u003e. Equating the \u003cem\u003ex\u003c/em\u003e- and \u003cem\u003ey\u003c/em\u003e-coordinates on both sides yields \u003cem\u003ee\u003c/em\u003e/2 \u003d 3 and \u003cem\u003ed\u003c/em\u003e/2 \u003d 5. Solving for \u003cem\u003ee\u003c/em\u003e and\u003cem\u003ed\u003c/em\u003e yields \u003cem\u003ee\u003c/em\u003e \u003d 6 and \u003cem\u003ed\u003c/em\u003e \u003d 10.\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eThe slope of a line through two points (\u003cem\u003ex\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e1\u003c/sub\u003e \u003cem\u003ey\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e1\u003c/sub\u003e) and (\u003cem\u003ex\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e2\u003c/sub\u003e, \u003cem\u003ey\u003c/em\u003e\u003csub class\u003d\"frac\"\u003e2\u003c/sub\u003e) in a coordinate system is \u003cimg src\u003d\"9781889057705_173-5.png\" alt\u003d\"\"/\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eHence, the slope of the line \u003cimg src\u003d\"9781889057705_173-6.png\" alt\u003d\"\"/\u003e And the slope of the line \u003cimg src\u003d\"9781889057705_173-7.png\" alt\u003d\"\"/\u003e Since the slopes are equal, the lines \u003cem\u003eAB\u003c/em\u003e and \u003cem\u003eDE\u003c/em\u003e are parallel. Hence, \u003cstrong\u003eI\u003c/strong\u003e is true.\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eThe distance between two points in a rectangular coordinate system equals the square root of the sum of the squares of the differences between the \u003cem\u003ex\u003c/em\u003e- and \u003cem\u003ey\u003c/em\u003e-coordinates of the two points. Hence, \u003cem\u003eAB\u003c/em\u003e \u003d \u003cimg src\u003d\"9781889057705_174-1.png\" alt\u003d\"\"/\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eBy the same formula for the distance between two points, \u003cimg src\u003d\"9781889057705_174-2.png\" alt\u003d\"\"/\u003e Hence, \u003cem\u003eAE \u0026#x2260; BD\u003c/em\u003e and \u003cstrong\u003eIII\u003c/strong\u003e is false.\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eHence, only \u003cstrong\u003eI\u003c/strong\u003e and \u003cstrong\u003eII\u003c/strong\u003e are true, and the answer is (E)",
+      "answers": [
+        {
+          "answerId": 17212,
+          "orderNum": 1,
+          "text": " I only ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17213,
+          "orderNum": 2,
+          "text": " II only ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17214,
+          "orderNum": 3,
+          "text": " III only ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17215,
+          "orderNum": 4,
+          "text": " I and II only",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17216,
+          "orderNum": 5,
+          "text": " II and III only",
+          "result": "Correct"
+        }
+      ]
+    }
+  ],
+  "applications": []
+}

@@ -1,0 +1,223 @@
+{
+  "quizId": 215,
+  "name": "Problem Set B (GMAT MATH)",
+  "description": "Use the method of Plugging In to solve the following problems.",
+  "questions": [
+    {
+      "text": " If (\u003cem\u003ex\u003c/em\u003e \u0026#x2212; 3)(\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 2) \u0026#x003D; (x \u0026#x2212; 2)(x \u0026#x002B; 3), then \u003cem\u003ex\u003c/em\u003e \u0026#x003D;",
+      "orderNum": 1,
+      "questionOrderNum": 1,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2969,
+      "count": 5,
+      "solution": " If \u003cem\u003ex\u003c/em\u003e \u0026#x003D; 0, then the equation (\u003cem\u003ex\u003c/em\u003e \u0026#x2212; 3)(\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 2) \u0026#x003D; (\u003cem\u003ex\u003c/em\u003e \u0026#x2212; 2)(\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 3) becomes\u003cimg class\u003d\"mid\" src\u003d\"9781889057705_21-png\" alt\u003d\"\"/\u003eThe answer is (C).",
+      "answers": [
+        {
+          "answerId": 16543,
+          "orderNum": 1,
+          "text": " \u0026#x2212;3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16544,
+          "orderNum": 2,
+          "text": " \u0026#x2212;2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16545,
+          "orderNum": 3,
+          "text": " 0",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16546,
+          "orderNum": 4,
+          "text": " 2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16547,
+          "orderNum": 5,
+          "text": " 3",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " Which one of the following is the solution of the system of equations given\u003cimg class\u003d\"mid\" src\u003d\"9781889057705_20-1.png\" alt\u003d\"\"/\u003e?",
+      "orderNum": 2,
+      "questionOrderNum": 2,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2970,
+      "count": 5,
+      "solution": " The given system of equations is \u003cem\u003ex\u003c/em\u003e \u0026#x002B; 2\u003cem\u003ey\u003c/em\u003e \u0026#x003D; 7 and \u003cem\u003ex\u003c/em\u003e \u0026#x002B; \u003cem\u003ey\u003c/em\u003e \u0026#x003D; 4. Now, just substitute each answer-choice into the two equations and see which one works (start checking with the easiest equation, \u003cem\u003ex\u003c/em\u003e \u0026#x002B; \u003cem\u003ey\u003c/em\u003e \u0026#x003D; 4):Choice (A): \u003cem\u003ex\u003c/em\u003e \u0026#x003D; 3, \u003cem\u003ey\u003c/em\u003e \u0026#x003D; 2: Here, \u003cem\u003ex\u003c/em\u003e \u0026#x002B; \u003cem\u003ey\u003c/em\u003e \u0026#x003D; 3 \u0026#x002B; 2 \u0026#x003D; 5 \u0026#x2260; 4. Reject.Choice (B): \u003cem\u003ex\u003c/em\u003e\u003d 2, \u003cem\u003ey\u003c/em\u003e \u0026#x003D; 3: Here, \u003cem\u003ex\u003c/em\u003e \u0026#x002B; \u003cem\u003ey\u003c/em\u003e \u0026#x003D; 2 \u0026#x002B; 3 \u0026#x003D; 5 \u0026#x2260; 4. Reject.Choice (C): \u003cem\u003ex \u003d\u003c/em\u003e 1, \u003cem\u003ey \u003d\u003c/em\u003e 3: Here, \u003cem\u003ex\u003c/em\u003e + \u003cem\u003ey\u003c/em\u003e \u003d l \u0026#x002B; 3 \u003d 4 \u0026#x003D; 4, and \u003cem\u003ex\u003c/em\u003ex \u0026#x002B; 2\u003cem\u003ey\u003c/em\u003e \u003d 1 \u0026#x002B; 2(3) \u0026#x003D; 7. Correct.Choice(D): \u003cem\u003ex\u003c/em\u003e \u0026#x003D; 3, \u003cem\u003ey\u003c/em\u003e \u003d 1: Here,\u003cem\u003ex\u003c/em\u003e \u0026#x002B; \u003cem\u003ey\u003c/em\u003e \u0026#x003D; 3 + 1 \u0026#x003D; 4, but \u003cem\u003ex\u003c/em\u003e + \u003cem\u003e2y\u003c/em\u003e \u0026#x003D; 3 \u0026#x002B; 2(1) \u0026#x003D; 5 \u0026#x2260; 7. Reject.Choice (E): \u0026#x00D7; \u0026#x003D; 7,\u003cem\u003ey\u003c/em\u003e \u0026#x003D; 1: Here, \u003cem\u003ex\u003c/em\u003e \u0026#x002B; \u003cem\u003ey\u003c/em\u003e \u0026#x003D; 7+ 1 \u0026#x003D; 8 \u0026#x2260; 4. Reject.The answer is (C)\u003cp class\u003d\"extract\"\u003eMethod II (without substitution):In the system of equations, subtracting the bottom equation from the top one yields (\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 2\u003cem\u003ey\u003c/em\u003e) - (\u003cem\u003ex\u003c/em\u003e \u0026#x002B; \u003cem\u003ey\u003c/em\u003e) \u0026#x003D; 7 \u0026#x2212; 4, or \u003cem\u003ey\u003c/em\u003e \u0026#x003D; 3. Substituting this result in the bottom equation yields \u003cem\u003ex\u003c/em\u003e \u0026#x002B; 3 \u0026#x003D; 4. Solving the equation for \u003cem\u003ex\u003c/em\u003e yields \u003cem\u003ex\u003c/em\u003e \u0026#x003D; 1.\u003cp class\u003d\"extract\"\u003eThe answer is (C).",
+      "answers": [
+        {
+          "answerId": 16549,
+          "orderNum": 1,
+          "text": " \u003cem\u003ex\u003c/em\u003e \u003d 3, \u003cem\u003ey\u003c/em\u003e \u003d 2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16550,
+          "orderNum": 2,
+          "text": " \u003cem\u003ex\u003c/em\u003e \u003d 2, \u003cem\u003ey\u003c/em\u003e \u003d 3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16551,
+          "orderNum": 3,
+          "text": " \u003cem\u003ex\u003c/em\u003e \u003d 1, \u003cem\u003ey\u003c/em\u003e \u003d 3",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16552,
+          "orderNum": 4,
+          "text": " \u003cem\u003ex\u003c/em\u003e \u003d 3, \u003cem\u003ey\u003c/em\u003e \u003d 1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16553,
+          "orderNum": 5,
+          "text": " \u003cem\u003ex\u003c/em\u003e \u003d 7, \u003cem\u003ey\u003c/em\u003e \u003d 1",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " If \u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 4\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 3 is odd, then which one of the following could be the value of \u003cem\u003ex\u003c/em\u003e?",
+      "orderNum": 3,
+      "questionOrderNum": 3,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2971,
+      "count": 5,
+      "solution": " Let\u0026#x2019;s substitute the given choices for \u003cem\u003ex\u003c/em\u003e in the expression \u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 4\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 3 and find out which one results in an odd number.Choice (A): \u003cem\u003ex\u003c/em\u003e \u0026#x003D;  \u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 4\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 3 \u0026#x003D; 3\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 4(3) \u0026#x002B; 3 \u0026#x003D; 9 \u0026#x002B; 12 \u0026#x002B; 3 \u0026#x003D; 24, an even number. Reject.Choice (B): \u003cem\u003ex\u003c/em\u003e \u0026#x003D; 5. \u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 4\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 3 \u0026#x003D; 5\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 4(5) \u0026#x002B; 3 \u0026#x003D; 25 \u0026#x002B; 20 \u0026#x002B; 3 \u0026#x003D; 48, an even number. Reject.Choice (C): \u003cem\u003ex\u003c/em\u003e \u0026#x003D; 9. \u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 4\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 3 \u0026#x003D; 9\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 4(9) \u0026#x002B; 3 \u0026#x003D; 81 \u0026#x002B; 36 \u0026#x002B; 3 \u0026#x003D; 120, an even number. Reject.Choice (D): \u003cem\u003ex\u003c/em\u003e \u0026#x003D; 1 \u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 4\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 3 \u0026#x003D; 13\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 4(13) \u0026#x002B; 3 \u0026#x003D; 169 \u0026#x002B; 52 \u0026#x002B; 3 \u0026#x003D; 224, an even number. Reject.Choice (E): \u003cem\u003ex\u003c/em\u003e \u0026#x003D; 16. \u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 4\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 3 \u0026#x003D; 16\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 4(16) \u0026#x002B; 3 \u0026#x003D; 256 \u0026#x002B; 64 \u0026#x002B; 3 \u0026#x003D; 323, an odd number. Correct.The answer is (E)\u003cp class\u003d\"extract\"\u003eMethod II (without substitution):\u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 4\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 3 \u0026#x003D; An Odd Number\u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 4\u003cem\u003ex\u003c/em\u003e \u0026#x003D; An Odd Number \u0026#x2212; 3\u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 4\u003cem\u003ex\u003c/em\u003e \u0026#x003D; An Even Number\u003cem\u003ex\u003c/em\u003e(\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 4) \u0026#x003D; An Even Number. This happens only when \u003cem\u003ex\u003c/em\u003e is even. If \u003cem\u003ex\u003c/em\u003e is odd, \u003cem\u003ex\u003c/em\u003e(\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 4) is not even.Hence, \u003cem\u003ex\u003c/em\u003e must be even. Since 16 is the only even answer-choice, the answer is (E).",
+      "answers": [
+        {
+          "answerId": 16554,
+          "orderNum": 1,
+          "text": " 3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16555,
+          "orderNum": 2,
+          "text": " 5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16556,
+          "orderNum": 3,
+          "text": " 9",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16557,
+          "orderNum": 4,
+          "text": " 13",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16558,
+          "orderNum": 5,
+          "text": " 16",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " If (2\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 1)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; 100, then which one of the following COULD equal \u003cem\u003ex\u003c/em\u003e?",
+      "orderNum": 4,
+      "questionOrderNum": 4,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2972,
+      "count": 5,
+      "solution": " Choice (A):\u003cimg class\u003d\"mid\" src\u003d\"9781889057705_22-1.png\" alt\u003d\"\"/\u003e. Since this value of \u003cem\u003ex\u003c/em\u003e satifies the equation, the answer is (A)\u003c/sp\u003e\u003cp class\u003d\"extract\"\u003eMethod II (without substitution):Square rooting both sides of the given equation (2\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 1)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; 100 yields two equations: 2\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 1 \u0026#x003D; 10 and 2\u003cem\u003ex\u003c/em\u003e +  1 \u0026#x003D; \u0026#x2212;10. Solving the first equation for \u003cem\u003ex\u003c/em\u003e yields \u003cem\u003ex\u003c/em\u003e \u0026#x003D; 9/2, and solving the second equation for \u003cem\u003ex\u003c/em\u003e yields \u003cem\u003ex\u003c/em\u003e \u0026#x003D; \u0026#x2212;11/2. We have the second solution in choice (A), so the answer is (A).",
+      "answers": [
+        {
+          "answerId": 16559,
+          "orderNum": 1,
+          "text": " \u0026#x2212;11/2",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16560,
+          "orderNum": 2,
+          "text": " \u0026#x2212;9/2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16561,
+          "orderNum": 3,
+          "text": " 11/2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16562,
+          "orderNum": 4,
+          "text": " 13/2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16563,
+          "orderNum": 5,
+          "text": " 17/2",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " The number \u003cem\u003em\u003c/em\u003e yields a remainder \u003cem\u003ep\u003c/em\u003e when divided by 14 and a remainder \u003cem\u003eq\u003c/em\u003e when divided by 7. If \u003cem\u003ep\u003c/em\u003e \u0026#x003D; \u003cem\u003eq\u003c/em\u003e \u0026#x002B; 1, then which one of the following could be the value of \u003cem\u003em\u003c/em\u003e?",
+      "orderNum": 5,
+      "questionOrderNum": 5,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 2973,
+      "count": 5,
+      "solution": " Select the choice that satisfies the equation \u003cem\u003ep\u003c/em\u003e \u0026#x003D; \u003cem\u003eq\u003c/em\u003e \u0026#x002B; 1.\u003c/p\u003e\n\n\u003cp class\u003d\"para1\"\u003eChoice (A): Suppose \u003cem\u003em\u003c/em\u003e \u0026#x003D; 45. Then \u003cem\u003em\u003c/em\u003e/14 \u0026#x003D; 45/14 \u0026#x003D; 3 \u0026#x002B; 3/14. So, the remainder is \u003cem\u003ep\u003c/em\u003e \u0026#x003D; 3. Also, \u003cem\u003em\u003c/em\u003e/7 \u0026#x003D; 45/7 \u0026#x003D; 6 \u0026#x002B; 3/7. So, the remainder is \u003cem\u003eq\u003c/em\u003e \u0026#x003D; 3. Here,\u003cem\u003ep\u003c/em\u003e \u0026#x2260; \u003cem\u003eq\u003c/em\u003e \u0026#x002B; 1. So, reject the choice.\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eChoice (B): Suppose \u003cem\u003em\u003c/em\u003e \u0026#x003D; 53. Then \u003cem\u003em\u003c/em\u003e/14 \u0026#x003D; 53/14 \u0026#x003D; 3 \u0026#x002B; 11/14. So, the remainder is \u003cem\u003ep\u003c/em\u003e \u0026#x003D; 11. Also, \u003cem\u003em\u003c/em\u003e/7 \u0026#x003D; 53/7 \u0026#x003D; 7 \u0026#x002B; 4/7. So, the remainder is \u003cem\u003eq\u003c/em\u003e \u0026#x003D; 4. Here, \u003cem\u003ep\u003c/em\u003e \u0026#x003D; \u003cem\u003eq\u003c/em\u003e \u0026#x002B; 7. So, select the choice.\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eChoice (C): Suppose \u003cem\u003em \u003d\u003c/em\u003e 72. Then \u003cem\u003en\u003c/em\u003e/14 \u0026#x003D; 72/14 \u0026#x003D; 5 \u0026#x002B; 2/14. So, the remainder \u003cem\u003eis p \u0026#x003D; 2.\u003c/em\u003e Now, \u003cem\u003emil \u003d\u003c/em\u003e 72/7 \u0026#x003D; 10 \u0026#x002B; 2/7. So, the remainder is \u003cem\u003eq \u0026#x003D; 2.\u003c/em\u003e Here, \u003cem\u003ep\u003c/em\u003e \u0026#x2260; \u003cem\u003eq \u0026#x002B; 7.\u003c/em\u003e So, reject the choice.\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eChoice (D): Suppose \u003cem\u003em\u003c/em\u003e \u0026#x003D; 85. Then \u003cem\u003em\u003c/em\u003e/14 \u0026#x003D; 85/14 \u0026#x003D; 6 \u0026#x002B; 1/14. So, the remainder is \u003cem\u003ep\u003c/em\u003e \u0026#x003D; 1. Now, \u003cem\u003em\u003c/em\u003e/7 \u0026#x003D; 85/7 \u0026#x003D; 12 \u0026#x002B; 1/7. So, the remainder is \u003cem\u003eq\u003c/em\u003e \u0026#x003D; 1. Here, \u003cem\u003ep\u003c/em\u003e \u003cem\u003eq\u003c/em\u003e \u0026#x002B; 1. So, reject the choice.\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eChoice (E): Suppose \u003cem\u003em\u003c/em\u003e \u0026#x003D; 100. Then \u003cem\u003em\u003c/em\u003e/14 \u0026#x003D; 100/14 \u0026#x003D; 7 \u0026#x002B; 2/14. So, the remainder is \u003cem\u003ep\u003c/em\u003e \u0026#x003D; 2. Now, \u003cem\u003em\u003c/em\u003e/7 \u0026#x003D; 100/7 \u0026#x003D; 14 \u0026#x002B; 2/7. So, the remainder is \u003cem\u003eq\u003c/em\u003e \u0026#x003D; 2. Here,\u003cem\u003ep\u003c/em\u003e \u0026#x2260; \u003cem\u003eq\u003c/em\u003e \u0026#x002B; 7. So, reject the choice.\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eHence, the answer is (B).",
+      "answers": [
+        {
+          "answerId": 16564,
+          "orderNum": 1,
+          "text": " 45",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16565,
+          "orderNum": 2,
+          "text": " 53",
+          "result": "Correct"
+        },
+        {
+          "answerId": 16566,
+          "orderNum": 3,
+          "text": " 72",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16567,
+          "orderNum": 4,
+          "text": " 85",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 16568,
+          "orderNum": 5,
+          "text": " 100",
+          "result": "Wrong"
+        }
+      ]
+    }
+  ],
+  "applications": []
+}

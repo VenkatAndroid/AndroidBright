@@ -1,0 +1,825 @@
+{
+  "quizId": 226,
+  "name": "Problem Set M (GMAT MATH)",
+  "description": "",
+  "questions": [
+    {
+      "text": "At Stephen Stores, 3 pounds of cashews costs \u0026#x0024;8. What is cost in cents of a bag weighing 9 ounces?",
+      "orderNum": 1,
+      "questionOrderNum": 1,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3160,
+      "count": 5,
+      "solution": " This problem can be solved by setting up a proportion. Note that 1 pound has 16 ounces, so 3 pounds has 48 (\u0026#x003D; 3 \u0026#x00D7; 16) ounces. Now, the proportion, in cents to ounces, is\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_228-png\" alt\u003d\"\"/\u003eor\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_228-2.png\" alt\u003d\"\"/\u003eThe answer is (E).",
+      "answers": [
+        {
+          "answerId": 17486,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;30",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17487,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;60",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17488,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;90",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17489,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;120",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17490,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;150",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_224-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003eIn the figure, what is the value of \u003cem\u003ey\u003c/em\u003e if \u003cem\u003ex : y\u003c/em\u003e \u0026#x003D; 2 : 3 ?",
+      "orderNum": 2,
+      "questionOrderNum": 2,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3161,
+      "count": 5,
+      "solution": " We know that the angle made by a line is 180\u0026#x00B0;. Applying this to line \u0026#x00A0;\u0026#x00A0;\u0026#x00A0; \u003cem\u003em\u003c/em\u003e yields \u003cem\u003ex\u003c/em\u003e \u0026#x002B; \u003cem\u003ey\u003c/em\u003e \u0026#x002B; 90 \u0026#x003D; 180. Subtracting 90 from both sides of this equation yields \u003cem\u003ex\u003c/em\u003e \u0026#x002B; \u003cem\u003ey\u003c/em\u003e \u0026#x003D; 90. We are also given that \u003cem\u003ex\u003c/em\u003e : \u003cem\u003ey\u003c/em\u003e \u0026#x003D; 2 : 3. Hence, \u003cem\u003ex\u003c/em\u003e/\u003cem\u003ey\u003c/em\u003e \u0026#x003D; 2/3. Multiplying this equation by \u003cem\u003ey\u003c/em\u003e yields \u003cem\u003ex\u003c/em\u003e \u0026#x003D; 2\u003cem\u003ey\u003c/em\u003e/3. Plugging this into the equation \u003cem\u003ex\u003c/em\u003e \u0026#x002B; \u003cem\u003ey\u003c/em\u003e \u0026#x003D; 90 yields\u003cp class\u003d\"para109\"\u003e2y/3 \u0026#x002B; y \u0026#x003D; 90\u003cbr/\u003e5y/3 \u0026#x003D; 90\u003cbr/\u003e5y \u0026#x003D; 270\u003cbr/\u003ey \u0026#x003D; 54The answer is (D).",
+      "answers": [
+        {
+          "answerId": 17491,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;16",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17492,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;32",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17493,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;48",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17494,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;54",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17495,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;72",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_224-2.png\" alt\u003d\"\"/\u003e\u003cbr\u003eIn the figure, \u003cem\u003eABCD\u003c/em\u003e is a rectangle and points \u003cem\u003eE, F, G\u003c/em\u003e and \u003cem\u003eH\u003c/em\u003e are midpoints of its sides. What is the ratio of the area of the shaded region to the area of the un-shaded region in the rectangle?",
+      "orderNum": 3,
+      "questionOrderNum": 3,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3162,
+      "count": 5,
+      "solution": " Joining the midpoints of the opposite sides of the rectangle \u003cem\u003eABCD\u003c/em\u003e yields the following figure:\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_228-png\" alt\u003d\"\"/\u003eIn the given figure, the bigger rectangle \u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u003cem\u003eABCD\u003c/em\u003e contains four small rectangles, each one divided by a diagonal. Since diagonals cut a rectangle into two triangles of equal area, in each of the small rectangles, the regions to either side (shaded and un-shaded) have equal area. Hence, even in the bigger rectangle, the area of the shaded and un-shaded regions are equal, so the required ratio is 1 : 1. The answer is (A).",
+      "answers": [
+        {
+          "answerId": 17496,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1 : 1",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17497,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1 : 2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17498,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;2 : 1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17499,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1 : 3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17500,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;3 : 1",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "A certain recipe requires 3/2 cups of sugar and makes 2-dozen cookies. How many cups of sugar would be required for the same recipe to make 30 cookies?",
+      "orderNum": 4,
+      "questionOrderNum": 4,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3163,
+      "count": 5,
+      "solution": " This problem can be solved by setting up a proportion between the number of cookies and the number of cups of sugar required to make the corresponding number of cookies. Since there are 12 items in a dozen, 2-dozen cookies is 2 \u0026#x00D7; 12 \u0026#x003D; 24 cookies. Since 3/2 cups are required to make the 24 cookies, we have the proportion\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_228-png\" alt\u003d\"\"/\u003eThe answer is (E).",
+      "answers": [
+        {
+          "answerId": 17501,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;8/15",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17502,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;5/6",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17503,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;6/5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17504,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;10/7",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17505,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;15/8",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "The ratio of \u003cem\u003ex\u003c/em\u003e to \u003cem\u003ey\u003c/em\u003e is 3 : 4, and the ratio of \u003cem\u003ex\u003c/em\u003e \u0026#x002B; 7 to \u003cem\u003ey\u003c/em\u003e \u0026#x002B; 7 is 4 :  What is the ratio of \u003cem\u003ex\u003c/em\u003e \u0026#x002B; 14 to \u003cem\u003ey\u003c/em\u003e \u0026#x002B; 14?",
+      "orderNum": 5,
+      "questionOrderNum": 5,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3164,
+      "count": 5,
+      "solution": " Forming the two ratios yields \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_229-1.png\" alt\u003d\"\"/\u003e and \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_229-2.png\" alt\u003d\"\"/\u003e. Let\u0026#x2019;s solve this system of equations by the substitution method. Multiplying the first equation by \u003cem\u003ey\u003c/em\u003e yields \u003cem\u003ex\u003c/em\u003e \u0026#x003D; 3\u003cem\u003ey\u003c/em\u003e/4. Substituting this into the second equation yields \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_229-3.png\" alt\u003d\"\"/\u003e. Cross-multiplying yields\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_229-4.png\" alt\u003d\"\"/\u003eand \u003cem\u003ex\u003c/em\u003e \u0026#x003D; 3\u003cem\u003ey\u003c/em\u003e/4 \u0026#x003D; (3\u0026#x00B7;28)/4 \u0026#x003D; 3\u0026#x00B7;7 \u0026#x003D; 21.Plugging the values for \u003cem\u003ex\u003c/em\u003e and \u003cem\u003ey\u003c/em\u003e into the requested ratio \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_229-png\" alt\u003d\"\"/\u003e yields\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_229-6.png\" alt\u003d\"\"/\u003eThe answer is (C).",
+      "answers": [
+        {
+          "answerId": 17506,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;3 : 4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17507,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;4 : 5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17508,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;5 : 6",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17509,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;5 : 7",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17510,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;6 : 7",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "In a zoo, the ratio of the number of cheetahs to the number of pandas is 1 : 3 and was the same five years ago. If the increase in the number of cheetahs in the zoo since then is 5, then what is the increase in the number of pandas?",
+      "orderNum": 6,
+      "questionOrderNum": 6,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3165,
+      "count": 5,
+      "solution": " Let \u003cem\u003ek\u003c/em\u003e and 3\u003cem\u003ek\u003c/em\u003e be the number of cheetahs and pandas five years ago. Let \u003cem\u003ed\u003c/em\u003e and 3\u003cem\u003ed\u003c/em\u003e be the corresponding numbers now.The increase in the number of cheetahs is \u003cem\u003ed\u003c/em\u003e \u0026#x2212; \u003cem\u003ek\u003c/em\u003e \u0026#x003D; 5 (given)The increase in the number of pandas is 3\u003cem\u003ed\u003c/em\u003e \u0026#x2212; 3\u003cem\u003ek\u003c/em\u003e \u0026#x003D; 3(\u003cem\u003ed \u0026#x2212; k\u003c/em\u003e) \u0026#x003D; 3 \u0026#x00D7; 5 \u0026#x003D; 15. The answer is (E).",
+      "answers": [
+        {
+          "answerId": 17511,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17512,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17513,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17514,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;10",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17515,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;15",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "If \u003cem\u003ep, q,\u003c/em\u003e and \u003cem\u003er\u003c/em\u003e are three different numbers and \u003cem\u003ep : q : r\u003c/em\u003e \u0026#x003D; 3 : 5 : \u0026#x2212;8, then what is the value of \u003cem\u003ep\u003c/em\u003e \u0026#x002B; \u003cem\u003eq\u003c/em\u003e \u0026#x002B; \u003cem\u003er\u003c/em\u003e?",
+      "orderNum": 7,
+      "questionOrderNum": 7,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3166,
+      "count": 5,
+      "solution": " We are given that \u003cem\u003ep : q : r\u003c/em\u003e \u0026#x003D; 3 : 5 : \u0026#x2212;8. Now, let \u003cem\u003ep\u003c/em\u003e \u0026#x003D; 3 \u003cem\u003et, q\u003c/em\u003e \u0026#x003D; 5\u003cem\u003et,\u003c/em\u003e and \u003cem\u003er\u003c/em\u003e \u0026#x003D; \u0026#x2212;8\u003cem\u003et\u003c/em\u003e (such that \u003cem\u003ep : q : r\u003c/em\u003e \u0026#x003D; 3 : 5 : \u0026#x2212;8). Then \u003cem\u003ep \u0026#x002B; q \u0026#x002B; r\u003c/em\u003e \u0026#x003D; 3\u003cem\u003et\u003c/em\u003e \u0026#x002B; 5\u003cem\u003et\u003c/em\u003e \u0026#x2212; 8\u003cem\u003et\u003c/em\u003e \u0026#x003D; 0. The answer is (A).",
+      "answers": [
+        {
+          "answerId": 17516,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;0",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17517,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;3/8",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17518,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;5/8",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17519,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;3/5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17520,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_225-2.png\" alt\u003d\"\"/\u003e\u003cbr\u003eIn Figure 1, \u003cem\u003ey\u003c/em\u003e\u0026#x003D;\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_root_3.png\" alt\u003d\"\"/\u003e\u003cem\u003ex\u003c/em\u003e and \u003cem\u003ez\u003c/em\u003e \u0026#x003D; 2\u003cem\u003ex\u003c/em\u003e. What is the ratio \u003cem\u003ep : q : r\u003c/em\u003e in Figure 2?",
+      "orderNum": 8,
+      "questionOrderNum": 8,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3167,
+      "count": 5,
+      "solution": " Angles \u0026#x2220;\u003cem\u003eB\u003c/em\u003e and \u0026#x2220;\u003cem\u003eC\u003c/em\u003e in triangle \u003cem\u003eABC\u003c/em\u003e equal 60\u0026#x00B0; and 90\u0026#x00B0;, respectively. Since the sum of the angles in a triangle is 180\u0026#x00B0;, the third angle of the triangle, \u0026#x2220;\u003cem\u003eA,\u003c/em\u003e must equal 180\u0026#x00B0; \u0026#x2212; (60\u0026#x00B0; \u0026#x002B; 90\u0026#x00B0;) \u0026#x003D; 30\u0026#x00B0;.So, in the two triangles, \u003cem\u003eABC\u003c/em\u003e and \u003cem\u003eEDF,\u003c/em\u003e we have \u0026#x2220;\u003cem\u003eA \u0026#x003D; \u0026#x2220;E\u003c/em\u003e \u0026#x003D; 30\u0026#x00B0; and \u0026#x2220;\u003cem\u003eC \u0026#x003D; \u0026#x2220;F\u003c/em\u003e \u0026#x003D; 90\u0026#x00B0; (showing that at least two corresponding angles are equal). So, the two triangles are similar. Hence, the ratios of the corresponding sides in the two triangles are equal. Hence, we have\u003cp class\u003d\"paran10\"\u003e\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_229-7.png\" alt\u003d\"\"/\u003eThe answer is (B).",
+      "answers": [
+        {
+          "answerId": 17521,
+          "orderNum": 1,
+          "text": " 1 : 2 : 3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17522,
+          "orderNum": 2,
+          "text": " \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_225-1b.png\" alt\u003d\"/\u003e",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17523,
+          "orderNum": 3,
+          "text": " \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_225-1c.png\" alt\u003d\"/\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17524,
+          "orderNum": 4,
+          "text": " \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_225-1d.png\" alt\u003d\"/\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17525,
+          "orderNum": 5,
+          "text": " 3 : 2 : 1",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_226-1.png\" alt\u003d\"\"/\u003e\u003cbr\u003eIn the figure, the ratio of the area of parallelogram \u003cem\u003eABCD\u003c/em\u003e to the area of rectangle \u003cem\u003eAECF\u003c/em\u003e is 5 : 3. What is the area of the rectangle \u003cem\u003eAECF\u003c/em\u003e?",
+      "orderNum": 9,
+      "questionOrderNum": 9,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3168,
+      "count": 5,
+      "solution": " The area of the parallelogram \u003cem\u003eABCD\u003c/em\u003e equals \u003cem\u003ebase\u003c/em\u003e \u0026#x00D7; \u003cem\u003eheight \u0026#x003D; DC\u003c/em\u003e \u0026#x00D7; \u003cem\u003eAF\u003c/em\u003e \u0026#x003D; 10\u003cem\u003eAF\u003c/em\u003e (from the figure, \u003cem\u003eDC\u003c/em\u003e \u0026#x003D; 10)The area of rectangle \u003cem\u003eAECF\u003c/em\u003e equals \u003cem\u003elength\u003c/em\u003e \u0026#x00D7; \u003cem\u003ewidth \u0026#x003D; FC\u003c/em\u003e \u0026#x00D7; \u003cem\u003eAF.\u003c/em\u003eWe are given that the ratio of the two areas is 5 : 3. Forming the ratio gives\u003cp class\u003d\"paran10\"\u003e\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_230-1.png\" alt\u003d\"\"/\u003eFrom the figure, we have \u003cem\u003eDC \u0026#x003D; DF \u0026#x002B; FC.\u003c/em\u003e Now, \u003cem\u003eDC\u003c/em\u003e \u0026#x003D; 10 (from the figure) and \u003cem\u003eFC\u003c/em\u003e \u0026#x003D; 6 (as we just calculated). So, 10 \u0026#x003D; \u003cem\u003eDF\u003c/em\u003e \u0026#x002B; 6. Solving this equation for \u003cem\u003eDF\u003c/em\u003e yields \u003cem\u003eDF\u003c/em\u003e \u0026#x003D; 4. Since \u003cem\u003eF\u003c/em\u003e is one of the angles in the rectangle \u003cem\u003eAECF,\u003c/em\u003e it is a right angle. Since \u0026#x2220;\u003cem\u003eAFC\u003c/em\u003e is right-angled, \u0026#x2220;\u003cem\u003eAFD\u003c/em\u003e must also measure 90\u0026#x00B0;. So, \u0026#x0394;\u003cem\u003eAFD\u003c/em\u003e is right-angled, and The Pythagorean Theorem yields\u003cp class\u003d\"paran10\"\u003e\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_230-2a.png\" alt\u003d\"\"/\u003eNow, the area of the rectangle \u003cem\u003eAECF\u003c/em\u003e equals \u003cem\u003eFC\u003c/em\u003e \u0026#x00D7; \u003cem\u003eAF\u003c/em\u003e \u0026#x003D; 6 \u0026#x00D7; 3 \u0026#x003D; 18. The answer is (A).",
+      "answers": [
+        {
+          "answerId": 17526,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;18",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17527,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;24",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17528,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;25",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17529,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;50",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17530,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;54",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "In a class, 10% of the girls have blue eyes, and 20% of the boys have blue eyes. If the ratio of girls to boys in the class is 3 : 4, then what is the fraction of the students in the class having blue eyes?",
+      "orderNum": 10,
+      "questionOrderNum": 10,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3169,
+      "count": 5,
+      "solution": " Let the number of girls be \u003cem\u003ex\u003c/em\u003e. Since the ratio of the girls to boys is 3 : 4, the number of boys equals (4/3)\u003cem\u003ex\u003c/em\u003e Hence, the number of students in the class equals \u003cem\u003ex\u003c/em\u003e \u0026#x002B; 4\u003cem\u003ex\u003c/em\u003e/3 \u0026#x003D; 7\u003cem\u003ex\u003c/em\u003e/3. We are given that 10% of girls are blue eyed, and 10% of \u003cem\u003ex\u003c/em\u003e is 10/100 \u0026#x00B7; \u003cem\u003ex\u003c/em\u003e \u0026#x003D; \u003cem\u003ex\u003c/em\u003e/ Also, 20% of the boys are blue eyed, and 20% of 4 \u003cem\u003ex\u003c/em\u003e/3 is (20/100)(4\u003cem\u003ex\u003c/em\u003e/3) \u0026#x003D; 4\u003cem\u003ex\u003c/em\u003e/15.Hence, the total number of blue-eyed students is \u003cem\u003ex\u003c/em\u003e/10 \u0026#x002B; 4\u003cem\u003ex\u003c/em\u003e/15 \u0026#x003D; 11\u003cem\u003ex\u003c/em\u003e/30.Hence, the required fraction is \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_230-2.png\" alt\u003d\"\"/\u003e The answer is (A).",
+      "answers": [
+        {
+          "answerId": 17531,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;11/70",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17532,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;11/45",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17533,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;14/45",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17534,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;12/33",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17535,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;23/49",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "Kelvin takes 3 minutes to inspect a car, and John takes 4 minutes to inspect a car. If they both start inspecting different cars at 8:30 AM, what would be the ratio of the number of cars inspected by Kelvin and John by 8:54 AM of the same day?",
+      "orderNum": 11,
+      "questionOrderNum": 11,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3170,
+      "count": 5,
+      "solution": " Kelvin takes 3 minutes to inspect a car, and John takes 4 minutes to inspect a car. Hence, after \u003cem\u003et\u003c/em\u003e minutes, Kelvin inspects \u003cem\u003et\u003c/em\u003e/3 cars and John inspects \u003cem\u003et\u003c/em\u003e/4 cars. Hence, the ratio of the number of cars inspected by them is \u003cem\u003et\u003c/em\u003e/3 : \u003cem\u003et\u003c/em\u003e/4 \u0026#x003D; 1/3 : 1/4 \u0026#x003D; 4 : 3. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 17536,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1 : 3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17537,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1 : 4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17538,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;3 : 4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17539,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;4 : 3",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17540,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;7 : 4",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "If \u003cem\u003ex \u0026#x003D; a, y\u003c/em\u003e \u0026#x003D; 2\u003cem\u003eb, z\u003c/em\u003e \u0026#x003D; 3\u003cem\u003ec\u003c/em\u003e, and \u003cem\u003ex : y : z\u003c/em\u003e \u0026#x003D; 1 : 2 : 3, then \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_226-2.png\" alt\u003d\"\"/\u003e",
+      "orderNum": 12,
+      "questionOrderNum": 12,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3171,
+      "count": 5,
+      "solution": " We are given the equations \u003cem\u003ex\u003c/em\u003e \u0026#x003D; \u003cem\u003ea, y\u003c/em\u003e \u0026#x003D; 2\u003cem\u003eb, z\u003c/em\u003e \u0026#x003D; 3\u003cem\u003ec\u003c/em\u003e and the proportion \u003cem\u003ex : y : z\u003c/em\u003e \u0026#x003D; 1 : 2 : 3. Substituting the first three equations in the last equation (ratio equation) yields \u003cem\u003ea\u003c/em\u003e : 2\u003cem\u003eb\u003c/em\u003e : 3\u003cem\u003ec \u0026#x003D; 1 : 2 : 3.\u003c/em\u003e Forming the resultant ratio yields \u003cem\u003ea\u003c/em\u003e/1 \u0026#x003D; 2\u003cem\u003eb\u003c/em\u003e/2 \u0026#x003D; 3\u003cem\u003ec\u003c/em\u003e/3. Simplifying the equation yields \u003cem\u003ea \u0026#x003D; b \u0026#x003D; c.\u003c/em\u003e Thus, we have that both \u003cem\u003ea\u003c/em\u003e and \u003cem\u003eb\u003c/em\u003e equal \u003cem\u003ec.\u003c/em\u003e Hence, from the given equations, we have \u003cem\u003ex \u0026#x003D; a \u0026#x003D; c, y\u003c/em\u003e \u0026#x003D; 2\u003cem\u003eb\u003c/em\u003e \u0026#x003D; 2\u003cem\u003ec,\u003c/em\u003e and \u003cem\u003ez\u003c/em\u003e \u0026#x003D; 3\u003cem\u003ec.\u003c/em\u003eNow, \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_230-3.png\" alt\u003d\"\"/\u003eThe answer is (C).",
+      "answers": [
+        {
+          "answerId": 17541,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1/3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17542,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1/2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17543,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;2",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17544,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17545,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;6",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "A precious stone was accidentally dropped and broke into 3 stones of equal weight. The value of this type of stone is always proportional to the square of its weight. The 3 broken stones together are worth how much of the value of the original stone?",
+      "orderNum": 13,
+      "questionOrderNum": 13,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3172,
+      "count": 5,
+      "solution": " Let \u003cem\u003ex\u003c/em\u003e be the weight of the full stone. Then the weight of each of the three broken pieces of the stone is \u003cem\u003ex\u003c/em\u003e/3.Since we are given that the value of the stone is proportional to the square of the weight of the stone, we have that if \u003cem\u003ekx\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e is the value of the full stone, then the value of each small stone should be \u003cem\u003ek\u003c/em\u003e(\u003cem\u003ex\u003c/em\u003e/3)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e, where \u003cem\u003ek\u003c/em\u003e is the proportionality constant. Hence, the value of the three pieces together is\u003cp class\u003d\"paran10\"\u003e\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_231-1.png\" alt\u003d\"\"/\u003eHence, the value of the three broken pieces is \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_231-2.png\" alt\u003d\"\"/\u003e times the value of the original piece. The answer is (B).",
+      "answers": [
+        {
+          "answerId": 17546,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1/9",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17547,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1/3",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17548,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17549,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;3 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17550,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;9",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "In what proportion must rice at \u0026#x0024;0.8 per pound be mixed with rice at \u0026#x0024;0.9 per pound so that the mixture costs \u0026#x0024;0.825 per pound?",
+      "orderNum": 14,
+      "questionOrderNum": 14,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3173,
+      "count": 5,
+      "solution": " Let 1 pound of the rice of the first type (\u0026#x0024;0.8 per pound) be mixed with \u0026#x00A0;\u0026#x00A0;\u0026#x00A0; \u003cem\u003ep\u003c/em\u003e pounds of the rice of the second type (\u0026#x0024;0.9 per pound). Then the total cost of the 1 \u0026#x002B; \u003cem\u003ep\u003c/em\u003e pounds of the rice is\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_231-3a.png\" alt\u003d\"\"/\u003eHence, the cost of the mixture per pound is\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_231-3.png\" alt\u003d\"\"/\u003eIf this equals \u0026#x0024;0.825 per pound (given), then we have the equation\u003cp class\u003d\"paran10\"\u003e\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_231-4.png\" alt\u003d\"\"/\u003eHence, the proportion of the two rice types is 1 : 1/3, which also equals 3 : 1. Hence, the answer is (E).",
+      "answers": [
+        {
+          "answerId": 17551,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1 : 3   ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17552,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1 : 2   ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17553,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1 : 1   ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17554,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;2 : 1   ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17555,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;3 : 1   ",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "A spirit and water solution is sold in a market. The cost per liter of the solution is directly proportional to the part (fraction) of spirit (by volume) the solution has. A solution of 1 liter of spirit and 1 liter of water costs 50 cents. How many cents does a solution of 1 liter of spirit and 2 liters of water cost?",
+      "orderNum": 15,
+      "questionOrderNum": 15,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3174,
+      "count": 5,
+      "solution": " Since the cost of \u003cem\u003eeach\u003c/em\u003e liter of the spirit water solution is directly proportionally to the part (fraction) of spirit the solution has, the cost per liter can be expressed as \u003cem\u003ekf,\u003c/em\u003e where \u003cem\u003ef\u003c/em\u003e is the fraction (part of) of pure spirit the solution has.Now, each liter of the \u003cem\u003em\u003c/em\u003e liters of the solution containing \u003cem\u003en\u003c/em\u003e liters of the spirit (\u003cem\u003ef\u003c/em\u003e \u0026#x003D; \u003cem\u003en/m\u003c/em\u003e) should cost \u003cem\u003ekf \u0026#x003D; k(n/m).\u003c/em\u003e The \u003cem\u003em\u003c/em\u003e liters cost \u003cem\u003em\u003c/em\u003e \u0026#x00B7; \u003cem\u003ek(n/m) \u0026#x003D; kn.\u003c/em\u003e Hence, the solution is only priced for the content of the spirit the solution has (\u003cem\u003en\u003c/em\u003e here). Hence, the cost of the two samples given in the problem must be the same since both have exactly 1 liter of spirit. Hence, 50 cents, the answer is (C).",
+      "answers": [
+        {
+          "answerId": 17556,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;13",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17557,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;33",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17558,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;50",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17559,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;51",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17560,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;52",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "A \u003cem\u003eperfect square\u003c/em\u003e is a number that becomes an integer when square rooting it. \u003cem\u003eA\u003c/em\u003e, \u003cem\u003eB,\u003c/em\u003e and \u003cem\u003eC\u003c/em\u003e are three positive integers. The ratio of the three numbers is 1 : 2 : 3, respectively. Which one of the following expressions must be a perfect square?",
+      "orderNum": 16,
+      "questionOrderNum": 16,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3175,
+      "count": 5,
+      "solution": " Forming the given ratio yields\u003cp class\u003d\"para109\"\u003e\u003cem\u003eA/1 \u0026#x003D; B/2 \u0026#x003D; C/3 \u0026#x003D; k\u003c/em\u003e, for some integer\u003cbr/\u003e\u003cem\u003eA \u0026#x003D; k, B \u0026#x003D; 2k,\u003c/em\u003e and \u003cem\u003eC \u0026#x003D; 3k\u003c/em\u003eChoice (A): \u003cem\u003eA\u003c/em\u003e \u0026#x002B; \u003cem\u003eB\u003c/em\u003e \u0026#x002B; \u003cem\u003eC \u0026#x003D; k\u003c/em\u003e \u0026#x002B; 2\u003cem\u003ek\u003c/em\u003e \u0026#x002B; 3\u003cem\u003ek\u003c/em\u003e \u0026#x003D; 6\u003cem\u003ek.\u003c/em\u003e This is a perfect square only when \u0026#x00A0;\u003cem\u003ek\u003c/em\u003e is a product of 6 and a perfect square number. For example, when \u003cem\u003ek\u003c/em\u003e is 6 \u0026#x00B7; 9\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e, 6\u003cem\u003ek\u003c/em\u003e \u0026#x003D; 6\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x00B7; 9\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e, a perfect square. In all other cases (suppose \u003cem\u003ek\u003c/em\u003e \u0026#x003D; 2, then 6\u003cem\u003ek\u003c/em\u003e \u0026#x003D; 12), it is not a perfect square. Hence, reject.Choice (B): \u003cem\u003eA\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; \u003cem\u003eB\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; \u003cem\u003eC\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; \u003cem\u003ek\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; (2\u003cem\u003ek\u003c/em\u003e)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; (3\u003cem\u003ek\u003c/em\u003e)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; \u003cem\u003ek\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 4\u003cem\u003ek\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 9\u003cem\u003ek\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; 14\u003cem\u003ek\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e. This is surely not a perfect square. For example, suppose \u003cem\u003ek\u003c/em\u003e equals 2. Then 14\u003cem\u003ek\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; 56, which is not a perfect square. Hence, reject.Choice (C): \u003cem\u003eA\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e3\u003c/sup\u003e \u0026#x002B; \u003cem\u003eB\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e3\u003c/sup\u003e \u0026#x002B; \u003cem\u003eC\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e3\u003c/sup\u003e \u0026#x003D; \u003cem\u003ek\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e3\u003c/sup\u003e \u0026#x002B; (2\u003cem\u003ek\u003c/em\u003e)\u003csup class\u003d\"frac\"\u003e3\u003c/sup\u003e \u0026#x002B; (3\u003cem\u003ek\u003c/em\u003e)\u003csup class\u003d\"frac\"\u003e3\u003c/sup\u003e \u0026#x003D; \u003cem\u003ek\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e3\u003c/sup\u003e \u0026#x002B; 8\u003cem\u003ek\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e3\u003c/sup\u003e \u0026#x002B; 27\u003cem\u003ek\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e3\u003c/sup\u003e \u0026#x003D; 36\u003cem\u003ek\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e3\u003c/sup\u003e. This is a perfect square only when \u003cem\u003ek\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e3\u003c/sup\u003e is perfect square. For example, suppose \u003cem\u003ek\u003c/em\u003e \u0026#x003D; 2. Then 36\u003cem\u003ek\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e3\u003c/sup\u003e \u0026#x003D; 288, which is not a perfect square. \u0026#x00A0;\u0026#x00A0; Hence, reject.Choice (D): 3\u003cem\u003eA\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; \u003cem\u003eB\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; \u003cem\u003eC\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; 3\u003cem\u003ek\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; (2\u003cem\u003ek\u003c/em\u003e)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; (3\u003cem\u003ek\u003c/em\u003e)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; 3\u003cem\u003ek\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 4\u003cem\u003ek\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 9\u003cem\u003ek\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; 16\u003cem\u003ek\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; 4\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e\u003cem\u003ek\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; (4\u003cem\u003ek\u003c/em\u003e)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e. The square root of (4\u003cem\u003ek\u003c/em\u003e)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e is 4\u003cem\u003ek\u003c/em\u003e and is an integer for any integer value of \u003cem\u003ek\u003c/em\u003e Hence, this expression must always result in a perfect square. Choose (D)Choice (E): 3\u003cem\u003eA\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 4\u003cem\u003eB\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 4\u003cem\u003eC\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; 3\u003cem\u003ek\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 4(2\u003cem\u003ek\u003c/em\u003e)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 4(3\u003cem\u003ek\u003c/em\u003e)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; 3\u003cem\u003ek\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 16\u003cem\u003ek\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 36\u003cem\u003ek\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x003D; 55\u003cem\u003ek\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e. This is surely not a perfect square. Hence, reject.The answer is (D).",
+      "answers": [
+        {
+          "answerId": 17561,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u003cem\u003eA\u003c/em\u003e \u0026#x002B; \u003cem\u003eB\u003c/em\u003e \u0026#x002B; \u003cem\u003eC\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17562,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u003cem\u003eA\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; \u003cem\u003eB\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; \u003cem\u003eC\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17563,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u003cem\u003eA\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e3\u003c/sup\u003e \u0026#x002B; \u003cem\u003eB\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e3\u003c/sup\u003e \u0026#x002B; \u003cem\u003eC\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e3\u003c/sup\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17564,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;3\u003cem\u003eA\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; \u003cem\u003eB\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; \u003cem\u003eC\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17565,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;3\u003cem\u003eA\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 4\u003cem\u003eB\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 4\u003cem\u003eC\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "\u0026#x0394;\u003cem\u003eABC\u003c/em\u003e and \u0026#x0394;\u003cem\u003eDEF\u003c/em\u003e are right triangles. Each side of triangle \u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0; \u003cem\u003eABC\u003c/em\u003e is twice the length of the corresponding side of triangle \u003cem\u003eDEF\u003c/em\u003e. \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_227-1.png\" alt\u003d\"\"/\u003e",
+      "orderNum": 17,
+      "questionOrderNum": 17,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3176,
+      "count": 5,
+      "solution": " We are given that each side of triangle \u003cem\u003eABC\u003c/em\u003e is twice the length of the corresponding side of triangle \u003cem\u003eDEF.\u003c/em\u003e Hence, each leg of triangle \u003cem\u003eABC\u003c/em\u003e must be twice the length of the corresponding leg in triangle \u003cem\u003eDEF.\u003c/em\u003e The formula for the area of a right triangle is 1/2 \u0026#x00B7; \u003cem\u003eproduct of the measures of the two legs.\u003c/em\u003e Hence,\u003cp class\u003d\"paran10\"\u003e\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_232-1.png\" alt\u003d\"\"/\u003eThe answer is (E).",
+      "answers": [
+        {
+          "answerId": 17566,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17567,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17568,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17569,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1/2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17570,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1/4",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": "Two alloys \u003cem\u003eA\u003c/em\u003e and \u003cem\u003eB\u003c/em\u003e are composed of two basic elements. The ratios of the compositions of the two basic elements in the two alloys are 5 : 3 and 1 : 2, respectively. A new alloy \u003cem\u003eX\u003c/em\u003e is formed by mixing the two alloys \u003cem\u003eA\u003c/em\u003e and \u003cem\u003eB\u003c/em\u003e in the ratio 4 : 3. What is the ratio of the composition of the two basic elements in alloy \u003cem\u003eX\u003c/em\u003e?",
+      "orderNum": 18,
+      "questionOrderNum": 18,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3177,
+      "count": 5,
+      "solution": " The new alloy \u003cem\u003eX\u003c/em\u003e is formed from the two alloys \u003cem\u003eA\u003c/em\u003e and \u003cem\u003eB\u003c/em\u003e in the ratio 4 : 3. Hence, 7 parts of the alloy contains 4 parts of alloy \u003cem\u003eA\u003c/em\u003e and 3 parts of alloy \u003cem\u003eB.\u003c/em\u003e Let 7\u003cem\u003ex\u003c/em\u003e ounces of alloy \u003cem\u003eX\u003c/em\u003e contain 4\u003cem\u003ex\u003c/em\u003e ounces of alloy \u003cem\u003eA\u003c/em\u003e and 3\u003cem\u003ex\u003c/em\u003e ounces of alloy \u003cem\u003eB.\u003c/em\u003eNow, alloy \u003cem\u003eA\u003c/em\u003e is formed of the two basic elements mentioned in the ratio 5 : 3. Hence, 4\u003cem\u003ex\u003c/em\u003e ounces of the alloy \u003cem\u003eA\u003c/em\u003e contains \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_233-1.png\" alt\u003d\"\"/\u003e ounces of first basic element and \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_233-2.png\" alt\u003d\"\"/\u003e ounces of the second basic element.Also, alloy \u003cem\u003eB\u003c/em\u003e is formed of the two basic elements mentioned in the ratio 1 : 2. Hence, let the 3\u003cem\u003ex\u003c/em\u003e ounces of the alloy \u003cem\u003eA\u003c/em\u003e contain \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_233-3.png\" alt\u003d\"\"/\u003e ounces of the first basic element and \u003cimg class\u003d\"mid\" src\u003d\"9781889057705_233-4.png\" alt\u003d\"\"/\u003e ounces of the second basic element.Then the total compositions of the two basic elements in the 7\u0026#x00A0;\u0026#x00A0; \u003cem\u003ex\u003c/em\u003e ounces of alloy \u003cem\u003eX\u003c/em\u003e would contain 5\u003cem\u003ex\u003c/em\u003e/2 ounces (from \u003cem\u003eA\u003c/em\u003e) \u0026#x002B; \u003cem\u003ex\u003c/em\u003e ounces (from \u003cem\u003eB\u003c/em\u003e) \u0026#x003D; 7\u003cem\u003ex\u003c/em\u003e/2 ounces of first basic element, and 3/2 \u003cem\u003ex\u003c/em\u003e (from \u003cem\u003eA\u003c/em\u003e) \u0026#x002B; 2\u003cem\u003ex\u003c/em\u003e (from \u003cem\u003eB\u003c/em\u003e) \u0026#x003D; 7\u003cem\u003ex\u003c/em\u003e/2 ounces of the second basic element. Hence, the composition of the two basic elements in alloy \u003cem\u003eX\u003c/em\u003e is 7\u003cem\u003ex\u003c/em\u003e/2 : 7\u003cem\u003ex\u003c/em\u003e/2 \u0026#x003D; 1 : 1. The answer is (A).",
+      "answers": [
+        {
+          "answerId": 17571,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1 : 1 ",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17572,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;2 : 3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17573,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;5 : 2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17574,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;4 : 3 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17575,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;7 : 9",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": "Joseph bought two varieties of rice, costing 5 cents per ounce and 6 cents per ounce each, and mixed them in some ratio. Then he sold the mixture at 7 cents per ounce, making a profit of 20 percent. What was the ratio of the mixture?",
+      "orderNum": 19,
+      "questionOrderNum": 19,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3178,
+      "count": 5,
+      "solution": "Let 1 : \u003cem\u003ek\u003c/em\u003e be the ratio in which Joseph mixed the two types of rice. Then a sample of (1 \u0026#x002B; \u003cem\u003ek\u003c/em\u003e) ounces of the mixture should equal 1 ounce of rice of the first type, and \u003cem\u003ek\u003c/em\u003e ounces of rice of the second type. The rice of the first type costs 5 cents an ounce and that of the second type costs 6 cents an ounce. Hence, it cost him\u003c/p\u003e\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_233-5.png\" alt\u003d\"\"/\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eSince he sold the mixture at 7 cents per ounce, he must have sold the net 1 \u0026#x002B; \u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u003cem\u003ek\u003c/em\u003e ounces of the mixture at 7(1 \u0026#x002B; \u003cem\u003ek\u003c/em\u003e)\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eSince he earned 20% profit doing this, 7(1 \u0026#x002B; \u0026#x00A0;\u0026#x00A0;\u003cem\u003ek\u003c/em\u003e) must be 20% more than 5 \u0026#x002B; 6 \u0026#x00A0;\u0026#x00A0;\u003cem\u003ek.\u003c/em\u003e Hence, we have the equation\u003c/p\u003e\n\u003cp class\u003d\"paran10\"\u003e\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_233-6.png\" alt\u003d\"\"/\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eHence, the required ratio is 1 : \u003cem\u003ek\u003c/em\u003e \u0026#x003D; 1 : 5. The answer is (B).",
+      "answers": [
+        {
+          "answerId": 17576,
+          "orderNum": 1,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1 : 10",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17577,
+          "orderNum": 2,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;1 : 5",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17578,
+          "orderNum": 3,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;2 : 7",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17579,
+          "orderNum": 4,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;3 : 8",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17580,
+          "orderNum": 5,
+          "text": "\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;\u0026#x00A0;5 : 7",
+          "result": "Wrong"
+        }
+      ]
+    }
+  ],
+  "applications": []
+}

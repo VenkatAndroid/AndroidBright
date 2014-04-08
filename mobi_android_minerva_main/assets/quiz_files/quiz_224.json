@@ -1,0 +1,653 @@
+{
+  "quizId": 224,
+  "name": "Problem Set K (GMAT MATH)",
+  "description": "",
+  "questions": [
+    {
+      "text": " If 2\u003cem\u003ex\u003c/em\u003e+l \u003d 3\u003cem\u003ex\u003c/em\u003e + 2, then 5\u003cem\u003ex\u003c/em\u003e + 2 \u003d",
+      "orderNum": 1,
+      "questionOrderNum": 1,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3131,
+      "count": 5,
+      "solution": " Subtracting 2x + 2 from both sides of the equation 2 x + l \u003d 3x + 2 yields \u0026#x2212;1 \u003d x. Now, 5x + 2 \u003d 5(-l) + 2 \u003d \u0026#x2212;5 + 2 \u003d \u0026#x2212;3. The answer is (B).",
+      "answers": [
+        {
+          "answerId": 17341,
+          "orderNum": 1,
+          "text": " -5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17342,
+          "orderNum": 2,
+          "text": " -3",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17343,
+          "orderNum": 3,
+          "text": " -1",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17344,
+          "orderNum": 4,
+          "text": " 0",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17345,
+          "orderNum": 5,
+          "text": " 3",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " If 7\u003cem\u003ex\u003c/em\u003e + 3\u003cem\u003ey\u003c/em\u003e \u003d 12 and 3\u003cem\u003ex\u003c/em\u003e + 7\u003cem\u003ey\u003c/em\u003e \u003d 8, then x \u0026#x2212; y \u003d",
+      "orderNum": 2,
+      "questionOrderNum": 2,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3132,
+      "count": 5,
+      "solution": " We are given the two equations:\u003cp class\u003d\"paran10\"\u003e\u003cimg src\u003d\"9781889057705_208-1.png\" alt\u003d\"\"/\u003eSubtracting the bottom equation from the top equation yields\u003cp class\u003d\"paran10\"\u003e\u003cimg src\u003d\"9781889057705_208-png\" alt\u003d\"\"/\u003eThe answer is (A).",
+      "answers": [
+        {
+          "answerId": 17346,
+          "orderNum": 1,
+          "text": " 1",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17347,
+          "orderNum": 2,
+          "text": " 3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17348,
+          "orderNum": 3,
+          "text": " 7",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17349,
+          "orderNum": 4,
+          "text": " 8",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17350,
+          "orderNum": 5,
+          "text": " 12",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " Which one of the following must equal \u003cem\u003ep + q\u003c/em\u003e, if \u003cem\u003ex \u0026#x2212;y \u003d p\u003c/em\u003e and 2\u003cem\u003ex\u003c/em\u003e + \u003cem\u003e3y \u003d q\u003c/em\u003e ?",
+      "orderNum": 3,
+      "questionOrderNum": 3,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3133,
+      "count": 5,
+      "solution": " We are given the equations \u003cem\u003ex \u0026#x2212;y \u003d p\u003c/em\u003e and \u003cem\u003e2x + 3y \u003d q.\u003c/em\u003e Adding the two equations yields\u003cp class\u003d\"paran10\"\u003e\u003cimg src\u003d\"9781889057705_208-png\" alt\u003d\"\"/\u003eHence, \u003cem\u003ep + q \u003d 3x + 2y.\u003c/em\u003e The answer is (E).",
+      "answers": [
+        {
+          "answerId": 17351,
+          "orderNum": 1,
+          "text": " \u003cem\u003ex + y\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17352,
+          "orderNum": 2,
+          "text": " \u003cem\u003e3x \u0026#x2212;2y\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17353,
+          "orderNum": 3,
+          "text": " \u003cem\u003e2x \u0026#x2212; 3y\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17354,
+          "orderNum": 4,
+          "text": " \u003cem\u003e2x + 3y\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17355,
+          "orderNum": 5,
+          "text": " \u003cem\u003e3x + 2y\u003c/em\u003e",
+          "result": "Correct"
+        }
+      ]
+    },
+    {
+      "text": " If \u003cem\u003ep\u003c/em\u003e is the sum of \u003cem\u003eq\u003c/em\u003e and \u003cem\u003er\u003c/em\u003e, then which one of the following must equal \u003cem\u003eq \u0026#x2212;r\u003c/em\u003e?",
+      "orderNum": 4,
+      "questionOrderNum": 4,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3134,
+      "count": 5,
+      "solution": " We are given that \u003cem\u003ep \u003d q + r.\u003c/em\u003e Now, let\u0026#x2019;s create the expression \u003cem\u003eq \u0026#x2212;r\u003c/em\u003e by subtracting 2r from both sides of this equation:\u003cimg src\u003d\"9781889057705_208-png\" alt\u003d\"\"/\u003eor\u003cimg src\u003d\"9781889057705_208-5.png\" alt\u003d\"\"/\u003eThe answer is (C).",
+      "answers": [
+        {
+          "answerId": 17356,
+          "orderNum": 1,
+          "text": " \u003cem\u003ep \u0026#x2212;r\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17357,
+          "orderNum": 2,
+          "text": " \u003cem\u003ep + r\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17358,
+          "orderNum": 3,
+          "text": " \u003cem\u003ep \u0026#x2212; 2r\u003c/em\u003e",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17359,
+          "orderNum": 4,
+          "text": " \u003cem\u003ep + 2r\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17360,
+          "orderNum": 5,
+          "text": " \u003cem\u003e2q \u0026#x2212; p\u003c/em\u003e",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " The sum of two numbers is 13, and their product is 30. What is the sum of the squares of the two numbers?",
+      "orderNum": 5,
+      "questionOrderNum": 5,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3135,
+      "count": 5,
+      "solution": " Let the two numbers be x and y Since their sum is 13, \u003cem\u003ex + y \u003d\u003c/em\u003e 13. Since their product is 30, \u003cem\u003exy \u003d\u003c/em\u003e 30. Solving the equation \u003cem\u003exy\u003d\u003c/em\u003e 30 for \u003cem\u003ey\u003c/em\u003e yields \u003cem\u003ey\u003c/em\u003e \u003d 30/x. Plugging this into the equation x + y \u003d 13 yields\u003cp class\u003d\"paran10\"\u003e\u003cimg src\u003d\"9781889057705_208-6.png\" alt\u003d\"\"/\u003eNow, if x \u003d 3, then y \u003d 13 \u0026#x2212;x \u003d 13 \u0026#x2212;3 \u003d 10. Hence, x\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u003cem\u003e+ y\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u003d\u003c/em\u003e 3\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e + 10\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u003d 9 + 100 \u003d 109. The answer is (D)Method II:(x + y)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u003d x\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e + y\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e + 2xy. Hence, x\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e + y\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u003d (x + y)\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x2212; 2xy \u003d 13\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x2212; 2(30) \u003d 169 \u0026#x2212; 60 \u003d 109.The answer is (D).",
+      "answers": [
+        {
+          "answerId": 17361,
+          "orderNum": 1,
+          "text": " \u0026#x2212;229",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17362,
+          "orderNum": 2,
+          "text": " \u0026#x2212;109",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17363,
+          "orderNum": 3,
+          "text": " 139",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17364,
+          "orderNum": 4,
+          "text": " 109",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17365,
+          "orderNum": 5,
+          "text": " 229",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " If \u003cem\u003ep + q \u003d\u003c/em\u003e 7 and\u003cem\u003epq \u003d\u003c/em\u003e 12, then what is the value of \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_205-1.png\" alt\u003d\"\"/\u003e",
+      "orderNum": 6,
+      "questionOrderNum": 6,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3136,
+      "count": 5,
+      "solution": " Solving the equation p + q \u003d 7 for q yields q \u003d 7 \u0026#x2212; p. Plugging this into the equation pq \u003d 12 yields\u003cimg src\u003d\"9781889057705_209-1.png\" alt\u003d\"\"/\u003eIf \u003cem\u003ep\u003c/em\u003e \u003d 3, then \u003cem\u003eq\u003c/em\u003e \u003d 7 \u0026#x2212;\u003cem\u003ep\u003c/em\u003e \u003d 7 \u0026#x2212;3 \u003d 4. Plugging these values into the expression \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_209-2.png\" alt\u003d\"\"/\u003e yields\u003cimg src\u003d\"9781889057705_209-3.png\" alt\u003d\"\"/\u003eThe result is the same for the other solution \u003cem\u003ep\u003c/em\u003e \u003d 4 (and then \u003cem\u003eq \u003d 7 \u0026#x2212;p \u003d 7 \u0026#x2212;4 \u003d 3).\u003c/em\u003e The answer is (B)Method II:\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_209-4.png\" alt\u003d\"\"/\u003e. The answer is (B).",
+      "answers": [
+        {
+          "answerId": 17366,
+          "orderNum": 1,
+          "text": " 1/6",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17367,
+          "orderNum": 2,
+          "text": " 25/144",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17368,
+          "orderNum": 3,
+          "text": " 49/144",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17369,
+          "orderNum": 4,
+          "text": " 7/12",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17370,
+          "orderNum": 5,
+          "text": " 73/144",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " If \u003cem\u003e2x + 3y\u003c/em\u003e\u003d ll and \u003cem\u003e3x + 2y\u003c/em\u003e\u003d9, then \u003cem\u003ex + y \u003d\u003c/em\u003e",
+      "orderNum": 7,
+      "questionOrderNum": 7,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3137,
+      "count": 5,
+      "solution": " Adding the two equations \u003cem\u003e2x + 3y \u003d 11 and 3x + 2y \u003d 9\u003c/em\u003e yields \u003cem\u003e5x + 5y\u003c/em\u003e \u003d 20, or \u003cem\u003ex + y\u003c/em\u003e \u003d 20/5 \u003d 4. The answer is (A).",
+      "answers": [
+        {
+          "answerId": 17371,
+          "orderNum": 1,
+          "text": " 4",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17372,
+          "orderNum": 2,
+          "text": " 7",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17373,
+          "orderNum": 3,
+          "text": " 8",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17374,
+          "orderNum": 4,
+          "text": " 9",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17375,
+          "orderNum": 5,
+          "text": " 11",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " If \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_206-1.png\" alt\u003d\"\"/\u003e, then \u003cem\u003ex\u003c/em\u003e \u003d",
+      "orderNum": 8,
+      "questionOrderNum": 8,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3138,
+      "count": 5,
+      "solution": " We are given the equation\u003cp class\u003d\"paran10\"\u003e\u003cimg src\u003d\"9781889057705_209-5.png\" alt\u003d\"\"/\u003e Note: If you solved the equation without getting a common denominator you may have gotten \u0026#x2212;5 as a possible solution. But, \u0026#x2212;5 is not a solution. Why? \u003ca id\u003d\"c10-ftns2a\"\u003e\u003c/a\u003e\u003ca class\u003d\"hlink\" href\u003d\"#c10-ftns2\"\u003e\u003csup class\u003d\"frac\"\u003e\u0026#x002A;\u003c/sup\u003e\u003c/a\u003eThe answer is (C).",
+      "answers": [
+        {
+          "answerId": 17376,
+          "orderNum": 1,
+          "text": " \u0026#x2212;5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17377,
+          "orderNum": 2,
+          "text": " 1/2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17378,
+          "orderNum": 3,
+          "text": " 1",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17379,
+          "orderNum": 4,
+          "text": " 5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17380,
+          "orderNum": 5,
+          "text": " 10",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " If \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_206-2.png\" alt\u003d\"\"/\u003e, a + 3 \u0026#x2260; 0, and \u003cem\u003ea\u003c/em\u003e \u0026#x2260; 0, then \u003cem\u003ea \u003d\u003c/em\u003e",
+      "orderNum": 9,
+      "questionOrderNum": 9,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3139,
+      "count": 5,
+      "solution": " The given equation is\u003cp class\u003d\"paran10\"\u003e\u003cimg class\u003d\"middle\" src\u003d\"9781889057705_210-1.png\" alt\u003d\"\"/\u003eHence, the answer is (C).",
+      "answers": [
+        {
+          "answerId": 17381,
+          "orderNum": 1,
+          "text": " 1 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17382,
+          "orderNum": 2,
+          "text": " 2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17383,
+          "orderNum": 3,
+          "text": " 3",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17384,
+          "orderNum": 4,
+          "text": " 6",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17385,
+          "orderNum": 5,
+          "text": " 9",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " If 42.42 \u003d \u003cem\u003ek\u003c/em\u003e(14 + 7/50), then what is the value \u003cem\u003ek?\u003c/em\u003e",
+      "orderNum": 10,
+      "questionOrderNum": 10,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3140,
+      "count": 5,
+      "solution": " The given equation is\u003cp class\u003d\"paran10\"\u003e\u003cimg src\u003d\"9781889057705_210-2.png\" alt\u003d\"\"/\u003eThe answer is (C).",
+      "answers": [
+        {
+          "answerId": 17386,
+          "orderNum": 1,
+          "text": " 1  ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17387,
+          "orderNum": 2,
+          "text": " 2  ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17388,
+          "orderNum": 3,
+          "text": " 3  ",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17389,
+          "orderNum": 4,
+          "text": " 4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17390,
+          "orderNum": 5,
+          "text": " 5",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " If (\u003cem\u003ea + 2)(a \u0026#x2212;3)(a + 4\u003c/em\u003e) \u003d 0 and \u003cem\u003ea\u003c/em\u003e \u0026#x003E; 0, then \u003cem\u003ea \u003d\u003c/em\u003e",
+      "orderNum": 11,
+      "questionOrderNum": 11,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3141,
+      "count": 5,
+      "solution": " We are given that \u003cem\u003ea \u0026#x003E; 0\u003c/em\u003e and (\u003cem\u003ea + 2)(a \u0026#x2212;3)(a + 4\u003c/em\u003e) \u003d 0. Hence, the possible solutions are\u003cp class\u003d\"paran10\"\u003e\u003cimg src\u003d\"9781889057705_210-3.png\" alt\u003d\"\"/\u003eThe answer is (C).",
+      "answers": [
+        {
+          "answerId": 17391,
+          "orderNum": 1,
+          "text": " 1    ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17392,
+          "orderNum": 2,
+          "text": " 2    ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17393,
+          "orderNum": 3,
+          "text": " 3    ",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17394,
+          "orderNum": 4,
+          "text": " 4    ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17395,
+          "orderNum": 5,
+          "text": " 5    ",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " A system of equations is as shown below\u003cbr\u003e\u003cimg src\u003d\"9781889057705_206-3.png\" alt\u003d\"\"/\u003e\u003cbr\u003eWhat is the value of \u003cem\u003el + m + p + q?\u003c/em\u003e",
+      "orderNum": 12,
+      "questionOrderNum": 12,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3142,
+      "count": 5,
+      "solution": " The given system of equations is\u003cp class\u003d\"paran10\"\u003e\u003cimg src\u003d\"9781889057705_211-1a.png\" alt\u003d\"\"/\u003eSubtracting the second equation from the first one yields\u003cp class\u003d\"paran10\"\u003e\u003cimg src\u003d\"9781889057705_211-1.png\" alt\u003d\"\"/\u003eSubtracting the fourth equation from the third one yields\u003cp class\u003d\"paran10\"\u003e\u003cimg src\u003d\"9781889057705_211-4.png\" alt\u003d\"\"/\u003eAdding equations (1) and (2) yields\u003cp class\u003d\"paran10\"\u003e\u003cimg src\u003d\"9781889057705_211-5.png\" alt\u003d\"\"/\u003eThe answer is (A).",
+      "answers": [
+        {
+          "answerId": 17396,
+          "orderNum": 1,
+          "text": " 2     ",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17397,
+          "orderNum": 2,
+          "text": " 3     ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17398,
+          "orderNum": 3,
+          "text": " 4     ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17399,
+          "orderNum": 4,
+          "text": " 5     ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17400,
+          "orderNum": 5,
+          "text": " 6     ",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " If (\u003cem\u003ex \u0026#x2212;2y)(x + 2y\u003c/em\u003e) \u003d 5 and (\u003cem\u003e2x \u0026#x2212;y)(2x + y\u003c/em\u003e) \u003d 35, then \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_207-1.png\" alt\u003d\"\"/\u003e",
+      "orderNum": 13,
+      "questionOrderNum": 13,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3143,
+      "count": 5,
+      "solution": " We are given the two equations:\u003cp class\u003d\"paran10\"\u003e\u003cimg src\u003d\"9781889057705_211-6.png\" alt\u003d\"\"/\u003eApplying the Difference of Squares formula, (\u003cem\u003ea + b)(a \u0026#x2212;b) \u003d a\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x2212;b\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e\u003c/em\u003e, to the left-hand sides of each equation yields\u003cp class\u003d\"paran10\"\u003e\u003cimg src\u003d\"9781889057705_211-7.png\" alt\u003d\"\"/\u003eSimplifying these two equations yields\u003cp class\u003d\"paran10\"\u003e\u003cimg src\u003d\"9781889057705_211-8.png\" alt\u003d\"\"/\u003eSubtracting the bottom equation from the top one yields\u003cp class\u003d\"paran10\"\u003e\u003cimg src\u003d\"9781889057705_211-9.png\" alt\u003d\"\"/\u003eInstead, adding the two equations yields\u003cp class\u003d\"paran10\"\u003e\u003cimg src\u003d\"9781889057705_211-10.png\" alt\u003d\"\"/\u003eNow, (x\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x2212; y\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e)/(x\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e + y\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e) \u003d 8/10 \u003d 4/5. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 17401,
+          "orderNum": 1,
+          "text": " -8/5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17402,
+          "orderNum": 2,
+          "text": " -4/5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17403,
+          "orderNum": 3,
+          "text": " 0",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17404,
+          "orderNum": 4,
+          "text": " 4/5",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17405,
+          "orderNum": 5,
+          "text": " 7/5",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " If \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_207-2.png\" alt\u003d\"\"/\u003e, where \u003cem\u003ek\u003c/em\u003e is a real number, then which one of the following does \u003cem\u003ek\u003c/em\u003e equal?",
+      "orderNum": 14,
+      "questionOrderNum": 14,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3144,
+      "count": 5,
+      "solution": " The given equation is \u003cimg class\u003d\"middle\" src\u003d\"9781889057705_212-1.png\" alt\u003d\"\"/\u003e. Forming the three equations yields \u003cem\u003el\u003c/em\u003e \u003d (\u003cem\u003em + n)k, m \u003d (n + l)k, and n \u003d (l + m)k\u003c/em\u003e. Summing Summing the three equations yields\u003cp class\u003d\"paran10\"\u003e\u003cimg src\u003d\"9781889057705_212-2.png\" alt\u003d\"\"/\u003eThe answer is (B).",
+      "answers": [
+        {
+          "answerId": 17406,
+          "orderNum": 1,
+          "text": " 1/3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17407,
+          "orderNum": 2,
+          "text": " 1/2          ",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17408,
+          "orderNum": 3,
+          "text": " 1            ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17409,
+          "orderNum": 4,
+          "text": " 2            ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17410,
+          "orderNum": 5,
+          "text": " 3            ",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " If \u003cem\u003ea, b,\u003c/em\u003e and \u003cem\u003ec\u003c/em\u003e are not equal to 0 or 1 and \u003cem\u003eif a\u003csup class\u003d\"frac\"\u003ex\u003c/sup\u003e \u003d b,b\u003csup class\u003d\"frac\"\u003ey\u003c/sup\u003e \u003d c,\u003c/em\u003e and \u003cem\u003ec\u003csup class\u003d\"frac\"\u003ez\u003c/sup\u003e \u003d a,\u003c/em\u003e then \u003cem\u003exyz \u003d\u003c/em\u003e",
+      "orderNum": 15,
+      "questionOrderNum": 15,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3145,
+      "count": 5,
+      "solution": "We are given three equations \u003cem\u003ea\u003csup class\u003d\"frac\"\u003ex\u003c/sup\u003e \u003d b, b\u003csup class\u003d\"frac\"\u003ey\u003c/sup\u003e \u003d c, and c\u003csup class\u003d\"frac\"\u003ez\u003c/sup\u003e \u003d a.\u003c/em\u003e From the first equation, we have \u003cem\u003eb \u003d a\u003csup class\u003d\"frac\"\u003ex\u003c/sup\u003e\u003c/em\u003e. Substituting this in the second equation gives (\u003cem\u003ea\u003csup class\u003d\"frac\"\u003ex\u003c/sup\u003e)\u003csup class\u003d\"frac\"\u003ey\u003c/sup\u003e \u003d c\u003c/em\u003e. We can replace \u003cem\u003ea\u003c/em\u003e in this equation with \u003cem\u003ec\u003csup class\u003d\"frac\"\u003ez\u003c/sup\u003e\u003c/em\u003e (according to the third equation \u003cem\u003ec\u003csup class\u003d\"frac\"\u003ez\u003c/sup\u003e \u003d a):\u003c/em\u003e\u003c/p\u003e\n\u003cp class\u003d\"paran10\"\u003e\u003cimg src\u003d\"9781889057705_212-3.png\" alt\u003d\"\"/\u003e\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eThe answer is (B)",
+      "answers": [
+        {
+          "answerId": 17411,
+          "orderNum": 1,
+          "text": " 0",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17412,
+          "orderNum": 2,
+          "text": " 1",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17413,
+          "orderNum": 3,
+          "text": " 2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17414,
+          "orderNum": 4,
+          "text": " \u003cem\u003ea\u003c/em\u003e",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17415,
+          "orderNum": 5,
+          "text": " \u003cem\u003eabc\u003c/em\u003e",
+          "result": "Wrong"
+        }
+      ]
+    }
+  ],
+  "applications": []
+}

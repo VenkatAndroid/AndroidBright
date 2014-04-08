@@ -1,0 +1,438 @@
+{
+  "quizId": 221,
+  "name": "Problem Set H (GMAT MATH)",
+  "description": "",
+  "questions": [
+    {
+      "text": " \u003cimg src\u003d\"9781889057705_177-png\" alt\u003d\"\"/\u003e\u003cbr\u003eWhat is the maximum number of 3\u0026#x00D7;3 squares that can be formed from the squares in the 6\u0026#x00D7;6 checker board to the right?",
+      "orderNum": 1,
+      "questionOrderNum": 1,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3106,
+      "count": 5,
+      "solution": " What is the maximum number of 3\u0026#x00D7;3 squares that can be formed from the squares in the 6\u0026#x00D7;6 checker board to the right?(A) 4(B) 6(C) 12(D) 16(E) 24\u003cimg src\u003d\"9781889057705_179-png\" alt\u003d\"\"/\u003eClearly, there are more than four 3\u0026#x00D7;3 squares in the checker board\u0026#x2014;eliminate (A). Next, eliminate (B) since it merely repeats a number from the problem. Further, eliminate (E) since it is the greatest. This leaves choices (C) and (D). If you count carefully, you will find sixteen 3\u0026#x00D7;3 squares in the checker board. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 17217,
+          "orderNum": 1,
+          "text": " 4",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17218,
+          "orderNum": 2,
+          "text": " 6",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17219,
+          "orderNum": 3,
+          "text": " 12",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17220,
+          "orderNum": 4,
+          "text": " 16",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17221,
+          "orderNum": 5,
+          "text": " 24",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " Let \u003cem\u003eP\u003c/em\u003e stand for the product of the first 5 positive integers. What is the greatest possible value of \u003cem\u003em\u003c/em\u003e if \u003cimg src\u003d\"9781889057705_177-png\" alt\u003d\"\"/\u003e is an integer?",
+      "orderNum": 2,
+      "questionOrderNum": 2,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3107,
+      "count": 5,
+      "solution": " Let \u003cem\u003eP\u003c/em\u003e stand for the product of the first 5 positive integers. What is the greatest possible value of \u003cem\u003em\u003c/em\u003e if \u003cimg src\u003d\"9781889057705_179-png\" alt\u003d\"\"/\u003e is an integer?(A)1(B)2(C)3(D)5(E)10Since we are to find the greatest value of \u003cem\u003em\u003c/em\u003e, we eliminate (E)\u0026#x2014;the greatest. Also, eliminate 5 because it is repeated from the problem. Now, since we are looking for the largest number, start with the greatest number remaining and work toward the smallest number. The first number that works will be the answer. To this end, let \u003cem\u003em\u003c/em\u003e \u003d 3. Then \u003cimg src\u003d\"9781889057705_179-3.png\" alt\u003d\"\"/\u003e. This is not an integer, so eliminate (C). Next, let \u003cem\u003em\u003c/em\u003e \u003d  Then \u003cimg src\u003d\"9781889057705_179-4.png\" alt\u003d\"\"/\u003e This still is not an integer, so eliminate (B). Hence, by process of elimination, the answer is (A).",
+      "answers": [
+        {
+          "answerId": 17222,
+          "orderNum": 1,
+          "text": " 1",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17223,
+          "orderNum": 2,
+          "text": " 2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17224,
+          "orderNum": 3,
+          "text": " 3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17225,
+          "orderNum": 4,
+          "text": " 5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17226,
+          "orderNum": 5,
+          "text": " 10",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " \u003cimg src\u003d\"9781889057705_177-png\" alt\u003d\"\"/\u003e\u003cbr\u003eAfter being marked down 20 percent, a calculator sells for \u0026#x0024;10. The original selling price was",
+      "orderNum": 3,
+      "questionOrderNum": 3,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3108,
+      "count": 5,
+      "solution": " After being marked down 20 percent, a calculator sells for \u0026#x0024;10. The original selling price was(A) \u0026#x0024;20(B) \u0026#x0024;12.5(C) \u0026#x0024;12(D) \u0026#x0024;9(E) \u0026#x0024;7Twenty dollars is too large. The discount was only 20 percent\u0026#x2014;eliminate (A). Both (D) and (E) are impossible since they are less than the selling price\u0026#x2014;eliminate. 12 is the eye-catcher: 20\u0026#x0025; of 10 is 2 and 10 \u0026#x002B; 2 \u003d 12. This is too easy for a hard problem\u0026#x2014;eliminate. Thus, by process of elimination, the answer is (B).",
+      "answers": [
+        {
+          "answerId": 17227,
+          "orderNum": 1,
+          "text": " \u0026#x0024;20\u0026#x00A0;\u0026#x00A0;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17228,
+          "orderNum": 2,
+          "text": " \u0026#x0024;12.5\u0026#x00A0;\u0026#x00A0;",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17229,
+          "orderNum": 3,
+          "text": " \u0026#x0024;12\u0026#x00A0;\u0026#x00A0;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17230,
+          "orderNum": 4,
+          "text": " \u0026#x0024;9\u0026#x00A0;\u0026#x00A0;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17231,
+          "orderNum": 5,
+          "text": " \u0026#x0024;7",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " The distance between cities A and B is 120 miles. A car travels from A to B at 60 miles per hour and returns from B to A along the same route at 40 miles per hour. What is the average speed for the round trip?",
+      "orderNum": 4,
+      "questionOrderNum": 4,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3109,
+      "count": 5,
+      "solution": " The distance between cities A and B is 120 miles. A car travels from A to B at 60 miles per hour and returns from B to A along the same route at 40 miles per hour. What is the average speed for the round trip?(A) 48(B) 50(C) 52(D) 56(E) 58We can eliminate 50 (the mere average of 40 and 60) since that would be too elementary. Now, the average must be closer to 40 than to 60 because the car travels for a longer time at 40 mph. But 48 is the only number given that is closer to 40 than to 60.\u003cbr\u003eIt\u0026#x2019;s instructive to also calculate the answer \u003cimg src\u003d\"9781889057705_180-1.png\" alt\u003d\"\"/\u003e. Now, a car traveling at 40 mph will cover 120 miles in 3 hours. And a car traveling at 60 mph will cover the same 120 miles in 2 hours. So the total traveling time is 5 hours. Hence, for the round trip, the average speed is \u003cimg src\u003d\"9781889057705_180-2.png\" alt\u003d\"\"/\u003e The answer is (A).",
+      "answers": [
+        {
+          "answerId": 17232,
+          "orderNum": 1,
+          "text": " 48\u0026#x00A0;\u0026#x00A0;",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17233,
+          "orderNum": 2,
+          "text": " 50\u0026#x00A0;\u0026#x00A0;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17234,
+          "orderNum": 3,
+          "text": " 52\u0026#x00A0;\u0026#x00A0;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17235,
+          "orderNum": 4,
+          "text": " 56\u0026#x00A0;\u0026#x00A0;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17236,
+          "orderNum": 5,
+          "text": " 58",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " If \u003cstrong\u003ew\u003c/strong\u003e is 10 percent less than \u003cstrong\u003ex\u003c/strong\u003e, and \u003cstrong\u003ey\u003c/strong\u003e is 30 percent less than \u003cstrong\u003ez\u003c/strong\u003e, then \u003cstrong\u003ewy\u003c/strong\u003e is what percent less than \u003cstrong\u003exz\u003c/strong\u003e?",
+      "orderNum": 5,
+      "questionOrderNum": 5,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3110,
+      "count": 5,
+      "solution": " If \u003cstrong\u003ew\u003c/strong\u003e is 10 percent less than \u003cstrong\u003ex\u003c/strong\u003e, and \u003cstrong\u003ey\u003c/strong\u003e is 30 percent less than \u003cstrong\u003ez\u003c/strong\u003e, then \u003cstrong\u003ewy\u003c/strong\u003e is what percent less than \u003cstrong\u003exz\u003c/strong\u003e?(A) 10\u0026#x0025;(B) 20\u0026#x0025;(C) 37\u0026#x0025;(D) 40\u0026#x0025;(E) 100\u0026#x0025;We eliminate (A) since it repeats the number 10 from the problem. We can also eliminate choices (B), (D), and (E) since they are derivable from elementary operations:20 \u003d 30 \u0026#x2212; 1040 \u003d 30 \u0026#x002B; 10100 \u003d 10 \u0026#x2212; 10This leaves choice (C) as the answer.\u003cbr\u003eLet\u0026#x2019;s also solve this problem directly. The clause\u003cstrong\u003ew\u003c/strong\u003e is 10 percent less than \u003cem\u003ex\u003c/em\u003etranslates into\u003cem\u003ew \u003d x\u0026#x2212; .10x\u003c/em\u003eSimplifying yields\u003cstrong\u003e1)\u003c/strong\u003e \u003cem\u003ew \u003d .9x\u003c/em\u003eNext, the clause\u003cstrong\u003ey\u003c/strong\u003e is 30 percent less than \u003cstrong\u003ez\u003c/strong\u003etranslates into\u003cem\u003ey \u003d z\u0026#x2212;\u003c/em\u003e .30\u003cem\u003ez\u003c/em\u003eSimplifying yields\u003cstrong\u003e2)\u003c/strong\u003e \u003cem\u003ey\u003d.7z\u003c/em\u003eMultiplying 1) and 2) gives\u003cem\u003ewy\u003c/em\u003e \u003d (. 9\u003cem\u003ex\u003c/em\u003e){.7\u003cem\u003ez\u003c/em\u003e) \u003d.63\u003cem\u003exz\u003c/em\u003e \u003d \u003cem\u003exz\u003c/em\u003e\u0026#x2212;.37\u003cem\u003exz\u003c/em\u003eHence, \u003cstrong\u003ewy\u003c/strong\u003e is 37 percent less than \u003cstrong\u003exz\u003c/strong\u003e. The answer is (C).",
+      "answers": [
+        {
+          "answerId": 17237,
+          "orderNum": 1,
+          "text": " 10\u0026#x0025;\u0026#x00A0;\u0026#x00A0;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17238,
+          "orderNum": 2,
+          "text": " 20\u0026#x0025;\u0026#x00A0;\u0026#x00A0;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17239,
+          "orderNum": 3,
+          "text": " 37\u0026#x0025;\u0026#x00A0;\u0026#x00A0;",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17240,
+          "orderNum": 4,
+          "text": " 40\u0026#x0025;\u0026#x00A0;\u0026#x00A0;",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17241,
+          "orderNum": 5,
+          "text": " 100\u0026#x0025;",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " In the game of chess, the Knight can make any of the moves displayed in the diagram to the right. If a Knight is the only piece on the board, what is the greatest number of spaces from which not all 8 moves are possible?",
+      "orderNum": 6,
+      "questionOrderNum": 6,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3111,
+      "count": 5,
+      "solution": " In the game of chess, the Knight can make any of the moves displayed in the diagram to the right. If a Knight is the only piece on the board, what is the greatest number of spaces from which not all 8 moves are possible?(A) 8(B) 24(C) 38(D) 48(E) 56\u003cimg src\u003d\"9781889057705_181-1.png\" alt\u003d\"\"/\u003eSince we are looking for the greatest number of spaces from which not all 8 moves are possible, we can eliminate the greatest number, 5 Now, clearly not all 8 moves are possible from the outer squares, and there are 28 outer squares\u0026#x2014;not 32. Also, not all 8 moves are possible from the next to outer squares, and there are 20 of them\u0026#x2014;not 24. All 8 moves are possible from the remaining squares. Hence, the answer is 28 \u0026#x002B; 20 \u003d 48. Notice that 56, (32 \u0026#x002B; 24), is given as an answer-choice to catch those who don\u0026#x2019;t add carefully. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 17242,
+          "orderNum": 1,
+          "text": " 8",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17243,
+          "orderNum": 2,
+          "text": " 24",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17244,
+          "orderNum": 3,
+          "text": " 38",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17245,
+          "orderNum": 4,
+          "text": " 48",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17246,
+          "orderNum": 5,
+          "text": " 56",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " How many different ways can 3 cubes be painted if each cube is painted one color and only the 3 colors red, blue, and green are available? (Order is not considered, for example, green, green, blue is considered the same as green, blue, green.)",
+      "orderNum": 7,
+      "questionOrderNum": 7,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3112,
+      "count": 5,
+      "solution": " How many different ways can 3 cubes be painted if each cube is painted one color and only the 3 colors red, blue, and green are available? (Order is not considered, for example, green, green, blue is considered the same as green, blue, green.)(A) 2(B) 3(C) 9(D) 10(E) 27Clearly, there are more than 3 color combinations possible. This eliminates (A) and (B). We can also eliminate (C) and (E) because they are both multiples of 3, and that would be too ordinary, too easy, to be the answer. \u003cbr\u003eLet\u0026#x2019;s also solve this problem directly, The following list displays all 27 color combinations possible (without restriction):\u003cbr\u003e\u003cimg src\u003d\"9781889057705_181-2.png\" alt\u003d\"\"/\u003e Hence, by process of elimination, the answer is (D).",
+      "answers": [
+        {
+          "answerId": 17247,
+          "orderNum": 1,
+          "text": " 2",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17248,
+          "orderNum": 2,
+          "text": " 3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17249,
+          "orderNum": 3,
+          "text": " 9",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17250,
+          "orderNum": 4,
+          "text": " 10",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17251,
+          "orderNum": 5,
+          "text": " 27",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " What is the greatest prime factor of \u003cimg src\u003d\"9781889057705_178-1.png\" alt\u003d\"\"/\u003e",
+      "orderNum": 8,
+      "questionOrderNum": 8,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3113,
+      "count": 5,
+      "solution": " What is the greatest prime factor of \u003cimg src\u003d\"9781889057705_178-1.png\" alt\u003d\"\"/\u003e(A) 3(B) 5(C) 11(D) 17(E) 19\u003cimg src\u003d\"9781889057705_182-2a.png\" alt\u003d\"\"/\u003e Since the question asks for the greatest prime factor, we eliminate 19, the \u003cspan class\u003d\"underline\"\u003egreatest\u003c/span\u003e number. Now, we start with the next largest number and work our way up the list; the first number that divides into 255 evenly will be the answer. Dividing 17 into 255 gives\u003cimg src\u003d\"9781889057705_182-1.png\" alt\u003d\"\"/\u003eHence, 17 is the largest prime factor of \u003cimg src\u003d\"9781889057705_178-1.png\" alt\u003d\"\"/\u003e. The answer is (D).",
+      "answers": [
+        {
+          "answerId": 17252,
+          "orderNum": 1,
+          "text": " 3",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17253,
+          "orderNum": 2,
+          "text": " 5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17254,
+          "orderNum": 3,
+          "text": " 11",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17255,
+          "orderNum": 4,
+          "text": " 17",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17256,
+          "orderNum": 5,
+          "text": " 19",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " Suppose five circles, each 4 inches in diameter, are cut from a rectangular strip of paper 12 inches long. If the least amount of paper is to be wasted, what is the width of the paper strip?",
+      "orderNum": 9,
+      "questionOrderNum": 9,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3114,
+      "count": 5,
+      "solution": " Suppose five circles, each 4 inches in diameter, are cut from a rectangular strip of paper 12 inches long. If the least amount of paper is to be wasted, what is the width of the paper strip?(A) 5(B) 4 + 2\u003cimg src\u003d\"9781889057705_root_3.png\" alt\u003d\"\"/\u003e(C) 8(D) 4(1 + \u003cimg src\u003d\"9781889057705_root_3.png\" alt\u003d\"\"/\u003e)(E) not enough informationSince this is a hard problem, we can eliminate (E), \u0026#x201C;not enough information.\u0026#x201D; And because it is too easily derived, we can eliminate (C), (8 \u003d 4 \u0026#x002B; 4). Further, we can eliminate (A), 5, because answer-choices (B) and (D) form a more complicated set. At this stage we cannot apply any more elimination rules; so if we could not solve the problem, we would guess either (B) or (D).\u003cbr/\u003e\u003cbr\u003eLet\u0026#x2019;s solve the problem directly. The drawing below shows the position of the circles so that the paper width is a minimum.\u003cimg src\u003d\"9781889057705_182-2.png\" alt\u003d\"\"/\u003eNow, take three of the circles in isolation, and connect the centers of these circles to form a triangle:\u003cimg src\u003d\"9781889057705_182-3.png\" alt\u003d\"\"/\u003eSince the triangle connects the centers of circles of diameter 4, the triangle is equilateral with sides of length 4.\u003cimg src\u003d\"9781889057705_183-1.png\" alt\u003d\"\"/\u003eDrawing an altitude gives\u003cimg src\u003d\"9781889057705_183-2.png\" alt\u003d\"\"/\u003e\u003cimg src\u003d\"9781889057705_183-3.png\" alt\u003d\"\"/\u003e\u003cimg src\u003d\"9781889057705_183-5.png\" alt\u003d\"\"/\u003eAdding to the height, \u003cimg src\u003d\"9781889057705_183-4.png\" alt\u003d\"\"/\u003e, the distance above the triangle and the distance below the triangle to the edges of the paper strip gives\u003cimg src\u003d\"9781889057705_183-6.png\" alt\u003d\"\"/\u003eThe answer is (B).",
+      "answers": [
+        {
+          "answerId": 17257,
+          "orderNum": 1,
+          "text": " 5",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17258,
+          "orderNum": 2,
+          "text": " 4 + 2 \u003cimg src\u003d\"9781889057705_root_3.png\" alt\u003d\"/\u003e",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17259,
+          "orderNum": 3,
+          "text": " 8",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17260,
+          "orderNum": 4,
+          "text": " 4(1 + \u003cimg src\u003d\"9781889057705_root_3.png\" alt\u003d\"/\u003e)",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17261,
+          "orderNum": 5,
+          "text": " not enough information",
+          "result": "Wrong"
+        }
+      ]
+    },
+    {
+      "text": " Let \u003cem\u003eC\u003c/em\u003e and \u003cem\u003eK\u003c/em\u003e be constants. If \u003cem\u003ex\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; Kx \u0026#x002B;\u003c/em\u003e 5 factors into (\u003cem\u003ex\u003c/em\u003e \u0026#x002B; l)(\u003cem\u003ex\u003c/em\u003e \u0026#x002B; C), the value of \u003cem\u003eK\u003c/em\u003e is",
+      "orderNum": 10,
+      "questionOrderNum": 10,
+      "questionType": {
+        "type": "Select"
+      },
+      "questionId": 3115,
+      "count": 5,
+      "solution": "Let \u003cem\u003eC\u003c/em\u003e and \u003cem\u003eK\u003c/em\u003e be constants. If \u003cem\u003ex\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e\u003c/em\u003e \u0026#x002B; \u003cem\u003eKx\u003c/em\u003e \u0026#x002B; 5 factors into (\u003cem\u003ex\u003c/em\u003e \u0026#x002B; l)(\u003cem\u003ex\u003c/em\u003e \u0026#x002B; C), the value of \u003cem\u003eK\u003c/em\u003e is\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003e(A) 0\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003e(B) 5\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003e(C) 6\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003e(D) 8\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003e(E) not enough information\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eSince the number 5 is merely repeated from the problem, we eliminate (B). Further, since this is a hard problem, we eliminate (E), \u0026#x201C;not enough information.\u0026#x201D;\u003cbr/\u003e\u003c/p\u003e\n\u003cp class\u003d\"paran\"\u003eNow, since 5 is prime, its only factors are 1 and 5. So the constant C in the expression (\u003cem\u003ex\u003c/em\u003e \u0026#x002B; l)(\u003cem\u003ex\u003c/em\u003e \u0026#x002B; C) must be 5:\u003c/p\u003e(\u003cem\u003ex\u003c/em\u003e \u0026#x002B; l)(\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 5)\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eMultiplying out this expression yields\u003c/p\u003e(\u003cem\u003ex\u003c/em\u003e \u0026#x002B; l)(\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 5) \u003d \u003cem\u003ex\u003c/em\u003e\u003csup class\u003d\"frac\"\u003e2\u003c/sup\u003e \u0026#x002B; 5\u003cem\u003ex\u003c/em\u003e \u0026#x002B; \u003cem\u003ex\u003c/em\u003e \u0026#x002B; 5\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eCombining like terms yields\u003c/p\u003e(\u003cem\u003ex\u003c/em\u003e \u0026#x002B; l)(\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 5)\u003d \u003cem\u003ex\u003c/em\u003e \u0026#x002B; 6\u003cem\u003ex\u003c/em\u003e \u0026#x002B; 5\u003c/p\u003e\n\u003cp class\u003d\"para1\"\u003eHence, \u003cem\u003eK\u003c/em\u003e \u003d 6, and the answer is (C).",
+      "answers": [
+        {
+          "answerId": 17262,
+          "orderNum": 1,
+          "text": " 0",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17263,
+          "orderNum": 2,
+          "text": " 5 ",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 17264,
+          "orderNum": 3,
+          "text": " 6",
+          "result": "Correct"
+        },
+        {
+          "answerId": 17265,
+          "orderNum": 4,
+          "text": " 8",
+          "result": "Wrong"
+        },
+        {
+          "answerId": 29300,
+          "orderNum": 5,
+          "text": "Not enough information",
+          "result": "INCORRECT"
+        }
+      ]
+    }
+  ],
+  "applications": []
+}
